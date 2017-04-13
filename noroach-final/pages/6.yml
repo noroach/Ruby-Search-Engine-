@@ -1,0 +1,4130 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors:
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      ID mp-tfa-img already defined
+    domain: 23
+    code: 513
+    level: 2
+    file: "/tmp/open-uri20151213-145803-19ugua1"
+    line: 195
+    str1: mp-tfa-img
+    str2: mp-tfa-img
+    str3: 
+    int1: 0
+    column: 73
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      ID mp-tfa-footer already defined
+    domain: 23
+    code: 513
+    level: 2
+    file: "/tmp/open-uri20151213-145803-19ugua1"
+    line: 208
+    str1: mp-tfa-footer
+    str2: mp-tfa-footer
+    str3: 
+    int1: 0
+    column: 73
+address: https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article
+inboundLinks: []
+lines:
+- |2+
+
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- |2+
+
+- |2+
+
+- "\t\t\tWikipedia:Today's featured article\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tFrom Wikipedia, the free encyclopedia\n"
+- "\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\tJump to:\t\t\t\t\tnavigation, \t\t\t\t\tsearch\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\n"
+- |
+  Today's featured article
+- |2+
+
+- |
+  The Main Page includes a section where an adapted lead section from one of Wikipedia's featured articles is displayed as "Today's featured article" (TFA). The current month's queue can be found here. TFAs are scheduled by the TFA coordinators, Brianboulton (Brian), Crisco 1492 (Chris) and Dank (Dan). Community discussion of suggestions takes place at the TFA requests page.
+- |
+  If you notice an error in a future TFA blurb, you can usually fix it yourself, but if the mistake is in today or tomorrow's blurb, you will need to leave a message at WP:ERRORS to ask an administrator to fix it. The blurbs are formatted as a single paragraph as close as possible to 1,200 characters (including spaces) in length, with no reference tags, alternate names, or extraneous bolding. Only the link to the specified featured article is bolded, and this must be the first link in the blurb. For biographical articles, birth/death dates are trimmed down to year only. The blurb should be preceded by an appropriate lead image when available; fair use images are not allowed.
+- |
+  The editnotice template for Today's Featured Article is {{TFA-editnotice}}. It is automatically applied by {{Editnotices/Namespace/Main}} when the article's title matches the contents of {{TFA title}}. To contact the TFA coordinators, please leave a message on the TFA talk page, or use the {{@TFA}} notification template elsewhere.
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Shortcuts:
+- |
+  WP:TFA
+- |
+  WP:TOFA
+- |2+
+
+- |2+
+
+- |
+  v
+- |
+  t
+- |
+  e
+- |2+
+
+- |
+  Featured content:
+- |
+  Featured articles ←
+- |
+  Featured lists
+- |
+  Featured pictures
+- |
+  Featured sounds
+- |
+  Featured portals
+- |
+  Featured topics
+- |
+  Today's featured article (TFA):
+- |
+  This month's queue
+- |
+  Recent TFAs and statistics
+- |
+  Current TFA requests
+- |
+  Potential TFA requests
+- |
+  TFA oddities
+- |
+  Most viewed TFAs
+- |
+  Featured articles yet to appear as TFA
+- |
+  Featured article tools:
+- |
+  Featured article criteria
+- |
+  Featured article candidates
+- |
+  Featured article review
+- |
+  Featured article log
+- |
+  Featured article statistics
+- |
+  Random featured article
+- |
+  Former featured articles
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Today's featured article archive
+- |
+  2004
+- |
+  2005
+- |
+  2006
+- |
+  2007
+- |
+  2008
+- |
+  2009
+- |
+  2010
+- |
+  2011
+- |
+  2012
+- |
+  2013
+- |
+  2014
+- |
+  2015
+- |
+  January
+- |
+  February
+- |
+  March
+- |
+  April
+- |
+  May
+- |
+  June
+- |
+  July
+- |
+  August
+- |
+  September
+- |
+  October
+- |
+  November
+- |
+  December
+- |2+
+
+- |
+  Purge cache for this page · Purge the main page cache
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Today's featured article
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Hendrix in 1968
+- |2+
+
+- |2+
+
+- |
+  American rock musician Jimi Hendrix was charged with drug possession in Canada in May 1969. Customs agents at Toronto International Airport detained Hendrix (pictured) after finding a small amount of heroin and hashish in his luggage. Released on $10,000 bail, he performed at Maple Leaf Gardens later that night, joking with the crowd. In December he stood trial for two counts of illegal possession of narcotics, carrying a maximum sentence of 20 years in prison. Judge Joseph Kelly presided. Defense attorney John O'Driscoll raised doubts about whether the narcotics belonged to Hendrix, who had no drug paraphernalia in his luggage or needle tracks on his arms, and whether he even knew they were in his luggage. He was acquitted after a three-day trial. Both of Hendrix's bandmates in the Jimi Hendrix Experience, Mitch Mitchell and Noel Redding, later said that they had been warned about a planned drug bust the day before flying to Toronto and that they believed the drugs had been planted in his bag. Hendrix was the world's highest-paid performer when he was arrested, but this was his last tour, and he died the following year. (Full article...)
+- |
+  Recently featured:
+- |2+
+
+- |
+  Far Eastern Party
+- |
+  Pallid sturgeon
+- |
+  Nicky Barr
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Archive
+- |
+  By email
+- |
+  More featured articles...
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Tomorrow's featured article
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  The Toledo War (1835–36) was a nearly bloodless sovereignty dispute between the US state of Ohio and the Michigan Territory over a small strip of land along their border, fueled by conflicting legislation, a desire to control the then-prosperous city of Toledo, and poor maps (example pictured). After Ohio politicians blocked Michigan's bid to become a state, both sides raised militias to enforce their claims.The only casualty was a wounded sheriff, stabbed with a penknife, and in the only clash, Michigan militiamen fired shots in the air and captured Ohioan surveyors. After President Andrew Jackson intervened to keep Ohio's support for his fledgling Democratic Party, Michigan agreed at what is now called the Frostbitten Convention to a compromise. The strip was sacrificed in exchange for statehood and the undeveloped Upper Peninsula, which would later produce an economic windfall in timber, iron, and copper. Vestiges of the dispute persisted for 137 years and were ended only with the help of the US Supreme Court in 1973. Memories of the Toledo War helped ignite the Michigan–Ohio State football rivalry. (Full article...)
+- |
+  Recently featured:
+- |2+
+
+- |
+  Canadian drug charges and trial of Jimi Hendrix
+- |
+  Far Eastern Party
+- |
+  Pallid sturgeon
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Archive
+- |
+  By email
+- |
+  More featured articles...
+- |2+
+
+- |2+
+
+- |2+
+
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\tRetrieved from \"https://en.wikipedia.org/w/index.php?title=Wikipedia:Today%27s_featured_article&oldid=667540465\"\t\t\t\t\t\n"
+- "\t\t\t\tCategories: Wikipedia Today's featured articleHidden categories: Semi-protected
+  project pagesWikipedia move-protected project pages\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\tNavigation menu\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tPersonal tools\n"
+- "\t\t\t\t\t\tNot logged inTalkContributionsCreate accountLog in\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tNamespaces\n"
+- "\t\t\t\t\t\tProject page\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTalk\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tVariants\n"
+- "\t\t\t\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tViews\n"
+- "\t\t\t\t\t\tRead\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView source\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView history\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tMore\n"
+- |2+
+
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tSearch\n"
+- "\t\t\t\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\tNavigation\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tMain pageContentsFeatured contentCurrent eventsRandom articleDonate
+  to WikipediaWikipedia store\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tInteraction\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tHelpAbout WikipediaCommunity portalRecent changesContact page\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tTools\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tWhat links hereRelated changesUpload fileSpecial pagesPermanent
+  linkPage informationWikidata item\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tPrint/export\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tCreate a bookDownload as PDFPrintable version\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tLanguages\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tAlemannischالعربيةAzərbaycancaБашҡортсаЧӑвашлаDanskDeutschΕλληνικάEsperantoفارسیFrançaisFryskGaeilge한국어ՀայերենBahasa
+  IndonesiaKurdîМакедонскиमराठीNederlands日本語ਪੰਜਾਬੀភាសាខ្មែរPortuguêsRomânăРусскийSámegiellaසිංහලSlovenščinaSoomaaligaکوردیی
+  ناوەندیSvenskaไทยTürkçeУкраїнська粵語中文\t\t\t\t\tEdit links\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\t\t\t\t\t This page was last modified on 18 June 2015, at 20:23.\n"
+- "\t\t\t\t\t\t\t\t\t\t\tText is available under the Creative Commons Attribution-ShareAlike
+  License;\n"
+- |
+  additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+- "\t\t\t\t\t\t\t\t\tPrivacy policy\n"
+- "\t\t\t\t\t\t\t\t\t\t\tAbout Wikipedia\n"
+- "\t\t\t\t\t\t\t\t\t\t\tDisclaimers\n"
+- "\t\t\t\t\t\t\t\t\t\t\tContact Wikipedia\n"
+- "\t\t\t\t\t\t\t\t\t\t\tDevelopers\n"
+- "\t\t\t\t\t\t\t\t\t\t\tMobile view\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\twindow.RLQ = window.RLQ || []; window.RLQ.push( function () {\n"
+- |
+  mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+- |
+  } );window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+- |
+  mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1096"}); /* @nomin */
+- '} );Today''s featured articleThe Main Page includes a section where an adapted
+  lead section from one of Wikipedia''s featured articles is displayed as "Today''s
+  featured article" (TFA). The current month''s queue can be found here. TFAs are
+  scheduled by the TFA coordinators, Brianboulton (Brian), Crisco 1492 (Chris) and
+  Dank (Dan). Community discussion of suggestions takes place at the TFA requests
+  page.If you notice an error in a future TFA blurb, you can usually fix it yourself,
+  but if the mistake is in today or tomorrow''s blurb, you will need to leave a message
+  at WP:ERRORS to ask an administrator to fix it. The blurbs are formatted as a single
+  paragraph as close as possible to 1,200 characters (including spaces) in length,
+  with no reference tags, alternate names, or extraneous bolding. Only the link to
+  the specified featured article is bolded, and this must be the first link in the
+  blurb. For biographical articles, birth/death dates are trimmed down to year only.
+  The blurb should be preceded by an appropriate lead image when available; fair use
+  images are not allowed.The editnotice template for Today''s Featured Article is
+  {{TFA-editnotice}}. It is automatically applied by {{Editnotices/Namespace/Main}}
+  when the article''s title matches the contents of {{TFA title}}. To contact the
+  TFA coordinators, please leave a message on the TFA talk page, or use the {{@TFA}}
+  notification template elsewhere.Featured content:Today''s featured article (TFA):Featured
+  article tools:Today''s featured article archiveAmerican rock musician Jimi Hendrix
+  was charged with drug possession in Canada in May 1969. Customs agents at Toronto
+  International Airport detained Hendrix (pictured) after finding a small amount of
+  heroin and hashish in his luggage. Released on $10,000 bail, he performed at Maple
+  Leaf Gardens later that night, joking with the crowd. In December he stood trial
+  for two counts of illegal possession of narcotics, carrying a maximum sentence of
+  20 years in prison. Judge Joseph Kelly presided. Defense attorney John O''Driscoll
+  raised doubts about whether the narcotics belonged to Hendrix, who had no drug paraphernalia
+  in his luggage or needle tracks on his arms, and whether he even knew they were
+  in his luggage. He was acquitted after a three-day trial. Both of Hendrix''s bandmates
+  in the Jimi Hendrix Experience, Mitch Mitchell and Noel Redding, later said that
+  they had been warned about a planned drug bust the day before flying to Toronto
+  and that they believed the drugs had been planted in his bag. Hendrix was the world''s
+  highest-paid performer when he was arrested, but this was his last tour, and he
+  died the following year. (Full article...)The Toledo War (1835–36) was a nearly
+  bloodless sovereignty dispute between the US state of Ohio and the Michigan Territory
+  over a small strip of land along their border, fueled by conflicting legislation,
+  a desire to control the then-prosperous city of Toledo, and poor maps (example pictured).
+  After Ohio politicians blocked Michigan''s bid to become a state, both sides raised
+  militias to enforce their claims.The only casualty was a wounded sheriff, stabbed
+  with a penknife, and in the only clash, Michigan militiamen fired shots in the air
+  and captured Ohioan surveyors. After President Andrew Jackson intervened to keep
+  Ohio''s support for his fledgling Democratic Party, Michigan agreed at what is now
+  called the Frostbitten Convention to a compromise. The strip was sacrificed in exchange
+  for statehood and the undeveloped Upper Peninsula, which would later produce an
+  economic windfall in timber, iron, and copper. Vestiges of the dispute persisted
+  for 137 years and were ended only with the help of the US Supreme Court in 1973.
+  Memories of the Toledo War helped ignite the Michigan–Ohio State football rivalry.
+  (Full article...)'
+index:
+  wikipedia: !ruby/object:Word
+    word: wikipedia
+    stem: wikipedia
+    docFrequency: 11.0
+    docPositions:
+    - 10
+    - 12
+    - 20
+    - 137
+    - 138
+    - 225
+    - 227
+    - 229
+    - 242
+  today: !ruby/object:Word
+    word: today
+    stem: todai
+    docFrequency: 17.0
+    docPositions:
+    - 10
+    - 18
+    - 20
+    - 21
+    - 22
+    - 42
+    - 62
+    - 92
+    - 137
+    - 138
+    - 242
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 33.0
+    docPositions:
+    - 10
+    - 18
+    - 20
+    - 21
+    - 22
+    - 42
+    - 43
+    - 62
+    - 92
+    - 100
+    - 117
+    - 121
+    - 138
+    - 218
+    - 242
+  featured: !ruby/object:Word
+    word: featured
+    stem: featur
+    docFrequency: 42.0
+    docPositions:
+    - 10
+    - 18
+    - 20
+    - 21
+    - 22
+    - 35
+    - 36
+    - 37
+    - 38
+    - 39
+    - 40
+    - 41
+    - 42
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
+    - 54
+    - 55
+    - 56
+    - 57
+    - 62
+    - 92
+    - 101
+    - 111
+    - 117
+    - 122
+    - 132
+    - 138
+    - 239
+    - 242
+  article: !ruby/object:Word
+    word: article
+    stem: articl
+    docFrequency: 29.0
+    docPositions:
+    - 10
+    - 18
+    - 20
+    - 21
+    - 22
+    - 42
+    - 50
+    - 51
+    - 52
+    - 53
+    - 54
+    - 55
+    - 56
+    - 62
+    - 92
+    - 100
+    - 117
+    - 121
+    - 242
+  free: !ruby/object:Word
+    word: free
+    stem: free
+    docFrequency: 2.0
+    docPositions:
+    - 12
+  encyclopedia: !ruby/object:Word
+    word: encyclopedia
+    stem: encyclopedia
+    docFrequency: 2.0
+    docPositions:
+    - 12
+  jump: !ruby/object:Word
+    word: jump
+    stem: jump
+    docFrequency: 2.0
+    docPositions:
+    - 15
+  navigation: !ruby/object:Word
+    word: navigation
+    stem: navig
+    docFrequency: 4.0
+    docPositions:
+    - 15
+    - 142
+    - 191
+  search: !ruby/object:Word
+    word: search
+    stem: search
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 178
+  main: !ruby/object:Word
+    word: main
+    stem: main
+    docFrequency: 7.0
+    docPositions:
+    - 20
+    - 22
+    - 88
+    - 194
+    - 242
+  page: !ruby/object:Word
+    word: page
+    stem: page
+    docFrequency: 13.0
+    docPositions:
+    - 20
+    - 22
+    - 88
+    - 151
+    - 200
+    - 223
+    - 239
+    - 242
+  includes: !ruby/object:Word
+    word: includes
+    stem: includ
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  section: !ruby/object:Word
+    word: section
+    stem: section
+    docFrequency: 5.0
+    docPositions:
+    - 20
+    - 242
+  adapted: !ruby/object:Word
+    word: adapted
+    stem: adapt
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  lead: !ruby/object:Word
+    word: lead
+    stem: lead
+    docFrequency: 5.0
+    docPositions:
+    - 20
+    - 21
+    - 242
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  articles: !ruby/object:Word
+    word: articles
+    stem: articl
+    docFrequency: 11.0
+    docPositions:
+    - 20
+    - 21
+    - 36
+    - 49
+    - 57
+    - 111
+    - 132
+    - 239
+    - 242
+  displayed: !ruby/object:Word
+    word: displayed
+    stem: displai
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  tfa: !ruby/object:Word
+    word: tfa
+    stem: tfa
+    docFrequency: 26.0
+    docPositions:
+    - 20
+    - 21
+    - 22
+    - 27
+    - 42
+    - 45
+    - 46
+    - 47
+    - 49
+    - 242
+  current: !ruby/object:Word
+    word: current
+    stem: current
+    docFrequency: 4.0
+    docPositions:
+    - 20
+    - 45
+    - 242
+  month: !ruby/object:Word
+    word: month
+    stem: month
+    docFrequency: 4.0
+    docPositions:
+    - 20
+    - 43
+    - 242
+  queue: !ruby/object:Word
+    word: queue
+    stem: queue
+    docFrequency: 4.0
+    docPositions:
+    - 20
+    - 43
+    - 242
+  can: !ruby/object:Word
+    word: can
+    stem: can
+    docFrequency: 5.0
+    docPositions:
+    - 20
+    - 21
+    - 242
+  found: !ruby/object:Word
+    word: found
+    stem: found
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  here: !ruby/object:Word
+    word: here
+    stem: here
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  tfas: !ruby/object:Word
+    word: tfas
+    stem: tfa
+    docFrequency: 5.0
+    docPositions:
+    - 20
+    - 44
+    - 48
+    - 242
+  scheduled: !ruby/object:Word
+    word: scheduled
+    stem: schedul
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  coordinators: !ruby/object:Word
+    word: coordinators
+    stem: coordin
+    docFrequency: 5.0
+    docPositions:
+    - 20
+    - 22
+    - 242
+  brianboulton: !ruby/object:Word
+    word: brianboulton
+    stem: brianboulton
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  brian: !ruby/object:Word
+    word: brian
+    stem: brian
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  crisco: !ruby/object:Word
+    word: crisco
+    stem: crisco
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  chris: !ruby/object:Word
+    word: chris
+    stem: chri
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 32.0
+    docPositions:
+    - 20
+    - 21
+    - 44
+    - 100
+    - 121
+    - 124
+    - 225
+    - 242
+  dank: !ruby/object:Word
+    word: dank
+    stem: dank
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  dan: !ruby/object:Word
+    word: dan
+    stem: dan
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  community: !ruby/object:Word
+    word: community
+    stem: commun
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  discussion: !ruby/object:Word
+    word: discussion
+    stem: discuss
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  suggestions: !ruby/object:Word
+    word: suggestions
+    stem: suggest
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  takes: !ruby/object:Word
+    word: takes
+    stem: take
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  place: !ruby/object:Word
+    word: place
+    stem: place
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 242
+  requests: !ruby/object:Word
+    word: requests
+    stem: request
+    docFrequency: 5.0
+    docPositions:
+    - 20
+    - 45
+    - 46
+    - 242
+  if: !ruby/object:Word
+    word: if
+    stem: if
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 242
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 8.0
+    docPositions:
+    - 21
+    - 225
+    - 242
+  notice: !ruby/object:Word
+    word: notice
+    stem: notic
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  error: !ruby/object:Word
+    word: error
+    stem: error
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  future: !ruby/object:Word
+    word: future
+    stem: futur
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  blurb: !ruby/object:Word
+    word: blurb
+    stem: blurb
+    docFrequency: 9.0
+    docPositions:
+    - 21
+    - 242
+  usually: !ruby/object:Word
+    word: usually
+    stem: usual
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  fix: !ruby/object:Word
+    word: fix
+    stem: fix
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 242
+  yourself: !ruby/object:Word
+    word: yourself
+    stem: yourself
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  but: !ruby/object:Word
+    word: but
+    stem: but
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 100
+    - 242
+  mistake: !ruby/object:Word
+    word: mistake
+    stem: mistak
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  tomorrow: !ruby/object:Word
+    word: tomorrow
+    stem: tomorrow
+    docFrequency: 4.0
+    docPositions:
+    - 21
+    - 117
+    - 242
+  need: !ruby/object:Word
+    word: need
+    stem: need
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  leave: !ruby/object:Word
+    word: leave
+    stem: leav
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 22
+    - 242
+  message: !ruby/object:Word
+    word: message
+    stem: messag
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 22
+    - 242
+  wp: !ruby/object:Word
+    word: wp
+    stem: wp
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 27
+    - 28
+    - 242
+  errors: !ruby/object:Word
+    word: errors
+    stem: error
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  ask: !ruby/object:Word
+    word: ask
+    stem: ask
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  administrator: !ruby/object:Word
+    word: administrator
+    stem: administr
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  blurbs: !ruby/object:Word
+    word: blurbs
+    stem: blurb
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  formatted: !ruby/object:Word
+    word: formatted
+    stem: format
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  single: !ruby/object:Word
+    word: single
+    stem: singl
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  paragraph: !ruby/object:Word
+    word: paragraph
+    stem: paragraph
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  close: !ruby/object:Word
+    word: close
+    stem: close
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  possible: !ruby/object:Word
+    word: possible
+    stem: possibl
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  characters: !ruby/object:Word
+    word: characters
+    stem: charact
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  including: !ruby/object:Word
+    word: including
+    stem: includ
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  spaces: !ruby/object:Word
+    word: spaces
+    stem: space
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  length: !ruby/object:Word
+    word: length
+    stem: length
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  'no': !ruby/object:Word
+    word: 'no'
+    stem: 'no'
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 100
+    - 242
+  reference: !ruby/object:Word
+    word: reference
+    stem: refer
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  tags: !ruby/object:Word
+    word: tags
+    stem: tag
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  alternate: !ruby/object:Word
+    word: alternate
+    stem: altern
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  names: !ruby/object:Word
+    word: names
+    stem: name
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  extraneous: !ruby/object:Word
+    word: extraneous
+    stem: extran
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  bolding: !ruby/object:Word
+    word: bolding
+    stem: bold
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  only: !ruby/object:Word
+    word: only
+    stem: onli
+    docFrequency: 11.0
+    docPositions:
+    - 21
+    - 121
+    - 242
+  link: !ruby/object:Word
+    word: link
+    stem: link
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 242
+  specified: !ruby/object:Word
+    word: specified
+    stem: specifi
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  bolded: !ruby/object:Word
+    word: bolded
+    stem: bold
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  must: !ruby/object:Word
+    word: must
+    stem: must
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  first: !ruby/object:Word
+    word: first
+    stem: first
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  biographical: !ruby/object:Word
+    word: biographical
+    stem: biograph
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  birth: !ruby/object:Word
+    word: birth
+    stem: birth
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  death: !ruby/object:Word
+    word: death
+    stem: death
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  dates: !ruby/object:Word
+    word: dates
+    stem: date
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  trimmed: !ruby/object:Word
+    word: trimmed
+    stem: trim
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  down: !ruby/object:Word
+    word: down
+    stem: down
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  year: !ruby/object:Word
+    word: year
+    stem: year
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 100
+    - 242
+  should: !ruby/object:Word
+    word: should
+    stem: should
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  preceded: !ruby/object:Word
+    word: preceded
+    stem: preced
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  appropriate: !ruby/object:Word
+    word: appropriate
+    stem: appropri
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  image: !ruby/object:Word
+    word: image
+    stem: imag
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  available: !ruby/object:Word
+    word: available
+    stem: avail
+    docFrequency: 4.0
+    docPositions:
+    - 21
+    - 224
+    - 242
+  fair: !ruby/object:Word
+    word: fair
+    stem: fair
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  use: !ruby/object:Word
+    word: use
+    stem: us
+    docFrequency: 6.0
+    docPositions:
+    - 21
+    - 22
+    - 225
+    - 242
+  images: !ruby/object:Word
+    word: images
+    stem: imag
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  not: !ruby/object:Word
+    word: not
+    stem: not
+    docFrequency: 4.0
+    docPositions:
+    - 21
+    - 147
+    - 242
+  allowed: !ruby/object:Word
+    word: allowed
+    stem: allow
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 242
+  editnotice: !ruby/object:Word
+    word: editnotice
+    stem: editnotic
+    docFrequency: 5.0
+    docPositions:
+    - 22
+    - 242
+  template: !ruby/object:Word
+    word: template
+    stem: templat
+    docFrequency: 5.0
+    docPositions:
+    - 22
+    - 242
+  automatically: !ruby/object:Word
+    word: automatically
+    stem: automat
+    docFrequency: 3.0
+    docPositions:
+    - 22
+    - 242
+  applied: !ruby/object:Word
+    word: applied
+    stem: appli
+    docFrequency: 3.0
+    docPositions:
+    - 22
+    - 242
+  editnotices: !ruby/object:Word
+    word: editnotices
+    stem: editnotic
+    docFrequency: 3.0
+    docPositions:
+    - 22
+    - 242
+  namespace: !ruby/object:Word
+    word: namespace
+    stem: namespac
+    docFrequency: 3.0
+    docPositions:
+    - 22
+    - 242
+  title: !ruby/object:Word
+    word: title
+    stem: titl
+    docFrequency: 6.0
+    docPositions:
+    - 22
+    - 137
+    - 242
+  matches: !ruby/object:Word
+    word: matches
+    stem: match
+    docFrequency: 3.0
+    docPositions:
+    - 22
+    - 242
+  contents: !ruby/object:Word
+    word: contents
+    stem: content
+    docFrequency: 3.0
+    docPositions:
+    - 22
+    - 242
+  contact: !ruby/object:Word
+    word: contact
+    stem: contact
+    docFrequency: 4.0
+    docPositions:
+    - 22
+    - 229
+    - 242
+  please: !ruby/object:Word
+    word: please
+    stem: pleas
+    docFrequency: 3.0
+    docPositions:
+    - 22
+    - 242
+  talk: !ruby/object:Word
+    word: talk
+    stem: talk
+    docFrequency: 4.0
+    docPositions:
+    - 22
+    - 152
+    - 242
+  notification: !ruby/object:Word
+    word: notification
+    stem: notif
+    docFrequency: 3.0
+    docPositions:
+    - 22
+    - 242
+  elsewhere: !ruby/object:Word
+    word: elsewhere
+    stem: elsewher
+    docFrequency: 3.0
+    docPositions:
+    - 22
+    - 242
+  shortcuts: !ruby/object:Word
+    word: shortcuts
+    stem: shortcut
+    docFrequency: 2.0
+    docPositions:
+    - 26
+  tofa: !ruby/object:Word
+    word: tofa
+    stem: tofa
+    docFrequency: 2.0
+    docPositions:
+    - 28
+  v: !ruby/object:Word
+    word: v
+    stem: v
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 3.0
+    docPositions:
+    - 32
+    - 218
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 3.0
+    docPositions:
+    - 33
+    - 218
+  content: !ruby/object:Word
+    word: content
+    stem: content
+    docFrequency: 3.0
+    docPositions:
+    - 35
+    - 242
+  lists: !ruby/object:Word
+    word: lists
+    stem: list
+    docFrequency: 2.0
+    docPositions:
+    - 37
+  pictures: !ruby/object:Word
+    word: pictures
+    stem: pictur
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  sounds: !ruby/object:Word
+    word: sounds
+    stem: sound
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  portals: !ruby/object:Word
+    word: portals
+    stem: portal
+    docFrequency: 2.0
+    docPositions:
+    - 40
+  topics: !ruby/object:Word
+    word: topics
+    stem: topic
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  recent: !ruby/object:Word
+    word: recent
+    stem: recent
+    docFrequency: 2.0
+    docPositions:
+    - 44
+  statistics: !ruby/object:Word
+    word: statistics
+    stem: statist
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 55
+  potential: !ruby/object:Word
+    word: potential
+    stem: potenti
+    docFrequency: 2.0
+    docPositions:
+    - 46
+  oddities: !ruby/object:Word
+    word: oddities
+    stem: odditi
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  most: !ruby/object:Word
+    word: most
+    stem: most
+    docFrequency: 2.0
+    docPositions:
+    - 48
+  viewed: !ruby/object:Word
+    word: viewed
+    stem: view
+    docFrequency: 2.0
+    docPositions:
+    - 48
+  yet: !ruby/object:Word
+    word: yet
+    stem: yet
+    docFrequency: 2.0
+    docPositions:
+    - 49
+  appear: !ruby/object:Word
+    word: appear
+    stem: appear
+    docFrequency: 2.0
+    docPositions:
+    - 49
+  tools: !ruby/object:Word
+    word: tools
+    stem: tool
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 146
+    - 203
+    - 242
+  criteria: !ruby/object:Word
+    word: criteria
+    stem: criteria
+    docFrequency: 2.0
+    docPositions:
+    - 51
+  candidates: !ruby/object:Word
+    word: candidates
+    stem: candid
+    docFrequency: 2.0
+    docPositions:
+    - 52
+  review: !ruby/object:Word
+    word: review
+    stem: review
+    docFrequency: 2.0
+    docPositions:
+    - 53
+  log: !ruby/object:Word
+    word: log
+    stem: log
+    docFrequency: 2.0
+    docPositions:
+    - 54
+  random: !ruby/object:Word
+    word: random
+    stem: random
+    docFrequency: 2.0
+    docPositions:
+    - 56
+  former: !ruby/object:Word
+    word: former
+    stem: former
+    docFrequency: 2.0
+    docPositions:
+    - 57
+  archive: !ruby/object:Word
+    word: archive
+    stem: archiv
+    docFrequency: 4.0
+    docPositions:
+    - 62
+    - 109
+    - 130
+  january: !ruby/object:Word
+    word: january
+    stem: januari
+    docFrequency: 2.0
+    docPositions:
+    - 75
+  february: !ruby/object:Word
+    word: february
+    stem: februari
+    docFrequency: 2.0
+    docPositions:
+    - 76
+  march: !ruby/object:Word
+    word: march
+    stem: march
+    docFrequency: 2.0
+    docPositions:
+    - 77
+  april: !ruby/object:Word
+    word: april
+    stem: april
+    docFrequency: 2.0
+    docPositions:
+    - 78
+  may: !ruby/object:Word
+    word: may
+    stem: mai
+    docFrequency: 5.0
+    docPositions:
+    - 79
+    - 100
+    - 225
+    - 242
+  june: !ruby/object:Word
+    word: june
+    stem: june
+    docFrequency: 3.0
+    docPositions:
+    - 80
+    - 223
+  july: !ruby/object:Word
+    word: july
+    stem: juli
+    docFrequency: 2.0
+    docPositions:
+    - 81
+  august: !ruby/object:Word
+    word: august
+    stem: august
+    docFrequency: 2.0
+    docPositions:
+    - 82
+  september: !ruby/object:Word
+    word: september
+    stem: septemb
+    docFrequency: 2.0
+    docPositions:
+    - 83
+  october: !ruby/object:Word
+    word: october
+    stem: octob
+    docFrequency: 2.0
+    docPositions:
+    - 84
+  november: !ruby/object:Word
+    word: november
+    stem: novemb
+    docFrequency: 2.0
+    docPositions:
+    - 85
+  december: !ruby/object:Word
+    word: december
+    stem: decemb
+    docFrequency: 4.0
+    docPositions:
+    - 86
+    - 100
+    - 242
+  purge: !ruby/object:Word
+    word: purge
+    stem: purg
+    docFrequency: 3.0
+    docPositions:
+    - 88
+  cache: !ruby/object:Word
+    word: cache
+    stem: cach
+    docFrequency: 3.0
+    docPositions:
+    - 88
+  hendrix: !ruby/object:Word
+    word: hendrix
+    stem: hendrix
+    docFrequency: 15.0
+    docPositions:
+    - 97
+    - 100
+    - 124
+    - 242
+  american: !ruby/object:Word
+    word: american
+    stem: american
+    docFrequency: 2.0
+    docPositions:
+    - 100
+  rock: !ruby/object:Word
+    word: rock
+    stem: rock
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  musician: !ruby/object:Word
+    word: musician
+    stem: musician
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  jimi: !ruby/object:Word
+    word: jimi
+    stem: jimi
+    docFrequency: 6.0
+    docPositions:
+    - 100
+    - 124
+    - 242
+  charged: !ruby/object:Word
+    word: charged
+    stem: charg
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  drug: !ruby/object:Word
+    word: drug
+    stem: drug
+    docFrequency: 8.0
+    docPositions:
+    - 100
+    - 124
+    - 242
+  possession: !ruby/object:Word
+    word: possession
+    stem: possess
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 242
+  canada: !ruby/object:Word
+    word: canada
+    stem: canada
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  customs: !ruby/object:Word
+    word: customs
+    stem: custom
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  agents: !ruby/object:Word
+    word: agents
+    stem: agent
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  toronto: !ruby/object:Word
+    word: toronto
+    stem: toronto
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 242
+  international: !ruby/object:Word
+    word: international
+    stem: intern
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  airport: !ruby/object:Word
+    word: airport
+    stem: airport
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  detained: !ruby/object:Word
+    word: detained
+    stem: detain
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  pictured: !ruby/object:Word
+    word: pictured
+    stem: pictur
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  after: !ruby/object:Word
+    word: after
+    stem: after
+    docFrequency: 9.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  finding: !ruby/object:Word
+    word: finding
+    stem: find
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  small: !ruby/object:Word
+    word: small
+    stem: small
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  amount: !ruby/object:Word
+    word: amount
+    stem: amount
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  heroin: !ruby/object:Word
+    word: heroin
+    stem: heroin
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  hashish: !ruby/object:Word
+    word: hashish
+    stem: hashish
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  his: !ruby/object:Word
+    word: his
+    stem: hi
+    docFrequency: 15.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  luggage: !ruby/object:Word
+    word: luggage
+    stem: luggag
+    docFrequency: 7.0
+    docPositions:
+    - 100
+    - 242
+  released: !ruby/object:Word
+    word: released
+    stem: releas
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  bail: !ruby/object:Word
+    word: bail
+    stem: bail
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  he: !ruby/object:Word
+    word: he
+    stem: he
+    docFrequency: 13.0
+    docPositions:
+    - 100
+    - 242
+  performed: !ruby/object:Word
+    word: performed
+    stem: perform
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  maple: !ruby/object:Word
+    word: maple
+    stem: mapl
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  leaf: !ruby/object:Word
+    word: leaf
+    stem: leaf
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  gardens: !ruby/object:Word
+    word: gardens
+    stem: garden
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  later: !ruby/object:Word
+    word: later
+    stem: later
+    docFrequency: 7.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  night: !ruby/object:Word
+    word: night
+    stem: night
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  joking: !ruby/object:Word
+    word: joking
+    stem: joke
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  crowd: !ruby/object:Word
+    word: crowd
+    stem: crowd
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  stood: !ruby/object:Word
+    word: stood
+    stem: stood
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  trial: !ruby/object:Word
+    word: trial
+    stem: trial
+    docFrequency: 6.0
+    docPositions:
+    - 100
+    - 124
+    - 242
+  two: !ruby/object:Word
+    word: two
+    stem: two
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  counts: !ruby/object:Word
+    word: counts
+    stem: count
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  illegal: !ruby/object:Word
+    word: illegal
+    stem: illeg
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  narcotics: !ruby/object:Word
+    word: narcotics
+    stem: narcot
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 242
+  carrying: !ruby/object:Word
+    word: carrying
+    stem: carri
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  maximum: !ruby/object:Word
+    word: maximum
+    stem: maximum
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  sentence: !ruby/object:Word
+    word: sentence
+    stem: sentenc
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  years: !ruby/object:Word
+    word: years
+    stem: year
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  prison: !ruby/object:Word
+    word: prison
+    stem: prison
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  judge: !ruby/object:Word
+    word: judge
+    stem: judg
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  joseph: !ruby/object:Word
+    word: joseph
+    stem: joseph
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  kelly: !ruby/object:Word
+    word: kelly
+    stem: kelli
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  presided: !ruby/object:Word
+    word: presided
+    stem: presid
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  defense: !ruby/object:Word
+    word: defense
+    stem: defens
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  attorney: !ruby/object:Word
+    word: attorney
+    stem: attornei
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  john: !ruby/object:Word
+    word: john
+    stem: john
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  o: !ruby/object:Word
+    word: o
+    stem: o
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  driscoll: !ruby/object:Word
+    word: driscoll
+    stem: driscol
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  raised: !ruby/object:Word
+    word: raised
+    stem: rais
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  doubts: !ruby/object:Word
+    word: doubts
+    stem: doubt
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  whether: !ruby/object:Word
+    word: whether
+    stem: whether
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 242
+  belonged: !ruby/object:Word
+    word: belonged
+    stem: belong
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  had: !ruby/object:Word
+    word: had
+    stem: had
+    docFrequency: 7.0
+    docPositions:
+    - 100
+    - 242
+  paraphernalia: !ruby/object:Word
+    word: paraphernalia
+    stem: paraphernalia
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  needle: !ruby/object:Word
+    word: needle
+    stem: needl
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  tracks: !ruby/object:Word
+    word: tracks
+    stem: track
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  arms: !ruby/object:Word
+    word: arms
+    stem: arm
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  even: !ruby/object:Word
+    word: even
+    stem: even
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  knew: !ruby/object:Word
+    word: knew
+    stem: knew
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  they: !ruby/object:Word
+    word: they
+    stem: thei
+    docFrequency: 7.0
+    docPositions:
+    - 100
+    - 242
+  were: !ruby/object:Word
+    word: were
+    stem: were
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  acquitted: !ruby/object:Word
+    word: acquitted
+    stem: acquit
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  three: !ruby/object:Word
+    word: three
+    stem: three
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  day: !ruby/object:Word
+    word: day
+    stem: dai
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 242
+  both: !ruby/object:Word
+    word: both
+    stem: both
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  bandmates: !ruby/object:Word
+    word: bandmates
+    stem: bandmat
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  experience: !ruby/object:Word
+    word: experience
+    stem: experi
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  mitch: !ruby/object:Word
+    word: mitch
+    stem: mitch
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  mitchell: !ruby/object:Word
+    word: mitchell
+    stem: mitchel
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  noel: !ruby/object:Word
+    word: noel
+    stem: noel
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  redding: !ruby/object:Word
+    word: redding
+    stem: red
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  said: !ruby/object:Word
+    word: said
+    stem: said
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  been: !ruby/object:Word
+    word: been
+    stem: been
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 242
+  warned: !ruby/object:Word
+    word: warned
+    stem: warn
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  planned: !ruby/object:Word
+    word: planned
+    stem: plan
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  bust: !ruby/object:Word
+    word: bust
+    stem: bust
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  before: !ruby/object:Word
+    word: before
+    stem: befor
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  flying: !ruby/object:Word
+    word: flying
+    stem: fly
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  believed: !ruby/object:Word
+    word: believed
+    stem: believ
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  drugs: !ruby/object:Word
+    word: drugs
+    stem: drug
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  planted: !ruby/object:Word
+    word: planted
+    stem: plant
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  bag: !ruby/object:Word
+    word: bag
+    stem: bag
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  world: !ruby/object:Word
+    word: world
+    stem: world
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  highest: !ruby/object:Word
+    word: highest
+    stem: highest
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  paid: !ruby/object:Word
+    word: paid
+    stem: paid
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  performer: !ruby/object:Word
+    word: performer
+    stem: perform
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  arrested: !ruby/object:Word
+    word: arrested
+    stem: arrest
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  last: !ruby/object:Word
+    word: last
+    stem: last
+    docFrequency: 4.0
+    docPositions:
+    - 100
+    - 223
+    - 242
+  tour: !ruby/object:Word
+    word: tour
+    stem: tour
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  died: !ruby/object:Word
+    word: died
+    stem: di
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  following: !ruby/object:Word
+    word: following
+    stem: follow
+    docFrequency: 3.0
+    docPositions:
+    - 100
+    - 242
+  full: !ruby/object:Word
+    word: full
+    stem: full
+    docFrequency: 5.0
+    docPositions:
+    - 100
+    - 121
+    - 242
+  recently: !ruby/object:Word
+    word: recently
+    stem: recent
+    docFrequency: 3.0
+    docPositions:
+    - 101
+    - 122
+  far: !ruby/object:Word
+    word: far
+    stem: far
+    docFrequency: 3.0
+    docPositions:
+    - 103
+    - 125
+  eastern: !ruby/object:Word
+    word: eastern
+    stem: eastern
+    docFrequency: 3.0
+    docPositions:
+    - 103
+    - 125
+  party: !ruby/object:Word
+    word: party
+    stem: parti
+    docFrequency: 5.0
+    docPositions:
+    - 103
+    - 121
+    - 125
+    - 242
+  pallid: !ruby/object:Word
+    word: pallid
+    stem: pallid
+    docFrequency: 3.0
+    docPositions:
+    - 104
+    - 126
+  sturgeon: !ruby/object:Word
+    word: sturgeon
+    stem: sturgeon
+    docFrequency: 3.0
+    docPositions:
+    - 104
+    - 126
+  nicky: !ruby/object:Word
+    word: nicky
+    stem: nicki
+    docFrequency: 2.0
+    docPositions:
+    - 105
+  barr: !ruby/object:Word
+    word: barr
+    stem: barr
+    docFrequency: 2.0
+    docPositions:
+    - 105
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 3.0
+    docPositions:
+    - 110
+    - 131
+  more: !ruby/object:Word
+    word: more
+    stem: more
+    docFrequency: 4.0
+    docPositions:
+    - 111
+    - 132
+    - 171
+  toledo: !ruby/object:Word
+    word: toledo
+    stem: toledo
+    docFrequency: 7.0
+    docPositions:
+    - 121
+    - 242
+  war: !ruby/object:Word
+    word: war
+    stem: war
+    docFrequency: 5.0
+    docPositions:
+    - 121
+    - 242
+  nearly: !ruby/object:Word
+    word: nearly
+    stem: nearli
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  bloodless: !ruby/object:Word
+    word: bloodless
+    stem: bloodless
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  sovereignty: !ruby/object:Word
+    word: sovereignty
+    stem: sovereignti
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  dispute: !ruby/object:Word
+    word: dispute
+    stem: disput
+    docFrequency: 5.0
+    docPositions:
+    - 121
+    - 242
+  between: !ruby/object:Word
+    word: between
+    stem: between
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  us: !ruby/object:Word
+    word: us
+    stem: us
+    docFrequency: 5.0
+    docPositions:
+    - 121
+    - 242
+  state: !ruby/object:Word
+    word: state
+    stem: state
+    docFrequency: 8.0
+    docPositions:
+    - 121
+    - 239
+    - 242
+  ohio: !ruby/object:Word
+    word: ohio
+    stem: ohio
+    docFrequency: 9.0
+    docPositions:
+    - 121
+    - 242
+  michigan: !ruby/object:Word
+    word: michigan
+    stem: michigan
+    docFrequency: 11.0
+    docPositions:
+    - 121
+    - 242
+  territory: !ruby/object:Word
+    word: territory
+    stem: territori
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  over: !ruby/object:Word
+    word: over
+    stem: over
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  strip: !ruby/object:Word
+    word: strip
+    stem: strip
+    docFrequency: 5.0
+    docPositions:
+    - 121
+    - 242
+  land: !ruby/object:Word
+    word: land
+    stem: land
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  along: !ruby/object:Word
+    word: along
+    stem: along
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  their: !ruby/object:Word
+    word: their
+    stem: their
+    docFrequency: 5.0
+    docPositions:
+    - 121
+    - 242
+  border: !ruby/object:Word
+    word: border
+    stem: border
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  fueled: !ruby/object:Word
+    word: fueled
+    stem: fuel
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  conflicting: !ruby/object:Word
+    word: conflicting
+    stem: conflict
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  legislation: !ruby/object:Word
+    word: legislation
+    stem: legisl
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  desire: !ruby/object:Word
+    word: desire
+    stem: desir
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  control: !ruby/object:Word
+    word: control
+    stem: control
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  then: !ruby/object:Word
+    word: then
+    stem: then
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  prosperous: !ruby/object:Word
+    word: prosperous
+    stem: prosper
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  city: !ruby/object:Word
+    word: city
+    stem: citi
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  poor: !ruby/object:Word
+    word: poor
+    stem: poor
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  maps: !ruby/object:Word
+    word: maps
+    stem: map
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  example: !ruby/object:Word
+    word: example
+    stem: exampl
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  politicians: !ruby/object:Word
+    word: politicians
+    stem: politician
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  blocked: !ruby/object:Word
+    word: blocked
+    stem: block
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  bid: !ruby/object:Word
+    word: bid
+    stem: bid
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  become: !ruby/object:Word
+    word: become
+    stem: becom
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  sides: !ruby/object:Word
+    word: sides
+    stem: side
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  militias: !ruby/object:Word
+    word: militias
+    stem: militia
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  enforce: !ruby/object:Word
+    word: enforce
+    stem: enforc
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  claims: !ruby/object:Word
+    word: claims
+    stem: claim
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  casualty: !ruby/object:Word
+    word: casualty
+    stem: casualti
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  wounded: !ruby/object:Word
+    word: wounded
+    stem: wound
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  sheriff: !ruby/object:Word
+    word: sheriff
+    stem: sheriff
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  stabbed: !ruby/object:Word
+    word: stabbed
+    stem: stab
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  penknife: !ruby/object:Word
+    word: penknife
+    stem: penknif
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  clash: !ruby/object:Word
+    word: clash
+    stem: clash
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  militiamen: !ruby/object:Word
+    word: militiamen
+    stem: militiamen
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  fired: !ruby/object:Word
+    word: fired
+    stem: fire
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  shots: !ruby/object:Word
+    word: shots
+    stem: shot
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  air: !ruby/object:Word
+    word: air
+    stem: air
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  captured: !ruby/object:Word
+    word: captured
+    stem: captur
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  ohioan: !ruby/object:Word
+    word: ohioan
+    stem: ohioan
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  surveyors: !ruby/object:Word
+    word: surveyors
+    stem: surveyor
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  president: !ruby/object:Word
+    word: president
+    stem: presid
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  andrew: !ruby/object:Word
+    word: andrew
+    stem: andrew
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  jackson: !ruby/object:Word
+    word: jackson
+    stem: jackson
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  intervened: !ruby/object:Word
+    word: intervened
+    stem: interven
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  keep: !ruby/object:Word
+    word: keep
+    stem: keep
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  support: !ruby/object:Word
+    word: support
+    stem: support
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  fledgling: !ruby/object:Word
+    word: fledgling
+    stem: fledgl
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  democratic: !ruby/object:Word
+    word: democratic
+    stem: democrat
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  agreed: !ruby/object:Word
+    word: agreed
+    stem: agre
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  now: !ruby/object:Word
+    word: now
+    stem: now
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  called: !ruby/object:Word
+    word: called
+    stem: call
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  frostbitten: !ruby/object:Word
+    word: frostbitten
+    stem: frostbitten
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  convention: !ruby/object:Word
+    word: convention
+    stem: convent
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  compromise: !ruby/object:Word
+    word: compromise
+    stem: compromis
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  sacrificed: !ruby/object:Word
+    word: sacrificed
+    stem: sacrif
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  exchange: !ruby/object:Word
+    word: exchange
+    stem: exchang
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  statehood: !ruby/object:Word
+    word: statehood
+    stem: statehood
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  undeveloped: !ruby/object:Word
+    word: undeveloped
+    stem: undevelop
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  upper: !ruby/object:Word
+    word: upper
+    stem: upper
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  peninsula: !ruby/object:Word
+    word: peninsula
+    stem: peninsula
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  which: !ruby/object:Word
+    word: which
+    stem: which
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  would: !ruby/object:Word
+    word: would
+    stem: would
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  produce: !ruby/object:Word
+    word: produce
+    stem: produc
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  economic: !ruby/object:Word
+    word: economic
+    stem: econom
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  windfall: !ruby/object:Word
+    word: windfall
+    stem: windfal
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  timber: !ruby/object:Word
+    word: timber
+    stem: timber
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  iron: !ruby/object:Word
+    word: iron
+    stem: iron
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  copper: !ruby/object:Word
+    word: copper
+    stem: copper
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  vestiges: !ruby/object:Word
+    word: vestiges
+    stem: vestig
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  persisted: !ruby/object:Word
+    word: persisted
+    stem: persist
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  ended: !ruby/object:Word
+    word: ended
+    stem: end
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  help: !ruby/object:Word
+    word: help
+    stem: help
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  supreme: !ruby/object:Word
+    word: supreme
+    stem: suprem
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  court: !ruby/object:Word
+    word: court
+    stem: court
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  memories: !ruby/object:Word
+    word: memories
+    stem: memori
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  helped: !ruby/object:Word
+    word: helped
+    stem: help
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  ignite: !ruby/object:Word
+    word: ignite
+    stem: ignit
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  football: !ruby/object:Word
+    word: football
+    stem: footbal
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  rivalry: !ruby/object:Word
+    word: rivalry
+    stem: rivalri
+    docFrequency: 3.0
+    docPositions:
+    - 121
+    - 242
+  canadian: !ruby/object:Word
+    word: canadian
+    stem: canadian
+    docFrequency: 2.0
+    docPositions:
+    - 124
+  charges: !ruby/object:Word
+    word: charges
+    stem: charg
+    docFrequency: 2.0
+    docPositions:
+    - 124
+  retrieved: !ruby/object:Word
+    word: retrieved
+    stem: retriev
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  https: !ruby/object:Word
+    word: https
+    stem: http
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  en: !ruby/object:Word
+    word: en
+    stem: en
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  org: !ruby/object:Word
+    word: org
+    stem: org
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  w: !ruby/object:Word
+    word: w
+    stem: w
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  index: !ruby/object:Word
+    word: index
+    stem: index
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  php: !ruby/object:Word
+    word: php
+    stem: php
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  oldid: !ruby/object:Word
+    word: oldid
+    stem: oldid
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  categories: !ruby/object:Word
+    word: categories
+    stem: categori
+    docFrequency: 3.0
+    docPositions:
+    - 138
+  articlehidden: !ruby/object:Word
+    word: articlehidden
+    stem: articlehidden
+    docFrequency: 2.0
+    docPositions:
+    - 138
+  semi: !ruby/object:Word
+    word: semi
+    stem: semi
+    docFrequency: 2.0
+    docPositions:
+    - 138
+  protected: !ruby/object:Word
+    word: protected
+    stem: protect
+    docFrequency: 3.0
+    docPositions:
+    - 138
+  project: !ruby/object:Word
+    word: project
+    stem: project
+    docFrequency: 4.0
+    docPositions:
+    - 138
+    - 151
+  pageswikipedia: !ruby/object:Word
+    word: pageswikipedia
+    stem: pageswikipedia
+    docFrequency: 2.0
+    docPositions:
+    - 138
+  move: !ruby/object:Word
+    word: move
+    stem: move
+    docFrequency: 2.0
+    docPositions:
+    - 138
+  pages: !ruby/object:Word
+    word: pages
+    stem: page
+    docFrequency: 2.0
+    docPositions:
+    - 138
+  menu: !ruby/object:Word
+    word: menu
+    stem: menu
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  personal: !ruby/object:Word
+    word: personal
+    stem: person
+    docFrequency: 2.0
+    docPositions:
+    - 146
+  logged: !ruby/object:Word
+    word: logged
+    stem: log
+    docFrequency: 2.0
+    docPositions:
+    - 147
+  intalkcontributionscreate: !ruby/object:Word
+    word: intalkcontributionscreate
+    stem: intalkcontributionscr
+    docFrequency: 2.0
+    docPositions:
+    - 147
+  accountlog: !ruby/object:Word
+    word: accountlog
+    stem: accountlog
+    docFrequency: 2.0
+    docPositions:
+    - 147
+  namespaces: !ruby/object:Word
+    word: namespaces
+    stem: namespac
+    docFrequency: 2.0
+    docPositions:
+    - 150
+  variants: !ruby/object:Word
+    word: variants
+    stem: variant
+    docFrequency: 2.0
+    docPositions:
+    - 156
+  views: !ruby/object:Word
+    word: views
+    stem: view
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  read: !ruby/object:Word
+    word: read
+    stem: read
+    docFrequency: 2.0
+    docPositions:
+    - 166
+  view: !ruby/object:Word
+    word: view
+    stem: view
+    docFrequency: 5.0
+    docPositions:
+    - 167
+    - 168
+    - 231
+    - 239
+  source: !ruby/object:Word
+    word: source
+    stem: sourc
+    docFrequency: 2.0
+    docPositions:
+    - 167
+  history: !ruby/object:Word
+    word: history
+    stem: histori
+    docFrequency: 2.0
+    docPositions:
+    - 168
+  pagecontentsfeatured: !ruby/object:Word
+    word: pagecontentsfeatured
+    stem: pagecontentsfeatur
+    docFrequency: 2.0
+    docPositions:
+    - 194
+  contentcurrent: !ruby/object:Word
+    word: contentcurrent
+    stem: contentcurr
+    docFrequency: 2.0
+    docPositions:
+    - 194
+  eventsrandom: !ruby/object:Word
+    word: eventsrandom
+    stem: eventsrandom
+    docFrequency: 2.0
+    docPositions:
+    - 194
+  articledonate: !ruby/object:Word
+    word: articledonate
+    stem: articledon
+    docFrequency: 2.0
+    docPositions:
+    - 194
+  wikipediawikipedia: !ruby/object:Word
+    word: wikipediawikipedia
+    stem: wikipediawikipedia
+    docFrequency: 2.0
+    docPositions:
+    - 194
+  store: !ruby/object:Word
+    word: store
+    stem: store
+    docFrequency: 2.0
+    docPositions:
+    - 194
+  interaction: !ruby/object:Word
+    word: interaction
+    stem: interact
+    docFrequency: 2.0
+    docPositions:
+    - 197
+  helpabout: !ruby/object:Word
+    word: helpabout
+    stem: helpabout
+    docFrequency: 2.0
+    docPositions:
+    - 200
+  wikipediacommunity: !ruby/object:Word
+    word: wikipediacommunity
+    stem: wikipediacommun
+    docFrequency: 2.0
+    docPositions:
+    - 200
+  portalrecent: !ruby/object:Word
+    word: portalrecent
+    stem: portalrec
+    docFrequency: 2.0
+    docPositions:
+    - 200
+  changescontact: !ruby/object:Word
+    word: changescontact
+    stem: changescontact
+    docFrequency: 2.0
+    docPositions:
+    - 200
+  links: !ruby/object:Word
+    word: links
+    stem: link
+    docFrequency: 4.0
+    docPositions:
+    - 206
+    - 218
+    - 239
+  hererelated: !ruby/object:Word
+    word: hererelated
+    stem: hererel
+    docFrequency: 2.0
+    docPositions:
+    - 206
+  changesupload: !ruby/object:Word
+    word: changesupload
+    stem: changesupload
+    docFrequency: 2.0
+    docPositions:
+    - 206
+  filespecial: !ruby/object:Word
+    word: filespecial
+    stem: filespeci
+    docFrequency: 2.0
+    docPositions:
+    - 206
+  pagespermanent: !ruby/object:Word
+    word: pagespermanent
+    stem: pagesperman
+    docFrequency: 2.0
+    docPositions:
+    - 206
+  linkpage: !ruby/object:Word
+    word: linkpage
+    stem: linkpag
+    docFrequency: 2.0
+    docPositions:
+    - 206
+  informationwikidata: !ruby/object:Word
+    word: informationwikidata
+    stem: informationwikidata
+    docFrequency: 2.0
+    docPositions:
+    - 206
+  item: !ruby/object:Word
+    word: item
+    stem: item
+    docFrequency: 2.0
+    docPositions:
+    - 206
+  print: !ruby/object:Word
+    word: print
+    stem: print
+    docFrequency: 2.0
+    docPositions:
+    - 209
+  export: !ruby/object:Word
+    word: export
+    stem: export
+    docFrequency: 2.0
+    docPositions:
+    - 209
+  create: !ruby/object:Word
+    word: create
+    stem: creat
+    docFrequency: 2.0
+    docPositions:
+    - 212
+  bookdownload: !ruby/object:Word
+    word: bookdownload
+    stem: bookdownload
+    docFrequency: 2.0
+    docPositions:
+    - 212
+  pdfprintable: !ruby/object:Word
+    word: pdfprintable
+    stem: pdfprintabl
+    docFrequency: 2.0
+    docPositions:
+    - 212
+  version: !ruby/object:Word
+    word: version
+    stem: version
+    docFrequency: 2.0
+    docPositions:
+    - 212
+  languages: !ruby/object:Word
+    word: languages
+    stem: languag
+    docFrequency: 2.0
+    docPositions:
+    - 215
+  alemannisch: !ruby/object:Word
+    word: alemannisch
+    stem: alemannisch
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  az: !ruby/object:Word
+    word: az
+    stem: az
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  rbaycanca: !ruby/object:Word
+    word: rbaycanca
+    stem: rbaycanca
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  danskdeutsch: !ruby/object:Word
+    word: danskdeutsch
+    stem: danskdeutsch
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  esperanto: !ruby/object:Word
+    word: esperanto
+    stem: esperanto
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  fran: !ruby/object:Word
+    word: fran
+    stem: fran
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  aisfryskgaeilge: !ruby/object:Word
+    word: aisfryskgaeilge
+    stem: aisfryskgaeilg
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  bahasa: !ruby/object:Word
+    word: bahasa
+    stem: bahasa
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  indonesiakurd: !ruby/object:Word
+    word: indonesiakurd
+    stem: indonesiakurd
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  nederlands: !ruby/object:Word
+    word: nederlands
+    stem: nederland
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  portugu: !ruby/object:Word
+    word: portugu
+    stem: portugu
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  srom: !ruby/object:Word
+    word: srom
+    stem: srom
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  n: !ruby/object:Word
+    word: n
+    stem: n
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  megiella: !ruby/object:Word
+    word: megiella
+    stem: megiella
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  sloven: !ruby/object:Word
+    word: sloven
+    stem: sloven
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  inasoomaaliga: !ruby/object:Word
+    word: inasoomaaliga
+    stem: inasoomaaliga
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  svenska: !ruby/object:Word
+    word: svenska
+    stem: svenska
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  rk: !ruby/object:Word
+    word: rk
+    stem: rk
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  edit: !ruby/object:Word
+    word: edit
+    stem: edit
+    docFrequency: 2.0
+    docPositions:
+    - 218
+  modified: !ruby/object:Word
+    word: modified
+    stem: modifi
+    docFrequency: 2.0
+    docPositions:
+    - 223
+  text: !ruby/object:Word
+    word: text
+    stem: text
+    docFrequency: 2.0
+    docPositions:
+    - 224
+  under: !ruby/object:Word
+    word: under
+    stem: under
+    docFrequency: 2.0
+    docPositions:
+    - 224
+  creative: !ruby/object:Word
+    word: creative
+    stem: creativ
+    docFrequency: 2.0
+    docPositions:
+    - 224
+  commons: !ruby/object:Word
+    word: commons
+    stem: common
+    docFrequency: 2.0
+    docPositions:
+    - 224
+  attribution: !ruby/object:Word
+    word: attribution
+    stem: attribut
+    docFrequency: 2.0
+    docPositions:
+    - 224
+  sharealike: !ruby/object:Word
+    word: sharealike
+    stem: sharealik
+    docFrequency: 2.0
+    docPositions:
+    - 224
+  license: !ruby/object:Word
+    word: license
+    stem: licens
+    docFrequency: 2.0
+    docPositions:
+    - 224
+  additional: !ruby/object:Word
+    word: additional
+    stem: addit
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  terms: !ruby/object:Word
+    word: terms
+    stem: term
+    docFrequency: 3.0
+    docPositions:
+    - 225
+  apply: !ruby/object:Word
+    word: apply
+    stem: appli
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  using: !ruby/object:Word
+    word: using
+    stem: us
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  site: !ruby/object:Word
+    word: site
+    stem: site
+    docFrequency: 4.0
+    docPositions:
+    - 225
+    - 239
+  agree: !ruby/object:Word
+    word: agree
+    stem: agre
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 3.0
+    docPositions:
+    - 225
+    - 226
+  policy: !ruby/object:Word
+    word: policy
+    stem: polici
+    docFrequency: 3.0
+    docPositions:
+    - 225
+    - 226
+  registered: !ruby/object:Word
+    word: registered
+    stem: regist
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  trademark: !ruby/object:Word
+    word: trademark
+    stem: trademark
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  wikimedia: !ruby/object:Word
+    word: wikimedia
+    stem: wikimedia
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  foundation: !ruby/object:Word
+    word: foundation
+    stem: foundat
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  inc: !ruby/object:Word
+    word: inc
+    stem: inc
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  non: !ruby/object:Word
+    word: non
+    stem: non
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  profit: !ruby/object:Word
+    word: profit
+    stem: profit
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  organization: !ruby/object:Word
+    word: organization
+    stem: organ
+    docFrequency: 2.0
+    docPositions:
+    - 225
+  disclaimers: !ruby/object:Word
+    word: disclaimers
+    stem: disclaim
+    docFrequency: 2.0
+    docPositions:
+    - 228
+  developers: !ruby/object:Word
+    word: developers
+    stem: develop
+    docFrequency: 2.0
+    docPositions:
+    - 230
+  mobile: !ruby/object:Word
+    word: mobile
+    stem: mobil
+    docFrequency: 2.0
+    docPositions:
+    - 231
+  window: !ruby/object:Word
+    word: window
+    stem: window
+    docFrequency: 7.0
+    docPositions:
+    - 238
+    - 240
+  rlq: !ruby/object:Word
+    word: rlq
+    stem: rlq
+    docFrequency: 7.0
+    docPositions:
+    - 238
+    - 240
+  push: !ruby/object:Word
+    word: push
+    stem: push
+    docFrequency: 3.0
+    docPositions:
+    - 238
+    - 240
+  function: !ruby/object:Word
+    word: function
+    stem: function
+    docFrequency: 3.0
+    docPositions:
+    - 238
+    - 240
+  mw: !ruby/object:Word
+    word: mw
+    stem: mw
+    docFrequency: 4.0
+    docPositions:
+    - 239
+    - 241
+  loader: !ruby/object:Word
+    word: loader
+    stem: loader
+    docFrequency: 3.0
+    docPositions:
+    - 239
+  ext: !ruby/object:Word
+    word: ext
+    stem: ext
+    docFrequency: 16.0
+    docPositions:
+    - 239
+  globalcssjs: !ruby/object:Word
+    word: globalcssjs
+    stem: globalcssj
+    docFrequency: 3.0
+    docPositions:
+    - 239
+  ready: !ruby/object:Word
+    word: ready
+    stem: readi
+    docFrequency: 6.0
+    docPositions:
+    - 239
+  user: !ruby/object:Word
+    word: user
+    stem: user
+    docFrequency: 5.0
+    docPositions:
+    - 239
+  groups: !ruby/object:Word
+    word: groups
+    stem: group
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  load: !ruby/object:Word
+    word: load
+    stem: load
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  mediawiki: !ruby/object:Word
+    word: mediawiki
+    stem: mediawiki
+    docFrequency: 6.0
+    docPositions:
+    - 239
+  action: !ruby/object:Word
+    word: action
+    stem: action
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  postedit: !ruby/object:Word
+    word: postedit
+    stem: postedit
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  hidpi: !ruby/object:Word
+    word: hidpi
+    stem: hidpi
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  searchsuggest: !ruby/object:Word
+    word: searchsuggest
+    stem: searchsuggest
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  eventlogging: !ruby/object:Word
+    word: eventlogging
+    stem: eventlog
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  subscriber: !ruby/object:Word
+    word: subscriber
+    stem: subscrib
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  wikimediaevents: !ruby/object:Word
+    word: wikimediaevents
+    stem: wikimediaev
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  navigationtiming: !ruby/object:Word
+    word: navigationtiming
+    stem: navigationtim
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  gadget: !ruby/object:Word
+    word: gadget
+    stem: gadget
+    docFrequency: 8.0
+    docPositions:
+    - 239
+  teahouse: !ruby/object:Word
+    word: teahouse
+    stem: teahous
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  referencetooltips: !ruby/object:Word
+    word: referencetooltips
+    stem: referencetooltip
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  drn: !ruby/object:Word
+    word: drn
+    stem: drn
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  wizard: !ruby/object:Word
+    word: wizard
+    stem: wizard
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  charinsert: !ruby/object:Word
+    word: charinsert
+    stem: charinsert
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  reftoolbar: !ruby/object:Word
+    word: reftoolbar
+    stem: reftoolbar
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  switcher: !ruby/object:Word
+    word: switcher
+    stem: switcher
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  mmv: !ruby/object:Word
+    word: mmv
+    stem: mmv
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  bootstrap: !ruby/object:Word
+    word: bootstrap
+    stem: bootstrap
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  autostart: !ruby/object:Word
+    word: autostart
+    stem: autostart
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  visualeditor: !ruby/object:Word
+    word: visualeditor
+    stem: visualeditor
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  targetloader: !ruby/object:Word
+    word: targetloader
+    stem: targetload
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  schema: !ruby/object:Word
+    word: schema
+    stem: schema
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  universallanguageselector: !ruby/object:Word
+    word: universallanguageselector
+    stem: universallanguageselector
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  uls: !ruby/object:Word
+    word: uls
+    stem: ul
+    docFrequency: 3.0
+    docPositions:
+    - 239
+  eventlogger: !ruby/object:Word
+    word: eventlogger
+    stem: eventlogg
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  interlanguage: !ruby/object:Word
+    word: interlanguage
+    stem: interlanguag
+    docFrequency: 2.0
+    docPositions:
+    - 239
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 3.0
+    docPositions:
+    - 240
+    - 242
+  config: !ruby/object:Word
+    word: config
+    stem: config
+    docFrequency: 2.0
+    docPositions:
+    - 241
+  set: !ruby/object:Word
+    word: set
+    stem: set
+    docFrequency: 2.0
+    docPositions:
+    - 241
+  wgbackendresponsetime: !ruby/object:Word
+    word: wgbackendresponsetime
+    stem: wgbackendresponsetim
+    docFrequency: 2.0
+    docPositions:
+    - 241
+  wghostname: !ruby/object:Word
+    word: wghostname
+    stem: wghostnam
+    docFrequency: 2.0
+    docPositions:
+    - 241
+  nomin: !ruby/object:Word
+    word: nomin
+    stem: nomin
+    docFrequency: 2.0
+    docPositions:
+    - 241
+  articlethe: !ruby/object:Word
+    word: articlethe
+    stem: articleth
+    docFrequency: 2.0
+    docPositions:
+    - 242
+  archiveamerican: !ruby/object:Word
+    word: archiveamerican
+    stem: archiveamerican
+    docFrequency: 2.0
+    docPositions:
+    - 242
+lineCount: 243
+wordCount: 1709
+rank: 0.25
+title: Wikipedia:Today's featured article - Wikipedia, the free encyclopedia
+links:
+- http://tools.wmflabs.org/magnustools/randomarticle.php?lang=en&project=wikipedia&categories=Featured+articles&d=0
+- https://lists.wikimedia.org/mailman/listinfo/daily-article-l
+- https://lists.wikimedia.org/mailman/listinfo/daily-article-l
+- https://en.wikipedia.org/w/index.php?title=Wikipedia:Today%27s_featured_article&oldid=667540465
+- https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
+- https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+rawText: "\n\t\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\n\t\t\tWikipedia:Today's
+  featured article\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom Wikipedia, the free
+  encyclopedia\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\tJump to:\t\t\t\t\tnavigation,
+  \t\t\t\t\tsearch\n\t\t\t\t\n\t\t\t\t\nToday's featured article\n\nThe Main Page
+  includes a section where an adapted lead section from one of Wikipedia's featured
+  articles is displayed as \"Today's featured article\" (TFA). The current month's
+  queue can be found here. TFAs are scheduled by the TFA coordinators, Brianboulton
+  (Brian), Crisco 1492 (Chris) and Dank (Dan). Community discussion of suggestions
+  takes place at the TFA requests page.\nIf you notice an error in a future TFA blurb,
+  you can usually fix it yourself, but if the mistake is in today or tomorrow's blurb,
+  you will need to leave a message at WP:ERRORS to ask an administrator to fix it.
+  The blurbs are formatted as a single paragraph as close as possible to 1,200 characters
+  (including spaces) in length, with no reference tags, alternate names, or extraneous
+  bolding. Only the link to the specified featured article is bolded, and this must
+  be the first link in the blurb. For biographical articles, birth/death dates are
+  trimmed down to year only. The blurb should be preceded by an appropriate lead image
+  when available; fair use images are not allowed.\nThe editnotice template for Today's
+  Featured Article is {{TFA-editnotice}}. It is automatically applied by {{Editnotices/Namespace/Main}}
+  when the article's title matches the contents of {{TFA title}}. To contact the TFA
+  coordinators, please leave a message on the TFA talk page, or use the {{@TFA}} notification
+  template elsewhere.\n\n\n\nShortcuts:\nWP:TFA\nWP:TOFA\n\n\nv\nt\ne\n\nFeatured
+  content:\nFeatured articles ←\nFeatured lists\nFeatured pictures\nFeatured sounds\nFeatured
+  portals\nFeatured topics\nToday's featured article (TFA):\nThis month's queue\nRecent
+  TFAs and statistics\nCurrent TFA requests\nPotential TFA requests\nTFA oddities\nMost
+  viewed TFAs\nFeatured articles yet to appear as TFA\nFeatured article tools:\nFeatured
+  article criteria\nFeatured article candidates\nFeatured article review\nFeatured
+  article log\nFeatured article statistics\nRandom featured article\nFormer featured
+  articles\n\n\n\n\nToday's featured article archive\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\n2012\n2013\n2014\n2015\nJanuary\nFebruary\nMarch\nApril\nMay\nJune\nJuly\nAugust\nSeptember\nOctober\nNovember\nDecember\n\nPurge
+  cache for this page · Purge the main page cache\n\n\n\nToday's featured article\n\n\n\n\nHendrix
+  in 1968\n\n\nAmerican rock musician Jimi Hendrix was charged with drug possession
+  in Canada in May 1969. Customs agents at Toronto International Airport detained
+  Hendrix (pictured) after finding a small amount of heroin and hashish in his luggage.
+  Released on $10,000 bail, he performed at Maple Leaf Gardens later that night, joking
+  with the crowd. In December he stood trial for two counts of illegal possession
+  of narcotics, carrying a maximum sentence of 20 years in prison. Judge Joseph Kelly
+  presided. Defense attorney John O'Driscoll raised doubts about whether the narcotics
+  belonged to Hendrix, who had no drug paraphernalia in his luggage or needle tracks
+  on his arms, and whether he even knew they were in his luggage. He was acquitted
+  after a three-day trial. Both of Hendrix's bandmates in the Jimi Hendrix Experience,
+  Mitch Mitchell and Noel Redding, later said that they had been warned about a planned
+  drug bust the day before flying to Toronto and that they believed the drugs had
+  been planted in his bag. Hendrix was the world's highest-paid performer when he
+  was arrested, but this was his last tour, and he died the following year. (Full article...)\nRecently
+  featured:\n\nFar Eastern Party\nPallid sturgeon\nNicky Barr\n\n\n\nArchive\nBy email\nMore
+  featured articles...\n\n\n\n\n\nTomorrow's featured article\n\n\n\nThe Toledo War
+  (1835–36) was a nearly bloodless sovereignty dispute between the US state of Ohio
+  and the Michigan Territory over a small strip of land along their border, fueled
+  by conflicting legislation, a desire to control the then-prosperous city of Toledo,
+  and poor maps (example pictured). After Ohio politicians blocked Michigan's bid
+  to become a state, both sides raised militias to enforce their claims.The only casualty
+  was a wounded sheriff, stabbed with a penknife, and in the only clash, Michigan
+  militiamen fired shots in the air and captured Ohioan surveyors. After President
+  Andrew Jackson intervened to keep Ohio's support for his fledgling Democratic Party,
+  Michigan agreed at what is now called the Frostbitten Convention to a compromise.
+  The strip was sacrificed in exchange for statehood and the undeveloped Upper Peninsula,
+  which would later produce an economic windfall in timber, iron, and copper. Vestiges
+  of the dispute persisted for 137 years and were ended only with the help of the
+  US Supreme Court in 1973. Memories of the Toledo War helped ignite the Michigan–Ohio
+  State football rivalry. (Full article...)\nRecently featured:\n\nCanadian drug charges
+  and trial of Jimi Hendrix\nFar Eastern Party\nPallid sturgeon\n\n\n\nArchive\nBy
+  email\nMore featured articles...\n\n\n\n\t\t\t\t\t\n\t\t\t\t\t\tRetrieved from \"https://en.wikipedia.org/w/index.php?title=Wikipedia:Today%27s_featured_article&oldid=667540465\"\t\t\t\t\t\n\t\t\t\tCategories:
+  Wikipedia Today's featured articleHidden categories: Semi-protected project pagesWikipedia
+  move-protected project pages\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\t\n\t\t\tNavigation
+  menu\n\n\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tPersonal tools\n\t\t\t\t\t\tNot
+  logged inTalkContributionsCreate accountLog in\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tNamespaces\n\t\t\t\t\t\tProject
+  page\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTalk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tVariants\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tViews\n\t\t\t\t\t\tRead\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView
+  source\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView history\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tMore\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSearch\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\tNavigation\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tMain
+  pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia
+  store\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tInteraction\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tHelpAbout
+  WikipediaCommunity portalRecent changesContact page\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tTools\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tWhat
+  links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata
+  item\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tPrint/export\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tCreate
+  a bookDownload as PDFPrintable version\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tLanguages\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tAlemannischالعربيةAzərbaycancaБашҡортсаЧӑвашлаDanskDeutschΕλληνικάEsperantoفارسیFrançaisFryskGaeilge한국어ՀայերենBahasa
+  IndonesiaKurdîМакедонскиमराठीNederlands日本語ਪੰਜਾਬੀភាសាខ្មែរPortuguêsRomânăРусскийSámegiellaසිංහලSlovenščinaSoomaaligaکوردیی
+  ناوەندیSvenskaไทยTürkçeУкраїнська粵語中文\t\t\t\t\tEdit links\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t
+  This page was last modified on 18 June 2015, at 20:23.\n\t\t\t\t\t\t\t\t\t\t\tText
+  is available under the Creative Commons Attribution-ShareAlike License;\nadditional
+  terms may apply.  By using this site, you agree to the Terms of Use and Privacy
+  Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc.,
+  a non-profit organization.\n\t\t\t\t\t\t\t\t\tPrivacy policy\n\t\t\t\t\t\t\t\t\t\t\tAbout
+  Wikipedia\n\t\t\t\t\t\t\t\t\t\t\tDisclaimers\n\t\t\t\t\t\t\t\t\t\t\tContact Wikipedia\n\t\t\t\t\t\t\t\t\t\t\tDevelopers\n\t\t\t\t\t\t\t\t\t\t\tMobile
+  view\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\twindow.RLQ
+  = window.RLQ || []; window.RLQ.push( function () {\nmw.loader.state({\"ext.globalCssJs.site\":\"ready\",\"ext.globalCssJs.user\":\"ready\",\"user\":\"ready\",\"user.groups\":\"ready\"});mw.loader.load([\"mediawiki.action.view.postEdit\",\"site\",\"mediawiki.user\",\"mediawiki.hidpi\",\"mediawiki.page.ready\",\"mediawiki.searchSuggest\",\"ext.eventLogging.subscriber\",\"ext.wikimediaEvents\",\"ext.navigationTiming\",\"ext.gadget.teahouse\",\"ext.gadget.ReferenceTooltips\",\"ext.gadget.DRN-wizard\",\"ext.gadget.charinsert\",\"ext.gadget.refToolbar\",\"ext.gadget.switcher\",\"ext.gadget.featured-articles-links\",\"mmv.bootstrap.autostart\",\"ext.visualEditor.targetLoader\",\"schema.UniversalLanguageSelector\",\"ext.uls.eventlogger\",\"ext.uls.interlanguage\"]);\n}
+  );window.RLQ = window.RLQ || []; window.RLQ.push( function () {\nmw.config.set({\"wgBackendResponseTime\":95,\"wgHostname\":\"mw1096\"});
+  /* @nomin */\n} );Today's featured articleThe Main Page includes a section where
+  an adapted lead section from one of Wikipedia's featured articles is displayed as
+  \"Today's featured article\" (TFA). The current month's queue can be found here.
+  TFAs are scheduled by the TFA coordinators, Brianboulton (Brian), Crisco 1492 (Chris)
+  and Dank (Dan). Community discussion of suggestions takes place at the TFA requests
+  page.If you notice an error in a future TFA blurb, you can usually fix it yourself,
+  but if the mistake is in today or tomorrow's blurb, you will need to leave a message
+  at WP:ERRORS to ask an administrator to fix it. The blurbs are formatted as a single
+  paragraph as close as possible to 1,200 characters (including spaces) in length,
+  with no reference tags, alternate names, or extraneous bolding. Only the link to
+  the specified featured article is bolded, and this must be the first link in the
+  blurb. For biographical articles, birth/death dates are trimmed down to year only.
+  The blurb should be preceded by an appropriate lead image when available; fair use
+  images are not allowed.The editnotice template for Today's Featured Article is {{TFA-editnotice}}.
+  It is automatically applied by {{Editnotices/Namespace/Main}} when the article's
+  title matches the contents of {{TFA title}}. To contact the TFA coordinators, please
+  leave a message on the TFA talk page, or use the {{@TFA}} notification template
+  elsewhere.Featured content:Today's featured article (TFA):Featured article tools:Today's
+  featured article archiveAmerican rock musician Jimi Hendrix was charged with drug
+  possession in Canada in May 1969. Customs agents at Toronto International Airport
+  detained Hendrix (pictured) after finding a small amount of heroin and hashish in
+  his luggage. Released on $10,000 bail, he performed at Maple Leaf Gardens later
+  that night, joking with the crowd. In December he stood trial for two counts of
+  illegal possession of narcotics, carrying a maximum sentence of 20 years in prison.
+  Judge Joseph Kelly presided. Defense attorney John O'Driscoll raised doubts about
+  whether the narcotics belonged to Hendrix, who had no drug paraphernalia in his
+  luggage or needle tracks on his arms, and whether he even knew they were in his
+  luggage. He was acquitted after a three-day trial. Both of Hendrix's bandmates in
+  the Jimi Hendrix Experience, Mitch Mitchell and Noel Redding, later said that they
+  had been warned about a planned drug bust the day before flying to Toronto and that
+  they believed the drugs had been planted in his bag. Hendrix was the world's highest-paid
+  performer when he was arrested, but this was his last tour, and he died the following
+  year. (Full article...)The Toledo War (1835–36) was a nearly bloodless sovereignty
+  dispute between the US state of Ohio and the Michigan Territory over a small strip
+  of land along their border, fueled by conflicting legislation, a desire to control
+  the then-prosperous city of Toledo, and poor maps (example pictured). After Ohio
+  politicians blocked Michigan's bid to become a state, both sides raised militias
+  to enforce their claims.The only casualty was a wounded sheriff, stabbed with a
+  penknife, and in the only clash, Michigan militiamen fired shots in the air and
+  captured Ohioan surveyors. After President Andrew Jackson intervened to keep Ohio's
+  support for his fledgling Democratic Party, Michigan agreed at what is now called
+  the Frostbitten Convention to a compromise. The strip was sacrificed in exchange
+  for statehood and the undeveloped Upper Peninsula, which would later produce an
+  economic windfall in timber, iron, and copper. Vestiges of the dispute persisted
+  for 137 years and were ended only with the help of the US Supreme Court in 1973.
+  Memories of the Toledo War helped ignite the Michigan–Ohio State football rivalry.
+  (Full article...)"

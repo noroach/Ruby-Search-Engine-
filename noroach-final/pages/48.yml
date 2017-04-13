@@ -1,0 +1,1595 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors:
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 541
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 136
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : strong
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 543
+    str1: strong
+    str2: 
+    str3: 
+    int1: 0
+    column: 170
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : strong
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 553
+    str1: strong
+    str2: 
+    str3: 
+    int1: 0
+    column: 61
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 554
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 116
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : strong
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 554
+    str1: strong
+    str2: 
+    str3: 
+    int1: 0
+    column: 130
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 554
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 216
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 554
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 316
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : strong
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 571
+    str1: strong
+    str2: 
+    str3: 
+    int1: 0
+    column: 118
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : li
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 574
+    str1: li
+    str2: 
+    str3: 
+    int1: 0
+    column: 87
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : ul
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 576
+    str1: ul
+    str2: 
+    str3: 
+    int1: 0
+    column: 26
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : strong
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 578
+    str1: strong
+    str2: 
+    str3: 
+    int1: 0
+    column: 47
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : strong
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 589
+    str1: strong
+    str2: 
+    str3: 
+    int1: 0
+    column: 61
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 590
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 142
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 590
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 209
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 591
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 225
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 591
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 236
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : h4
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 688
+    str1: h4
+    str2: 
+    str3: 
+    int1: 0
+    column: 95
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : textarea
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 689
+    str1: textarea
+    str2: 
+    str3: 
+    int1: 0
+    column: 101
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : a
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 690
+    str1: a
+    str2: 
+    str3: 
+    int1: 0
+    column: 149
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : b
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 912
+    str1: b
+    str2: 
+    str3: 
+    int1: 0
+    column: 72
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : b
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 915
+    str1: b
+    str2: 
+    str3: 
+    int1: 0
+    column: 51
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      ID search already defined
+    domain: 23
+    code: 513
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 1244
+    str1: search
+    str2: search
+    str3: 
+    int1: 0
+    column: 86
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 1467
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 123
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-lw0s0a"
+    line: 1533
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 97
+address: http://map.iu.edu/iub/
+inboundLinks: []
+lines:
+- |2+
+
+- |2+
+
+- "  \n"
+- "        \n"
+- "        \n"
+- "        \n"
+- "        \t\n"
+- "                \n"
+- "                    \n"
+- "                        \n"
+- |2
+                              Indiana University Bloomington
+- "                        \n"
+- "                    \n"
+- "                \n"
+- "            \n"
+- "        \n"
+- "        \n"
+- "        \n"
+- "        \t\n"
+- "            \tDraw\n"
+- "\t                Label\n"
+- "\t                Measure\n"
+- "\t                Print View\n"
+- "\t                Link\n"
+- "\t                Mobile Tour\n"
+- "            \t\n"
+- "                \n"
+- |2
+                    AllAddressesBuilding Names2-Letter CodesBuilding Numbers
+- "\t\t\t\n"
+- "        \n"
+- "\t\n"
+- "  \n"
+- "\t \n"
+- "        \n"
+- "              \n"
+- "              \n"
+- "                      \n"
+- |2
+                          Drawing Tools
+- "                          \n"
+- "                              \n"
+- "                          \n"
+- "                       \n"
+- "                      \n"
+- "                      \n"
+- |2
+                          Point
+- |2
+                          Multipoint
+- |2
+                          Line
+- |2
+                          Arrow
+- |2
+                          Polyline
+- |2
+                          Freehand Polyline
+- |2
+                          Polygon
+- |2
+                          Freehand Polygon
+- |2
+                          Circle
+- |2
+                          Ellipse
+- |2
+                          Triangle
+- |2
+                          Rectangle
+- "                        \n"
+- |2
+                              Graphic Background Color
+- "                            \n"
+- |2
+                          Clear Map
+- "                      \n"
+- "              \n"
+- "              \n"
+- "              \n"
+- "              \n"
+- "                      \n"
+- |2
+                          Label Tools
+- "                          \n"
+- "                              \n"
+- "                          \n"
+- "                       \n"
+- "                      \n"
+- "                      \n"
+- "\t\t\t\t\t\t\n"
+- |2
+                          Label a point on the map
+- "                        \n"
+- "\t\t\t\t\t\t\n"
+- |2
+                          Bold
+- |2
+                          Italic
+- |2
+                          Underline
+- "                        \n"
+- "\t\t\t\t\t\t\n"
+- |2
+                          Size
+- |2
+                          2px4px6px8px9px10px11px12px14px16px18px20px22px24px26px28px36px48px72pxColor
+- "                        \n"
+- "\t\t\t\t\t\t\n"
+- "                        Font \n"
+- |2
+                          AlgerianArialBroadwayComic Sans MSCourierVerdana
+- "\t\t\t\t\t\t\n"
+- |2
+                          Placement
+- |2
+                          AboveBelowLeftRightAcross
+- "\t\t\t\t\t\t\n"
+- |2
+                          Place Label
+- "\t                    Clear Map\n"
+- "                        \n"
+- "                      \n"
+- "              \n"
+- "              \n"
+- "              \n"
+- "              \n"
+- "                      \n"
+- |2
+                          Measure Tools
+- "                          \n"
+- "                              \n"
+- "                          \n"
+- "                       \n"
+- "                      \n"
+- "                      \n"
+- |2
+                          Feet
+- |2
+                          Square Feet
+- |2
+                          Meters
+- |2
+                          Acres
+- |2
+                          Miles
+- |2
+                          Clear Map
+- "                      \n"
+- "              \n"
+- "              \n"
+- "              \n"
+- "               \n"
+- |2+
+
+- "              \n"
+- "                  \n"
+- "                      \n"
+- "                        \n"
+- "                          \n"
+- "                        \n"
+- |2
+                          Accessibility
+- "                        \n"
+- "                      \n"
+- "                      \n"
+- "                          \n"
+- "                                \n"
+- "                                \n"
+- |2
+                                    Automatic Doors
+- "                                \n"
+- "                            \n"
+- "                            \n"
+- "                              \n"
+- |2
+                                Elevators
+- "                              \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    Entrances
+- "                            \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    Parking
+- "                            \n"
+- "                          \n"
+- "                    \n"
+- "                  \n"
+- "              \n"
+- "              \n"
+- "                  \n"
+- "                      \n"
+- "                        \n"
+- "                          \n"
+- "                        \n"
+- |2
+                          Buildings
+- "                        \n"
+- "                      \n"
+- "                      \n"
+- "                          \n"
+- "                                \n"
+- |2
+                                    IU Buildings
+- "                                  \n"
+- "                            \n"
+- "                              \n"
+- |2
+                                Non-IU Buildings
+- "                            \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    Fraternities & Sororities
+- "                            \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    Construction Zones
+- "                            \n"
+- "                          \n"
+- "                    \n"
+- "                  \n"
+- |2+
+
+- "              \n"
+- "                  \n"
+- "                      \n"
+- "                        \n"
+- "                          \n"
+- "                        \n"
+- |2
+                          Parking
+- "                        \n"
+- "                      \n"
+- "                      \n"
+- "                          \n"
+- "                                \n"
+- |2
+                                    Visitor Parking
+- "                            \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    Parking Garages
+- "                            \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    IU Parking Lots
+- "                            \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    IU Parking Spaces
+- "                                  \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    Bike Racks
+- "                            \n"
+- "                          \n"
+- "                    \n"
+- "                  \n"
+- |2+
+
+- "              \n"
+- "                  \n"
+- "                      \n"
+- "                        \n"
+- "                          \n"
+- "                        \n"
+- |2
+                          Emergency & Safety
+- "                        \n"
+- "                      \n"
+- "                      \n"
+- "                          \n"
+- "                                \n"
+- |2
+                                    Campus Pedestrian Safety
+- "                            \n"
+- "                            \n"
+- "                              \n"
+- |2
+                                Emergency Phones
+- "                            \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    IU Police Department
+- "                            \n"
+- "                            \n"
+- "                                \n"
+- |2
+                                    Fire Department
+- "                            \n"
+- "                          \n"
+- "                    \n"
+- "                  \n"
+- "              \n"
+- "              \n"
+- |2
+                    Map View
+- "                  \n"
+- |2
+                        Standard
+- |2
+                            Photo
+- "                       \n"
+- "              \n"
+- |2+
+
+- "              \n"
+- |2
+                    Additional Resources
+- "                  \n"
+- |2
+                        Printable Campus Map
+- |2
+                            IU Campus Bus Routes
+- |2
+                            IU Campus Bus Schedules
+- "                          \n"
+- |2
+                            Get Help
+- |2
+                            Submit Feedback »
+- "                      \n"
+- "              \n"
+- "    \n"
+- "  \n"
+- |2+
+
+- "          \n"
+- "          \n"
+- |2
+              Building Name
+- |2
+                    Address
+- "                \n"
+- "           \n"
+- |2+
+
+- "\t\n"
+- |2+
+
+- "    \n"
+- "    \n"
+- |2
+          LOADING
+- "    \n"
+- |2+
+
+- "    \n"
+- "    \n"
+- |2
+          OPEN
+- "    \n"
+- |2+
+
+- "        \n"
+- "        \n"
+- "        \t\n"
+- "                \n"
+- |2
+                  Privacy Notice
+- "                \n"
+- "                     \n"
+- "                    \n"
+- "                        Copyright © \n"
+- "                        \n"
+- |2
+                              var theDate=new Date()
+- |2
+                              document.write(theDate.getFullYear())
+- "                         \n"
+- "                    The Trustees of Indiana University, \n"
+- |2
+                      Copyright Complaints
+- "                \n"
+- "            \n"
+- "        \n"
+- "        \n"
+- "         \n"
+- "             \n"
+- "              \n"
+- "              \n"
+- "                \n"
+- "                  \n"
+- "                  \n"
+- "                  \n"
+- "                  \n"
+- "                  \n"
+- "                \n"
+- "                \n"
+- "                  \n"
+- "                  \n"
+- "                  \n"
+- "                  \n"
+- "                  \n"
+- "                \n"
+- "              \n"
+- "               \n"
+- "            \n"
+- "            \n"
+- "                \n"
+- |2
+              Copyright © 2012
+- "              The Trustees of Indiana University \n"
+- "        \n"
+- "    \n"
+- "    \n"
+- "        \n"
+- "        \n"
+- "    \n"
+- |2+
+
+- "                        \n"
+- |2
+                              Indiana University Bloomington
+- "                        \n"
+- |2
+                      Map ViewAdditional ResourcesPrivacy Notice
+- "                     \n"
+- "                    \n"
+- "                        Copyright © \n"
+- "                        \n"
+- |2
+                              var theDate=new Date()
+- |2
+                              document.write(theDate.getFullYear())
+- "                         \n"
+- "                    The Trustees of Indiana University, \n"
+- |2
+                      Copyright Complaints
+- |2
+                  Copyright © 2012
+- "              The Trustees of Indiana University"
+index:
+  indiana: !ruby/object:Word
+    word: indiana
+    stem: indiana
+    docFrequency: 7
+    docPositions:
+    - 10
+    - 300
+    - 330
+    - 339
+    - 349
+    - 352
+  university: !ruby/object:Word
+    word: university
+    stem: univers
+    docFrequency: 7
+    docPositions:
+    - 10
+    - 300
+    - 330
+    - 339
+    - 349
+    - 352
+  bloomington: !ruby/object:Word
+    word: bloomington
+    stem: bloomington
+    docFrequency: 3
+    docPositions:
+    - 10
+    - 339
+  draw: !ruby/object:Word
+    word: draw
+    stem: draw
+    docFrequency: 2
+    docPositions:
+    - 19
+  label: !ruby/object:Word
+    word: label
+    stem: label
+    docFrequency: 5
+    docPositions:
+    - 20
+    - 66
+    - 74
+    - 92
+  measure: !ruby/object:Word
+    word: measure
+    stem: measur
+    docFrequency: 3
+    docPositions:
+    - 21
+    - 101
+  print: !ruby/object:Word
+    word: print
+    stem: print
+    docFrequency: 2
+    docPositions:
+    - 22
+  view: !ruby/object:Word
+    word: view
+    stem: view
+    docFrequency: 3
+    docPositions:
+    - 22
+    - 247
+  link: !ruby/object:Word
+    word: link
+    stem: link
+    docFrequency: 2
+    docPositions:
+    - 23
+  mobile: !ruby/object:Word
+    word: mobile
+    stem: mobil
+    docFrequency: 2
+    docPositions:
+    - 24
+  tour: !ruby/object:Word
+    word: tour
+    stem: tour
+    docFrequency: 2
+    docPositions:
+    - 24
+  alladdressesbuilding: !ruby/object:Word
+    word: alladdressesbuilding
+    stem: alladdressesbuild
+    docFrequency: 2
+    docPositions:
+    - 27
+  letter: !ruby/object:Word
+    word: letter
+    stem: letter
+    docFrequency: 2
+    docPositions:
+    - 27
+  codesbuilding: !ruby/object:Word
+    word: codesbuilding
+    stem: codesbuild
+    docFrequency: 2
+    docPositions:
+    - 27
+  numbers: !ruby/object:Word
+    word: numbers
+    stem: number
+    docFrequency: 2
+    docPositions:
+    - 27
+  drawing: !ruby/object:Word
+    word: drawing
+    stem: draw
+    docFrequency: 2
+    docPositions:
+    - 37
+  tools: !ruby/object:Word
+    word: tools
+    stem: tool
+    docFrequency: 4
+    docPositions:
+    - 37
+    - 66
+    - 101
+  point: !ruby/object:Word
+    word: point
+    stem: point
+    docFrequency: 3
+    docPositions:
+    - 44
+    - 74
+  multipoint: !ruby/object:Word
+    word: multipoint
+    stem: multipoint
+    docFrequency: 2
+    docPositions:
+    - 45
+  line: !ruby/object:Word
+    word: line
+    stem: line
+    docFrequency: 2
+    docPositions:
+    - 46
+  arrow: !ruby/object:Word
+    word: arrow
+    stem: arrow
+    docFrequency: 2
+    docPositions:
+    - 47
+  polyline: !ruby/object:Word
+    word: polyline
+    stem: polylin
+    docFrequency: 3
+    docPositions:
+    - 48
+    - 49
+  freehand: !ruby/object:Word
+    word: freehand
+    stem: freehand
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 51
+  polygon: !ruby/object:Word
+    word: polygon
+    stem: polygon
+    docFrequency: 3
+    docPositions:
+    - 50
+    - 51
+  circle: !ruby/object:Word
+    word: circle
+    stem: circl
+    docFrequency: 2
+    docPositions:
+    - 52
+  ellipse: !ruby/object:Word
+    word: ellipse
+    stem: ellips
+    docFrequency: 2
+    docPositions:
+    - 53
+  triangle: !ruby/object:Word
+    word: triangle
+    stem: triangl
+    docFrequency: 2
+    docPositions:
+    - 54
+  rectangle: !ruby/object:Word
+    word: rectangle
+    stem: rectangl
+    docFrequency: 2
+    docPositions:
+    - 55
+  graphic: !ruby/object:Word
+    word: graphic
+    stem: graphic
+    docFrequency: 2
+    docPositions:
+    - 57
+  background: !ruby/object:Word
+    word: background
+    stem: background
+    docFrequency: 2
+    docPositions:
+    - 57
+  color: !ruby/object:Word
+    word: color
+    stem: color
+    docFrequency: 2
+    docPositions:
+    - 57
+  clear: !ruby/object:Word
+    word: clear
+    stem: clear
+    docFrequency: 4
+    docPositions:
+    - 59
+    - 93
+    - 113
+  map: !ruby/object:Word
+    word: map
+    stem: map
+    docFrequency: 8
+    docPositions:
+    - 59
+    - 74
+    - 93
+    - 113
+    - 247
+    - 257
+    - 341
+  bold: !ruby/object:Word
+    word: bold
+    stem: bold
+    docFrequency: 2
+    docPositions:
+    - 77
+  italic: !ruby/object:Word
+    word: italic
+    stem: ital
+    docFrequency: 2
+    docPositions:
+    - 78
+  underline: !ruby/object:Word
+    word: underline
+    stem: underlin
+    docFrequency: 2
+    docPositions:
+    - 79
+  size: !ruby/object:Word
+    word: size
+    stem: size
+    docFrequency: 2
+    docPositions:
+    - 82
+  font: !ruby/object:Word
+    word: font
+    stem: font
+    docFrequency: 2
+    docPositions:
+    - 86
+  algerianarialbroadwaycomic: !ruby/object:Word
+    word: algerianarialbroadwaycomic
+    stem: algerianarialbroadwaycom
+    docFrequency: 2
+    docPositions:
+    - 87
+  sans: !ruby/object:Word
+    word: sans
+    stem: san
+    docFrequency: 2
+    docPositions:
+    - 87
+  mscourierverdana: !ruby/object:Word
+    word: mscourierverdana
+    stem: mscourierverdana
+    docFrequency: 2
+    docPositions:
+    - 87
+  placement: !ruby/object:Word
+    word: placement
+    stem: placement
+    docFrequency: 2
+    docPositions:
+    - 89
+  abovebelowleftrightacross: !ruby/object:Word
+    word: abovebelowleftrightacross
+    stem: abovebelowleftrightacross
+    docFrequency: 2
+    docPositions:
+    - 90
+  place: !ruby/object:Word
+    word: place
+    stem: place
+    docFrequency: 2
+    docPositions:
+    - 92
+  feet: !ruby/object:Word
+    word: feet
+    stem: feet
+    docFrequency: 3
+    docPositions:
+    - 108
+    - 109
+  square: !ruby/object:Word
+    word: square
+    stem: squar
+    docFrequency: 2
+    docPositions:
+    - 109
+  meters: !ruby/object:Word
+    word: meters
+    stem: meter
+    docFrequency: 2
+    docPositions:
+    - 110
+  acres: !ruby/object:Word
+    word: acres
+    stem: acr
+    docFrequency: 2
+    docPositions:
+    - 111
+  miles: !ruby/object:Word
+    word: miles
+    stem: mile
+    docFrequency: 2
+    docPositions:
+    - 112
+  accessibility: !ruby/object:Word
+    word: accessibility
+    stem: access
+    docFrequency: 2
+    docPositions:
+    - 126
+  automatic: !ruby/object:Word
+    word: automatic
+    stem: automat
+    docFrequency: 2
+    docPositions:
+    - 133
+  doors: !ruby/object:Word
+    word: doors
+    stem: door
+    docFrequency: 2
+    docPositions:
+    - 133
+  elevators: !ruby/object:Word
+    word: elevators
+    stem: elev
+    docFrequency: 2
+    docPositions:
+    - 138
+  entrances: !ruby/object:Word
+    word: entrances
+    stem: entranc
+    docFrequency: 2
+    docPositions:
+    - 142
+  parking: !ruby/object:Word
+    word: parking
+    stem: park
+    docFrequency: 7
+    docPositions:
+    - 146
+    - 188
+    - 194
+    - 198
+    - 202
+    - 206
+  buildings: !ruby/object:Word
+    word: buildings
+    stem: build
+    docFrequency: 4
+    docPositions:
+    - 158
+    - 164
+    - 168
+  iu: !ruby/object:Word
+    word: iu
+    stem: iu
+    docFrequency: 8
+    docPositions:
+    - 164
+    - 168
+    - 202
+    - 206
+    - 236
+    - 258
+    - 259
+  non: !ruby/object:Word
+    word: non
+    stem: non
+    docFrequency: 2
+    docPositions:
+    - 168
+  fraternities: !ruby/object:Word
+    word: fraternities
+    stem: fratern
+    docFrequency: 2
+    docPositions:
+    - 172
+  sororities: !ruby/object:Word
+    word: sororities
+    stem: soror
+    docFrequency: 2
+    docPositions:
+    - 172
+  construction: !ruby/object:Word
+    word: construction
+    stem: construct
+    docFrequency: 2
+    docPositions:
+    - 176
+  zones: !ruby/object:Word
+    word: zones
+    stem: zone
+    docFrequency: 2
+    docPositions:
+    - 176
+  visitor: !ruby/object:Word
+    word: visitor
+    stem: visitor
+    docFrequency: 2
+    docPositions:
+    - 194
+  garages: !ruby/object:Word
+    word: garages
+    stem: garag
+    docFrequency: 2
+    docPositions:
+    - 198
+  lots: !ruby/object:Word
+    word: lots
+    stem: lot
+    docFrequency: 2
+    docPositions:
+    - 202
+  spaces: !ruby/object:Word
+    word: spaces
+    stem: space
+    docFrequency: 2
+    docPositions:
+    - 206
+  bike: !ruby/object:Word
+    word: bike
+    stem: bike
+    docFrequency: 2
+    docPositions:
+    - 210
+  racks: !ruby/object:Word
+    word: racks
+    stem: rack
+    docFrequency: 2
+    docPositions:
+    - 210
+  emergency: !ruby/object:Word
+    word: emergency
+    stem: emerg
+    docFrequency: 3
+    docPositions:
+    - 222
+    - 232
+  safety: !ruby/object:Word
+    word: safety
+    stem: safeti
+    docFrequency: 3
+    docPositions:
+    - 222
+    - 228
+  campus: !ruby/object:Word
+    word: campus
+    stem: campu
+    docFrequency: 5
+    docPositions:
+    - 228
+    - 257
+    - 258
+    - 259
+  pedestrian: !ruby/object:Word
+    word: pedestrian
+    stem: pedestrian
+    docFrequency: 2
+    docPositions:
+    - 228
+  phones: !ruby/object:Word
+    word: phones
+    stem: phone
+    docFrequency: 2
+    docPositions:
+    - 232
+  police: !ruby/object:Word
+    word: police
+    stem: polic
+    docFrequency: 2
+    docPositions:
+    - 236
+  department: !ruby/object:Word
+    word: department
+    stem: depart
+    docFrequency: 3
+    docPositions:
+    - 236
+    - 240
+  fire: !ruby/object:Word
+    word: fire
+    stem: fire
+    docFrequency: 2
+    docPositions:
+    - 240
+  standard: !ruby/object:Word
+    word: standard
+    stem: standard
+    docFrequency: 2
+    docPositions:
+    - 249
+  photo: !ruby/object:Word
+    word: photo
+    stem: photo
+    docFrequency: 2
+    docPositions:
+    - 250
+  additional: !ruby/object:Word
+    word: additional
+    stem: addit
+    docFrequency: 2
+    docPositions:
+    - 255
+  resources: !ruby/object:Word
+    word: resources
+    stem: resourc
+    docFrequency: 2
+    docPositions:
+    - 255
+  printable: !ruby/object:Word
+    word: printable
+    stem: printabl
+    docFrequency: 2
+    docPositions:
+    - 257
+  bus: !ruby/object:Word
+    word: bus
+    stem: bu
+    docFrequency: 3
+    docPositions:
+    - 258
+    - 259
+  routes: !ruby/object:Word
+    word: routes
+    stem: rout
+    docFrequency: 2
+    docPositions:
+    - 258
+  schedules: !ruby/object:Word
+    word: schedules
+    stem: schedul
+    docFrequency: 2
+    docPositions:
+    - 259
+  get: !ruby/object:Word
+    word: get
+    stem: get
+    docFrequency: 2
+    docPositions:
+    - 261
+  help: !ruby/object:Word
+    word: help
+    stem: help
+    docFrequency: 2
+    docPositions:
+    - 261
+  submit: !ruby/object:Word
+    word: submit
+    stem: submit
+    docFrequency: 2
+    docPositions:
+    - 262
+  feedback: !ruby/object:Word
+    word: feedback
+    stem: feedback
+    docFrequency: 2
+    docPositions:
+    - 262
+  building: !ruby/object:Word
+    word: building
+    stem: build
+    docFrequency: 2
+    docPositions:
+    - 270
+  name: !ruby/object:Word
+    word: name
+    stem: name
+    docFrequency: 2
+    docPositions:
+    - 270
+  address: !ruby/object:Word
+    word: address
+    stem: address
+    docFrequency: 2
+    docPositions:
+    - 271
+  loading: !ruby/object:Word
+    word: loading
+    stem: load
+    docFrequency: 2
+    docPositions:
+    - 279
+  open: !ruby/object:Word
+    word: open
+    stem: open
+    docFrequency: 2
+    docPositions:
+    - 284
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 2
+    docPositions:
+    - 291
+  notice: !ruby/object:Word
+    word: notice
+    stem: notic
+    docFrequency: 3
+    docPositions:
+    - 291
+    - 341
+  copyright: !ruby/object:Word
+    word: copyright
+    stem: copyright
+    docFrequency: 7
+    docPositions:
+    - 295
+    - 301
+    - 329
+    - 344
+    - 350
+    - 351
+  thedate: !ruby/object:Word
+    word: thedate
+    stem: thedat
+    docFrequency: 5
+    docPositions:
+    - 297
+    - 298
+    - 346
+    - 347
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 3
+    docPositions:
+    - 297
+    - 346
+  date: !ruby/object:Word
+    word: date
+    stem: date
+    docFrequency: 3
+    docPositions:
+    - 297
+    - 346
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 3
+    docPositions:
+    - 298
+    - 347
+  write: !ruby/object:Word
+    word: write
+    stem: write
+    docFrequency: 3
+    docPositions:
+    - 298
+    - 347
+  getfullyear: !ruby/object:Word
+    word: getfullyear
+    stem: getfullyear
+    docFrequency: 3
+    docPositions:
+    - 298
+    - 347
+  trustees: !ruby/object:Word
+    word: trustees
+    stem: truste
+    docFrequency: 5
+    docPositions:
+    - 300
+    - 330
+    - 349
+    - 352
+  complaints: !ruby/object:Word
+    word: complaints
+    stem: complaint
+    docFrequency: 3
+    docPositions:
+    - 301
+    - 350
+  viewadditional: !ruby/object:Word
+    word: viewadditional
+    stem: viewaddit
+    docFrequency: 2
+    docPositions:
+    - 341
+  resourcesprivacy: !ruby/object:Word
+    word: resourcesprivacy
+    stem: resourcesprivaci
+    docFrequency: 2
+    docPositions:
+    - 341
+lineCount: 353
+wordCount: 192
+rank: 0.25
+title: 'IU Bloomington Campus Map: Indiana University Bloomington'
+links:
+- http://www.iub.edu/
+- http://www.indiana.edu/~uao/docs/standards/iubmap_11x17_wayfinding.pdf
+- http://iub.doublemap.com/map/
+- http://www.iubus.indiana.edu/campus_bus/bus_schedule.html
+- http://www.iu.edu/
+- http://www.iu.edu/copyright/index.shtml
+- http://www.iu.edu/
+- http://www.iu.edu/copyright/complaints.shtml
+rawText: "\n\n  \n        \n        \n        \n        \t\n                \n                    \n
+  \                       \n                            Indiana University Bloomington\n
+  \                       \n                    \n                \n            \n
+  \       \n        \n        \n        \t\n            \tDraw\n\t                Label\n\t
+  \               Measure\n\t                Print View\n\t                Link\n\t
+  \               Mobile Tour\n            \t\n                \n                  AllAddressesBuilding
+  Names2-Letter CodesBuilding Numbers\n\t\t\t\n        \n\t\n  \n\t \n        \n              \n
+  \             \n                      \n                        Drawing Tools\n
+  \                         \n                              \n                          \n
+  \                      \n                      \n                      \n                        Point\n
+  \                       Multipoint\n                        Line\n                        Arrow\n
+  \                       Polyline\n                        Freehand Polyline\n                        Polygon\n
+  \                       Freehand Polygon\n                        Circle\n                        Ellipse\n
+  \                       Triangle\n                        Rectangle\n                        \n
+  \                           Graphic Background Color\n                            \n
+  \                       Clear Map\n                      \n              \n              \n
+  \             \n              \n                      \n                        Label
+  Tools\n                          \n                              \n                          \n
+  \                      \n                      \n                      \n\t\t\t\t\t\t\n
+  \                       Label a point on the map\n                        \n\t\t\t\t\t\t\n
+  \                       Bold\n                        Italic\n                        Underline\n
+  \                       \n\t\t\t\t\t\t\n                        Size\n                        2px4px6px8px9px10px11px12px14px16px18px20px22px24px26px28px36px48px72pxColor\n
+  \                       \n\t\t\t\t\t\t\n                        Font \n                        AlgerianArialBroadwayComic
+  Sans MSCourierVerdana\n\t\t\t\t\t\t\n                        Placement\n                        AboveBelowLeftRightAcross\n\t\t\t\t\t\t\n
+  \                       Place Label\n\t                    Clear Map\n                        \n
+  \                     \n              \n              \n              \n              \n
+  \                     \n                        Measure Tools\n                          \n
+  \                             \n                          \n                       \n
+  \                     \n                      \n                        Feet\n                        Square
+  Feet\n                        Meters\n                        Acres\n                        Miles\n
+  \                       Clear Map\n                      \n              \n              \n
+  \             \n               \n\n              \n                  \n                      \n
+  \                       \n                          \n                        \n
+  \                       Accessibility\n                        \n                      \n
+  \                     \n                          \n                                \n
+  \                               \n                                  Automatic Doors\n
+  \                               \n                            \n                            \n
+  \                             \n                              Elevators\n                              \n
+  \                           \n                                \n                                  Entrances\n
+  \                           \n                            \n                                \n
+  \                                 Parking\n                            \n                          \n
+  \                   \n                  \n              \n              \n                  \n
+  \                     \n                        \n                          \n                        \n
+  \                       Buildings\n                        \n                      \n
+  \                     \n                          \n                                \n
+  \                                 IU Buildings\n                                  \n
+  \                           \n                              \n                              Non-IU
+  Buildings\n                            \n                            \n                                \n
+  \                                 Fraternities & Sororities\n                            \n
+  \                           \n                                \n                                  Construction
+  Zones\n                            \n                          \n                    \n
+  \                 \n\n              \n                  \n                      \n
+  \                       \n                          \n                        \n
+  \                       Parking\n                        \n                      \n
+  \                     \n                          \n                                \n
+  \                                 Visitor Parking\n                            \n
+  \                           \n                                \n                                  Parking
+  Garages\n                            \n                            \n                                \n
+  \                                 IU Parking Lots\n                            \n
+  \                           \n                                \n                                  IU
+  Parking Spaces\n                                  \n                            \n
+  \                               \n                                  Bike Racks\n
+  \                           \n                          \n                    \n
+  \                 \n\n              \n                  \n                      \n
+  \                       \n                          \n                        \n
+  \                       Emergency & Safety\n                        \n                      \n
+  \                     \n                          \n                                \n
+  \                                 Campus Pedestrian Safety\n                            \n
+  \                           \n                              \n                              Emergency
+  Phones\n                            \n                            \n                                \n
+  \                                 IU Police Department\n                            \n
+  \                           \n                                \n                                  Fire
+  Department\n                            \n                          \n                    \n
+  \                 \n              \n              \n                  Map View\n
+  \                 \n                      Standard\n                          Photo\n
+  \                      \n              \n\n              \n                  Additional
+  Resources\n                  \n                      Printable Campus Map\n                          IU
+  Campus Bus Routes\n                          IU Campus Bus Schedules\n                          \n
+  \                         Get Help\n                          Submit Feedback »\n
+  \                     \n              \n    \n  \n\n          \n          \n            Building
+  Name\n                  Address\n                \n           \n\n\t\n\n    \n    \n
+  \       LOADING\n    \n\n    \n    \n        OPEN\n    \n\n        \n        \n
+  \       \t\n                \n                Privacy Notice\n                \n
+  \                    \n                    \n                        Copyright ©
+  \n                        \n                            var theDate=new Date()\n
+  \                           document.write(theDate.getFullYear())\n                         \n
+  \                   The Trustees of Indiana University, \n                    Copyright
+  Complaints\n                \n            \n        \n        \n         \n             \n
+  \             \n              \n                \n                  \n                  \n
+  \                 \n                  \n                  \n                \n                \n
+  \                 \n                  \n                  \n                  \n
+  \                 \n                \n              \n               \n            \n
+  \           \n                \n            Copyright © 2012\n              The
+  Trustees of Indiana University \n        \n    \n    \n        \n        \n    \n\n
+  \                       \n                            Indiana University Bloomington\n
+  \                       \n                    Map ViewAdditional ResourcesPrivacy
+  Notice\n                     \n                    \n                        Copyright
+  © \n                        \n                            var theDate=new Date()\n
+  \                           document.write(theDate.getFullYear())\n                         \n
+  \                   The Trustees of Indiana University, \n                    Copyright
+  Complaints\n                Copyright © 2012\n              The Trustees of Indiana
+  University"

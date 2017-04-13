@@ -1,0 +1,1409 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors:
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Misplaced DOCTYPE declaration
+    domain: 5
+    code: 800
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1hoqm02"
+    line: 3
+    str1: DOCTYPE
+    str2: 
+    str3: 
+    int1: 0
+    column: 1
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseStartTag: misplaced <html> tag
+    domain: 5
+    code: 800
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1hoqm02"
+    line: 5
+    str1: html
+    str2: 
+    str3: 
+    int1: 0
+    column: 6
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : a
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1hoqm02"
+    line: 196
+    str1: a
+    str2: 
+    str3: 
+    int1: 0
+    column: 13
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag footer invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1hoqm02"
+    line: 327
+    str1: footer
+    str2: 
+    str3: 
+    int1: 0
+    column: 20
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1hoqm02"
+    line: 367
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+address: https://oncourse.iu.edu/
+inboundLinks: []
+lines:
+- |2+
+
+- |2
+    Sakai works much better when JavaScript is enabled. Please enable JavaScript in your Browser.
+- "  \n"
+- "\tvar sakaiPortalWindow = \"\";\n"
+- |2
+    $(document).ready(function() {
+- "\t\t\tsetupSkipNav();\n"
+- |2
+      });
+- "\t\n"
+- |2
+      $(document).ready(function() {
+- |2+
+
+- |2
+          var toggleClass=""
+- |2
+                      toggleClass="toggleTools"
+- "                \t\t\t\tsetupToolToggle(toggleClass);\n"
+- |2
+      });
+- |2+
+
+- "        \n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\tjump to content\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\tjump to tools list\n"
+- "\t\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\n"
+- "\t\t\t\t        \n"
+- "\t\t\t\t            \n"
+- "\t\t\t\t                University Information Technology Services\n"
+- "\t\t\t\t                Moving at the speed of innovation\n"
+- "\t\t\t\t            \n"
+- |2+
+
+- "\t\t\t\t            IUWARE\n"
+- "\t\t\t\t                One.IU\n"
+- "\t\t\t\t                CLOUDSTORAGE\n"
+- "\t\t\t\t                Help\n"
+- "\t\t\t\t            \n"
+- "\t\t\t\t    \n"
+- "\t\t\t\t    \n"
+- "\t\t\t\t\t\tExplore IT@IU\n"
+- "\t\t                \n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\tLogin\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tIndiana University\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\n"
+- |2+
+
+- "\t\t\n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- "\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "                        \t\t\t\tTools list begins here\n"
+- |2
+                  Oncourse
+- "\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tHome\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t  \t\t\t\t\t\t\t  \t\t\t\t  \t\t\t \t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tOncourse Committees\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t   \t\t\t\t\t  \t\t\t\t\t\t\t  \t\t\t\t  \t\t\t \t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tTraining & Support\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t   \t\t\t\t\t  \t\t\t\t\t\t\t  \t\t\t\t  \t\t\t \t\t\t\t\t\t\n"
+- "                            \n"
+- "\t\t\t\t\t\t\tContact Us\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t   \t\t\t\t\t  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \n"
+- "\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\tHelp\n"
+- "\t\t\t\t\t\t\t\tOpens in a new window \n"
+- "\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t \n"
+- "\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tContent begins here\n"
+- "\t\t\n"
+- "\t\t\n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- "\t\t\t\t\t\n"
+- "\t\t\n"
+- |2+
+
+- "\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t            \t\t\t\n"
+- "\t\t\t\t\t\n"
+- "                                            \t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t                \n"
+- "\t\t\t\t\t\t                        \n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWelcome\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOpens in a new window \n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t    \n"
+- |2+
+
+- |
+  $(document).ready(function() {
+- |
+  $('.closeMe a').click(function(e){
+- |2
+      e.preventDefault();
+- |2
+      $(this).closest('.alertMessage').fadeOut('slow')
+- |
+  });
+- |
+  })
+- |2+
+
+- |
+  if ( '/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html'.indexOf('http://') == 0 || '/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html'.indexOf('https://') == 0 ) {
+- |2+
+
+- "    function timeout6ffa3786_56f2_48b9_8094_1994f43e5376() { \n"
+- |2
+          var myframe = $("#id6ffa3786_56f2_48b9_8094_1994f43e5376");
+- |2
+          var loaded = false;
+- |2
+          window.console && console.log("/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html timeout check...");
+- |2
+          try {
+- |2
+              var iframeLoc = myframe.get(0).contentWindow.location;
+- |2
+              iframeLoc = String(iframeLoc);
+- |2
+              var windowLoc = String(window.location);
+- |2
+              window.console && console.log("iframe.location="+windowLoc);
+- |2
+              var ipos = -1;
+- |2
+              var slashcount = 0;
+- |2
+              for (var i=0; i<windowLoc.length; i++ ) {
+- |2
+                  if ( windowLoc[i] == '/' ) slashcount++;
+- |2
+                  if ( slashcount == 3 ) {
+- |2
+                      ipos = i;
+- |2
+                      break;
+- |2
+                  }
+- |2
+              }
+- |2
+              if ( ipos == -1 ) {
+- |2
+                  loaded = false;
+- "            } else { \n"
+- |2
+                  var prefix = windowLoc.substring(0, ipos);
+- |2
+                  window.console && console.log("iframe.prefix="+prefix);
+- |2
+                  loaded = iframeLoc.indexOf(prefix) == 0;
+- |2
+              }
+- |2
+          } catch(ex) {  // This is an expected/normal/hoped for occurance
+- |2
+              loaded = true;
+- |2
+          }
+- |2
+          if ( ! loaded ) {
+- |2
+              $('#alert6ffa3786_56f2_48b9_8094_1994f43e5376').show();
+- |2
+          } else {
+- |2
+              window.console && console.log('/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html load success');
+- |2
+          }
+- |2+
+
+- |2
+      }
+- |2+
+
+- |2
+      var timer6ffa3786_56f2_48b9_8094_1994f43e5376 = false;
+- |2
+      $(document).ready(function() {
+- |2
+          timer6ffa3786_56f2_48b9_8094_1994f43e5376 = window.setTimeout("timeout6ffa3786_56f2_48b9_8094_1994f43e5376()",8000);
+- |2
+      });
+- |
+  } else {
+- |2
+      window.console && console.log('/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html does not start with http:// or https://');
+- |
+  }
+- "Alert: \n"
+- |
+  This page seems to have trouble loading.
+- |
+  Re-launch page in a new window.
+- "x Click to dismiss  \n"
+- |2+
+
+- " \n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t \t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "   \n"
+- "                                                                                                                                                                                                                       \n"
+- |2+
+
+- |2+
+
+- "    \n"
+- "        \n"
+- "        Copyright © 2015 The Trustees of Indiana University | Copyright Complaints
+  \n"
+- "    \n"
+- "    \n"
+- "        \n"
+- |2
+              Facebook
+- |2
+              Twitter
+- |2
+              YouTube
+- "        \n"
+- |2
+          About IT
+- |2
+              Jobs in IT
+- |2
+              Office of the Vice President for IT
+- |2
+              Acknowledgements
+- |2
+              Privacy Notice
+- "        \n"
+- "\t\n"
+- "\t\tOncourse - 2.9.x-r321479 - Sakai (r321479) - Server esoncprd02\n"
+- "\t\n"
+- "\t\n"
+- "\t\t\t\n"
+- |2+
+
+- |2+
+
+- "\t\t\t\t\t\n"
+- |2+
+
+- "\t\n"
+- |2+
+
+- |2+
+
+- "\t\n"
+- |2+
+
+- |2+
+
+- |2+
+
+- "\tx Click to dismiss Copyright © 2015 The Trustees of Indiana University | Copyright
+  Complaints Oncourse - 2.9.x-r321479 - Sakai (r321479) - Server esoncprd02"
+index:
+  sakai: !ruby/object:Word
+    word: sakai
+    stem: sakai
+    docFrequency: 4
+    docPositions:
+    - 1
+    - 241
+    - 256
+  works: !ruby/object:Word
+    word: works
+    stem: work
+    docFrequency: 2
+    docPositions:
+    - 1
+  much: !ruby/object:Word
+    word: much
+    stem: much
+    docFrequency: 2
+    docPositions:
+    - 1
+  better: !ruby/object:Word
+    word: better
+    stem: better
+    docFrequency: 2
+    docPositions:
+    - 1
+  enabled: !ruby/object:Word
+    word: enabled
+    stem: enabl
+    docFrequency: 2
+    docPositions:
+    - 1
+  please: !ruby/object:Word
+    word: please
+    stem: pleas
+    docFrequency: 2
+    docPositions:
+    - 1
+  enable: !ruby/object:Word
+    word: enable
+    stem: enabl
+    docFrequency: 2
+    docPositions:
+    - 1
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 2
+    docPositions:
+    - 1
+  browser: !ruby/object:Word
+    word: browser
+    stem: browser
+    docFrequency: 2
+    docPositions:
+    - 1
+  sakaiportalwindow: !ruby/object:Word
+    word: sakaiportalwindow
+    stem: sakaiportalwindow
+    docFrequency: 2
+    docPositions:
+    - 3
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 12
+    docPositions:
+    - 4
+    - 8
+    - 149
+    - 150
+    - 152
+    - 178
+    - 183
+    - 187
+    - 188
+    - 195
+    - 198
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 5
+    docPositions:
+    - 4
+    - 8
+    - 149
+    - 195
+  ready: !ruby/object:Word
+    word: ready
+    stem: readi
+    docFrequency: 5
+    docPositions:
+    - 4
+    - 8
+    - 149
+    - 195
+  function: !ruby/object:Word
+    word: function
+    stem: function
+    docFrequency: 7
+    docPositions:
+    - 4
+    - 8
+    - 149
+    - 150
+    - 158
+    - 195
+  setupskipnav: !ruby/object:Word
+    word: setupskipnav
+    stem: setupskipnav
+    docFrequency: 2
+    docPositions:
+    - 5
+  toggleclass: !ruby/object:Word
+    word: toggleclass
+    stem: toggleclass
+    docFrequency: 4
+    docPositions:
+    - 10
+    - 11
+    - 12
+  toggletools: !ruby/object:Word
+    word: toggletools
+    stem: toggletool
+    docFrequency: 2
+    docPositions:
+    - 11
+  setuptooltoggle: !ruby/object:Word
+    word: setuptooltoggle
+    stem: setuptooltoggl
+    docFrequency: 2
+    docPositions:
+    - 12
+  jump: !ruby/object:Word
+    word: jump
+    stem: jump
+    docFrequency: 3
+    docPositions:
+    - 21
+    - 24
+  content: !ruby/object:Word
+    word: content
+    stem: content
+    docFrequency: 8
+    docPositions:
+    - 21
+    - 116
+    - 156
+    - 161
+    - 189
+    - 199
+  tools: !ruby/object:Word
+    word: tools
+    stem: tool
+    docFrequency: 3
+    docPositions:
+    - 24
+    - 79
+  list: !ruby/object:Word
+    word: list
+    stem: list
+    docFrequency: 3
+    docPositions:
+    - 24
+    - 79
+  university: !ruby/object:Word
+    word: university
+    stem: univers
+    docFrequency: 5
+    docPositions:
+    - 38
+    - 58
+    - 226
+    - 256
+  information: !ruby/object:Word
+    word: information
+    stem: inform
+    docFrequency: 2
+    docPositions:
+    - 38
+  technology: !ruby/object:Word
+    word: technology
+    stem: technolog
+    docFrequency: 2
+    docPositions:
+    - 38
+  services: !ruby/object:Word
+    word: services
+    stem: servic
+    docFrequency: 2
+    docPositions:
+    - 38
+  moving: !ruby/object:Word
+    word: moving
+    stem: move
+    docFrequency: 2
+    docPositions:
+    - 39
+  speed: !ruby/object:Word
+    word: speed
+    stem: speed
+    docFrequency: 2
+    docPositions:
+    - 39
+  innovation: !ruby/object:Word
+    word: innovation
+    stem: innov
+    docFrequency: 2
+    docPositions:
+    - 39
+  iuware: !ruby/object:Word
+    word: iuware
+    stem: iuwar
+    docFrequency: 2
+    docPositions:
+    - 42
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 2
+    docPositions:
+    - 43
+  iu: !ruby/object:Word
+    word: iu
+    stem: iu
+    docFrequency: 3
+    docPositions:
+    - 43
+    - 49
+  cloudstorage: !ruby/object:Word
+    word: cloudstorage
+    stem: cloudstorag
+    docFrequency: 2
+    docPositions:
+    - 44
+  help: !ruby/object:Word
+    word: help
+    stem: help
+    docFrequency: 3
+    docPositions:
+    - 45
+    - 104
+  explore: !ruby/object:Word
+    word: explore
+    stem: explor
+    docFrequency: 2
+    docPositions:
+    - 49
+  login: !ruby/object:Word
+    word: login
+    stem: login
+    docFrequency: 2
+    docPositions:
+    - 53
+  indiana: !ruby/object:Word
+    word: indiana
+    stem: indiana
+    docFrequency: 4
+    docPositions:
+    - 58
+    - 226
+    - 256
+  begins: !ruby/object:Word
+    word: begins
+    stem: begin
+    docFrequency: 3
+    docPositions:
+    - 79
+    - 116
+  here: !ruby/object:Word
+    word: here
+    stem: here
+    docFrequency: 3
+    docPositions:
+    - 79
+    - 116
+  oncourse: !ruby/object:Word
+    word: oncourse
+    stem: oncours
+    docFrequency: 5
+    docPositions:
+    - 80
+    - 89
+    - 241
+    - 256
+  home: !ruby/object:Word
+    word: home
+    stem: home
+    docFrequency: 7
+    docPositions:
+    - 84
+    - 156
+    - 161
+    - 189
+    - 199
+  committees: !ruby/object:Word
+    word: committees
+    stem: committe
+    docFrequency: 2
+    docPositions:
+    - 89
+  training: !ruby/object:Word
+    word: training
+    stem: train
+    docFrequency: 2
+    docPositions:
+    - 94
+  support: !ruby/object:Word
+    word: support
+    stem: support
+    docFrequency: 2
+    docPositions:
+    - 94
+  contact: !ruby/object:Word
+    word: contact
+    stem: contact
+    docFrequency: 2
+    docPositions:
+    - 99
+  us: !ruby/object:Word
+    word: us
+    stem: us
+    docFrequency: 2
+    docPositions:
+    - 99
+  opens: !ruby/object:Word
+    word: opens
+    stem: open
+    docFrequency: 3
+    docPositions:
+    - 105
+    - 140
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 4
+    docPositions:
+    - 105
+    - 140
+    - 203
+  window: !ruby/object:Word
+    word: window
+    stem: window
+    docFrequency: 11
+    docPositions:
+    - 105
+    - 140
+    - 161
+    - 165
+    - 166
+    - 180
+    - 189
+    - 196
+    - 199
+    - 203
+  welcome: !ruby/object:Word
+    word: welcome
+    stem: welcom
+    docFrequency: 2
+    docPositions:
+    - 135
+  closeme: !ruby/object:Word
+    word: closeme
+    stem: closem
+    docFrequency: 2
+    docPositions:
+    - 150
+  click: !ruby/object:Word
+    word: click
+    stem: click
+    docFrequency: 4
+    docPositions:
+    - 150
+    - 204
+    - 256
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 3
+    docPositions:
+    - 150
+    - 151
+  preventdefault: !ruby/object:Word
+    word: preventdefault
+    stem: preventdefault
+    docFrequency: 2
+    docPositions:
+    - 151
+  closest: !ruby/object:Word
+    word: closest
+    stem: closest
+    docFrequency: 2
+    docPositions:
+    - 152
+  alertmessage: !ruby/object:Word
+    word: alertmessage
+    stem: alertmessag
+    docFrequency: 2
+    docPositions:
+    - 152
+  fadeout: !ruby/object:Word
+    word: fadeout
+    stem: fadeout
+    docFrequency: 2
+    docPositions:
+    - 152
+  slow: !ruby/object:Word
+    word: slow
+    stem: slow
+    docFrequency: 2
+    docPositions:
+    - 152
+  if: !ruby/object:Word
+    word: if
+    stem: if
+    docFrequency: 6
+    docPositions:
+    - 156
+    - 170
+    - 171
+    - 176
+    - 186
+  access: !ruby/object:Word
+    word: access
+    stem: access
+    docFrequency: 6
+    docPositions:
+    - 156
+    - 161
+    - 189
+    - 199
+  group: !ruby/object:Word
+    word: group
+    stem: group
+    docFrequency: 6
+    docPositions:
+    - 156
+    - 161
+    - 189
+    - 199
+  public: !ruby/object:Word
+    word: public
+    stem: public
+    docFrequency: 6
+    docPositions:
+    - 156
+    - 161
+    - 189
+    - 199
+  html: !ruby/object:Word
+    word: html
+    stem: html
+    docFrequency: 6
+    docPositions:
+    - 156
+    - 161
+    - 189
+    - 199
+  indexof: !ruby/object:Word
+    word: indexof
+    stem: indexof
+    docFrequency: 4
+    docPositions:
+    - 156
+    - 181
+  https: !ruby/object:Word
+    word: https
+    stem: http
+    docFrequency: 3
+    docPositions:
+    - 156
+    - 199
+  myframe: !ruby/object:Word
+    word: myframe
+    stem: myfram
+    docFrequency: 3
+    docPositions:
+    - 159
+    - 163
+  loaded: !ruby/object:Word
+    word: loaded
+    stem: load
+    docFrequency: 6
+    docPositions:
+    - 160
+    - 177
+    - 181
+    - 184
+    - 186
+  'false': !ruby/object:Word
+    word: 'false'
+    stem: fals
+    docFrequency: 4
+    docPositions:
+    - 160
+    - 177
+    - 194
+  console: !ruby/object:Word
+    word: console
+    stem: consol
+    docFrequency: 11
+    docPositions:
+    - 161
+    - 166
+    - 180
+    - 189
+    - 199
+  log: !ruby/object:Word
+    word: log
+    stem: log
+    docFrequency: 6
+    docPositions:
+    - 161
+    - 166
+    - 180
+    - 189
+    - 199
+  timeout: !ruby/object:Word
+    word: timeout
+    stem: timeout
+    docFrequency: 2
+    docPositions:
+    - 161
+  check: !ruby/object:Word
+    word: check
+    stem: check
+    docFrequency: 2
+    docPositions:
+    - 161
+  try: !ruby/object:Word
+    word: try
+    stem: try
+    docFrequency: 2
+    docPositions:
+    - 162
+  iframeloc: !ruby/object:Word
+    word: iframeloc
+    stem: iframeloc
+    docFrequency: 5
+    docPositions:
+    - 163
+    - 164
+    - 181
+  get: !ruby/object:Word
+    word: get
+    stem: get
+    docFrequency: 2
+    docPositions:
+    - 163
+  contentwindow: !ruby/object:Word
+    word: contentwindow
+    stem: contentwindow
+    docFrequency: 2
+    docPositions:
+    - 163
+  location: !ruby/object:Word
+    word: location
+    stem: locat
+    docFrequency: 4
+    docPositions:
+    - 163
+    - 165
+    - 166
+  string: !ruby/object:Word
+    word: string
+    stem: string
+    docFrequency: 3
+    docPositions:
+    - 164
+    - 165
+  windowloc: !ruby/object:Word
+    word: windowloc
+    stem: windowloc
+    docFrequency: 6
+    docPositions:
+    - 165
+    - 166
+    - 169
+    - 170
+    - 179
+  iframe: !ruby/object:Word
+    word: iframe
+    stem: ifram
+    docFrequency: 3
+    docPositions:
+    - 166
+    - 180
+  ipos: !ruby/object:Word
+    word: ipos
+    stem: ipo
+    docFrequency: 5
+    docPositions:
+    - 167
+    - 172
+    - 176
+    - 179
+  slashcount: !ruby/object:Word
+    word: slashcount
+    stem: slashcount
+    docFrequency: 4
+    docPositions:
+    - 168
+    - 170
+    - 171
+  i: !ruby/object:Word
+    word: i
+    stem: i
+    docFrequency: 6
+    docPositions:
+    - 169
+    - 170
+    - 172
+  length: !ruby/object:Word
+    word: length
+    stem: length
+    docFrequency: 2
+    docPositions:
+    - 169
+  break: !ruby/object:Word
+    word: break
+    stem: break
+    docFrequency: 2
+    docPositions:
+    - 173
+  else: !ruby/object:Word
+    word: else
+    stem: els
+    docFrequency: 4
+    docPositions:
+    - 178
+    - 188
+    - 198
+  prefix: !ruby/object:Word
+    word: prefix
+    stem: prefix
+    docFrequency: 5
+    docPositions:
+    - 179
+    - 180
+    - 181
+  substring: !ruby/object:Word
+    word: substring
+    stem: substr
+    docFrequency: 2
+    docPositions:
+    - 179
+  catch: !ruby/object:Word
+    word: catch
+    stem: catch
+    docFrequency: 2
+    docPositions:
+    - 183
+  ex: !ruby/object:Word
+    word: ex
+    stem: ex
+    docFrequency: 2
+    docPositions:
+    - 183
+  expected: !ruby/object:Word
+    word: expected
+    stem: expect
+    docFrequency: 2
+    docPositions:
+    - 183
+  normal: !ruby/object:Word
+    word: normal
+    stem: normal
+    docFrequency: 2
+    docPositions:
+    - 183
+  hoped: !ruby/object:Word
+    word: hoped
+    stem: hope
+    docFrequency: 2
+    docPositions:
+    - 183
+  occurance: !ruby/object:Word
+    word: occurance
+    stem: occur
+    docFrequency: 2
+    docPositions:
+    - 183
+  'true': !ruby/object:Word
+    word: 'true'
+    stem: 'true'
+    docFrequency: 2
+    docPositions:
+    - 184
+  show: !ruby/object:Word
+    word: show
+    stem: show
+    docFrequency: 2
+    docPositions:
+    - 187
+  load: !ruby/object:Word
+    word: load
+    stem: load
+    docFrequency: 2
+    docPositions:
+    - 189
+  success: !ruby/object:Word
+    word: success
+    stem: success
+    docFrequency: 2
+    docPositions:
+    - 189
+  settimeout: !ruby/object:Word
+    word: settimeout
+    stem: settimeout
+    docFrequency: 2
+    docPositions:
+    - 196
+  does: !ruby/object:Word
+    word: does
+    stem: doe
+    docFrequency: 2
+    docPositions:
+    - 199
+  not: !ruby/object:Word
+    word: not
+    stem: not
+    docFrequency: 2
+    docPositions:
+    - 199
+  start: !ruby/object:Word
+    word: start
+    stem: start
+    docFrequency: 2
+    docPositions:
+    - 199
+  alert: !ruby/object:Word
+    word: alert
+    stem: alert
+    docFrequency: 2
+    docPositions:
+    - 201
+  page: !ruby/object:Word
+    word: page
+    stem: page
+    docFrequency: 3
+    docPositions:
+    - 202
+    - 203
+  seems: !ruby/object:Word
+    word: seems
+    stem: seem
+    docFrequency: 2
+    docPositions:
+    - 202
+  have: !ruby/object:Word
+    word: have
+    stem: have
+    docFrequency: 2
+    docPositions:
+    - 202
+  trouble: !ruby/object:Word
+    word: trouble
+    stem: troubl
+    docFrequency: 2
+    docPositions:
+    - 202
+  loading: !ruby/object:Word
+    word: loading
+    stem: load
+    docFrequency: 2
+    docPositions:
+    - 202
+  re: !ruby/object:Word
+    word: re
+    stem: re
+    docFrequency: 2
+    docPositions:
+    - 203
+  launch: !ruby/object:Word
+    word: launch
+    stem: launch
+    docFrequency: 2
+    docPositions:
+    - 203
+  x: !ruby/object:Word
+    word: x
+    stem: x
+    docFrequency: 5
+    docPositions:
+    - 204
+    - 241
+    - 256
+  dismiss: !ruby/object:Word
+    word: dismiss
+    stem: dismiss
+    docFrequency: 3
+    docPositions:
+    - 204
+    - 256
+  copyright: !ruby/object:Word
+    word: copyright
+    stem: copyright
+    docFrequency: 5
+    docPositions:
+    - 226
+    - 256
+  trustees: !ruby/object:Word
+    word: trustees
+    stem: truste
+    docFrequency: 3
+    docPositions:
+    - 226
+    - 256
+  complaints: !ruby/object:Word
+    word: complaints
+    stem: complaint
+    docFrequency: 3
+    docPositions:
+    - 226
+    - 256
+  facebook: !ruby/object:Word
+    word: facebook
+    stem: facebook
+    docFrequency: 2
+    docPositions:
+    - 230
+  twitter: !ruby/object:Word
+    word: twitter
+    stem: twitter
+    docFrequency: 2
+    docPositions:
+    - 231
+  youtube: !ruby/object:Word
+    word: youtube
+    stem: youtub
+    docFrequency: 2
+    docPositions:
+    - 232
+  jobs: !ruby/object:Word
+    word: jobs
+    stem: job
+    docFrequency: 2
+    docPositions:
+    - 235
+  office: !ruby/object:Word
+    word: office
+    stem: offic
+    docFrequency: 2
+    docPositions:
+    - 236
+  vice: !ruby/object:Word
+    word: vice
+    stem: vice
+    docFrequency: 2
+    docPositions:
+    - 236
+  president: !ruby/object:Word
+    word: president
+    stem: presid
+    docFrequency: 2
+    docPositions:
+    - 236
+  acknowledgements: !ruby/object:Word
+    word: acknowledgements
+    stem: acknowledg
+    docFrequency: 2
+    docPositions:
+    - 237
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 2
+    docPositions:
+    - 238
+  notice: !ruby/object:Word
+    word: notice
+    stem: notic
+    docFrequency: 2
+    docPositions:
+    - 238
+  server: !ruby/object:Word
+    word: server
+    stem: server
+    docFrequency: 3
+    docPositions:
+    - 241
+    - 256
+lineCount: 257
+wordCount: 385
+rank: 0.25
+title: 'Oncourse : Gateway : Home'
+links:
+- http://iu.edu/
+- http://iuware.iu.edu/
+- https://one.iu.edu/
+- http://cloudstorage.iu.edu/
+- http://uits.iu.edu/
+- https://oncourse.iu.edu/portal/login
+- http://iu.edu/
+- http://oncourse.iu.edu/
+- https://oncourse.iu.edu/portal/site/!gateway/page/895a1a30-ac76-483c-8040-9ff3946d1c6c
+- https://oncourse.iu.edu/portal/site/!gateway/page/!gateway-500
+- https://oncourse.iu.edu/portal/help/main
+- https://oncourse.iu.edu/portal/?sakai.state.reset=true
+- https://oncourse.iu.edu/portal/help/main?help=sakai.iframe
+- http://www.indiana.edu/
+- http://www.iu.edu/comments/copyright.shtml
+- http://trustees.iu.edu/
+- http://www.iu.edu/
+- http://www.iu.edu/comments/complaint.shtml
+- http://www.facebook.com/iu.uits
+- http://twitter.com/insideUITS
+- http://www.youtube.com/user/UITSCommunications
+- http://it.iu.edu
+- http://www.indiana.edu/~uitshr/uitshrjobs.html
+- http://ovpit.iu.edu/
+- https://oncourse.iu.edu/library/content/gateway/acknowledgments.html
+rawText: "\n  Sakai works much better when JavaScript is enabled. Please enable JavaScript
+  in your Browser.\n  \n\tvar sakaiPortalWindow = \"\";\n  $(document).ready(function()
+  {\n\t\t\tsetupSkipNav();\n    });\n\t\n    $(document).ready(function() {\n\n        var
+  toggleClass=\"\"\n                    toggleClass=\"toggleTools\"\n                \t\t\t\tsetupToolToggle(toggleClass);\n
+  \   });\n\n        \n\t\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\tjump to content\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tjump
+  to tools list\n\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t
+  \       \n\t\t\t\t            \n\t\t\t\t                University Information Technology
+  Services\n\t\t\t\t                Moving at the speed of innovation\n\t\t\t\t            \n\n\t\t\t\t
+  \           IUWARE\n\t\t\t\t                One.IU\n\t\t\t\t                CLOUDSTORAGE\n\t\t\t\t
+  \               Help\n\t\t\t\t            \n\t\t\t\t    \n\t\t\t\t    \n\t\t\t\t\t\tExplore
+  IT@IU\n\t\t                \n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tLogin\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tIndiana
+  University\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\n\n\t\t\n\n\n\n\n\n\t\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n
+  \                       \t\t\t\tTools list begins here\n                Oncourse\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tHome\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t
+  \ \t\t\t\t\t\t\t  \t\t\t\t  \t\t\t \t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tOncourse
+  Committees\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t   \t\t\t\t\t  \t\t\t\t\t\t\t  \t\t\t\t
+  \ \t\t\t \t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tTraining & Support\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t
+  \  \t\t\t\t\t  \t\t\t\t\t\t\t  \t\t\t\t  \t\t\t \t\t\t\t\t\t\n                            \n\t\t\t\t\t\t\tContact
+  Us\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t   \t\t\t\t\t  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t
+  \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tHelp\n\t\t\t\t\t\t\t\tOpens in a new window
+  \n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t \n\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\n\t\t\t\n\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\tContent
+  begins here\n\t\t\n\t\t\n\n\n\n\n\t\t\t\t\t\n\t\t\n\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t
+  \           \t\t\t\n\t\t\t\t\t\n                                            \t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t
+  \               \n\t\t\t\t\t\t                        \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWelcome\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tOpens
+  in a new window \n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t
+  \   \n\n$(document).ready(function() {\n$('.closeMe a').click(function(e){\n    e.preventDefault();\n
+  \   $(this).closest('.alertMessage').fadeOut('slow')\n});\n})\n\nif ( '/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html'.indexOf('http://')
+  == 0 || '/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html'.indexOf('https://')
+  == 0 ) {\n\n    function timeout6ffa3786_56f2_48b9_8094_1994f43e5376() { \n        var
+  myframe = $(\"#id6ffa3786_56f2_48b9_8094_1994f43e5376\");\n        var loaded =
+  false;\n        window.console && console.log(\"/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html
+  timeout check...\");\n        try {\n            var iframeLoc = myframe.get(0).contentWindow.location;\n
+  \           iframeLoc = String(iframeLoc);\n            var windowLoc = String(window.location);\n
+  \           window.console && console.log(\"iframe.location=\"+windowLoc);\n            var
+  ipos = -1;\n            var slashcount = 0;\n            for (var i=0; i<windowLoc.length;
+  i++ ) {\n                if ( windowLoc[i] == '/' ) slashcount++;\n                if
+  ( slashcount == 3 ) {\n                    ipos = i;\n                    break;\n
+  \               }\n            }\n            if ( ipos == -1 ) {\n                loaded
+  = false;\n            } else { \n                var prefix = windowLoc.substring(0,
+  ipos);\n                window.console && console.log(\"iframe.prefix=\"+prefix);\n
+  \               loaded = iframeLoc.indexOf(prefix) == 0;\n            }\n        }
+  catch(ex) {  // This is an expected/normal/hoped for occurance\n            loaded
+  = true;\n        }\n        if ( ! loaded ) {\n            $('#alert6ffa3786_56f2_48b9_8094_1994f43e5376').show();\n
+  \       } else {\n            window.console && console.log('/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html
+  load success');\n        }\n\n    }\n\n    var timer6ffa3786_56f2_48b9_8094_1994f43e5376
+  = false;\n    $(document).ready(function() {\n        timer6ffa3786_56f2_48b9_8094_1994f43e5376
+  = window.setTimeout(\"timeout6ffa3786_56f2_48b9_8094_1994f43e5376()\",8000);\n    });\n}
+  else {\n    window.console && console.log('/access/content/group/61228fe2-11c1-4858-963f-ffb5ddcd2847/public/redesign2013/home.html
+  does not start with http:// or https://');\n}\nAlert: \nThis page seems to have
+  trouble loading.\nRe-launch page in a new window.\nx Click to dismiss  \n\n \n\n\n\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t
+  \t\t\t\n\t\t\t\n\t\t\t\n   \n                                                                                                                                                                                                                       \n\n\n
+  \   \n        \n        Copyright © 2015 The Trustees of Indiana University | Copyright
+  Complaints \n    \n    \n        \n            Facebook\n            Twitter\n            YouTube\n
+  \       \n        About IT\n            Jobs in IT\n            Office of the Vice
+  President for IT\n            Acknowledgements\n            Privacy Notice\n        \n\t\n\t\tOncourse
+  - 2.9.x-r321479 - Sakai (r321479) - Server esoncprd02\n\t\n\t\n\t\t\t\n\n\n\t\t\t\t\t\n\n\t\n\n\n\t\n\n\n\n\tx
+  Click to dismiss Copyright © 2015 The Trustees of Indiana University | Copyright
+  Complaints Oncourse - 2.9.x-r321479 - Sakai (r321479) - Server esoncprd02"

@@ -1,0 +1,1245 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors: []
+address: https://www.instagram.com/p/-2E_y0RZbv/
+inboundLinks: []
+lines:
+- |2+
+
+- "        \n"
+- "    \n"
+- "    \n"
+- "    \n"
+- |2+
+
+- "    \n"
+- |2+
+
+- "        \n"
+- |2
+      window._sharedData = {"country_code":"US","language_code":"en","gatekeepers":{"rhp":true},"qs":"{\"shift\":10,\"header\":\"snVvuxcVOGUbbo2JOhmwVRfF2lfjELmu\",\"edges\":100,\"blob\":\"AQBvUHZIlyqudvIQORj5lrvaCtGJ-tMe9k7o8ZglXNS1cqA3KLJ6pPyfQQOxC8B4SqNUGjksK7CZAs7OmF9RGOR5xUjjNP7KsFl7C22VkCOhjd-zgqGSoQCmpSRi-cT_eukLXhjCPY0Q39aHrXSSMCjoZ1jEZRmUMFPR7d9s6adn2u-PxFRu8F8PVb7idtt-faAEEuuHqIzXTaoJ-nqsFGw6HLRDdgsIjQpQ5d22I3AaDg\",\"iterations\":7,\"size\":42}","static_root":"\/\/instagramstatic-a.akamaihd.net\/bluebar\/4da1e40","platform":"web","hostname":"www.instagram.com","entry_data":{"PostPage":[{"__query_string":"?","media":{"code":"-2E_y0RZbv","date":1449178566.0,"dimensions":{"width":1080,"height":1080},"caption":"Best weather in the Big Ten. \u2600\ufe0f #indianauniversity #iu #indiana #university #bloomington #campus #college #school #home #hoosiers #bigten #campuslife #collegelife #trees #clocktower #winter #bluesky #nosnow #picoftheday","usertags":{"nodes":[]},"comments":{"count":13,"page_info":{"has_previous_page":false,"start_cursor":"1132124906700772886","end_cursor":"1133097985413322619","has_next_page":false},"nodes":[{"text":"Got my acceptance today!","created_at":1449179827,"id":"1132124906700772886","user":{"username":"onceldamla","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xpt1\/t51.2885-19\/s150x150\/11325629_938701879523517_1266228091_a.jpg","id":"608146340"}},{"text":"Southern most big ten school! @ksgimbel @jrauch6613","created_at":1449180479,"id":"1132130372323481162","user":{"username":"jimdog89","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xft1\/t51.2885-19\/11821234_866473533440483_426669539_a.jpg","id":"663284391"}},{"text":"2nd southernmost. Maryland has us beat.","created_at":1449181334,"id":"1132137548878288644","user":{"username":"jimdog89","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xft1\/t51.2885-19\/11821234_866473533440483_426669539_a.jpg","id":"663284391"}},{"text":"@noah_svec","created_at":1449181513,"id":"1132139047427609632","user":{"username":"50shadesofchadwick","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xfa1\/t51.2885-19\/s150x150\/11931162_1027869457277090_2077044516_a.jpg","id":"144573083"}},{"text":"@50shadesofchadwick south beach of the big ten","created_at":1449182583,"id":"1132148029680621107","user":{"username":"noah_svec","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xpt1\/t51.2885-19\/11881884_927800830633141_1871984737_a.jpg","id":"184352101"}},{"text":"1111th like!!!","created_at":1449183011,"id":"1132151616783619142","user":{"username":"thebaileymozer","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xft1\/t51.2885-19\/11325892_837197186371200_1230076884_a.jpg","id":"183703136"}},{"text":"@erinlynncrane miss this","created_at":1449183609,"id":"1132156629085951755","user":{"username":"__czesia","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xft1\/t51.2885-19\/11821192_405131846354404_6679331_a.jpg","id":"271958851"}},{"text":"@boyler_alert","created_at":1449187109,"id":"1132185990044423219","user":{"username":"_vicspics","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xpa1\/t51.2885-19\/s150x150\/12120300_1079387022085820_131509767_a.jpg","id":"690511"}},{"text":"That's not saying much!","created_at":1449190139,"id":"1132211406176097687","user":{"username":"kjlentin","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xtf1\/t51.2885-19\/11348301_846825978746076_957905280_a.jpg","id":"302057938"}},{"text":"@__czesia \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d","created_at":1449208179,"id":"1132362738207921577","user":{"username":"erinlynncrane","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xpt1\/t51.2885-19\/11820731_1477553732559533_1284108131_a.jpg","id":"27832562"}},{"text":"@_vicspics oh","created_at":1449212861,"id":"1132402011883803777","user":{"username":"boyler_alert","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xfa1\/t51.2885-19\/s150x150\/10890816_1017780221606881_335239967_a.jpg","id":"27977994"}},{"text":"@gibbs_2016 @aoyuede","created_at":1449216533,"id":"1132432821538100592","user":{"username":"yagirlemilia","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xpf1\/t51.2885-19\/s150x150\/11142272_430901290447968_1636042650_a.jpg","id":"2011392663"}},{"text":"Geez @yagirlemilia @aoyuede","created_at":1449295827,"id":"1133097985413322619","user":{"username":"gibbs_2016","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xaf1\/t51.2885-19\/10899268_824098537662186_1325080639_a.jpg","id":"210606456"}}]},"id":"1132114332407404271","shared_by_author":false,"likes":{"count":2314,"viewer_has_liked":false,"nodes":[{"user":{"username":"kellytantonian","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xtf1\/t51.2885-19\/s150x150\/12362585_524064307769988_1736456039_a.jpg","id":"2287873216"}},{"user":{"username":"jonicarmichael","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xtf1\/t51.2885-19\/s150x150\/12224627_1634712360126529_60095725_a.jpg","id":"2278508705"}},{"user":{"username":"appleofmyeyeschool","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xfa1\/t51.2885-19\/s150x150\/12276875_182746035406732_2048302538_a.jpg","id":"2315131206"}},{"user":{"username":"bleuetblanc99","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xta1\/t51.2885-19\/s150x150\/12106300_208269202838634_1280609067_a.jpg","id":"2283890856"}},{"user":{"username":"kelvinmoses8232","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xaf1\/t51.2885-19\/s150x150\/12276904_1659233361025912_1538642063_a.jpg","id":"2305133230"}},{"user":{"username":"no_action_is_action","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xpf1\/t51.2885-19\/s150x150\/12256640_849153575182043_1870945905_a.jpg","id":"2307483272"}},{"user":{"username":"web.of.life","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xpa1\/t51.2885-19\/s150x150\/10986227_1116193775075767_85611828_a.jpg","id":"2276587443"}},{"user":{"username":"campus.hotties","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xtf1\/t51.2885-19\/s150x150\/12298878_152287521795198_1301077383_a.jpg","id":"2305003606"}},{"user":{"username":"forrest_j_","profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xfp1\/t51.2885-19\/s150x150\/12346226_875909119182904_1511203384_a.jpg","id":"2289729592"}}]},"owner":{"username":"iubloomington","is_unpublished":false,"requested_by_viewer":false,"followed_by_viewer":false,"blocked_by_viewer":false,"profile_pic_url":"https:\/\/scontent.cdninstagram.com\/hphotos-xaf1\/t51.2885-19\/11376485_422406211274499_1780920129_a.jpg","full_name":"Indiana University","has_blocked_viewer":false,"id":"44139452","is_private":false},"is_video":false,"is_ad":false,"display_src":"https:\/\/scontent.cdninstagram.com\/hphotos-xft1\/t51.2885-15\/e35\/12277399_132471240452966_245320247_n.jpg","location":{"has_public_page":true,"id":"213444911","name":"Indiana University"}},"__get_params":{},"__path":"\/p\/-2E_y0RZbv\/"}]},"qe":{"su":{"p":{"enabled":"false"},"g":"control"}},"display_properties_server_guess":{"viewport_width":360,"pixel_ratio":1.5},"config":{"dismiss_app_install_banner_until":null,"viewer":null,"csrf_token":"006da3f3572f63bc616585138e9bc2e8"},"environment_switcher_visible_server_guess":true};
+- |
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+- |
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+- |
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+- |
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+- |
+  document,'script','//connect.facebook.net/en_US/fbevents.js');
+- |
+  fbq('init', '1425767024389221');
+- |
+  fbq('track', 'PageView');
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- "    \n"
+- "    window._timings.domInteractive = Date.now()"
+index:
+  window: !ruby/object:Word
+    word: window
+    stem: window
+    docFrequency: 4
+    docPositions:
+    - 9
+    - 13
+    - 25
+  _shareddata: !ruby/object:Word
+    word: _shareddata
+    stem: _shareddata
+    docFrequency: 2
+    docPositions:
+    - 9
+  country_code: !ruby/object:Word
+    word: country_code
+    stem: country_cod
+    docFrequency: 2
+    docPositions:
+    - 9
+  us: !ruby/object:Word
+    word: us
+    stem: us
+    docFrequency: 3
+    docPositions:
+    - 9
+  language_code: !ruby/object:Word
+    word: language_code
+    stem: language_cod
+    docFrequency: 2
+    docPositions:
+    - 9
+  en: !ruby/object:Word
+    word: en
+    stem: en
+    docFrequency: 2
+    docPositions:
+    - 9
+  gatekeepers: !ruby/object:Word
+    word: gatekeepers
+    stem: gatekeep
+    docFrequency: 2
+    docPositions:
+    - 9
+  rhp: !ruby/object:Word
+    word: rhp
+    stem: rhp
+    docFrequency: 2
+    docPositions:
+    - 9
+  'true': !ruby/object:Word
+    word: 'true'
+    stem: 'true'
+    docFrequency: 4
+    docPositions:
+    - 9
+  qs: !ruby/object:Word
+    word: qs
+    stem: qs
+    docFrequency: 2
+    docPositions:
+    - 9
+  shift: !ruby/object:Word
+    word: shift
+    stem: shift
+    docFrequency: 2
+    docPositions:
+    - 9
+  header: !ruby/object:Word
+    word: header
+    stem: header
+    docFrequency: 2
+    docPositions:
+    - 9
+  edges: !ruby/object:Word
+    word: edges
+    stem: edg
+    docFrequency: 2
+    docPositions:
+    - 9
+  blob: !ruby/object:Word
+    word: blob
+    stem: blob
+    docFrequency: 2
+    docPositions:
+    - 9
+  zgqgsoqcmpsri: !ruby/object:Word
+    word: zgqgsoqcmpsri
+    stem: zgqgsoqcmpsri
+    docFrequency: 2
+    docPositions:
+    - 9
+  faaeeuuhqizxtaoj: !ruby/object:Word
+    word: faaeeuuhqizxtaoj
+    stem: faaeeuuhqizxtaoj
+    docFrequency: 2
+    docPositions:
+    - 9
+  iterations: !ruby/object:Word
+    word: iterations
+    stem: iter
+    docFrequency: 2
+    docPositions:
+    - 9
+  size: !ruby/object:Word
+    word: size
+    stem: size
+    docFrequency: 2
+    docPositions:
+    - 9
+  static_root: !ruby/object:Word
+    word: static_root
+    stem: static_root
+    docFrequency: 2
+    docPositions:
+    - 9
+  instagramstatic: !ruby/object:Word
+    word: instagramstatic
+    stem: instagramstat
+    docFrequency: 2
+    docPositions:
+    - 9
+  akamaihd: !ruby/object:Word
+    word: akamaihd
+    stem: akamaihd
+    docFrequency: 2
+    docPositions:
+    - 9
+  net: !ruby/object:Word
+    word: net
+    stem: net
+    docFrequency: 3
+    docPositions:
+    - 9
+    - 14
+  bluebar: !ruby/object:Word
+    word: bluebar
+    stem: bluebar
+    docFrequency: 2
+    docPositions:
+    - 9
+  platform: !ruby/object:Word
+    word: platform
+    stem: platform
+    docFrequency: 2
+    docPositions:
+    - 9
+  web: !ruby/object:Word
+    word: web
+    stem: web
+    docFrequency: 3
+    docPositions:
+    - 9
+  hostname: !ruby/object:Word
+    word: hostname
+    stem: hostnam
+    docFrequency: 2
+    docPositions:
+    - 9
+  instagram: !ruby/object:Word
+    word: instagram
+    stem: instagram
+    docFrequency: 2
+    docPositions:
+    - 9
+  entry_data: !ruby/object:Word
+    word: entry_data
+    stem: entry_data
+    docFrequency: 2
+    docPositions:
+    - 9
+  postpage: !ruby/object:Word
+    word: postpage
+    stem: postpag
+    docFrequency: 2
+    docPositions:
+    - 9
+  __query_string: !ruby/object:Word
+    word: __query_string
+    stem: __query_str
+    docFrequency: 2
+    docPositions:
+    - 9
+  media: !ruby/object:Word
+    word: media
+    stem: media
+    docFrequency: 2
+    docPositions:
+    - 9
+  code: !ruby/object:Word
+    word: code
+    stem: code
+    docFrequency: 2
+    docPositions:
+    - 9
+  date: !ruby/object:Word
+    word: date
+    stem: date
+    docFrequency: 3
+    docPositions:
+    - 9
+    - 25
+  dimensions: !ruby/object:Word
+    word: dimensions
+    stem: dimens
+    docFrequency: 2
+    docPositions:
+    - 9
+  width: !ruby/object:Word
+    word: width
+    stem: width
+    docFrequency: 2
+    docPositions:
+    - 9
+  height: !ruby/object:Word
+    word: height
+    stem: height
+    docFrequency: 2
+    docPositions:
+    - 9
+  caption: !ruby/object:Word
+    word: caption
+    stem: caption
+    docFrequency: 2
+    docPositions:
+    - 9
+  best: !ruby/object:Word
+    word: best
+    stem: best
+    docFrequency: 2
+    docPositions:
+    - 9
+  weather: !ruby/object:Word
+    word: weather
+    stem: weather
+    docFrequency: 2
+    docPositions:
+    - 9
+  big: !ruby/object:Word
+    word: big
+    stem: big
+    docFrequency: 4
+    docPositions:
+    - 9
+  ten: !ruby/object:Word
+    word: ten
+    stem: ten
+    docFrequency: 4
+    docPositions:
+    - 9
+  indianauniversity: !ruby/object:Word
+    word: indianauniversity
+    stem: indianaunivers
+    docFrequency: 2
+    docPositions:
+    - 9
+  iu: !ruby/object:Word
+    word: iu
+    stem: iu
+    docFrequency: 2
+    docPositions:
+    - 9
+  indiana: !ruby/object:Word
+    word: indiana
+    stem: indiana
+    docFrequency: 4
+    docPositions:
+    - 9
+  university: !ruby/object:Word
+    word: university
+    stem: univers
+    docFrequency: 4
+    docPositions:
+    - 9
+  bloomington: !ruby/object:Word
+    word: bloomington
+    stem: bloomington
+    docFrequency: 2
+    docPositions:
+    - 9
+  campus: !ruby/object:Word
+    word: campus
+    stem: campu
+    docFrequency: 3
+    docPositions:
+    - 9
+  college: !ruby/object:Word
+    word: college
+    stem: colleg
+    docFrequency: 2
+    docPositions:
+    - 9
+  school: !ruby/object:Word
+    word: school
+    stem: school
+    docFrequency: 3
+    docPositions:
+    - 9
+  home: !ruby/object:Word
+    word: home
+    stem: home
+    docFrequency: 2
+    docPositions:
+    - 9
+  hoosiers: !ruby/object:Word
+    word: hoosiers
+    stem: hoosier
+    docFrequency: 2
+    docPositions:
+    - 9
+  bigten: !ruby/object:Word
+    word: bigten
+    stem: bigten
+    docFrequency: 2
+    docPositions:
+    - 9
+  campuslife: !ruby/object:Word
+    word: campuslife
+    stem: campuslif
+    docFrequency: 2
+    docPositions:
+    - 9
+  collegelife: !ruby/object:Word
+    word: collegelife
+    stem: collegelif
+    docFrequency: 2
+    docPositions:
+    - 9
+  trees: !ruby/object:Word
+    word: trees
+    stem: tree
+    docFrequency: 2
+    docPositions:
+    - 9
+  clocktower: !ruby/object:Word
+    word: clocktower
+    stem: clocktow
+    docFrequency: 2
+    docPositions:
+    - 9
+  winter: !ruby/object:Word
+    word: winter
+    stem: winter
+    docFrequency: 2
+    docPositions:
+    - 9
+  bluesky: !ruby/object:Word
+    word: bluesky
+    stem: blueski
+    docFrequency: 2
+    docPositions:
+    - 9
+  nosnow: !ruby/object:Word
+    word: nosnow
+    stem: nosnow
+    docFrequency: 2
+    docPositions:
+    - 9
+  picoftheday: !ruby/object:Word
+    word: picoftheday
+    stem: picofthedai
+    docFrequency: 2
+    docPositions:
+    - 9
+  usertags: !ruby/object:Word
+    word: usertags
+    stem: usertag
+    docFrequency: 2
+    docPositions:
+    - 9
+  nodes: !ruby/object:Word
+    word: nodes
+    stem: node
+    docFrequency: 4
+    docPositions:
+    - 9
+  comments: !ruby/object:Word
+    word: comments
+    stem: comment
+    docFrequency: 2
+    docPositions:
+    - 9
+  count: !ruby/object:Word
+    word: count
+    stem: count
+    docFrequency: 3
+    docPositions:
+    - 9
+  page_info: !ruby/object:Word
+    word: page_info
+    stem: page_info
+    docFrequency: 2
+    docPositions:
+    - 9
+  has_previous_page: !ruby/object:Word
+    word: has_previous_page
+    stem: has_previous_pag
+    docFrequency: 2
+    docPositions:
+    - 9
+  'false': !ruby/object:Word
+    word: 'false'
+    stem: fals
+    docFrequency: 14
+    docPositions:
+    - 9
+  start_cursor: !ruby/object:Word
+    word: start_cursor
+    stem: start_cursor
+    docFrequency: 2
+    docPositions:
+    - 9
+  end_cursor: !ruby/object:Word
+    word: end_cursor
+    stem: end_cursor
+    docFrequency: 2
+    docPositions:
+    - 9
+  has_next_page: !ruby/object:Word
+    word: has_next_page
+    stem: has_next_pag
+    docFrequency: 2
+    docPositions:
+    - 9
+  text: !ruby/object:Word
+    word: text
+    stem: text
+    docFrequency: 14
+    docPositions:
+    - 9
+  got: !ruby/object:Word
+    word: got
+    stem: got
+    docFrequency: 2
+    docPositions:
+    - 9
+  my: !ruby/object:Word
+    word: my
+    stem: my
+    docFrequency: 2
+    docPositions:
+    - 9
+  acceptance: !ruby/object:Word
+    word: acceptance
+    stem: accept
+    docFrequency: 2
+    docPositions:
+    - 9
+  today: !ruby/object:Word
+    word: today
+    stem: todai
+    docFrequency: 2
+    docPositions:
+    - 9
+  created_at: !ruby/object:Word
+    word: created_at
+    stem: created_at
+    docFrequency: 14
+    docPositions:
+    - 9
+  id: !ruby/object:Word
+    word: id
+    stem: id
+    docFrequency: 39
+    docPositions:
+    - 9
+  user: !ruby/object:Word
+    word: user
+    stem: user
+    docFrequency: 23
+    docPositions:
+    - 9
+  username: !ruby/object:Word
+    word: username
+    stem: usernam
+    docFrequency: 24
+    docPositions:
+    - 9
+  onceldamla: !ruby/object:Word
+    word: onceldamla
+    stem: onceldamla
+    docFrequency: 2
+    docPositions:
+    - 9
+  profile_pic_url: !ruby/object:Word
+    word: profile_pic_url
+    stem: profile_pic_url
+    docFrequency: 24
+    docPositions:
+    - 9
+  https: !ruby/object:Word
+    word: https
+    stem: http
+    docFrequency: 25
+    docPositions:
+    - 9
+  scontent: !ruby/object:Word
+    word: scontent
+    stem: scontent
+    docFrequency: 25
+    docPositions:
+    - 9
+  cdninstagram: !ruby/object:Word
+    word: cdninstagram
+    stem: cdninstagram
+    docFrequency: 25
+    docPositions:
+    - 9
+  hphotos: !ruby/object:Word
+    word: hphotos
+    stem: hphoto
+    docFrequency: 25
+    docPositions:
+    - 9
+  jpg: !ruby/object:Word
+    word: jpg
+    stem: jpg
+    docFrequency: 25
+    docPositions:
+    - 9
+  southern: !ruby/object:Word
+    word: southern
+    stem: southern
+    docFrequency: 2
+    docPositions:
+    - 9
+  most: !ruby/object:Word
+    word: most
+    stem: most
+    docFrequency: 2
+    docPositions:
+    - 9
+  ksgimbel: !ruby/object:Word
+    word: ksgimbel
+    stem: ksgimbel
+    docFrequency: 2
+    docPositions:
+    - 9
+  southernmost: !ruby/object:Word
+    word: southernmost
+    stem: southernmost
+    docFrequency: 2
+    docPositions:
+    - 9
+  maryland: !ruby/object:Word
+    word: maryland
+    stem: maryland
+    docFrequency: 2
+    docPositions:
+    - 9
+  has: !ruby/object:Word
+    word: has
+    stem: ha
+    docFrequency: 2
+    docPositions:
+    - 9
+  beat: !ruby/object:Word
+    word: beat
+    stem: beat
+    docFrequency: 2
+    docPositions:
+    - 9
+  noah_svec: !ruby/object:Word
+    word: noah_svec
+    stem: noah_svec
+    docFrequency: 3
+    docPositions:
+    - 9
+  south: !ruby/object:Word
+    word: south
+    stem: south
+    docFrequency: 2
+    docPositions:
+    - 9
+  beach: !ruby/object:Word
+    word: beach
+    stem: beach
+    docFrequency: 2
+    docPositions:
+    - 9
+  like: !ruby/object:Word
+    word: like
+    stem: like
+    docFrequency: 2
+    docPositions:
+    - 9
+  thebaileymozer: !ruby/object:Word
+    word: thebaileymozer
+    stem: thebaileymoz
+    docFrequency: 2
+    docPositions:
+    - 9
+  erinlynncrane: !ruby/object:Word
+    word: erinlynncrane
+    stem: erinlynncran
+    docFrequency: 3
+    docPositions:
+    - 9
+  miss: !ruby/object:Word
+    word: miss
+    stem: miss
+    docFrequency: 2
+    docPositions:
+    - 9
+  __czesia: !ruby/object:Word
+    word: __czesia
+    stem: __czesia
+    docFrequency: 3
+    docPositions:
+    - 9
+  boyler_alert: !ruby/object:Word
+    word: boyler_alert
+    stem: boyler_alert
+    docFrequency: 3
+    docPositions:
+    - 9
+  _vicspics: !ruby/object:Word
+    word: _vicspics
+    stem: _vicspic
+    docFrequency: 3
+    docPositions:
+    - 9
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 6
+    docPositions:
+    - 9
+    - 10
+    - 13
+  not: !ruby/object:Word
+    word: not
+    stem: not
+    docFrequency: 2
+    docPositions:
+    - 9
+  saying: !ruby/object:Word
+    word: saying
+    stem: sai
+    docFrequency: 2
+    docPositions:
+    - 9
+  much: !ruby/object:Word
+    word: much
+    stem: much
+    docFrequency: 2
+    docPositions:
+    - 9
+  kjlentin: !ruby/object:Word
+    word: kjlentin
+    stem: kjlentin
+    docFrequency: 2
+    docPositions:
+    - 9
+  oh: !ruby/object:Word
+    word: oh
+    stem: oh
+    docFrequency: 2
+    docPositions:
+    - 9
+  aoyuede: !ruby/object:Word
+    word: aoyuede
+    stem: aoyued
+    docFrequency: 3
+    docPositions:
+    - 9
+  yagirlemilia: !ruby/object:Word
+    word: yagirlemilia
+    stem: yagirlemilia
+    docFrequency: 3
+    docPositions:
+    - 9
+  geez: !ruby/object:Word
+    word: geez
+    stem: geez
+    docFrequency: 2
+    docPositions:
+    - 9
+  shared_by_author: !ruby/object:Word
+    word: shared_by_author
+    stem: shared_by_author
+    docFrequency: 2
+    docPositions:
+    - 9
+  likes: !ruby/object:Word
+    word: likes
+    stem: like
+    docFrequency: 2
+    docPositions:
+    - 9
+  viewer_has_liked: !ruby/object:Word
+    word: viewer_has_liked
+    stem: viewer_has_lik
+    docFrequency: 2
+    docPositions:
+    - 9
+  kellytantonian: !ruby/object:Word
+    word: kellytantonian
+    stem: kellytantonian
+    docFrequency: 2
+    docPositions:
+    - 9
+  jonicarmichael: !ruby/object:Word
+    word: jonicarmichael
+    stem: jonicarmichael
+    docFrequency: 2
+    docPositions:
+    - 9
+  appleofmyeyeschool: !ruby/object:Word
+    word: appleofmyeyeschool
+    stem: appleofmyeyeschool
+    docFrequency: 2
+    docPositions:
+    - 9
+  no_action_is_action: !ruby/object:Word
+    word: no_action_is_action
+    stem: no_action_is_act
+    docFrequency: 2
+    docPositions:
+    - 9
+  life: !ruby/object:Word
+    word: life
+    stem: life
+    docFrequency: 2
+    docPositions:
+    - 9
+  hotties: !ruby/object:Word
+    word: hotties
+    stem: hotti
+    docFrequency: 2
+    docPositions:
+    - 9
+  forrest_j_: !ruby/object:Word
+    word: forrest_j_
+    stem: forrest_j_
+    docFrequency: 2
+    docPositions:
+    - 9
+  owner: !ruby/object:Word
+    word: owner
+    stem: owner
+    docFrequency: 2
+    docPositions:
+    - 9
+  iubloomington: !ruby/object:Word
+    word: iubloomington
+    stem: iubloomington
+    docFrequency: 2
+    docPositions:
+    - 9
+  is_unpublished: !ruby/object:Word
+    word: is_unpublished
+    stem: is_unpublish
+    docFrequency: 2
+    docPositions:
+    - 9
+  requested_by_viewer: !ruby/object:Word
+    word: requested_by_viewer
+    stem: requested_by_view
+    docFrequency: 2
+    docPositions:
+    - 9
+  followed_by_viewer: !ruby/object:Word
+    word: followed_by_viewer
+    stem: followed_by_view
+    docFrequency: 2
+    docPositions:
+    - 9
+  blocked_by_viewer: !ruby/object:Word
+    word: blocked_by_viewer
+    stem: blocked_by_view
+    docFrequency: 2
+    docPositions:
+    - 9
+  full_name: !ruby/object:Word
+    word: full_name
+    stem: full_nam
+    docFrequency: 2
+    docPositions:
+    - 9
+  has_blocked_viewer: !ruby/object:Word
+    word: has_blocked_viewer
+    stem: has_blocked_view
+    docFrequency: 2
+    docPositions:
+    - 9
+  is_private: !ruby/object:Word
+    word: is_private
+    stem: is_priv
+    docFrequency: 2
+    docPositions:
+    - 9
+  is_video: !ruby/object:Word
+    word: is_video
+    stem: is_video
+    docFrequency: 2
+    docPositions:
+    - 9
+  is_ad: !ruby/object:Word
+    word: is_ad
+    stem: is_ad
+    docFrequency: 2
+    docPositions:
+    - 9
+  display_src: !ruby/object:Word
+    word: display_src
+    stem: display_src
+    docFrequency: 2
+    docPositions:
+    - 9
+  location: !ruby/object:Word
+    word: location
+    stem: locat
+    docFrequency: 2
+    docPositions:
+    - 9
+  has_public_page: !ruby/object:Word
+    word: has_public_page
+    stem: has_public_pag
+    docFrequency: 2
+    docPositions:
+    - 9
+  name: !ruby/object:Word
+    word: name
+    stem: name
+    docFrequency: 2
+    docPositions:
+    - 9
+  __get_params: !ruby/object:Word
+    word: __get_params
+    stem: __get_param
+    docFrequency: 2
+    docPositions:
+    - 9
+  __path: !ruby/object:Word
+    word: __path
+    stem: __path
+    docFrequency: 2
+    docPositions:
+    - 9
+  p: !ruby/object:Word
+    word: p
+    stem: p
+    docFrequency: 3
+    docPositions:
+    - 9
+  qe: !ruby/object:Word
+    word: qe
+    stem: qe
+    docFrequency: 2
+    docPositions:
+    - 9
+  su: !ruby/object:Word
+    word: su
+    stem: su
+    docFrequency: 2
+    docPositions:
+    - 9
+  enabled: !ruby/object:Word
+    word: enabled
+    stem: enabl
+    docFrequency: 2
+    docPositions:
+    - 9
+  g: !ruby/object:Word
+    word: g
+    stem: g
+    docFrequency: 2
+    docPositions:
+    - 9
+  control: !ruby/object:Word
+    word: control
+    stem: control
+    docFrequency: 2
+    docPositions:
+    - 9
+  display_properties_server_guess: !ruby/object:Word
+    word: display_properties_server_guess
+    stem: display_properties_server_guess
+    docFrequency: 2
+    docPositions:
+    - 9
+  viewport_width: !ruby/object:Word
+    word: viewport_width
+    stem: viewport_width
+    docFrequency: 2
+    docPositions:
+    - 9
+  pixel_ratio: !ruby/object:Word
+    word: pixel_ratio
+    stem: pixel_ratio
+    docFrequency: 2
+    docPositions:
+    - 9
+  config: !ruby/object:Word
+    word: config
+    stem: config
+    docFrequency: 2
+    docPositions:
+    - 9
+  dismiss_app_install_banner_until: !ruby/object:Word
+    word: dismiss_app_install_banner_until
+    stem: dismiss_app_install_banner_until
+    docFrequency: 2
+    docPositions:
+    - 9
+  'null': !ruby/object:Word
+    word: 'null'
+    stem: 'null'
+    docFrequency: 3
+    docPositions:
+    - 9
+  viewer: !ruby/object:Word
+    word: viewer
+    stem: viewer
+    docFrequency: 2
+    docPositions:
+    - 9
+  csrf_token: !ruby/object:Word
+    word: csrf_token
+    stem: csrf_token
+    docFrequency: 2
+    docPositions:
+    - 9
+  environment_switcher_visible_server_guess: !ruby/object:Word
+    word: environment_switcher_visible_server_guess
+    stem: environment_switcher_visible_server_guess
+    docFrequency: 2
+    docPositions:
+    - 9
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 2
+    docPositions:
+    - 10
+  function: !ruby/object:Word
+    word: function
+    stem: function
+    docFrequency: 3
+    docPositions:
+    - 10
+  f: !ruby/object:Word
+    word: f
+    stem: f
+    docFrequency: 6
+    docPositions:
+    - 10
+    - 11
+  b: !ruby/object:Word
+    word: b
+    stem: b
+    docFrequency: 4
+    docPositions:
+    - 10
+    - 12
+    - 13
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 4
+    docPositions:
+    - 10
+    - 12
+    - 13
+  v: !ruby/object:Word
+    word: v
+    stem: v
+    docFrequency: 3
+    docPositions:
+    - 10
+    - 13
+  n: !ruby/object:Word
+    word: n
+    stem: n
+    docFrequency: 13
+    docPositions:
+    - 10
+    - 11
+    - 12
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 6
+    docPositions:
+    - 10
+    - 12
+    - 13
+  if: !ruby/object:Word
+    word: if
+    stem: if
+    docFrequency: 3
+    docPositions:
+    - 10
+    - 11
+  fbq: !ruby/object:Word
+    word: fbq
+    stem: fbq
+    docFrequency: 5
+    docPositions:
+    - 10
+    - 15
+    - 16
+  return: !ruby/object:Word
+    word: return
+    stem: return
+    docFrequency: 2
+    docPositions:
+    - 10
+  callmethod: !ruby/object:Word
+    word: callmethod
+    stem: callmethod
+    docFrequency: 3
+    docPositions:
+    - 10
+    - 11
+  apply: !ruby/object:Word
+    word: apply
+    stem: appli
+    docFrequency: 2
+    docPositions:
+    - 11
+  arguments: !ruby/object:Word
+    word: arguments
+    stem: argument
+    docFrequency: 3
+    docPositions:
+    - 11
+  queue: !ruby/object:Word
+    word: queue
+    stem: queue
+    docFrequency: 3
+    docPositions:
+    - 11
+    - 12
+  push: !ruby/object:Word
+    word: push
+    stem: push
+    docFrequency: 3
+    docPositions:
+    - 11
+    - 12
+  _fbq: !ruby/object:Word
+    word: _fbq
+    stem: _fbq
+    docFrequency: 3
+    docPositions:
+    - 11
+  loaded: !ruby/object:Word
+    word: loaded
+    stem: load
+    docFrequency: 2
+    docPositions:
+    - 12
+  version: !ruby/object:Word
+    word: version
+    stem: version
+    docFrequency: 2
+    docPositions:
+    - 12
+  createelement: !ruby/object:Word
+    word: createelement
+    stem: createel
+    docFrequency: 2
+    docPositions:
+    - 12
+  async: !ruby/object:Word
+    word: async
+    stem: async
+    docFrequency: 2
+    docPositions:
+    - 12
+  getelementsbytagname: !ruby/object:Word
+    word: getelementsbytagname
+    stem: getelementsbytagnam
+    docFrequency: 2
+    docPositions:
+    - 13
+  parentnode: !ruby/object:Word
+    word: parentnode
+    stem: parentnod
+    docFrequency: 2
+    docPositions:
+    - 13
+  insertbefore: !ruby/object:Word
+    word: insertbefore
+    stem: insertbefor
+    docFrequency: 2
+    docPositions:
+    - 13
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 2
+    docPositions:
+    - 14
+  script: !ruby/object:Word
+    word: script
+    stem: script
+    docFrequency: 2
+    docPositions:
+    - 14
+  connect: !ruby/object:Word
+    word: connect
+    stem: connect
+    docFrequency: 2
+    docPositions:
+    - 14
+  facebook: !ruby/object:Word
+    word: facebook
+    stem: facebook
+    docFrequency: 2
+    docPositions:
+    - 14
+  en_us: !ruby/object:Word
+    word: en_us
+    stem: en_u
+    docFrequency: 2
+    docPositions:
+    - 14
+  fbevents: !ruby/object:Word
+    word: fbevents
+    stem: fbevent
+    docFrequency: 2
+    docPositions:
+    - 14
+  init: !ruby/object:Word
+    word: init
+    stem: init
+    docFrequency: 2
+    docPositions:
+    - 15
+  track: !ruby/object:Word
+    word: track
+    stem: track
+    docFrequency: 2
+    docPositions:
+    - 16
+  pageview: !ruby/object:Word
+    word: pageview
+    stem: pageview
+    docFrequency: 2
+    docPositions:
+    - 16
+  _timings: !ruby/object:Word
+    word: _timings
+    stem: _time
+    docFrequency: 2
+    docPositions:
+    - 25
+  dominteractive: !ruby/object:Word
+    word: dominteractive
+    stem: dominteract
+    docFrequency: 2
+    docPositions:
+    - 25
+  now: !ruby/object:Word
+    word: now
+    stem: now
+    docFrequency: 2
+    docPositions:
+    - 25
+lineCount: 26
+wordCount: 783
+rank: 0.25
+title: |2
+
+  Instagram
+links: []
+rawText: "\n        \n    \n    \n    \n\n    \n\n        \n    window._sharedData
+  = {\"country_code\":\"US\",\"language_code\":\"en\",\"gatekeepers\":{\"rhp\":true},\"qs\":\"{\\\"shift\\\":10,\\\"header\\\":\\\"snVvuxcVOGUbbo2JOhmwVRfF2lfjELmu\\\",\\\"edges\\\":100,\\\"blob\\\":\\\"AQBvUHZIlyqudvIQORj5lrvaCtGJ-tMe9k7o8ZglXNS1cqA3KLJ6pPyfQQOxC8B4SqNUGjksK7CZAs7OmF9RGOR5xUjjNP7KsFl7C22VkCOhjd-zgqGSoQCmpSRi-cT_eukLXhjCPY0Q39aHrXSSMCjoZ1jEZRmUMFPR7d9s6adn2u-PxFRu8F8PVb7idtt-faAEEuuHqIzXTaoJ-nqsFGw6HLRDdgsIjQpQ5d22I3AaDg\\\",\\\"iterations\\\":7,\\\"size\\\":42}\",\"static_root\":\"\\/\\/instagramstatic-a.akamaihd.net\\/bluebar\\/4da1e40\",\"platform\":\"web\",\"hostname\":\"www.instagram.com\",\"entry_data\":{\"PostPage\":[{\"__query_string\":\"?\",\"media\":{\"code\":\"-2E_y0RZbv\",\"date\":1449178566.0,\"dimensions\":{\"width\":1080,\"height\":1080},\"caption\":\"Best
+  weather in the Big Ten. \\u2600\\ufe0f #indianauniversity #iu #indiana #university
+  #bloomington #campus #college #school #home #hoosiers #bigten #campuslife #collegelife
+  #trees #clocktower #winter #bluesky #nosnow #picoftheday\",\"usertags\":{\"nodes\":[]},\"comments\":{\"count\":13,\"page_info\":{\"has_previous_page\":false,\"start_cursor\":\"1132124906700772886\",\"end_cursor\":\"1133097985413322619\",\"has_next_page\":false},\"nodes\":[{\"text\":\"Got
+  my acceptance today!\",\"created_at\":1449179827,\"id\":\"1132124906700772886\",\"user\":{\"username\":\"onceldamla\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xpt1\\/t51.2885-19\\/s150x150\\/11325629_938701879523517_1266228091_a.jpg\",\"id\":\"608146340\"}},{\"text\":\"Southern
+  most big ten school! @ksgimbel @jrauch6613\",\"created_at\":1449180479,\"id\":\"1132130372323481162\",\"user\":{\"username\":\"jimdog89\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xft1\\/t51.2885-19\\/11821234_866473533440483_426669539_a.jpg\",\"id\":\"663284391\"}},{\"text\":\"2nd
+  southernmost. Maryland has us beat.\",\"created_at\":1449181334,\"id\":\"1132137548878288644\",\"user\":{\"username\":\"jimdog89\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xft1\\/t51.2885-19\\/11821234_866473533440483_426669539_a.jpg\",\"id\":\"663284391\"}},{\"text\":\"@noah_svec\",\"created_at\":1449181513,\"id\":\"1132139047427609632\",\"user\":{\"username\":\"50shadesofchadwick\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xfa1\\/t51.2885-19\\/s150x150\\/11931162_1027869457277090_2077044516_a.jpg\",\"id\":\"144573083\"}},{\"text\":\"@50shadesofchadwick
+  south beach of the big ten\",\"created_at\":1449182583,\"id\":\"1132148029680621107\",\"user\":{\"username\":\"noah_svec\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xpt1\\/t51.2885-19\\/11881884_927800830633141_1871984737_a.jpg\",\"id\":\"184352101\"}},{\"text\":\"1111th
+  like!!!\",\"created_at\":1449183011,\"id\":\"1132151616783619142\",\"user\":{\"username\":\"thebaileymozer\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xft1\\/t51.2885-19\\/11325892_837197186371200_1230076884_a.jpg\",\"id\":\"183703136\"}},{\"text\":\"@erinlynncrane
+  miss this\",\"created_at\":1449183609,\"id\":\"1132156629085951755\",\"user\":{\"username\":\"__czesia\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xft1\\/t51.2885-19\\/11821192_405131846354404_6679331_a.jpg\",\"id\":\"271958851\"}},{\"text\":\"@boyler_alert\",\"created_at\":1449187109,\"id\":\"1132185990044423219\",\"user\":{\"username\":\"_vicspics\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xpa1\\/t51.2885-19\\/s150x150\\/12120300_1079387022085820_131509767_a.jpg\",\"id\":\"690511\"}},{\"text\":\"That's
+  not saying much!\",\"created_at\":1449190139,\"id\":\"1132211406176097687\",\"user\":{\"username\":\"kjlentin\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xtf1\\/t51.2885-19\\/11348301_846825978746076_957905280_a.jpg\",\"id\":\"302057938\"}},{\"text\":\"@__czesia
+  \\ud83d\\ude2d\\ud83d\\ude2d\\ud83d\\ude2d\",\"created_at\":1449208179,\"id\":\"1132362738207921577\",\"user\":{\"username\":\"erinlynncrane\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xpt1\\/t51.2885-19\\/11820731_1477553732559533_1284108131_a.jpg\",\"id\":\"27832562\"}},{\"text\":\"@_vicspics
+  oh\",\"created_at\":1449212861,\"id\":\"1132402011883803777\",\"user\":{\"username\":\"boyler_alert\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xfa1\\/t51.2885-19\\/s150x150\\/10890816_1017780221606881_335239967_a.jpg\",\"id\":\"27977994\"}},{\"text\":\"@gibbs_2016
+  @aoyuede\",\"created_at\":1449216533,\"id\":\"1132432821538100592\",\"user\":{\"username\":\"yagirlemilia\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xpf1\\/t51.2885-19\\/s150x150\\/11142272_430901290447968_1636042650_a.jpg\",\"id\":\"2011392663\"}},{\"text\":\"Geez
+  @yagirlemilia @aoyuede\",\"created_at\":1449295827,\"id\":\"1133097985413322619\",\"user\":{\"username\":\"gibbs_2016\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xaf1\\/t51.2885-19\\/10899268_824098537662186_1325080639_a.jpg\",\"id\":\"210606456\"}}]},\"id\":\"1132114332407404271\",\"shared_by_author\":false,\"likes\":{\"count\":2314,\"viewer_has_liked\":false,\"nodes\":[{\"user\":{\"username\":\"kellytantonian\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xtf1\\/t51.2885-19\\/s150x150\\/12362585_524064307769988_1736456039_a.jpg\",\"id\":\"2287873216\"}},{\"user\":{\"username\":\"jonicarmichael\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xtf1\\/t51.2885-19\\/s150x150\\/12224627_1634712360126529_60095725_a.jpg\",\"id\":\"2278508705\"}},{\"user\":{\"username\":\"appleofmyeyeschool\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xfa1\\/t51.2885-19\\/s150x150\\/12276875_182746035406732_2048302538_a.jpg\",\"id\":\"2315131206\"}},{\"user\":{\"username\":\"bleuetblanc99\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xta1\\/t51.2885-19\\/s150x150\\/12106300_208269202838634_1280609067_a.jpg\",\"id\":\"2283890856\"}},{\"user\":{\"username\":\"kelvinmoses8232\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xaf1\\/t51.2885-19\\/s150x150\\/12276904_1659233361025912_1538642063_a.jpg\",\"id\":\"2305133230\"}},{\"user\":{\"username\":\"no_action_is_action\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xpf1\\/t51.2885-19\\/s150x150\\/12256640_849153575182043_1870945905_a.jpg\",\"id\":\"2307483272\"}},{\"user\":{\"username\":\"web.of.life\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xpa1\\/t51.2885-19\\/s150x150\\/10986227_1116193775075767_85611828_a.jpg\",\"id\":\"2276587443\"}},{\"user\":{\"username\":\"campus.hotties\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xtf1\\/t51.2885-19\\/s150x150\\/12298878_152287521795198_1301077383_a.jpg\",\"id\":\"2305003606\"}},{\"user\":{\"username\":\"forrest_j_\",\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xfp1\\/t51.2885-19\\/s150x150\\/12346226_875909119182904_1511203384_a.jpg\",\"id\":\"2289729592\"}}]},\"owner\":{\"username\":\"iubloomington\",\"is_unpublished\":false,\"requested_by_viewer\":false,\"followed_by_viewer\":false,\"blocked_by_viewer\":false,\"profile_pic_url\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xaf1\\/t51.2885-19\\/11376485_422406211274499_1780920129_a.jpg\",\"full_name\":\"Indiana
+  University\",\"has_blocked_viewer\":false,\"id\":\"44139452\",\"is_private\":false},\"is_video\":false,\"is_ad\":false,\"display_src\":\"https:\\/\\/scontent.cdninstagram.com\\/hphotos-xft1\\/t51.2885-15\\/e35\\/12277399_132471240452966_245320247_n.jpg\",\"location\":{\"has_public_page\":true,\"id\":\"213444911\",\"name\":\"Indiana
+  University\"}},\"__get_params\":{},\"__path\":\"\\/p\\/-2E_y0RZbv\\/\"}]},\"qe\":{\"su\":{\"p\":{\"enabled\":\"false\"},\"g\":\"control\"}},\"display_properties_server_guess\":{\"viewport_width\":360,\"pixel_ratio\":1.5},\"config\":{\"dismiss_app_install_banner_until\":null,\"viewer\":null,\"csrf_token\":\"006da3f3572f63bc616585138e9bc2e8\"},\"environment_switcher_visible_server_guess\":true};\n!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?\nn.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;\nn.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;\nt.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,\ndocument,'script','//connect.facebook.net/en_US/fbevents.js');\nfbq('init',
+  '1425767024389221');\nfbq('track', 'PageView');\n\n\n\n\n\n\n\n    \n    window._timings.domInteractive
+  = Date.now()"

@@ -1,0 +1,770 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors:
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : p
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-ubakb"
+    line: 158
+    str1: p
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : p
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-ubakb"
+    line: 171
+    str1: p
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : p
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-ubakb"
+    line: 184
+    str1: p
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: expecting ';'
+    domain: 5
+    code: 23
+    level: 2
+    file: "/tmp/open-uri20151213-89256-ubakb"
+    line: 201
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 344
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: expecting ';'
+    domain: 5
+    code: 23
+    level: 2
+    file: "/tmp/open-uri20151213-89256-ubakb"
+    line: 201
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 357
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: expecting ';'
+    domain: 5
+    code: 23
+    level: 2
+    file: "/tmp/open-uri20151213-89256-ubakb"
+    line: 201
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 366
+address: http://registrar.indiana.edu/browser/index.shtml
+inboundLinks: []
+lines:
+- "\r\n"
+- "    \r\n"
+- "    \r\n"
+- "    \r\n"
+- "        \r\n"
+- "Skip to Content\r\n"
+- "Skip to Search\r\n"
+- "\r\n"
+- "    \r\n"
+- "\r\n"
+- "\t\r\n"
+- "\t\t\r\n"
+- "\t\t\t\r\n"
+- "\t\t\t\t\r\n"
+- "\t\t\t\t\tIndiana University Bloomington\r\n"
+- "\t\t\t\t\tIndiana University Bloomington\r\n"
+- "\t\t\t\t\tIU Bloomington\r\n"
+- "\t\t\t\t\r\n"
+- "\t\t\t\r\n"
+- "\t\t\r\n"
+- "\t\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\t\r\n"
+- "\t\tSearch\r\n"
+- "\t\r\n"
+- "   \r\n"
+- "    \r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Office of the Registrar\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- " \r\n"
+- "\r\n"
+- "Course Browser\r\n"
+- "\r\n"
+- "\r\n"
+- "Official Calendar\r\n"
+- "\r\n"
+- "\r\n"
+- "Contact the Registrar\r\n"
+- "\r\n"
+- "   \r\n"
+- "\r\n"
+- "Course Browser\r\n"
+- "            Calendars & SchedulesGrades & RostersReporting & SecurityPoliciesInformationRequired
+  Disclosures\r\n"
+- "    \r\n"
+- "    \r\n"
+- "    \r\n"
+- "\t\r\n"
+- "    Office of the Registrar\r\n"
+- "      Course Browser\r\n"
+- "      \r\n"
+- "      Schedule of Classes: Course Browser\r\n"
+- "    Schedule of Classes: Course Browser\r\n"
+- "        \r\n"
+- "             \r\n"
+- "                \r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "  Select a term and version to view:\r\n"
+- "  \r\n"
+- "  \r\n"
+- "  Fall 2015\r\n"
+- "  Student Version\r\n"
+- "   Faculty Version\r\n"
+- "  What's the difference?\r\n"
+- "  \r\n"
+- "  \r\n"
+- "  Spring 2016\r\n"
+- " Student Version\r\n"
+- "   Faculty Version\r\n"
+- "  What's the difference?\r\n"
+- "  \r\n"
+- "  \r\n"
+- "  Summer 2015\r\n"
+- "  Student Version\r\n"
+- "   Faculty Version\r\n"
+- "  What's the difference?\r\n"
+- "  \r\n"
+- "  \r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "            \r\n"
+- "            \r\n"
+- "            Schedule of ClassesMore Schedule of Classes versions, output options
+  and archived terms are available from the Schedule of Classes home page.\r\n"
+- "Go to the Schedule of Classes »\r\n"
+- "                \r\n"
+- "            \r\n"
+- "        \r\n"
+- "    \r\n"
+- "\r\n"
+- "    \r\n"
+- "            \r\n"
+- "          Term SelectionSpecial Course ListingsOne.IUSearch for TextbooksBuilding
+  Code Index    \r\n"
+- "        \r\n"
+- "     \r\n"
+- "    \r\n"
+- "    \r\n"
+- "    \r\n"
+- " \r\n"
+- "\t\r\n"
+- "\t\tFulfilling the Promise\r\n"
+- "\t\t\r\n"
+- "\r\n"
+- "\t\tPrivacy Notice\r\n"
+- "\t\t\r\n"
+- "\t\t\t\r\n"
+- "\t\t\t\tCopyright ©  \r\n"
+- "\t\t\t                  \r\n"
+- "                        var theDate=new Date()\r\n"
+- "                        document.write(theDate.getFullYear())\r\n"
+- "                        2015\r\n"
+- "      \r\n"
+- "\t\t\tThe Trustees of Indiana University,\r\n"
+- "\t\t\tCopyright Complaints\r\n"
+- "\t\t\t\t\t\r\n"
+- "\t\r\n"
+- "\r\n"
+- "\r\n"
+- " \r\n"
+- "    \r\n"
+- "    \r\n"
+- "    \r\n"
+- "\r\n"
+- "\t\t\t\t\r\n"
+- "\t\t\t\t\tIndiana University Bloomington\r\n"
+- "\t\t\t\t\tIndiana University Bloomington\r\n"
+- "\t\t\t\t\tIU Bloomington\r\n"
+- "\t\t\t\t\r\n"
+- "\t\t\tSelect a term and version to view:\r\n"
+- "  \r\n"
+- "  \r\n"
+- "  More Schedule of Classes versions, output options and archived terms are available
+  from the Schedule of Classes home page.Go to the Schedule of Classes »Fulfilling
+  the PromisePrivacy Notice\r\n"
+- "\t\t\t\r\n"
+- "\t\t\t\tCopyright ©  \r\n"
+- "\t\t\t                  \r\n"
+- "                        var theDate=new Date()\r\n"
+- "                        document.write(theDate.getFullYear())\r\n"
+- "                        2015\r\n"
+- "      \r\n"
+- "\t\t\tThe Trustees of Indiana University,\r\n"
+- "\t\t\tCopyright Complaints\r\n"
+- "\t\t\t2015"
+index:
+  skip: !ruby/object:Word
+    word: skip
+    stem: skip
+    docFrequency: 3
+    docPositions:
+    - 5
+    - 6
+  content: !ruby/object:Word
+    word: content
+    stem: content
+    docFrequency: 2
+    docPositions:
+    - 5
+  search: !ruby/object:Word
+    word: search
+    stem: search
+    docFrequency: 3
+    docPositions:
+    - 6
+    - 25
+  indiana: !ruby/object:Word
+    word: indiana
+    stem: indiana
+    docFrequency: 7
+    docPositions:
+    - 14
+    - 15
+    - 121
+    - 133
+    - 134
+    - 148
+  university: !ruby/object:Word
+    word: university
+    stem: univers
+    docFrequency: 7
+    docPositions:
+    - 14
+    - 15
+    - 121
+    - 133
+    - 134
+    - 148
+  bloomington: !ruby/object:Word
+    word: bloomington
+    stem: bloomington
+    docFrequency: 7
+    docPositions:
+    - 14
+    - 15
+    - 16
+    - 133
+    - 134
+    - 135
+  iu: !ruby/object:Word
+    word: iu
+    stem: iu
+    docFrequency: 3
+    docPositions:
+    - 16
+    - 135
+  office: !ruby/object:Word
+    word: office
+    stem: offic
+    docFrequency: 3
+    docPositions:
+    - 32
+    - 54
+  registrar: !ruby/object:Word
+    word: registrar
+    stem: registrar
+    docFrequency: 4
+    docPositions:
+    - 32
+    - 44
+    - 54
+  course: !ruby/object:Word
+    word: course
+    stem: cours
+    docFrequency: 7
+    docPositions:
+    - 38
+    - 48
+    - 55
+    - 57
+    - 58
+    - 101
+  browser: !ruby/object:Word
+    word: browser
+    stem: browser
+    docFrequency: 6
+    docPositions:
+    - 38
+    - 48
+    - 55
+    - 57
+    - 58
+  official: !ruby/object:Word
+    word: official
+    stem: offici
+    docFrequency: 2
+    docPositions:
+    - 41
+  calendar: !ruby/object:Word
+    word: calendar
+    stem: calendar
+    docFrequency: 2
+    docPositions:
+    - 41
+  contact: !ruby/object:Word
+    word: contact
+    stem: contact
+    docFrequency: 2
+    docPositions:
+    - 44
+  calendars: !ruby/object:Word
+    word: calendars
+    stem: calendar
+    docFrequency: 2
+    docPositions:
+    - 49
+  schedulesgrades: !ruby/object:Word
+    word: schedulesgrades
+    stem: schedulesgrad
+    docFrequency: 2
+    docPositions:
+    - 49
+  rostersreporting: !ruby/object:Word
+    word: rostersreporting
+    stem: rostersreport
+    docFrequency: 2
+    docPositions:
+    - 49
+  securitypoliciesinformationrequired: !ruby/object:Word
+    word: securitypoliciesinformationrequired
+    stem: securitypoliciesinformationrequir
+    docFrequency: 2
+    docPositions:
+    - 49
+  disclosures: !ruby/object:Word
+    word: disclosures
+    stem: disclosur
+    docFrequency: 2
+    docPositions:
+    - 49
+  schedule: !ruby/object:Word
+    word: schedule
+    stem: schedul
+    docFrequency: 10
+    docPositions:
+    - 57
+    - 58
+    - 92
+    - 93
+    - 140
+  classes: !ruby/object:Word
+    word: classes
+    stem: class
+    docFrequency: 9
+    docPositions:
+    - 57
+    - 58
+    - 92
+    - 93
+    - 140
+  select: !ruby/object:Word
+    word: select
+    stem: select
+    docFrequency: 3
+    docPositions:
+    - 65
+    - 137
+  term: !ruby/object:Word
+    word: term
+    stem: term
+    docFrequency: 4
+    docPositions:
+    - 65
+    - 101
+    - 137
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 5
+    docPositions:
+    - 65
+    - 92
+    - 137
+    - 140
+  version: !ruby/object:Word
+    word: version
+    stem: version
+    docFrequency: 9
+    docPositions:
+    - 65
+    - 69
+    - 70
+    - 75
+    - 76
+    - 81
+    - 82
+    - 137
+  view: !ruby/object:Word
+    word: view
+    stem: view
+    docFrequency: 3
+    docPositions:
+    - 65
+    - 137
+  fall: !ruby/object:Word
+    word: fall
+    stem: fall
+    docFrequency: 2
+    docPositions:
+    - 68
+  student: !ruby/object:Word
+    word: student
+    stem: student
+    docFrequency: 4
+    docPositions:
+    - 69
+    - 75
+    - 81
+  faculty: !ruby/object:Word
+    word: faculty
+    stem: faculti
+    docFrequency: 4
+    docPositions:
+    - 70
+    - 76
+    - 82
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 4
+    docPositions:
+    - 71
+    - 77
+    - 83
+  difference: !ruby/object:Word
+    word: difference
+    stem: differ
+    docFrequency: 4
+    docPositions:
+    - 71
+    - 77
+    - 83
+  spring: !ruby/object:Word
+    word: spring
+    stem: spring
+    docFrequency: 2
+    docPositions:
+    - 74
+  summer: !ruby/object:Word
+    word: summer
+    stem: summer
+    docFrequency: 2
+    docPositions:
+    - 80
+  classesmore: !ruby/object:Word
+    word: classesmore
+    stem: classesmor
+    docFrequency: 2
+    docPositions:
+    - 92
+  versions: !ruby/object:Word
+    word: versions
+    stem: version
+    docFrequency: 3
+    docPositions:
+    - 92
+    - 140
+  output: !ruby/object:Word
+    word: output
+    stem: output
+    docFrequency: 3
+    docPositions:
+    - 92
+    - 140
+  options: !ruby/object:Word
+    word: options
+    stem: option
+    docFrequency: 3
+    docPositions:
+    - 92
+    - 140
+  archived: !ruby/object:Word
+    word: archived
+    stem: archiv
+    docFrequency: 3
+    docPositions:
+    - 92
+    - 140
+  terms: !ruby/object:Word
+    word: terms
+    stem: term
+    docFrequency: 3
+    docPositions:
+    - 92
+    - 140
+  available: !ruby/object:Word
+    word: available
+    stem: avail
+    docFrequency: 3
+    docPositions:
+    - 92
+    - 140
+  home: !ruby/object:Word
+    word: home
+    stem: home
+    docFrequency: 3
+    docPositions:
+    - 92
+    - 140
+  page: !ruby/object:Word
+    word: page
+    stem: page
+    docFrequency: 3
+    docPositions:
+    - 92
+    - 140
+  go: !ruby/object:Word
+    word: go
+    stem: go
+    docFrequency: 3
+    docPositions:
+    - 93
+    - 140
+  selectionspecial: !ruby/object:Word
+    word: selectionspecial
+    stem: selectionspeci
+    docFrequency: 2
+    docPositions:
+    - 101
+  listingsone: !ruby/object:Word
+    word: listingsone
+    stem: listingson
+    docFrequency: 2
+    docPositions:
+    - 101
+  iusearch: !ruby/object:Word
+    word: iusearch
+    stem: iusearch
+    docFrequency: 2
+    docPositions:
+    - 101
+  textbooksbuilding: !ruby/object:Word
+    word: textbooksbuilding
+    stem: textbooksbuild
+    docFrequency: 2
+    docPositions:
+    - 101
+  code: !ruby/object:Word
+    word: code
+    stem: code
+    docFrequency: 2
+    docPositions:
+    - 101
+  index: !ruby/object:Word
+    word: index
+    stem: index
+    docFrequency: 2
+    docPositions:
+    - 101
+  fulfilling: !ruby/object:Word
+    word: fulfilling
+    stem: fulfil
+    docFrequency: 3
+    docPositions:
+    - 109
+    - 140
+  promise: !ruby/object:Word
+    word: promise
+    stem: promis
+    docFrequency: 2
+    docPositions:
+    - 109
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 2
+    docPositions:
+    - 112
+  notice: !ruby/object:Word
+    word: notice
+    stem: notic
+    docFrequency: 3
+    docPositions:
+    - 112
+    - 140
+  copyright: !ruby/object:Word
+    word: copyright
+    stem: copyright
+    docFrequency: 5
+    docPositions:
+    - 115
+    - 122
+    - 142
+    - 149
+  thedate: !ruby/object:Word
+    word: thedate
+    stem: thedat
+    docFrequency: 5
+    docPositions:
+    - 117
+    - 118
+    - 144
+    - 145
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 3
+    docPositions:
+    - 117
+    - 144
+  date: !ruby/object:Word
+    word: date
+    stem: date
+    docFrequency: 3
+    docPositions:
+    - 117
+    - 144
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 3
+    docPositions:
+    - 118
+    - 145
+  write: !ruby/object:Word
+    word: write
+    stem: write
+    docFrequency: 3
+    docPositions:
+    - 118
+    - 145
+  getfullyear: !ruby/object:Word
+    word: getfullyear
+    stem: getfullyear
+    docFrequency: 3
+    docPositions:
+    - 118
+    - 145
+  trustees: !ruby/object:Word
+    word: trustees
+    stem: truste
+    docFrequency: 3
+    docPositions:
+    - 121
+    - 148
+  complaints: !ruby/object:Word
+    word: complaints
+    stem: complaint
+    docFrequency: 3
+    docPositions:
+    - 122
+    - 149
+  more: !ruby/object:Word
+    word: more
+    stem: more
+    docFrequency: 2
+    docPositions:
+    - 140
+  promiseprivacy: !ruby/object:Word
+    word: promiseprivacy
+    stem: promiseprivaci
+    docFrequency: 2
+    docPositions:
+    - 140
+lineCount: 151
+wordCount: 206
+rank: 0.25
+title: Course Browser: Office of the Registrar: Indiana University Bloomington
+links:
+- http://www.iub.edu
+- http://registrar.indiana.edu/index.shtml
+- http://one.iu.edu
+- http://iub.bncollege.com/webapp/wcs/stores/servlet/TBWizardView?catalogId=10001&storeId=39052&langId=-1&level=1
+- http://registrar.indiana.edu/privacy/index.shtml
+- http://www.iu.edu/
+- http://www.iu.edu/copyright/index.shtml
+- http://www.iu.edu/
+- http://www.iu.edu/copyright/complaints.shtml
+rawText: "\r\n    \r\n    \r\n    \r\n        \r\nSkip to Content\r\nSkip to Search\r\n\r\n
+  \   \r\n\r\n\t\r\n\t\t\r\n\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\tIndiana University Bloomington\r\n\t\t\t\t\tIndiana
+  University Bloomington\r\n\t\t\t\t\tIU Bloomington\r\n\t\t\t\t\r\n\t\t\t\r\n\t\t\r\n\t\r\n\r\n\r\n\r\n\t\r\n\t\tSearch\r\n\t\r\n
+  \  \r\n    \r\n\r\n\r\n\r\nOffice of the Registrar\r\n\r\n\r\n\r\n \r\n\r\nCourse
+  Browser\r\n\r\n\r\nOfficial Calendar\r\n\r\n\r\nContact the Registrar\r\n\r\n   \r\n\r\nCourse
+  Browser\r\n            Calendars & SchedulesGrades & RostersReporting & SecurityPoliciesInformationRequired
+  Disclosures\r\n    \r\n    \r\n    \r\n\t\r\n    Office of the Registrar\r\n      Course
+  Browser\r\n      \r\n      Schedule of Classes: Course Browser\r\n    Schedule of
+  Classes: Course Browser\r\n        \r\n             \r\n                \r\n\r\n\r\n\r\n
+  \ Select a term and version to view:\r\n  \r\n  \r\n  Fall 2015\r\n  Student Version\r\n
+  \  Faculty Version\r\n  What's the difference?\r\n  \r\n  \r\n  Spring 2016\r\n
+  Student Version\r\n   Faculty Version\r\n  What's the difference?\r\n  \r\n  \r\n
+  \ Summer 2015\r\n  Student Version\r\n   Faculty Version\r\n  What's the difference?\r\n
+  \ \r\n  \r\n\r\n\r\n\r\n\r\n            \r\n            \r\n            Schedule
+  of ClassesMore Schedule of Classes versions, output options and archived terms are
+  available from the Schedule of Classes home page.\r\nGo to the Schedule of Classes »\r\n
+  \               \r\n            \r\n        \r\n    \r\n\r\n    \r\n            \r\n
+  \         Term SelectionSpecial Course ListingsOne.IUSearch for TextbooksBuilding
+  Code Index    \r\n        \r\n     \r\n    \r\n    \r\n    \r\n \r\n\t\r\n\t\tFulfilling
+  the Promise\r\n\t\t\r\n\r\n\t\tPrivacy Notice\r\n\t\t\r\n\t\t\t\r\n\t\t\t\tCopyright
+  ©  \r\n\t\t\t                  \r\n                        var theDate=new Date()\r\n
+  \                       document.write(theDate.getFullYear())\r\n                        2015\r\n
+  \     \r\n\t\t\tThe Trustees of Indiana University,\r\n\t\t\tCopyright Complaints\r\n\t\t\t\t\t\r\n\t\r\n\r\n\r\n
+  \r\n    \r\n    \r\n    \r\n\r\n\t\t\t\t\r\n\t\t\t\t\tIndiana University Bloomington\r\n\t\t\t\t\tIndiana
+  University Bloomington\r\n\t\t\t\t\tIU Bloomington\r\n\t\t\t\t\r\n\t\t\tSelect a
+  term and version to view:\r\n  \r\n  \r\n  More Schedule of Classes versions, output
+  options and archived terms are available from the Schedule of Classes home page.Go
+  to the Schedule of Classes »Fulfilling the PromisePrivacy Notice\r\n\t\t\t\r\n\t\t\t\tCopyright
+  ©  \r\n\t\t\t                  \r\n                        var theDate=new Date()\r\n
+  \                       document.write(theDate.getFullYear())\r\n                        2015\r\n
+  \     \r\n\t\t\tThe Trustees of Indiana University,\r\n\t\t\tCopyright Complaints\r\n\t\t\t2015"

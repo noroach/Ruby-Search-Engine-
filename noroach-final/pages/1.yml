@@ -1,0 +1,1776 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors: []
+address: https://lists.wikimedia.org/mailman/listinfo/daily-article-l
+inboundLinks: []
+lines:
+- "\r\n"
+- "\r\n"
+- "  \r\n"
+- "\r\n"
+- "   \r\n"
+- "\r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "\r\n"
+- "   \r\n"
+- "\r\n"
+- "    \r\n"
+- "       \r\n"
+- "     Daily article mailing list\r\n"
+- "\r\n"
+- "     \r\n"
+- "\r\n"
+- "    \r\n"
+- "\r\n"
+- "    \r\n"
+- "\r\n"
+- "\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      \r\n"
+- "       The sum of all human knowledge.  Delivered to your inbox every day.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       If you have any questions, comments or complaints about this mailing list,
+  please contact us at dal-feedback a t wikimedia.org.\r\n"
+- "      \r\n"
+- "     \r\n"
+- "     \r\n"
+- "      \r\n"
+- "      List information\r\n"
+- "      \r\n"
+- "       To receive the daily article, you must first be subscribed to the mailing
+  list (see how to subscribe below).\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       Once you are a subscriber to this mailing list we'll send you an email packed
+  full of Wikimedia content each and every day.  Emails are usually sent around 0100
+  (1:00 AM) UTC but this can vary.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "      In each email, you will receive the English Language Wikipedia's featured
+  article, which changes daily.  You will also receive a few selected anniversaries
+  as well as the word of the day from Wiktionary and the Quote of the day from Wikiquote,
+  two sister projects of Wikipedia.\r\n"
+- "\t  \r\n"
+- "     \r\n"
+- "\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      Subscribing to this mailing list\r\n"
+- "       \r\n"
+- "        You can subscribe by filling out the following form. You will be sent a
+  verification e-mail.\r\n"
+- "       \r\n"
+- "       \r\n"
+- "        Your e-mail address:   \r\n"
+- "       \r\n"
+- "        Your name or username (optional):   \r\n"
+- "       \r\n"
+- "        You can enter a privacy password below. This provides only mild security,
+  because it will occasionally be e-mailed back to you in plaintext. Do not use a
+  valuable password.\r\n"
+- "       \r\n"
+- "       \r\n"
+- "        If you do not enter a password, a random one will be automatically generated
+  and sent to you once you have confirmed your subscription. You can always request
+  a mail-back of your password when you edit your personal options.\r\n"
+- "       \r\n"
+- "       \r\n"
+- "        Password:   \r\n"
+- "       \r\n"
+- "        Re-enter your password:   \r\n"
+- "       \r\n"
+- "        \r\n"
+- "      \r\n"
+- "     \r\n"
+- "\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      Changing options and unsubscribing\r\n"
+- "      \r\n"
+- "       To change your mailing list options (such as to turn off mailings) or to
+  unsubscribe completely from the mailing list, please log in with your e-mail address
+  below.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       You will be asked to provide your mailing list password. If cannot remember
+  it, you will be able to request a password reminder.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       E-mail address: \r\n"
+- "        \r\n"
+- |2
+           To unsubscribe from daily-article-l, get a password reminder,
+- |2
+          or change your subscription options enter your subscription
+- |2
+          email address:
+- |2
+            If you leave the field blank, you will be prompted for
+- "        your email address\r\n"
+- "        \r\n"
+- "       \r\n"
+- "      \r\n"
+- "     \r\n"
+- "\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      Administrators\r\n"
+- "      \r\n"
+- "       The daily-article-l mailing list administrators can be contacted by e-mail
+  at dal-feedback a t wikimedia.org\r\n"
+- "      \r\n"
+- "     \r\n"
+- "\r\n"
+- "    \r\n"
+- "\r\n"
+- "    \r\n"
+- "     Table of contents\r\n"
+- "     List information\r\n"
+- "      Subscribing to this list\r\n"
+- "      Unsubscribe from this list\r\n"
+- "      Change subscription options\r\n"
+- "      List administrators\r\n"
+- "\r\n"
+- "     Other mailing lists\r\n"
+- "     daily-image-l\r\n"
+- "      wikipedia-l\r\n"
+- "      wikien-l\r\n"
+- "      wikimedia-l\r\n"
+- "      List of mailing lists\r\n"
+- "\r\n"
+- " Other related pages\r\n"
+- "     Membership options login\r\n"
+- "      Administrative interface\r\n"
+- "      Archive of prior postings\r\n"
+- "     \r\n"
+- "   \r\n"
+- "    \r\n"
+- "\r\n"
+- "   \r\n"
+- "\r\n"
+- "   \r\n"
+- "    This mailing list is powered by Mailman, the GNU Mailing List Manager.\r\n"
+- "     It is run by Rjd0060 and Matthewrbowker via an automated script developed
+  by MZMcBride.\r\n"
+- "    Page based upon a design by Arcsin, licensed under the Creative Commons Attribution
+  2.5 License.\r\n"
+- "   \r\n"
+- "\r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "\r\n"
+- "  \r\n"
+- "\r\n"
+- " \r\n"
+- "       The sum of all human knowledge.  Delivered to your inbox every day.\r\n"
+- "      \r\n"
+- "       If you have any questions, comments or complaints about this mailing list,
+  please contact us at dal-feedback a t wikimedia.org.\r\n"
+- "      \r\n"
+- "       To receive the daily article, you must first be subscribed to the mailing
+  list (see how to subscribe below).\r\n"
+- "      \r\n"
+- "       Once you are a subscriber to this mailing list we'll send you an email packed
+  full of Wikimedia content each and every day.  Emails are usually sent around 0100
+  (1:00 AM) UTC but this can vary.\r\n"
+- "      \r\n"
+- "      In each email, you will receive the English Language Wikipedia's featured
+  article, which changes daily.  You will also receive a few selected anniversaries
+  as well as the word of the day from Wiktionary and the Quote of the day from Wikiquote,
+  two sister projects of Wikipedia.\r\n"
+- "\t  \r\n"
+- "        You can subscribe by filling out the following form. You will be sent a
+  verification e-mail.\r\n"
+- "       \r\n"
+- "        Your e-mail address:   \r\n"
+- "        Your name or username (optional):   \r\n"
+- "        You can enter a privacy password below. This provides only mild security,
+  because it will occasionally be e-mailed back to you in plaintext. Do not use a
+  valuable password.\r\n"
+- "       \r\n"
+- "        If you do not enter a password, a random one will be automatically generated
+  and sent to you once you have confirmed your subscription. You can always request
+  a mail-back of your password when you edit your personal options.\r\n"
+- "       \r\n"
+- "        Password:   \r\n"
+- "        Re-enter your password:   \r\n"
+- "        \r\n"
+- "       To change your mailing list options (such as to turn off mailings) or to
+  unsubscribe completely from the mailing list, please log in with your e-mail address
+  below.\r\n"
+- "      \r\n"
+- "       You will be asked to provide your mailing list password. If cannot remember
+  it, you will be able to request a password reminder.\r\n"
+- "      \r\n"
+- |2
+           To unsubscribe from daily-article-l, get a password reminder,
+- |2
+          or change your subscription options enter your subscription
+- |2
+          email address:
+- "        \r\n"
+- "       The daily-article-l mailing list administrators can be contacted by e-mail
+  at dal-feedback a t wikimedia.org\r\n"
+- "      "
+index:
+  daily: !ruby/object:Word
+    word: daily
+    stem: daili
+    docFrequency: 11.0
+    docPositions:
+    - 25
+    - 47
+    - 53
+    - 94
+    - 108
+    - 123
+    - 168
+    - 172
+    - 189
+    - 193
+  article: !ruby/object:Word
+    word: article
+    stem: articl
+    docFrequency: 10.0
+    docPositions:
+    - 25
+    - 47
+    - 53
+    - 94
+    - 108
+    - 168
+    - 172
+    - 189
+    - 193
+  mailing: !ruby/object:Word
+    word: mailing
+    stem: mail
+    docFrequency: 21.0
+    docPositions:
+    - 25
+    - 40
+    - 47
+    - 50
+    - 59
+    - 86
+    - 89
+    - 108
+    - 122
+    - 127
+    - 140
+    - 166
+    - 168
+    - 170
+    - 185
+    - 187
+    - 193
+  list: !ruby/object:Word
+    word: list
+    stem: list
+    docFrequency: 25.0
+    docPositions:
+    - 25
+    - 40
+    - 45
+    - 47
+    - 50
+    - 59
+    - 86
+    - 89
+    - 108
+    - 116
+    - 117
+    - 118
+    - 120
+    - 127
+    - 140
+    - 166
+    - 168
+    - 170
+    - 185
+    - 187
+    - 193
+  sum: !ruby/object:Word
+    word: sum
+    stem: sum
+    docFrequency: 3.0
+    docPositions:
+    - 37
+    - 164
+  all: !ruby/object:Word
+    word: all
+    stem: all
+    docFrequency: 3.0
+    docPositions:
+    - 37
+    - 164
+  human: !ruby/object:Word
+    word: human
+    stem: human
+    docFrequency: 3.0
+    docPositions:
+    - 37
+    - 164
+  knowledge: !ruby/object:Word
+    word: knowledge
+    stem: knowledg
+    docFrequency: 3.0
+    docPositions:
+    - 37
+    - 164
+  delivered: !ruby/object:Word
+    word: delivered
+    stem: deliv
+    docFrequency: 3.0
+    docPositions:
+    - 37
+    - 164
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 26.0
+    docPositions:
+    - 37
+    - 64
+    - 66
+    - 71
+    - 76
+    - 86
+    - 89
+    - 95
+    - 98
+    - 164
+    - 176
+    - 177
+    - 180
+    - 183
+    - 185
+    - 187
+    - 190
+  inbox: !ruby/object:Word
+    word: inbox
+    stem: inbox
+    docFrequency: 3.0
+    docPositions:
+    - 37
+    - 164
+  every: !ruby/object:Word
+    word: every
+    stem: everi
+    docFrequency: 5.0
+    docPositions:
+    - 37
+    - 50
+    - 164
+    - 170
+  day: !ruby/object:Word
+    word: day
+    stem: dai
+    docFrequency: 9.0
+    docPositions:
+    - 37
+    - 50
+    - 53
+    - 164
+    - 170
+    - 172
+  if: !ruby/object:Word
+    word: if
+    stem: if
+    docFrequency: 8.0
+    docPositions:
+    - 40
+    - 71
+    - 89
+    - 97
+    - 166
+    - 180
+    - 187
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 37.0
+    docPositions:
+    - 40
+    - 47
+    - 50
+    - 53
+    - 61
+    - 68
+    - 71
+    - 89
+    - 97
+    - 166
+    - 168
+    - 170
+    - 172
+    - 174
+    - 178
+    - 180
+    - 187
+  have: !ruby/object:Word
+    word: have
+    stem: have
+    docFrequency: 5.0
+    docPositions:
+    - 40
+    - 71
+    - 166
+    - 180
+  any: !ruby/object:Word
+    word: any
+    stem: ani
+    docFrequency: 3.0
+    docPositions:
+    - 40
+    - 166
+  questions: !ruby/object:Word
+    word: questions
+    stem: question
+    docFrequency: 3.0
+    docPositions:
+    - 40
+    - 166
+  comments: !ruby/object:Word
+    word: comments
+    stem: comment
+    docFrequency: 3.0
+    docPositions:
+    - 40
+    - 166
+  complaints: !ruby/object:Word
+    word: complaints
+    stem: complaint
+    docFrequency: 3.0
+    docPositions:
+    - 40
+    - 166
+  please: !ruby/object:Word
+    word: please
+    stem: pleas
+    docFrequency: 5.0
+    docPositions:
+    - 40
+    - 86
+    - 166
+    - 185
+  contact: !ruby/object:Word
+    word: contact
+    stem: contact
+    docFrequency: 3.0
+    docPositions:
+    - 40
+    - 166
+  us: !ruby/object:Word
+    word: us
+    stem: us
+    docFrequency: 3.0
+    docPositions:
+    - 40
+    - 166
+  dal: !ruby/object:Word
+    word: dal
+    stem: dal
+    docFrequency: 5.0
+    docPositions:
+    - 40
+    - 108
+    - 166
+    - 193
+  feedback: !ruby/object:Word
+    word: feedback
+    stem: feedback
+    docFrequency: 5.0
+    docPositions:
+    - 40
+    - 108
+    - 166
+    - 193
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 5.0
+    docPositions:
+    - 40
+    - 108
+    - 166
+    - 193
+  wikimedia: !ruby/object:Word
+    word: wikimedia
+    stem: wikimedia
+    docFrequency: 8.0
+    docPositions:
+    - 40
+    - 50
+    - 108
+    - 126
+    - 166
+    - 170
+    - 193
+  org: !ruby/object:Word
+    word: org
+    stem: org
+    docFrequency: 5.0
+    docPositions:
+    - 40
+    - 108
+    - 166
+    - 193
+  information: !ruby/object:Word
+    word: information
+    stem: inform
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 116
+  receive: !ruby/object:Word
+    word: receive
+    stem: receiv
+    docFrequency: 7.0
+    docPositions:
+    - 47
+    - 53
+    - 168
+    - 172
+  must: !ruby/object:Word
+    word: must
+    stem: must
+    docFrequency: 3.0
+    docPositions:
+    - 47
+    - 168
+  first: !ruby/object:Word
+    word: first
+    stem: first
+    docFrequency: 3.0
+    docPositions:
+    - 47
+    - 168
+  subscribed: !ruby/object:Word
+    word: subscribed
+    stem: subscrib
+    docFrequency: 3.0
+    docPositions:
+    - 47
+    - 168
+  see: !ruby/object:Word
+    word: see
+    stem: see
+    docFrequency: 3.0
+    docPositions:
+    - 47
+    - 168
+  subscribe: !ruby/object:Word
+    word: subscribe
+    stem: subscrib
+    docFrequency: 5.0
+    docPositions:
+    - 47
+    - 61
+    - 168
+    - 174
+  below: !ruby/object:Word
+    word: below
+    stem: below
+    docFrequency: 7.0
+    docPositions:
+    - 47
+    - 68
+    - 86
+    - 168
+    - 178
+    - 185
+  once: !ruby/object:Word
+    word: once
+    stem: onc
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 71
+    - 170
+    - 180
+  subscriber: !ruby/object:Word
+    word: subscriber
+    stem: subscrib
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  we: !ruby/object:Word
+    word: we
+    stem: we
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  ll: !ruby/object:Word
+    word: ll
+    stem: ll
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  send: !ruby/object:Word
+    word: send
+    stem: send
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 8.0
+    docPositions:
+    - 50
+    - 53
+    - 96
+    - 98
+    - 170
+    - 172
+    - 191
+  packed: !ruby/object:Word
+    word: packed
+    stem: pack
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  full: !ruby/object:Word
+    word: full
+    stem: full
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  content: !ruby/object:Word
+    word: content
+    stem: content
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  each: !ruby/object:Word
+    word: each
+    stem: each
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 53
+    - 170
+    - 172
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 9.0
+    docPositions:
+    - 50
+    - 53
+    - 71
+    - 84
+    - 141
+    - 170
+    - 172
+    - 180
+  emails: !ruby/object:Word
+    word: emails
+    stem: email
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  usually: !ruby/object:Word
+    word: usually
+    stem: usual
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  sent: !ruby/object:Word
+    word: sent
+    stem: sent
+    docFrequency: 7.0
+    docPositions:
+    - 50
+    - 61
+    - 71
+    - 170
+    - 174
+    - 180
+  around: !ruby/object:Word
+    word: around
+    stem: around
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  am: !ruby/object:Word
+    word: am
+    stem: am
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  utc: !ruby/object:Word
+    word: utc
+    stem: utc
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  but: !ruby/object:Word
+    word: but
+    stem: but
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  can: !ruby/object:Word
+    word: can
+    stem: can
+    docFrequency: 11.0
+    docPositions:
+    - 50
+    - 61
+    - 68
+    - 71
+    - 108
+    - 170
+    - 174
+    - 178
+    - 180
+    - 193
+  vary: !ruby/object:Word
+    word: vary
+    stem: vari
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 170
+  english: !ruby/object:Word
+    word: english
+    stem: english
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  language: !ruby/object:Word
+    word: language
+    stem: languag
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  wikipedia: !ruby/object:Word
+    word: wikipedia
+    stem: wikipedia
+    docFrequency: 6.0
+    docPositions:
+    - 53
+    - 124
+    - 172
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  featured: !ruby/object:Word
+    word: featured
+    stem: featur
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  which: !ruby/object:Word
+    word: which
+    stem: which
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  changes: !ruby/object:Word
+    word: changes
+    stem: chang
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  also: !ruby/object:Word
+    word: also
+    stem: also
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  few: !ruby/object:Word
+    word: few
+    stem: few
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  selected: !ruby/object:Word
+    word: selected
+    stem: select
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  anniversaries: !ruby/object:Word
+    word: anniversaries
+    stem: anniversari
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  well: !ruby/object:Word
+    word: well
+    stem: well
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  word: !ruby/object:Word
+    word: word
+    stem: word
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  wiktionary: !ruby/object:Word
+    word: wiktionary
+    stem: wiktionari
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  quote: !ruby/object:Word
+    word: quote
+    stem: quot
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  wikiquote: !ruby/object:Word
+    word: wikiquote
+    stem: wikiquot
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  two: !ruby/object:Word
+    word: two
+    stem: two
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  sister: !ruby/object:Word
+    word: sister
+    stem: sister
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  projects: !ruby/object:Word
+    word: projects
+    stem: project
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 172
+  subscribing: !ruby/object:Word
+    word: subscribing
+    stem: subscrib
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 117
+  filling: !ruby/object:Word
+    word: filling
+    stem: fill
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 174
+  out: !ruby/object:Word
+    word: out
+    stem: out
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 174
+  following: !ruby/object:Word
+    word: following
+    stem: follow
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 174
+  form: !ruby/object:Word
+    word: form
+    stem: form
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 174
+  verification: !ruby/object:Word
+    word: verification
+    stem: verif
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 174
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 12.0
+    docPositions:
+    - 61
+    - 64
+    - 68
+    - 86
+    - 92
+    - 108
+    - 174
+    - 176
+    - 178
+    - 185
+    - 193
+  mail: !ruby/object:Word
+    word: mail
+    stem: mail
+    docFrequency: 12.0
+    docPositions:
+    - 61
+    - 64
+    - 71
+    - 86
+    - 92
+    - 108
+    - 174
+    - 176
+    - 180
+    - 185
+    - 193
+  address: !ruby/object:Word
+    word: address
+    stem: address
+    docFrequency: 9.0
+    docPositions:
+    - 64
+    - 86
+    - 92
+    - 96
+    - 98
+    - 176
+    - 185
+    - 191
+  name: !ruby/object:Word
+    word: name
+    stem: name
+    docFrequency: 3.0
+    docPositions:
+    - 66
+    - 177
+  username: !ruby/object:Word
+    word: username
+    stem: usernam
+    docFrequency: 3.0
+    docPositions:
+    - 66
+    - 177
+  optional: !ruby/object:Word
+    word: optional
+    stem: option
+    docFrequency: 3.0
+    docPositions:
+    - 66
+    - 177
+  enter: !ruby/object:Word
+    word: enter
+    stem: enter
+    docFrequency: 9.0
+    docPositions:
+    - 68
+    - 71
+    - 76
+    - 95
+    - 178
+    - 180
+    - 183
+    - 190
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  password: !ruby/object:Word
+    word: password
+    stem: password
+    docFrequency: 19.0
+    docPositions:
+    - 68
+    - 71
+    - 74
+    - 76
+    - 89
+    - 94
+    - 178
+    - 180
+    - 182
+    - 183
+    - 187
+    - 189
+  provides: !ruby/object:Word
+    word: provides
+    stem: provid
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  only: !ruby/object:Word
+    word: only
+    stem: onli
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  mild: !ruby/object:Word
+    word: mild
+    stem: mild
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  security: !ruby/object:Word
+    word: security
+    stem: secur
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  because: !ruby/object:Word
+    word: because
+    stem: becaus
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  occasionally: !ruby/object:Word
+    word: occasionally
+    stem: occasion
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  mailed: !ruby/object:Word
+    word: mailed
+    stem: mail
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  back: !ruby/object:Word
+    word: back
+    stem: back
+    docFrequency: 5.0
+    docPositions:
+    - 68
+    - 71
+    - 178
+    - 180
+  plaintext: !ruby/object:Word
+    word: plaintext
+    stem: plaintext
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  do: !ruby/object:Word
+    word: do
+    stem: do
+    docFrequency: 5.0
+    docPositions:
+    - 68
+    - 71
+    - 178
+    - 180
+  not: !ruby/object:Word
+    word: not
+    stem: not
+    docFrequency: 5.0
+    docPositions:
+    - 68
+    - 71
+    - 178
+    - 180
+  use: !ruby/object:Word
+    word: use
+    stem: us
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  valuable: !ruby/object:Word
+    word: valuable
+    stem: valuabl
+    docFrequency: 3.0
+    docPositions:
+    - 68
+    - 178
+  random: !ruby/object:Word
+    word: random
+    stem: random
+    docFrequency: 3.0
+    docPositions:
+    - 71
+    - 180
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 3.0
+    docPositions:
+    - 71
+    - 180
+  automatically: !ruby/object:Word
+    word: automatically
+    stem: automat
+    docFrequency: 3.0
+    docPositions:
+    - 71
+    - 180
+  generated: !ruby/object:Word
+    word: generated
+    stem: gener
+    docFrequency: 3.0
+    docPositions:
+    - 71
+    - 180
+  confirmed: !ruby/object:Word
+    word: confirmed
+    stem: confirm
+    docFrequency: 3.0
+    docPositions:
+    - 71
+    - 180
+  subscription: !ruby/object:Word
+    word: subscription
+    stem: subscript
+    docFrequency: 8.0
+    docPositions:
+    - 71
+    - 95
+    - 119
+    - 180
+    - 190
+  always: !ruby/object:Word
+    word: always
+    stem: alwai
+    docFrequency: 3.0
+    docPositions:
+    - 71
+    - 180
+  request: !ruby/object:Word
+    word: request
+    stem: request
+    docFrequency: 5.0
+    docPositions:
+    - 71
+    - 89
+    - 180
+    - 187
+  edit: !ruby/object:Word
+    word: edit
+    stem: edit
+    docFrequency: 3.0
+    docPositions:
+    - 71
+    - 180
+  personal: !ruby/object:Word
+    word: personal
+    stem: person
+    docFrequency: 3.0
+    docPositions:
+    - 71
+    - 180
+  options: !ruby/object:Word
+    word: options
+    stem: option
+    docFrequency: 10.0
+    docPositions:
+    - 71
+    - 84
+    - 86
+    - 95
+    - 119
+    - 130
+    - 180
+    - 185
+    - 190
+  re: !ruby/object:Word
+    word: re
+    stem: re
+    docFrequency: 3.0
+    docPositions:
+    - 76
+    - 183
+  changing: !ruby/object:Word
+    word: changing
+    stem: chang
+    docFrequency: 2.0
+    docPositions:
+    - 84
+  unsubscribing: !ruby/object:Word
+    word: unsubscribing
+    stem: unsubscrib
+    docFrequency: 2.0
+    docPositions:
+    - 84
+  change: !ruby/object:Word
+    word: change
+    stem: chang
+    docFrequency: 6.0
+    docPositions:
+    - 86
+    - 95
+    - 119
+    - 185
+    - 190
+  such: !ruby/object:Word
+    word: such
+    stem: such
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 185
+  turn: !ruby/object:Word
+    word: turn
+    stem: turn
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 185
+  'off': !ruby/object:Word
+    word: 'off'
+    stem: 'off'
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 185
+  mailings: !ruby/object:Word
+    word: mailings
+    stem: mail
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 185
+  unsubscribe: !ruby/object:Word
+    word: unsubscribe
+    stem: unsubscrib
+    docFrequency: 6.0
+    docPositions:
+    - 86
+    - 94
+    - 118
+    - 185
+    - 189
+  completely: !ruby/object:Word
+    word: completely
+    stem: complet
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 185
+  log: !ruby/object:Word
+    word: log
+    stem: log
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 185
+  asked: !ruby/object:Word
+    word: asked
+    stem: ask
+    docFrequency: 3.0
+    docPositions:
+    - 89
+    - 187
+  provide: !ruby/object:Word
+    word: provide
+    stem: provid
+    docFrequency: 3.0
+    docPositions:
+    - 89
+    - 187
+  cannot: !ruby/object:Word
+    word: cannot
+    stem: cannot
+    docFrequency: 3.0
+    docPositions:
+    - 89
+    - 187
+  remember: !ruby/object:Word
+    word: remember
+    stem: rememb
+    docFrequency: 3.0
+    docPositions:
+    - 89
+    - 187
+  able: !ruby/object:Word
+    word: able
+    stem: abl
+    docFrequency: 3.0
+    docPositions:
+    - 89
+    - 187
+  reminder: !ruby/object:Word
+    word: reminder
+    stem: remind
+    docFrequency: 5.0
+    docPositions:
+    - 89
+    - 94
+    - 187
+    - 189
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 9.0
+    docPositions:
+    - 94
+    - 108
+    - 123
+    - 124
+    - 125
+    - 126
+    - 189
+    - 193
+  get: !ruby/object:Word
+    word: get
+    stem: get
+    docFrequency: 3.0
+    docPositions:
+    - 94
+    - 189
+  leave: !ruby/object:Word
+    word: leave
+    stem: leav
+    docFrequency: 2.0
+    docPositions:
+    - 97
+  field: !ruby/object:Word
+    word: field
+    stem: field
+    docFrequency: 2.0
+    docPositions:
+    - 97
+  blank: !ruby/object:Word
+    word: blank
+    stem: blank
+    docFrequency: 2.0
+    docPositions:
+    - 97
+  prompted: !ruby/object:Word
+    word: prompted
+    stem: prompt
+    docFrequency: 2.0
+    docPositions:
+    - 97
+  administrators: !ruby/object:Word
+    word: administrators
+    stem: administr
+    docFrequency: 5.0
+    docPositions:
+    - 106
+    - 108
+    - 120
+    - 193
+  contacted: !ruby/object:Word
+    word: contacted
+    stem: contact
+    docFrequency: 3.0
+    docPositions:
+    - 108
+    - 193
+  table: !ruby/object:Word
+    word: table
+    stem: tabl
+    docFrequency: 2.0
+    docPositions:
+    - 115
+  contents: !ruby/object:Word
+    word: contents
+    stem: content
+    docFrequency: 2.0
+    docPositions:
+    - 115
+  other: !ruby/object:Word
+    word: other
+    stem: other
+    docFrequency: 3.0
+    docPositions:
+    - 122
+    - 129
+  lists: !ruby/object:Word
+    word: lists
+    stem: list
+    docFrequency: 3.0
+    docPositions:
+    - 122
+    - 127
+  image: !ruby/object:Word
+    word: image
+    stem: imag
+    docFrequency: 2.0
+    docPositions:
+    - 123
+  wikien: !ruby/object:Word
+    word: wikien
+    stem: wikien
+    docFrequency: 2.0
+    docPositions:
+    - 125
+  related: !ruby/object:Word
+    word: related
+    stem: relat
+    docFrequency: 2.0
+    docPositions:
+    - 129
+  pages: !ruby/object:Word
+    word: pages
+    stem: page
+    docFrequency: 2.0
+    docPositions:
+    - 129
+  membership: !ruby/object:Word
+    word: membership
+    stem: membership
+    docFrequency: 2.0
+    docPositions:
+    - 130
+  login: !ruby/object:Word
+    word: login
+    stem: login
+    docFrequency: 2.0
+    docPositions:
+    - 130
+  administrative: !ruby/object:Word
+    word: administrative
+    stem: administr
+    docFrequency: 2.0
+    docPositions:
+    - 131
+  interface: !ruby/object:Word
+    word: interface
+    stem: interfac
+    docFrequency: 2.0
+    docPositions:
+    - 131
+  archive: !ruby/object:Word
+    word: archive
+    stem: archiv
+    docFrequency: 2.0
+    docPositions:
+    - 132
+  prior: !ruby/object:Word
+    word: prior
+    stem: prior
+    docFrequency: 2.0
+    docPositions:
+    - 132
+  postings: !ruby/object:Word
+    word: postings
+    stem: post
+    docFrequency: 2.0
+    docPositions:
+    - 132
+  powered: !ruby/object:Word
+    word: powered
+    stem: power
+    docFrequency: 2.0
+    docPositions:
+    - 140
+  mailman: !ruby/object:Word
+    word: mailman
+    stem: mailman
+    docFrequency: 2.0
+    docPositions:
+    - 140
+  gnu: !ruby/object:Word
+    word: gnu
+    stem: gnu
+    docFrequency: 2.0
+    docPositions:
+    - 140
+  manager: !ruby/object:Word
+    word: manager
+    stem: manag
+    docFrequency: 2.0
+    docPositions:
+    - 140
+  run: !ruby/object:Word
+    word: run
+    stem: run
+    docFrequency: 2.0
+    docPositions:
+    - 141
+  matthewrbowker: !ruby/object:Word
+    word: matthewrbowker
+    stem: matthewrbowk
+    docFrequency: 2.0
+    docPositions:
+    - 141
+  via: !ruby/object:Word
+    word: via
+    stem: via
+    docFrequency: 2.0
+    docPositions:
+    - 141
+  automated: !ruby/object:Word
+    word: automated
+    stem: autom
+    docFrequency: 2.0
+    docPositions:
+    - 141
+  script: !ruby/object:Word
+    word: script
+    stem: script
+    docFrequency: 2.0
+    docPositions:
+    - 141
+  developed: !ruby/object:Word
+    word: developed
+    stem: develop
+    docFrequency: 2.0
+    docPositions:
+    - 141
+  mzmcbride: !ruby/object:Word
+    word: mzmcbride
+    stem: mzmcbride
+    docFrequency: 2.0
+    docPositions:
+    - 141
+  page: !ruby/object:Word
+    word: page
+    stem: page
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  based: !ruby/object:Word
+    word: based
+    stem: base
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  upon: !ruby/object:Word
+    word: upon
+    stem: upon
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  design: !ruby/object:Word
+    word: design
+    stem: design
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  arcsin: !ruby/object:Word
+    word: arcsin
+    stem: arcsin
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  licensed: !ruby/object:Word
+    word: licensed
+    stem: licens
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  under: !ruby/object:Word
+    word: under
+    stem: under
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  creative: !ruby/object:Word
+    word: creative
+    stem: creativ
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  commons: !ruby/object:Word
+    word: commons
+    stem: common
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  attribution: !ruby/object:Word
+    word: attribution
+    stem: attribut
+    docFrequency: 2.0
+    docPositions:
+    - 142
+  license: !ruby/object:Word
+    word: license
+    stem: licens
+    docFrequency: 2.0
+    docPositions:
+    - 142
+lineCount: 195
+wordCount: 783
+rank: 0.25
+title: Daily article mailing list, from Wikipedia
+links:
+- https://en.wikipedia.org/wiki/Coordinated_Universal_Time
+- https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article
+- https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries
+- https://en.wiktionary.org/wiki/Wiktionary:Main_Page
+- https://en.wikiquote.org/wiki/Main_Page
+- https://en.wikipedia.org/wiki/Plaintext
+- https://lists.wikimedia.org/mailman/listinfo/daily-image-l
+- https://lists.wikimedia.org/mailman/listinfo/wikipedia-l
+- https://lists.wikimedia.org/mailman/listinfo/wikien-l
+- https://lists.wikimedia.org/mailman/listinfo/wikimedia-l
+- https://meta.wikimedia.org/wiki/Mailing_lists/overview
+- https://lists.wikimedia.org/mailman/options/daily-article-l
+- https://lists.wikimedia.org/mailman/admin/daily-article-l
+- http://lists.wikimedia.org/pipermail/daily-article-l/
+- http://www.list.org/
+- http://www.gnu.org
+- https://en.wikipedia.org/wiki/User:Rjd0060
+- https://en.wikipedia.org/wiki/User:Matthewrbowker
+- https://github.com/mzmcbride/daily-article
+- https://en.wikipedia.org/wiki/User:MZMcBride
+- http://templates.arcsin.se
+- http://creativecommons.org/licenses/by/2.5/
+rawText: "\r\n\r\n  \r\n\r\n   \r\n\r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n
+  \  \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n\r\n   \r\n\r\n    \r\n
+  \      \r\n     Daily article mailing list\r\n\r\n     \r\n\r\n    \r\n\r\n    \r\n\r\n\r\n
+  \    \r\n      \r\n      \r\n       The sum of all human knowledge.  Delivered to
+  your inbox every day.\r\n      \r\n      \r\n       If you have any questions, comments
+  or complaints about this mailing list, please contact us at dal-feedback a t wikimedia.org.\r\n
+  \     \r\n     \r\n     \r\n      \r\n      List information\r\n      \r\n       To
+  receive the daily article, you must first be subscribed to the mailing list (see
+  how to subscribe below).\r\n      \r\n      \r\n       Once you are a subscriber
+  to this mailing list we'll send you an email packed full of Wikimedia content each
+  and every day.  Emails are usually sent around 0100 (1:00 AM) UTC but this can vary.\r\n
+  \     \r\n      \r\n      In each email, you will receive the English Language Wikipedia's
+  featured article, which changes daily.  You will also receive a few selected anniversaries
+  as well as the word of the day from Wiktionary and the Quote of the day from Wikiquote,
+  two sister projects of Wikipedia.\r\n\t  \r\n     \r\n\r\n     \r\n      \r\n      Subscribing
+  to this mailing list\r\n       \r\n        You can subscribe by filling out the
+  following form. You will be sent a verification e-mail.\r\n       \r\n       \r\n
+  \       Your e-mail address:   \r\n       \r\n        Your name or username (optional):
+  \  \r\n       \r\n        You can enter a privacy password below. This provides
+  only mild security, because it will occasionally be e-mailed back to you in plaintext.
+  Do not use a valuable password.\r\n       \r\n       \r\n        If you do not enter
+  a password, a random one will be automatically generated and sent to you once you
+  have confirmed your subscription. You can always request a mail-back of your password
+  when you edit your personal options.\r\n       \r\n       \r\n        Password:
+  \  \r\n       \r\n        Re-enter your password:   \r\n       \r\n        \r\n
+  \     \r\n     \r\n\r\n     \r\n      \r\n      Changing options and unsubscribing\r\n
+  \     \r\n       To change your mailing list options (such as to turn off mailings)
+  or to unsubscribe completely from the mailing list, please log in with your e-mail
+  address below.\r\n      \r\n      \r\n       You will be asked to provide your mailing
+  list password. If cannot remember it, you will be able to request a password reminder.\r\n
+  \     \r\n      \r\n       E-mail address: \r\n        \r\n         To unsubscribe
+  from daily-article-l, get a password reminder,\n        or change your subscription
+  options enter your subscription\n        email address:\n          If you leave
+  the field blank, you will be prompted for\n        your email address\r\n        \r\n
+  \      \r\n      \r\n     \r\n\r\n     \r\n      \r\n      Administrators\r\n      \r\n
+  \      The daily-article-l mailing list administrators can be contacted by e-mail
+  at dal-feedback a t wikimedia.org\r\n      \r\n     \r\n\r\n    \r\n\r\n    \r\n
+  \    Table of contents\r\n     List information\r\n      Subscribing to this list\r\n
+  \     Unsubscribe from this list\r\n      Change subscription options\r\n      List
+  administrators\r\n\r\n     Other mailing lists\r\n     daily-image-l\r\n      wikipedia-l\r\n
+  \     wikien-l\r\n      wikimedia-l\r\n      List of mailing lists\r\n\r\n Other
+  related pages\r\n     Membership options login\r\n      Administrative interface\r\n
+  \     Archive of prior postings\r\n     \r\n   \r\n    \r\n\r\n   \r\n\r\n   \r\n
+  \   This mailing list is powered by Mailman, the GNU Mailing List Manager.\r\n     It
+  is run by Rjd0060 and Matthewrbowker via an automated script developed by MZMcBride.\r\n
+  \   Page based upon a design by Arcsin, licensed under the Creative Commons Attribution
+  2.5 License.\r\n   \r\n\r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n
+  \  \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n\r\n  \r\n\r\n \r\n       The sum
+  of all human knowledge.  Delivered to your inbox every day.\r\n      \r\n       If
+  you have any questions, comments or complaints about this mailing list, please contact
+  us at dal-feedback a t wikimedia.org.\r\n      \r\n       To receive the daily article,
+  you must first be subscribed to the mailing list (see how to subscribe below).\r\n
+  \     \r\n       Once you are a subscriber to this mailing list we'll send you an
+  email packed full of Wikimedia content each and every day.  Emails are usually sent
+  around 0100 (1:00 AM) UTC but this can vary.\r\n      \r\n      In each email, you
+  will receive the English Language Wikipedia's featured article, which changes daily.
+  \ You will also receive a few selected anniversaries as well as the word of the
+  day from Wiktionary and the Quote of the day from Wikiquote, two sister projects
+  of Wikipedia.\r\n\t  \r\n        You can subscribe by filling out the following
+  form. You will be sent a verification e-mail.\r\n       \r\n        Your e-mail
+  address:   \r\n        Your name or username (optional):   \r\n        You can enter
+  a privacy password below. This provides only mild security, because it will occasionally
+  be e-mailed back to you in plaintext. Do not use a valuable password.\r\n       \r\n
+  \       If you do not enter a password, a random one will be automatically generated
+  and sent to you once you have confirmed your subscription. You can always request
+  a mail-back of your password when you edit your personal options.\r\n       \r\n
+  \       Password:   \r\n        Re-enter your password:   \r\n        \r\n       To
+  change your mailing list options (such as to turn off mailings) or to unsubscribe
+  completely from the mailing list, please log in with your e-mail address below.\r\n
+  \     \r\n       You will be asked to provide your mailing list password. If cannot
+  remember it, you will be able to request a password reminder.\r\n      \r\n         To
+  unsubscribe from daily-article-l, get a password reminder,\n        or change your
+  subscription options enter your subscription\n        email address:\n        \r\n
+  \      The daily-article-l mailing list administrators can be contacted by e-mail
+  at dal-feedback a t wikimedia.org\r\n      "

@@ -1,0 +1,1499 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors: []
+address: https://lists.wikimedia.org/mailman/listinfo/wikimedia-l
+inboundLinks: []
+lines:
+- |2+
+
+- "  \n"
+- "  \n"
+- "    \n"
+- "      \n"
+- |2
+          Wikimedia-l
+- |2
+            Wikimedia Mailing List
+- "        Discussion list for the Wikimedia community and the larger network of organizations
+  (Wikimedia Foundation, chapter organizations, affiliates, partners) supporting its
+  work.\rThis mailing list can, for example, be used for:\rThe initial planning phase
+  of potential new Wikimedia projects and initiatives\rOrganizational issues of the
+  Wikimedia Foundation, chapter organizations, others\rDiscussing the setup of local
+  Wikimedia chapters\rDeveloping and evaluating grant-making programs\rPlanning elections,
+  polls and votes\rDiscussion of projects that don't already have a mailing list\rFinding
+  ways to raise funds\rOther Wikimedia-related issues\rThis is a high traffic mailing
+  list. The list is moderated, and is publicly archived. Participants are asked to
+  remain civil and stay on topic. There is a soft post limit of 30 posts per individual/month.\rVisit
+  the Wikimedia-l Archives. \n"
+- |2
+            Send email to wikimedia-l@lists.wikimedia.org.
+- |2
+           Translate page
+- "        \n"
+- "      \n"
+- "        \n"
+- |2
+            Subscribe
+- |2
+            Your e-mail address:Your name (optional):Preferred language:
+- |2
+   Arabic  Asturian  Catalan  Czech  Danish  German  English (USA)  Spanish (Spain)  Estonian  Euskara  Finnish  French  Galician  Hebrew  Croatian  Hungarian  Interlingua  Italian  Japanese  Korean  Lithuanian  Dutch  Norwegian  Polish  Portuguese  Portuguese (Brazil)  Romanian  Russian  Slovak  Slovenian  Serbian  Swedish  Turkish  Ukrainian  Vietnamese  Chinese (China)  Chinese (Taiwan) Once a month, your password will be emailed to you as a reminder.
+- |2
+             Would you like to receive list mail batched in a daily digest?
+- "           No   Yes \n"
+- "          \n"
+- "          \n"
+- "          \n"
+- |2
+            You will be sent email requesting confirmation, to
+- |2
+              prevent others from gratuitously subscribing you. This is a hidden list, which means that the
+- |2
+              list of members is available only to the list administrator.
+- "          \n"
+- "        \n"
+- "        \n"
+- |2
+            List members
+- "          \n"
+- "          \n"
+- "          \n"
+- |2
+            (The subscribers list is only available to the list
+- |2
+              administrator.) Enter your admin address and password to visit  the subscribers list:  Admin address: Password:   
+- "        \n"
+- |2
+            Change your settings or unsubscribe
+- |2
+            To unsubscribe from Wikimedia-l, get a password reminder,
+- |2
+          or change your subscription options enter your subscription
+- |2
+          email address:
+- |2
+            If you leave the field blank, you will be prompted for
+- |2
+          your email address
+- "        \n"
+- "        \n"
+- |2
+            Admins
+- |2
+            Wikimedia-l list run by adhair at gmail.com, thehelpfulonewiki at gmail.com, richard at ames.id.auWikimedia-l administrative interface (requires authorization)Overview of all lists.wikimedia.org mailing lists
+- |
+  version 2.1.18
+- "    \n"
+- "    \n"
+- "    \n"
+- "  \n"
+- "        \n"
+- "      \n"
+- "    \n"
+- "  \n"
+- "      \n"
+- |2
+          Mailing lists
+- |2
+            About Wikimedia
+- "        \n"
+- "      \n"
+- "      \n"
+- "      \n"
+- "       Arabic  Asturian  Catalan  Czech  Danish  German  English (USA)  Spanish
+  (Spain)  Estonian  Euskara  Finnish  French  Galician  Hebrew  Croatian  Hungarian
+  \ Interlingua  Italian  Japanese  Korean  Lithuanian  Dutch  Norwegian  Polish  Portuguese
+  \ Portuguese (Brazil)  Romanian  Russian  Slovak  Slovenian  Serbian  Swedish  Turkish
+  \ Ukrainian  Vietnamese  Chinese (China)  Chinese (Taiwan) \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- |2
+      Based on a design by freeCSStemplates.org - CC-BY 3.0.
+- |2
+      [[source]]
+- "  \n"
+- "  \n"
+- "  Discussion list for the Wikimedia community and the larger network of organizations
+  (Wikimedia Foundation, chapter organizations, affiliates, partners) supporting its
+  work.\rThis mailing list can, for example, be used for:\rOnce a month, your password
+  will be emailed to you as a reminder. Would you like to receive list mail batched
+  in a daily digest?\n"
+- "           No   Yes Enter your admin address and password to visit  the subscribers
+  list: \n"
+- |
+  Based on a design by freeCSStemplates.org - CC-BY 3.0.
+- "    [[source]]"
+index:
+  wikimedia: !ruby/object:Word
+    word: wikimedia
+    stem: wikimedia
+    docFrequency: 18.0
+    docPositions:
+    - 5
+    - 6
+    - 7
+    - 8
+    - 35
+    - 43
+    - 55
+    - 68
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 7.0
+    docPositions:
+    - 5
+    - 7
+    - 8
+    - 35
+    - 43
+  mailing: !ruby/object:Word
+    word: mailing
+    stem: mail
+    docFrequency: 8.0
+    docPositions:
+    - 6
+    - 7
+    - 43
+    - 54
+    - 68
+  list: !ruby/object:Word
+    word: list
+    stem: list
+    docFrequency: 20.0
+    docPositions:
+    - 6
+    - 7
+    - 16
+    - 22
+    - 23
+    - 27
+    - 31
+    - 32
+    - 43
+    - 68
+    - 69
+  discussion: !ruby/object:Word
+    word: discussion
+    stem: discuss
+    docFrequency: 4.0
+    docPositions:
+    - 7
+    - 68
+  community: !ruby/object:Word
+    word: community
+    stem: commun
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 10.0
+    docPositions:
+    - 7
+    - 32
+    - 68
+    - 69
+  larger: !ruby/object:Word
+    word: larger
+    stem: larger
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  network: !ruby/object:Word
+    word: network
+    stem: network
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  organizations: !ruby/object:Word
+    word: organizations
+    stem: organ
+    docFrequency: 6.0
+    docPositions:
+    - 7
+    - 68
+  foundation: !ruby/object:Word
+    word: foundation
+    stem: foundat
+    docFrequency: 4.0
+    docPositions:
+    - 7
+    - 68
+  chapter: !ruby/object:Word
+    word: chapter
+    stem: chapter
+    docFrequency: 4.0
+    docPositions:
+    - 7
+    - 68
+  affiliates: !ruby/object:Word
+    word: affiliates
+    stem: affili
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  partners: !ruby/object:Word
+    word: partners
+    stem: partner
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  supporting: !ruby/object:Word
+    word: supporting
+    stem: support
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  its: !ruby/object:Word
+    word: its
+    stem: it
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  work: !ruby/object:Word
+    word: work
+    stem: work
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  can: !ruby/object:Word
+    word: can
+    stem: can
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  example: !ruby/object:Word
+    word: example
+    stem: exampl
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  used: !ruby/object:Word
+    word: used
+    stem: us
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 68
+  initial: !ruby/object:Word
+    word: initial
+    stem: initi
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  planning: !ruby/object:Word
+    word: planning
+    stem: plan
+    docFrequency: 3.0
+    docPositions:
+    - 7
+  phase: !ruby/object:Word
+    word: phase
+    stem: phase
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  potential: !ruby/object:Word
+    word: potential
+    stem: potenti
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  projects: !ruby/object:Word
+    word: projects
+    stem: project
+    docFrequency: 3.0
+    docPositions:
+    - 7
+  initiatives: !ruby/object:Word
+    word: initiatives
+    stem: initi
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  organizational: !ruby/object:Word
+    word: organizational
+    stem: organiz
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  issues: !ruby/object:Word
+    word: issues
+    stem: issu
+    docFrequency: 3.0
+    docPositions:
+    - 7
+  others: !ruby/object:Word
+    word: others
+    stem: other
+    docFrequency: 3.0
+    docPositions:
+    - 7
+    - 22
+  discussing: !ruby/object:Word
+    word: discussing
+    stem: discuss
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  setup: !ruby/object:Word
+    word: setup
+    stem: setup
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  local: !ruby/object:Word
+    word: local
+    stem: local
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  chapters: !ruby/object:Word
+    word: chapters
+    stem: chapter
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  developing: !ruby/object:Word
+    word: developing
+    stem: develop
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  evaluating: !ruby/object:Word
+    word: evaluating
+    stem: evalu
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  grant: !ruby/object:Word
+    word: grant
+    stem: grant
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  making: !ruby/object:Word
+    word: making
+    stem: make
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  programs: !ruby/object:Word
+    word: programs
+    stem: program
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  elections: !ruby/object:Word
+    word: elections
+    stem: elect
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  polls: !ruby/object:Word
+    word: polls
+    stem: poll
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  votes: !ruby/object:Word
+    word: votes
+    stem: vote
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  don: !ruby/object:Word
+    word: don
+    stem: don
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  already: !ruby/object:Word
+    word: already
+    stem: alreadi
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  have: !ruby/object:Word
+    word: have
+    stem: have
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  finding: !ruby/object:Word
+    word: finding
+    stem: find
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  ways: !ruby/object:Word
+    word: ways
+    stem: wai
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  raise: !ruby/object:Word
+    word: raise
+    stem: rais
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  funds: !ruby/object:Word
+    word: funds
+    stem: fund
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  other: !ruby/object:Word
+    word: other
+    stem: other
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  related: !ruby/object:Word
+    word: related
+    stem: relat
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  high: !ruby/object:Word
+    word: high
+    stem: high
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  traffic: !ruby/object:Word
+    word: traffic
+    stem: traffic
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  moderated: !ruby/object:Word
+    word: moderated
+    stem: moder
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  publicly: !ruby/object:Word
+    word: publicly
+    stem: publicli
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  archived: !ruby/object:Word
+    word: archived
+    stem: archiv
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  participants: !ruby/object:Word
+    word: participants
+    stem: particip
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  asked: !ruby/object:Word
+    word: asked
+    stem: ask
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  remain: !ruby/object:Word
+    word: remain
+    stem: remain
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  civil: !ruby/object:Word
+    word: civil
+    stem: civil
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  stay: !ruby/object:Word
+    word: stay
+    stem: stai
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  topic: !ruby/object:Word
+    word: topic
+    stem: topic
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  there: !ruby/object:Word
+    word: there
+    stem: there
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  soft: !ruby/object:Word
+    word: soft
+    stem: soft
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  post: !ruby/object:Word
+    word: post
+    stem: post
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  limit: !ruby/object:Word
+    word: limit
+    stem: limit
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  posts: !ruby/object:Word
+    word: posts
+    stem: post
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  per: !ruby/object:Word
+    word: per
+    stem: per
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  individual: !ruby/object:Word
+    word: individual
+    stem: individu
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  month: !ruby/object:Word
+    word: month
+    stem: month
+    docFrequency: 4.0
+    docPositions:
+    - 7
+    - 15
+    - 68
+  visit: !ruby/object:Word
+    word: visit
+    stem: visit
+    docFrequency: 4.0
+    docPositions:
+    - 7
+    - 32
+    - 69
+  archives: !ruby/object:Word
+    word: archives
+    stem: archiv
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  send: !ruby/object:Word
+    word: send
+    stem: send
+    docFrequency: 2.0
+    docPositions:
+    - 8
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 5.0
+    docPositions:
+    - 8
+    - 21
+    - 37
+    - 39
+  lists: !ruby/object:Word
+    word: lists
+    stem: list
+    docFrequency: 5.0
+    docPositions:
+    - 8
+    - 43
+    - 54
+  org: !ruby/object:Word
+    word: org
+    stem: org
+    docFrequency: 5.0
+    docPositions:
+    - 8
+    - 43
+    - 64
+    - 70
+  translate: !ruby/object:Word
+    word: translate
+    stem: translat
+    docFrequency: 2.0
+    docPositions:
+    - 9
+  page: !ruby/object:Word
+    word: page
+    stem: page
+    docFrequency: 2.0
+    docPositions:
+    - 9
+  subscribe: !ruby/object:Word
+    word: subscribe
+    stem: subscrib
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 11.0
+    docPositions:
+    - 14
+    - 15
+    - 32
+    - 34
+    - 36
+    - 39
+    - 68
+    - 69
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 2.0
+    docPositions:
+    - 14
+  mail: !ruby/object:Word
+    word: mail
+    stem: mail
+    docFrequency: 4.0
+    docPositions:
+    - 14
+    - 16
+    - 68
+  address: !ruby/object:Word
+    word: address
+    stem: address
+    docFrequency: 7.0
+    docPositions:
+    - 14
+    - 32
+    - 37
+    - 39
+    - 69
+  name: !ruby/object:Word
+    word: name
+    stem: name
+    docFrequency: 2.0
+    docPositions:
+    - 14
+  optional: !ruby/object:Word
+    word: optional
+    stem: option
+    docFrequency: 2.0
+    docPositions:
+    - 14
+  preferred: !ruby/object:Word
+    word: preferred
+    stem: prefer
+    docFrequency: 2.0
+    docPositions:
+    - 14
+  language: !ruby/object:Word
+    word: language
+    stem: languag
+    docFrequency: 2.0
+    docPositions:
+    - 14
+  arabic: !ruby/object:Word
+    word: arabic
+    stem: arab
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  asturian: !ruby/object:Word
+    word: asturian
+    stem: asturian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  catalan: !ruby/object:Word
+    word: catalan
+    stem: catalan
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  czech: !ruby/object:Word
+    word: czech
+    stem: czech
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  danish: !ruby/object:Word
+    word: danish
+    stem: danish
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  german: !ruby/object:Word
+    word: german
+    stem: german
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  english: !ruby/object:Word
+    word: english
+    stem: english
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  usa: !ruby/object:Word
+    word: usa
+    stem: usa
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  spanish: !ruby/object:Word
+    word: spanish
+    stem: spanish
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  spain: !ruby/object:Word
+    word: spain
+    stem: spain
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  estonian: !ruby/object:Word
+    word: estonian
+    stem: estonian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  euskara: !ruby/object:Word
+    word: euskara
+    stem: euskara
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  finnish: !ruby/object:Word
+    word: finnish
+    stem: finnish
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  french: !ruby/object:Word
+    word: french
+    stem: french
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  galician: !ruby/object:Word
+    word: galician
+    stem: galician
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  hebrew: !ruby/object:Word
+    word: hebrew
+    stem: hebrew
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  croatian: !ruby/object:Word
+    word: croatian
+    stem: croatian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  hungarian: !ruby/object:Word
+    word: hungarian
+    stem: hungarian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  interlingua: !ruby/object:Word
+    word: interlingua
+    stem: interlingua
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  italian: !ruby/object:Word
+    word: italian
+    stem: italian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  japanese: !ruby/object:Word
+    word: japanese
+    stem: japanes
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  korean: !ruby/object:Word
+    word: korean
+    stem: korean
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  lithuanian: !ruby/object:Word
+    word: lithuanian
+    stem: lithuanian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  dutch: !ruby/object:Word
+    word: dutch
+    stem: dutch
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  norwegian: !ruby/object:Word
+    word: norwegian
+    stem: norwegian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  polish: !ruby/object:Word
+    word: polish
+    stem: polish
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  portuguese: !ruby/object:Word
+    word: portuguese
+    stem: portugues
+    docFrequency: 5.0
+    docPositions:
+    - 15
+    - 60
+  brazil: !ruby/object:Word
+    word: brazil
+    stem: brazil
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  romanian: !ruby/object:Word
+    word: romanian
+    stem: romanian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  russian: !ruby/object:Word
+    word: russian
+    stem: russian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  slovak: !ruby/object:Word
+    word: slovak
+    stem: slovak
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  slovenian: !ruby/object:Word
+    word: slovenian
+    stem: slovenian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  serbian: !ruby/object:Word
+    word: serbian
+    stem: serbian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  swedish: !ruby/object:Word
+    word: swedish
+    stem: swedish
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  turkish: !ruby/object:Word
+    word: turkish
+    stem: turkish
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  ukrainian: !ruby/object:Word
+    word: ukrainian
+    stem: ukrainian
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  vietnamese: !ruby/object:Word
+    word: vietnamese
+    stem: vietnames
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  chinese: !ruby/object:Word
+    word: chinese
+    stem: chines
+    docFrequency: 5.0
+    docPositions:
+    - 15
+    - 60
+  china: !ruby/object:Word
+    word: china
+    stem: china
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  taiwan: !ruby/object:Word
+    word: taiwan
+    stem: taiwan
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 60
+  once: !ruby/object:Word
+    word: once
+    stem: onc
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 68
+  password: !ruby/object:Word
+    word: password
+    stem: password
+    docFrequency: 7.0
+    docPositions:
+    - 15
+    - 32
+    - 35
+    - 68
+    - 69
+  emailed: !ruby/object:Word
+    word: emailed
+    stem: email
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 68
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 9.0
+    docPositions:
+    - 15
+    - 16
+    - 21
+    - 22
+    - 38
+    - 68
+  reminder: !ruby/object:Word
+    word: reminder
+    stem: remind
+    docFrequency: 4.0
+    docPositions:
+    - 15
+    - 35
+    - 68
+  would: !ruby/object:Word
+    word: would
+    stem: would
+    docFrequency: 3.0
+    docPositions:
+    - 16
+    - 68
+  like: !ruby/object:Word
+    word: like
+    stem: like
+    docFrequency: 3.0
+    docPositions:
+    - 16
+    - 68
+  receive: !ruby/object:Word
+    word: receive
+    stem: receiv
+    docFrequency: 3.0
+    docPositions:
+    - 16
+    - 68
+  batched: !ruby/object:Word
+    word: batched
+    stem: batch
+    docFrequency: 3.0
+    docPositions:
+    - 16
+    - 68
+  daily: !ruby/object:Word
+    word: daily
+    stem: daili
+    docFrequency: 3.0
+    docPositions:
+    - 16
+    - 68
+  digest: !ruby/object:Word
+    word: digest
+    stem: digest
+    docFrequency: 3.0
+    docPositions:
+    - 16
+    - 68
+  'no': !ruby/object:Word
+    word: 'no'
+    stem: 'no'
+    docFrequency: 3.0
+    docPositions:
+    - 17
+    - 69
+  'yes': !ruby/object:Word
+    word: 'yes'
+    stem: ye
+    docFrequency: 3.0
+    docPositions:
+    - 17
+    - 69
+  sent: !ruby/object:Word
+    word: sent
+    stem: sent
+    docFrequency: 2.0
+    docPositions:
+    - 21
+  requesting: !ruby/object:Word
+    word: requesting
+    stem: request
+    docFrequency: 2.0
+    docPositions:
+    - 21
+  confirmation: !ruby/object:Word
+    word: confirmation
+    stem: confirm
+    docFrequency: 2.0
+    docPositions:
+    - 21
+  prevent: !ruby/object:Word
+    word: prevent
+    stem: prevent
+    docFrequency: 2.0
+    docPositions:
+    - 22
+  gratuitously: !ruby/object:Word
+    word: gratuitously
+    stem: gratuit
+    docFrequency: 2.0
+    docPositions:
+    - 22
+  subscribing: !ruby/object:Word
+    word: subscribing
+    stem: subscrib
+    docFrequency: 2.0
+    docPositions:
+    - 22
+  hidden: !ruby/object:Word
+    word: hidden
+    stem: hidden
+    docFrequency: 2.0
+    docPositions:
+    - 22
+  which: !ruby/object:Word
+    word: which
+    stem: which
+    docFrequency: 2.0
+    docPositions:
+    - 22
+  means: !ruby/object:Word
+    word: means
+    stem: mean
+    docFrequency: 2.0
+    docPositions:
+    - 22
+  members: !ruby/object:Word
+    word: members
+    stem: member
+    docFrequency: 3.0
+    docPositions:
+    - 23
+    - 27
+  available: !ruby/object:Word
+    word: available
+    stem: avail
+    docFrequency: 3.0
+    docPositions:
+    - 23
+    - 31
+  only: !ruby/object:Word
+    word: only
+    stem: onli
+    docFrequency: 3.0
+    docPositions:
+    - 23
+    - 31
+  administrator: !ruby/object:Word
+    word: administrator
+    stem: administr
+    docFrequency: 3.0
+    docPositions:
+    - 23
+    - 32
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 4.0
+    docPositions:
+    - 31
+    - 65
+    - 71
+  subscribers: !ruby/object:Word
+    word: subscribers
+    stem: subscrib
+    docFrequency: 4.0
+    docPositions:
+    - 31
+    - 32
+    - 69
+  enter: !ruby/object:Word
+    word: enter
+    stem: enter
+    docFrequency: 4.0
+    docPositions:
+    - 32
+    - 36
+    - 69
+  admin: !ruby/object:Word
+    word: admin
+    stem: admin
+    docFrequency: 4.0
+    docPositions:
+    - 32
+    - 69
+  change: !ruby/object:Word
+    word: change
+    stem: chang
+    docFrequency: 3.0
+    docPositions:
+    - 34
+    - 36
+  settings: !ruby/object:Word
+    word: settings
+    stem: set
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  unsubscribe: !ruby/object:Word
+    word: unsubscribe
+    stem: unsubscrib
+    docFrequency: 3.0
+    docPositions:
+    - 34
+    - 35
+  get: !ruby/object:Word
+    word: get
+    stem: get
+    docFrequency: 2.0
+    docPositions:
+    - 35
+  subscription: !ruby/object:Word
+    word: subscription
+    stem: subscript
+    docFrequency: 3.0
+    docPositions:
+    - 36
+  options: !ruby/object:Word
+    word: options
+    stem: option
+    docFrequency: 2.0
+    docPositions:
+    - 36
+  if: !ruby/object:Word
+    word: if
+    stem: if
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  leave: !ruby/object:Word
+    word: leave
+    stem: leav
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  field: !ruby/object:Word
+    word: field
+    stem: field
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  blank: !ruby/object:Word
+    word: blank
+    stem: blank
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  prompted: !ruby/object:Word
+    word: prompted
+    stem: prompt
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  admins: !ruby/object:Word
+    word: admins
+    stem: admin
+    docFrequency: 2.0
+    docPositions:
+    - 42
+  run: !ruby/object:Word
+    word: run
+    stem: run
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  adhair: !ruby/object:Word
+    word: adhair
+    stem: adhair
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  gmail: !ruby/object:Word
+    word: gmail
+    stem: gmail
+    docFrequency: 3.0
+    docPositions:
+    - 43
+  thehelpfulonewiki: !ruby/object:Word
+    word: thehelpfulonewiki
+    stem: thehelpfulonewiki
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  richard: !ruby/object:Word
+    word: richard
+    stem: richard
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  ames: !ruby/object:Word
+    word: ames
+    stem: am
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  id: !ruby/object:Word
+    word: id
+    stem: id
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  auwikimedia: !ruby/object:Word
+    word: auwikimedia
+    stem: auwikimedia
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  administrative: !ruby/object:Word
+    word: administrative
+    stem: administr
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  interface: !ruby/object:Word
+    word: interface
+    stem: interfac
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  requires: !ruby/object:Word
+    word: requires
+    stem: requir
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  authorization: !ruby/object:Word
+    word: authorization
+    stem: author
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  overview: !ruby/object:Word
+    word: overview
+    stem: overview
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  all: !ruby/object:Word
+    word: all
+    stem: all
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  version: !ruby/object:Word
+    word: version
+    stem: version
+    docFrequency: 2.0
+    docPositions:
+    - 44
+  based: !ruby/object:Word
+    word: based
+    stem: base
+    docFrequency: 3.0
+    docPositions:
+    - 64
+    - 70
+  design: !ruby/object:Word
+    word: design
+    stem: design
+    docFrequency: 3.0
+    docPositions:
+    - 64
+    - 70
+  freecsstemplates: !ruby/object:Word
+    word: freecsstemplates
+    stem: freecsstempl
+    docFrequency: 3.0
+    docPositions:
+    - 64
+    - 70
+  cc: !ruby/object:Word
+    word: cc
+    stem: cc
+    docFrequency: 3.0
+    docPositions:
+    - 64
+    - 70
+  source: !ruby/object:Word
+    word: source
+    stem: sourc
+    docFrequency: 3.0
+    docPositions:
+    - 65
+    - 71
+lineCount: 72
+wordCount: 498
+rank: 0.25
+title: Wikimedia-l Mailing List - Wikimedia
+links:
+- http://www.wikimediafoundation.org/
+- http://www.wikimediafoundation.org/wiki/Local_chapters
+- https://lists.wikimedia.org/pipermail/wikimedia-l/
+- https://meta.wikimedia.org/wiki/Special:MyLanguage/Mailing_lists/List_info
+- http://www.gnu.org/software/mailman/index.html
+- http://www.python.org/
+- http://www.gnu.org/
+- http://www.debian.org/
+- https://meta.wikimedia.org/wiki/Mailing_lists
+- https://meta.wikimedia.org/wiki/Wikimedia
+- http://www.freecsstemplates.org
+- https://creativecommons.org/licenses/by/3.0/
+- https://github.com/quimgil/mailman-templates
+rawText: "\n  \n  \n    \n      \n        Wikimedia-l\n          Wikimedia Mailing
+  List\n        Discussion list for the Wikimedia community and the larger network
+  of organizations (Wikimedia Foundation, chapter organizations, affiliates, partners)
+  supporting its work.\rThis mailing list can, for example, be used for:\rThe initial
+  planning phase of potential new Wikimedia projects and initiatives\rOrganizational
+  issues of the Wikimedia Foundation, chapter organizations, others\rDiscussing the
+  setup of local Wikimedia chapters\rDeveloping and evaluating grant-making programs\rPlanning
+  elections, polls and votes\rDiscussion of projects that don't already have a mailing
+  list\rFinding ways to raise funds\rOther Wikimedia-related issues\rThis is a high
+  traffic mailing list. The list is moderated, and is publicly archived. Participants
+  are asked to remain civil and stay on topic. There is a soft post limit of 30 posts
+  per individual/month.\rVisit the Wikimedia-l Archives. \n          Send email to
+  wikimedia-l@lists.wikimedia.org.\n         Translate page\n        \n      \n        \n
+  \         Subscribe\n          Your e-mail address:Your name (optional):Preferred
+  language:\n Arabic  Asturian  Catalan  Czech  Danish  German  English (USA)  Spanish
+  (Spain)  Estonian  Euskara  Finnish  French  Galician  Hebrew  Croatian  Hungarian
+  \ Interlingua  Italian  Japanese  Korean  Lithuanian  Dutch  Norwegian  Polish  Portuguese
+  \ Portuguese (Brazil)  Romanian  Russian  Slovak  Slovenian  Serbian  Swedish  Turkish
+  \ Ukrainian  Vietnamese  Chinese (China)  Chinese (Taiwan) Once a month, your password
+  will be emailed to you as a reminder.\n           Would you like to receive list
+  mail batched in a daily digest?\n           No   Yes \n          \n          \n
+  \         \n          You will be sent email requesting confirmation, to\n            prevent
+  others from gratuitously subscribing you. This is a hidden list, which means that
+  the\n            list of members is available only to the list administrator.\n
+  \         \n        \n        \n          List members\n          \n          \n
+  \         \n          (The subscribers list is only available to the list\n            administrator.)
+  Enter your admin address and password to visit  the subscribers list:  Admin address:
+  Password:   \n        \n          Change your settings or unsubscribe\n          To
+  unsubscribe from Wikimedia-l, get a password reminder,\n        or change your subscription
+  options enter your subscription\n        email address:\n          If you leave
+  the field blank, you will be prompted for\n        your email address\n        \n
+  \       \n          Admins\n          Wikimedia-l list run by adhair at gmail.com,
+  thehelpfulonewiki at gmail.com, richard at ames.id.auWikimedia-l administrative
+  interface (requires authorization)Overview of all lists.wikimedia.org mailing lists\nversion
+  2.1.18\n    \n    \n    \n  \n        \n      \n    \n  \n      \n        Mailing
+  lists\n          About Wikimedia\n        \n      \n      \n      \n       Arabic
+  \ Asturian  Catalan  Czech  Danish  German  English (USA)  Spanish (Spain)  Estonian
+  \ Euskara  Finnish  French  Galician  Hebrew  Croatian  Hungarian  Interlingua  Italian
+  \ Japanese  Korean  Lithuanian  Dutch  Norwegian  Polish  Portuguese  Portuguese
+  (Brazil)  Romanian  Russian  Slovak  Slovenian  Serbian  Swedish  Turkish  Ukrainian
+  \ Vietnamese  Chinese (China)  Chinese (Taiwan) \n    \n  \n  \n    Based on a design
+  by freeCSStemplates.org - CC-BY 3.0.\n    [[source]]\n  \n  \n  Discussion list
+  for the Wikimedia community and the larger network of organizations (Wikimedia Foundation,
+  chapter organizations, affiliates, partners) supporting its work.\rThis mailing
+  list can, for example, be used for:\rOnce a month, your password will be emailed
+  to you as a reminder. Would you like to receive list mail batched in a daily digest?\n
+  \          No   Yes Enter your admin address and password to visit  the subscribers
+  list: \nBased on a design by freeCSStemplates.org - CC-BY 3.0.\n    [[source]]"

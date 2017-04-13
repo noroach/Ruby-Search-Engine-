@@ -1,0 +1,5676 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors: []
+address: https://en.wikipedia.org/wiki/Plaintext
+inboundLinks: []
+lines:
+- |2+
+
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- |2+
+
+- "\t\t\tPlaintext\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tFrom Wikipedia, the free encyclopedia\n"
+- "\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\tJump to:\t\t\t\t\tnavigation, \t\t\t\t\tsearch\n"
+- "\t\t\t\t\n"
+- "\t\t\t\tThis article is about cryptography.  For the computing term meaning the
+  storage of textual material that is (largely) unformatted, see plain text.\n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2011)
+- |
+  In cryptography, plaintext is information a sender wishes to transmit to a receiver. Cleartext is often used as a synonym. Plaintext has reference to the operation of cryptographic algorithms, usually encryption algorithms, and is the input upon which they operate. Cleartext, by contrast, refers to data that is transmitted or stored unencrypted (that is, 'in the clear').
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Contents
+- |2+
+
+- |
+  1 Overview
+- |
+  2 Secure handling of plaintext
+- |
+  2.1 Web browser saved password security controversy
+- |2+
+
+- |
+  3 See also
+- |
+  4 References
+- |2+
+
+- |2+
+
+- |
+  Overview[edit]
+- |
+  Before the computer era, plaintext most commonly meant message text in the language of the communicating parties. Since computers became commonly available, the definition has expanded to include:
+- |
+  messages (for example, email messages)
+- |
+  document content such as word processor and spreadsheet files
+- |
+  audio and video files, digital photographs and any other multimedia
+- |
+  files containing other files such as Zip files or ISO images
+- |
+  ATM, credit card and other banking information
+- |
+  sensor data
+- |
+  any other data that a person wishes to keep private
+- |
+  Much of this data is not directly meaningful to humans, being already transformed into computer manipulable forms. While the original definition implied that the message could be read by a human being, the modern definition emphasizes that a person using a computer could easily interpret the data.
+- |
+  Any information which the communicating parties wish to conceal from others can now be treated, and referred to, as plaintext. Thus, in a significant sense, plaintext is the 'normal' representation of data before any action has been taken to conceal, compress, or 'digest' it. It need not represent text, and even if it does, the text may not be "plain".
+- |
+  Plaintext is used as input to an encryption algorithm; the output is usually termed ciphertext particularly when the algorithm is a cipher. Codetext is less often used, and almost always only when the algorithm involved is actually a code. In some systems, however, multiple layers of encryption are used, in which case the output of one encryption algorithm becomes plaintext input for the next.
+- |
+  Secure handling of plaintext[edit]
+- |
+  In a cryptosystem, weaknesses can be introduced through insecure handling of plaintext, allowing an attacker to bypass the cryptography altogether. Plaintext is vulnerable in use and in storage, whether in electronic or paper format. Physical security deals with methods of securing information and its storage media from local, physical, attacks. For instance, an attacker might enter a poorly secured building and attempt to open locked desk drawers or safes. An attacker can also engage in dumpster diving, and may be able to reconstruct shredded information if it is sufficiently valuable to be worth the effort. One countermeasure is to burn or thoroughly crosscut shred discarded printed plaintexts or storage media; NSA is infamous for its disposal security precautions.
+- |
+  If plaintext is stored in a computer file (and the situation of automatically made backup files generated during program execution must be included here, even if invisible to the user), the storage media along with the entire computer and its components must be secure. Sensitive data is sometimes processed on computers whose mass storage is removable, in which case physical security of the removed disk is separately vital. In the case of securing a computer, useful (as opposed to handwaving) security must be physical (e.g., against burglary, brazen removal under cover of supposed repair, installation of covert monitoring devices, etc.), as well as virtual (e.g., operating system modification, illicit network access, Trojan programs, ...). The wide availability of keydrives, which can plug into most modern computers and store large quantities of data, poses another severe security headache. A spy (perhaps posing as a cleaning person) could easily conceal one and even swallow it, if necessary.
+- |
+  Discarded computers, disk drives and media are also a potential source of plaintexts. Most operating systems do not actually erase anything — they simply mark the disk space occupied by a deleted file as 'available for use', and remove its entry from the file system directory. The information in a file deleted in this way remains fully present until overwritten at some later time when the operating system reuses the disk space. With even low-end computers commonly sold with many gigabytes of disk space and rising monthly, this 'later time' may be months later, or never. Even overwriting the portion of a disk surface occupied by a deleted file is insufficient in many cases. Peter Gutmann of the University of Auckland wrote a celebrated 1996 paper on the recovery of overwritten information from magnetic disks; areal storage densities have gotten much higher since then, so this sort of recovery is likely to be more difficult than it was when Gutmann wrote.
+- |
+  Also, independently, modern hard drives automatically remap sectors that are starting to fail; those sectors no longer in use will contain information that is entirely invisible to the file system (and all software which uses it for access to disk data), but is nonetheless still present on the physical drive platter. It may, of course, be sensitive plaintext. Some government agencies (e.g., NSA) require that all disk drives be physically pulverized when they are discarded, and in some cases, chemically treated with corrosives before or after. This practice is not widespread outside of the government, however. For example, Garfinkel and Shelat (2003) analyzed 158 second-hand hard drives acquired at garage sales and the like and found that less than 10% had been sufficiently sanitized. A wide variety of personal and confidential information was found readable from the others. See data remanence.
+- |
+  Laptop computers are a special problem. The US State Department, the British Secret Service, and the US Department of Defense have all had laptops containing secret information,some perhaps in plaintext form, 'vanish' in recent years. Announcements of similar losses are becoming a common item in news reports. Disk encryption techniques can provide protection against such loss or theft — if properly chosen and used.
+- |
+  On occasion, even when the data on the host systems is itself encrypted, the media used to transfer data between such systems is nevertheless plaintext due to poorly designed data policy. An incident in October 2007 in which HM Revenue and Customs lost CDs containing no less than the records of 25 million child benefit recipients in the United Kingdom — the data apparently being entirely unencrypted — is a case in point.
+- |
+  Modern cryptographic systems are designed to resist known plaintext or even chosen plaintext attacks and so may not be entirely compromised when plaintext is lost or stolen. Older systems used techniques such as padding and Russian copulation to obscure information in plaintext that could be easily guessed, and to resist the effects of loss of plaintext on the security of the cryptosystem.
+- |
+  Web browser saved password security controversy[edit]
+- |
+  Several popular web browsers which offer to store a user's passwords do so in plaintext form. Even though most of them initially hide the saved passwords, it is possible for anyone to view all passwords in cleartext with a few clicks of the mouse, by going into the browsers' security settings options menus. In 2010, it emerged that this is the case with Firefox (still the case as of end-2014), and in Aug 2013 it emerged that Google Chrome does so as well.[1] When a software developer raised the issue with the Chrome security team,[2] a company representative responded that Google would not change the feature, and justified the refusal by saying that hiding the passwords would "provide users with a false sense of security" and "that's just not how we approach security on Chrome".[3]
+- |
+  See also[edit]
+- |
+  Red/black concept
+- |
+  Lightweight markup language
+- |
+  References[edit]
+- |
+  S. Garfinkel and A Shelat, "Remembrance of Data Passed: A Study of Disk Sanitization Practices", IEEE Security and Privacy, January/February 2003 (PDF).
+- |
+  UK HM Revenue and Customs loses 25m records of child benefit recipients BBC
+- |
+  Kissel, Richard (editor). (February, 2011). NIST IR 7298 Revision 1, Glossary of Key Information Security Terms (PDF). National Institute of Standards and Technology.
+- |2+
+
+- |
+  ^ Google Chrome security flaw offers unrestricted password access, The Guardian, 7 Aug 2013. Retrieved 7 Aug 2013.
+- |
+  ^ Chrome’s insane password security strategy, ElliottKember.com, 6 Aug 2013. Retrieved 7 Aug 2013.
+- |
+  ^ Google Chrome security representative statement, (2)(3), ycombinator.com. 6 Aug 2013. Retrieved 7 Aug 2013.
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\tRetrieved from \"https://en.wikipedia.org/w/index.php?title=Plaintext&oldid=693452592\"\t\t\t\t\t\n"
+- "\t\t\t\tCategories: CryptographyHidden categories: Articles needing additional
+  references from June 2011All articles needing additional references\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\tNavigation menu\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tPersonal tools\n"
+- "\t\t\t\t\t\tNot logged inTalkContributionsCreate accountLog in\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tNamespaces\n"
+- "\t\t\t\t\t\tArticle\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTalk\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tVariants\n"
+- "\t\t\t\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tViews\n"
+- "\t\t\t\t\t\tRead\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEdit\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView history\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tMore\n"
+- |2+
+
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tSearch\n"
+- "\t\t\t\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\tNavigation\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tMain pageContentsFeatured contentCurrent eventsRandom articleDonate
+  to WikipediaWikipedia store\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tInteraction\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tHelpAbout WikipediaCommunity portalRecent changesContact page\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tTools\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tWhat links hereRelated changesUpload fileSpecial pagesPermanent
+  linkPage informationWikidata itemCite this page\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tPrint/export\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tCreate a bookDownload as PDFPrintable version\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tLanguages\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tCatalàČeštinaDeutschEspañolEuskaraفارسیBahasa Indonesiaქართული日本語PolskiPortuguêsРусскийSimple
+  EnglishSlovenčinaСрпски / srpskiSvenskaУкраїнська中文\t\t\t\t\tEdit links\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\t\t\t\t\t This page was last modified on 2 December 2015, at 17:49.\n"
+- "\t\t\t\t\t\t\t\t\t\t\tText is available under the Creative Commons Attribution-ShareAlike
+  License;\n"
+- |
+  additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+- "\t\t\t\t\t\t\t\t\tPrivacy policy\n"
+- "\t\t\t\t\t\t\t\t\t\t\tAbout Wikipedia\n"
+- "\t\t\t\t\t\t\t\t\t\t\tDisclaimers\n"
+- "\t\t\t\t\t\t\t\t\t\t\tContact Wikipedia\n"
+- "\t\t\t\t\t\t\t\t\t\t\tDevelopers\n"
+- "\t\t\t\t\t\t\t\t\t\t\tMobile view\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\twindow.RLQ = window.RLQ || []; window.RLQ.push( function () {\n"
+- |
+  mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+- |
+  } );window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+- |
+  mw.config.set({"wgBackendResponseTime":61,"wgHostname":"mw1255"}); /* @nomin */
+- '} );In cryptography, plaintext is information a sender wishes to transmit to a
+  receiver. Cleartext is often used as a synonym. Plaintext has reference to the operation
+  of cryptographic algorithms, usually encryption algorithms, and is the input upon
+  which they operate. Cleartext, by contrast, refers to data that is transmitted or
+  stored unencrypted (that is, ''in the clear'').Before the computer era, plaintext
+  most commonly meant message text in the language of the communicating parties. Since
+  computers became commonly available, the definition has expanded to include:Much
+  of this data is not directly meaningful to humans, being already transformed into
+  computer manipulable forms. While the original definition implied that the message
+  could be read by a human being, the modern definition emphasizes that a person using
+  a computer could easily interpret the data.Any information which the communicating
+  parties wish to conceal from others can now be treated, and referred to, as plaintext.
+  Thus, in a significant sense, plaintext is the ''normal'' representation of data
+  before any action has been taken to conceal, compress, or ''digest'' it. It need
+  not represent text, and even if it does, the text may not be "plain".Plaintext is
+  used as input to an encryption algorithm; the output is usually termed ciphertext
+  particularly when the algorithm is a cipher. Codetext is less often used, and almost
+  always only when the algorithm involved is actually a code. In some systems, however,
+  multiple layers of encryption are used, in which case the output of one encryption
+  algorithm becomes plaintext input for the next.In a cryptosystem, weaknesses can
+  be introduced through insecure handling of plaintext, allowing an attacker to bypass
+  the cryptography altogether. Plaintext is vulnerable in use and in storage, whether
+  in electronic or paper format. Physical security deals with methods of securing
+  information and its storage media from local, physical, attacks. For instance, an
+  attacker might enter a poorly secured building and attempt to open locked desk drawers
+  or safes. An attacker can also engage in dumpster diving, and may be able to reconstruct
+  shredded information if it is sufficiently valuable to be worth the effort. One
+  countermeasure is to burn or thoroughly crosscut shred discarded printed plaintexts
+  or storage media; NSA is infamous for its disposal security precautions.If plaintext
+  is stored in a computer file (and the situation of automatically made backup files
+  generated during program execution must be included here, even if invisible to the
+  user), the storage media along with the entire computer and its components must
+  be secure. Sensitive data is sometimes processed on computers whose mass storage
+  is removable, in which case physical security of the removed disk is separately
+  vital. In the case of securing a computer, useful (as opposed to handwaving) security
+  must be physical (e.g., against burglary, brazen removal under cover of supposed
+  repair, installation of covert monitoring devices, etc.), as well as virtual (e.g.,
+  operating system modification, illicit network access, Trojan programs, ...). The
+  wide availability of keydrives, which can plug into most modern computers and store
+  large quantities of data, poses another severe security headache. A spy (perhaps
+  posing as a cleaning person) could easily conceal one and even swallow it, if necessary.Discarded
+  computers, disk drives and media are also a potential source of plaintexts. Most
+  operating systems do not actually erase anything — they simply mark the disk space
+  occupied by a deleted file as ''available for use'', and remove its entry from the
+  file system directory. The information in a file deleted in this way remains fully
+  present until overwritten at some later time when the operating system reuses the
+  disk space. With even low-end computers commonly sold with many gigabytes of disk
+  space and rising monthly, this ''later time'' may be months later, or never. Even
+  overwriting the portion of a disk surface occupied by a deleted file is insufficient
+  in many cases. Peter Gutmann of the University of Auckland wrote a celebrated 1996
+  paper on the recovery of overwritten information from magnetic disks; areal storage
+  densities have gotten much higher since then, so this sort of recovery is likely
+  to be more difficult than it was when Gutmann wrote.Also, independently, modern
+  hard drives automatically remap sectors that are starting to fail; those sectors
+  no longer in use will contain information that is entirely invisible to the file
+  system (and all software which uses it for access to disk data), but is nonetheless
+  still present on the physical drive platter. It may, of course, be sensitive plaintext.
+  Some government agencies (e.g., NSA) require that all disk drives be physically
+  pulverized when they are discarded, and in some cases, chemically treated with corrosives
+  before or after. This practice is not widespread outside of the government, however.
+  For example, Garfinkel and Shelat (2003) analyzed 158 second-hand hard drives acquired
+  at garage sales and the like and found that less than 10% had been sufficiently
+  sanitized. A wide variety of personal and confidential information was found readable
+  from the others. See data remanence.Laptop computers are a special problem. The
+  US State Department, the British Secret Service, and the US Department of Defense
+  have all had laptops containing secret information,some perhaps in plaintext form,
+  ''vanish'' in recent years. Announcements of similar losses are becoming a common
+  item in news reports. Disk encryption techniques can provide protection against
+  such loss or theft — if properly chosen and used.On occasion, even when the data
+  on the host systems is itself encrypted, the media used to transfer data between
+  such systems is nevertheless plaintext due to poorly designed data policy. An incident
+  in October 2007 in which HM Revenue and Customs lost CDs containing no less than
+  the records of 25 million child benefit recipients in the United Kingdom — the data
+  apparently being entirely unencrypted — is a case in point.Modern cryptographic
+  systems are designed to resist known plaintext or even chosen plaintext attacks
+  and so may not be entirely compromised when plaintext is lost or stolen. Older systems
+  used techniques such as padding and Russian copulation to obscure information in
+  plaintext that could be easily guessed, and to resist the effects of loss of plaintext
+  on the security of the cryptosystem.Several popular web browsers which offer to
+  store a user''s passwords do so in plaintext form. Even though most of them initially
+  hide the saved passwords, it is possible for anyone to view all passwords in cleartext
+  with a few clicks of the mouse, by going into the browsers'' security settings options
+  menus. In 2010, it emerged that this is the case with Firefox (still the case as
+  of end-2014), and in Aug 2013 it emerged that Google Chrome does so as well.[1]
+  When a software developer raised the issue with the Chrome security team,[2] a company
+  representative responded that Google would not change the feature, and justified
+  the refusal by saying that hiding the passwords would "provide users with a false
+  sense of security" and "that''s just not how we approach security on Chrome".[3]'
+index:
+  plaintext: !ruby/object:Word
+    word: plaintext
+    stem: plaintext
+    docFrequency: 43.0
+    docPositions:
+    - 9
+    - 21
+    - 28
+    - 36
+    - 45
+    - 46
+    - 47
+    - 48
+    - 49
+    - 51
+    - 52
+    - 53
+    - 54
+    - 56
+    - 77
+    - 182
+  wikipedia: !ruby/object:Word
+    word: wikipedia
+    stem: wikipedia
+    docFrequency: 6.0
+    docPositions:
+    - 11
+    - 77
+    - 165
+    - 167
+    - 169
+  free: !ruby/object:Word
+    word: free
+    stem: free
+    docFrequency: 2.0
+    docPositions:
+    - 11
+  encyclopedia: !ruby/object:Word
+    word: encyclopedia
+    stem: encyclopedia
+    docFrequency: 2.0
+    docPositions:
+    - 11
+  jump: !ruby/object:Word
+    word: jump
+    stem: jump
+    docFrequency: 2.0
+    docPositions:
+    - 14
+  navigation: !ruby/object:Word
+    word: navigation
+    stem: navig
+    docFrequency: 4.0
+    docPositions:
+    - 14
+    - 82
+    - 131
+  search: !ruby/object:Word
+    word: search
+    stem: search
+    docFrequency: 3.0
+    docPositions:
+    - 14
+    - 118
+  article: !ruby/object:Word
+    word: article
+    stem: articl
+    docFrequency: 5.0
+    docPositions:
+    - 16
+    - 20
+    - 91
+  cryptography: !ruby/object:Word
+    word: cryptography
+    stem: cryptographi
+    docFrequency: 6.0
+    docPositions:
+    - 16
+    - 21
+    - 48
+    - 182
+  computing: !ruby/object:Word
+    word: computing
+    stem: comput
+    docFrequency: 2.0
+    docPositions:
+    - 16
+  term: !ruby/object:Word
+    word: term
+    stem: term
+    docFrequency: 2.0
+    docPositions:
+    - 16
+  meaning: !ruby/object:Word
+    word: meaning
+    stem: mean
+    docFrequency: 2.0
+    docPositions:
+    - 16
+  storage: !ruby/object:Word
+    word: storage
+    stem: storag
+    docFrequency: 14.0
+    docPositions:
+    - 16
+    - 48
+    - 49
+    - 50
+    - 182
+  textual: !ruby/object:Word
+    word: textual
+    stem: textual
+    docFrequency: 2.0
+    docPositions:
+    - 16
+  material: !ruby/object:Word
+    word: material
+    stem: materi
+    docFrequency: 3.0
+    docPositions:
+    - 16
+    - 20
+  largely: !ruby/object:Word
+    word: largely
+    stem: larg
+    docFrequency: 2.0
+    docPositions:
+    - 16
+  unformatted: !ruby/object:Word
+    word: unformatted
+    stem: unformat
+    docFrequency: 2.0
+    docPositions:
+    - 16
+  see: !ruby/object:Word
+    word: see
+    stem: see
+    docFrequency: 6.0
+    docPositions:
+    - 16
+    - 31
+    - 51
+    - 57
+    - 182
+  plain: !ruby/object:Word
+    word: plain
+    stem: plain
+    docFrequency: 4.0
+    docPositions:
+    - 16
+    - 45
+    - 182
+  text: !ruby/object:Word
+    word: text
+    stem: text
+    docFrequency: 9.0
+    docPositions:
+    - 16
+    - 36
+    - 45
+    - 164
+    - 182
+  needs: !ruby/object:Word
+    word: needs
+    stem: need
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  additional: !ruby/object:Word
+    word: additional
+    stem: addit
+    docFrequency: 5.0
+    docPositions:
+    - 20
+    - 78
+    - 165
+  citations: !ruby/object:Word
+    word: citations
+    stem: citat
+    docFrequency: 3.0
+    docPositions:
+    - 20
+  verification: !ruby/object:Word
+    word: verification
+    stem: verif
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  please: !ruby/object:Word
+    word: please
+    stem: pleas
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  help: !ruby/object:Word
+    word: help
+    stem: help
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  improve: !ruby/object:Word
+    word: improve
+    stem: improv
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  adding: !ruby/object:Word
+    word: adding
+    stem: ad
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  reliable: !ruby/object:Word
+    word: reliable
+    stem: reliabl
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  sources: !ruby/object:Word
+    word: sources
+    stem: sourc
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  unsourced: !ruby/object:Word
+    word: unsourced
+    stem: unsourc
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  may: !ruby/object:Word
+    word: may
+    stem: mai
+    docFrequency: 13.0
+    docPositions:
+    - 20
+    - 45
+    - 48
+    - 50
+    - 51
+    - 54
+    - 165
+    - 182
+  challenged: !ruby/object:Word
+    word: challenged
+    stem: challeng
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 71.0
+    docPositions:
+    - 20
+    - 21
+    - 38
+    - 39
+    - 41
+    - 45
+    - 46
+    - 48
+    - 49
+    - 50
+    - 51
+    - 52
+    - 53
+    - 54
+    - 56
+    - 61
+    - 62
+    - 63
+    - 165
+    - 182
+  removed: !ruby/object:Word
+    word: removed
+    stem: remov
+    docFrequency: 4.0
+    docPositions:
+    - 20
+    - 49
+    - 182
+  june: !ruby/object:Word
+    word: june
+    stem: june
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 78
+  information: !ruby/object:Word
+    word: information
+    stem: inform
+    docFrequency: 23.0
+    docPositions:
+    - 21
+    - 41
+    - 45
+    - 48
+    - 50
+    - 51
+    - 52
+    - 54
+    - 63
+    - 182
+  sender: !ruby/object:Word
+    word: sender
+    stem: sender
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  wishes: !ruby/object:Word
+    word: wishes
+    stem: wish
+    docFrequency: 4.0
+    docPositions:
+    - 21
+    - 43
+    - 182
+  transmit: !ruby/object:Word
+    word: transmit
+    stem: transmit
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  receiver: !ruby/object:Word
+    word: receiver
+    stem: receiv
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  cleartext: !ruby/object:Word
+    word: cleartext
+    stem: cleartext
+    docFrequency: 7.0
+    docPositions:
+    - 21
+    - 56
+    - 182
+  often: !ruby/object:Word
+    word: often
+    stem: often
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 46
+    - 182
+  used: !ruby/object:Word
+    word: used
+    stem: us
+    docFrequency: 15.0
+    docPositions:
+    - 21
+    - 46
+    - 52
+    - 53
+    - 54
+    - 182
+  synonym: !ruby/object:Word
+    word: synonym
+    stem: synonym
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  has: !ruby/object:Word
+    word: has
+    stem: ha
+    docFrequency: 7.0
+    docPositions:
+    - 21
+    - 36
+    - 45
+    - 182
+  reference: !ruby/object:Word
+    word: reference
+    stem: refer
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  operation: !ruby/object:Word
+    word: operation
+    stem: oper
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  cryptographic: !ruby/object:Word
+    word: cryptographic
+    stem: cryptograph
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 54
+    - 182
+  algorithms: !ruby/object:Word
+    word: algorithms
+    stem: algorithm
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 182
+  usually: !ruby/object:Word
+    word: usually
+    stem: usual
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 46
+    - 182
+  encryption: !ruby/object:Word
+    word: encryption
+    stem: encrypt
+    docFrequency: 11.0
+    docPositions:
+    - 21
+    - 46
+    - 52
+    - 182
+  input: !ruby/object:Word
+    word: input
+    stem: input
+    docFrequency: 7.0
+    docPositions:
+    - 21
+    - 46
+    - 182
+  upon: !ruby/object:Word
+    word: upon
+    stem: upon
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  which: !ruby/object:Word
+    word: which
+    stem: which
+    docFrequency: 17.0
+    docPositions:
+    - 21
+    - 45
+    - 46
+    - 49
+    - 51
+    - 53
+    - 56
+    - 182
+  they: !ruby/object:Word
+    word: they
+    stem: thei
+    docFrequency: 7.0
+    docPositions:
+    - 21
+    - 50
+    - 51
+    - 182
+  operate: !ruby/object:Word
+    word: operate
+    stem: oper
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  contrast: !ruby/object:Word
+    word: contrast
+    stem: contrast
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  refers: !ruby/object:Word
+    word: refers
+    stem: refer
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  data: !ruby/object:Word
+    word: data
+    stem: data
+    docFrequency: 28.0
+    docPositions:
+    - 21
+    - 42
+    - 43
+    - 44
+    - 45
+    - 49
+    - 51
+    - 53
+    - 61
+    - 182
+  transmitted: !ruby/object:Word
+    word: transmitted
+    stem: transmit
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  stored: !ruby/object:Word
+    word: stored
+    stem: store
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 49
+    - 182
+  unencrypted: !ruby/object:Word
+    word: unencrypted
+    stem: unencrypt
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 53
+    - 182
+  clear: !ruby/object:Word
+    word: clear
+    stem: clear
+    docFrequency: 3.0
+    docPositions:
+    - 21
+    - 182
+  contents: !ruby/object:Word
+    word: contents
+    stem: content
+    docFrequency: 2.0
+    docPositions:
+    - 25
+  overview: !ruby/object:Word
+    word: overview
+    stem: overview
+    docFrequency: 3.0
+    docPositions:
+    - 27
+    - 35
+  secure: !ruby/object:Word
+    word: secure
+    stem: secur
+    docFrequency: 5.0
+    docPositions:
+    - 28
+    - 47
+    - 49
+    - 182
+  handling: !ruby/object:Word
+    word: handling
+    stem: handl
+    docFrequency: 5.0
+    docPositions:
+    - 28
+    - 47
+    - 48
+    - 182
+  web: !ruby/object:Word
+    word: web
+    stem: web
+    docFrequency: 5.0
+    docPositions:
+    - 29
+    - 55
+    - 56
+    - 182
+  browser: !ruby/object:Word
+    word: browser
+    stem: browser
+    docFrequency: 3.0
+    docPositions:
+    - 29
+    - 55
+  saved: !ruby/object:Word
+    word: saved
+    stem: save
+    docFrequency: 5.0
+    docPositions:
+    - 29
+    - 55
+    - 56
+    - 182
+  password: !ruby/object:Word
+    word: password
+    stem: password
+    docFrequency: 5.0
+    docPositions:
+    - 29
+    - 55
+    - 65
+    - 66
+  security: !ruby/object:Word
+    word: security
+    stem: secur
+    docFrequency: 28.0
+    docPositions:
+    - 29
+    - 48
+    - 49
+    - 54
+    - 55
+    - 56
+    - 61
+    - 63
+    - 65
+    - 66
+    - 67
+    - 182
+  controversy: !ruby/object:Word
+    word: controversy
+    stem: controversi
+    docFrequency: 3.0
+    docPositions:
+    - 29
+    - 55
+  also: !ruby/object:Word
+    word: also
+    stem: also
+    docFrequency: 9.0
+    docPositions:
+    - 31
+    - 48
+    - 50
+    - 51
+    - 57
+    - 182
+  references: !ruby/object:Word
+    word: references
+    stem: refer
+    docFrequency: 5.0
+    docPositions:
+    - 32
+    - 60
+    - 78
+  edit: !ruby/object:Word
+    word: edit
+    stem: edit
+    docFrequency: 8.0
+    docPositions:
+    - 35
+    - 47
+    - 55
+    - 57
+    - 60
+    - 107
+    - 158
+  before: !ruby/object:Word
+    word: before
+    stem: befor
+    docFrequency: 7.0
+    docPositions:
+    - 36
+    - 45
+    - 51
+    - 182
+  computer: !ruby/object:Word
+    word: computer
+    stem: comput
+    docFrequency: 13.0
+    docPositions:
+    - 36
+    - 44
+    - 49
+    - 182
+  era: !ruby/object:Word
+    word: era
+    stem: era
+    docFrequency: 3.0
+    docPositions:
+    - 36
+    - 182
+  most: !ruby/object:Word
+    word: most
+    stem: most
+    docFrequency: 9.0
+    docPositions:
+    - 36
+    - 49
+    - 50
+    - 56
+    - 182
+  commonly: !ruby/object:Word
+    word: commonly
+    stem: commonli
+    docFrequency: 7.0
+    docPositions:
+    - 36
+    - 50
+    - 182
+  meant: !ruby/object:Word
+    word: meant
+    stem: meant
+    docFrequency: 3.0
+    docPositions:
+    - 36
+    - 182
+  message: !ruby/object:Word
+    word: message
+    stem: messag
+    docFrequency: 5.0
+    docPositions:
+    - 36
+    - 44
+    - 182
+  language: !ruby/object:Word
+    word: language
+    stem: languag
+    docFrequency: 4.0
+    docPositions:
+    - 36
+    - 59
+    - 182
+  communicating: !ruby/object:Word
+    word: communicating
+    stem: commun
+    docFrequency: 5.0
+    docPositions:
+    - 36
+    - 45
+    - 182
+  parties: !ruby/object:Word
+    word: parties
+    stem: parti
+    docFrequency: 5.0
+    docPositions:
+    - 36
+    - 45
+    - 182
+  since: !ruby/object:Word
+    word: since
+    stem: sinc
+    docFrequency: 5.0
+    docPositions:
+    - 36
+    - 50
+    - 182
+  computers: !ruby/object:Word
+    word: computers
+    stem: comput
+    docFrequency: 13.0
+    docPositions:
+    - 36
+    - 49
+    - 50
+    - 52
+    - 182
+  became: !ruby/object:Word
+    word: became
+    stem: becam
+    docFrequency: 3.0
+    docPositions:
+    - 36
+    - 182
+  available: !ruby/object:Word
+    word: available
+    stem: avail
+    docFrequency: 6.0
+    docPositions:
+    - 36
+    - 50
+    - 164
+    - 182
+  definition: !ruby/object:Word
+    word: definition
+    stem: definit
+    docFrequency: 7.0
+    docPositions:
+    - 36
+    - 44
+    - 182
+  expanded: !ruby/object:Word
+    word: expanded
+    stem: expand
+    docFrequency: 3.0
+    docPositions:
+    - 36
+    - 182
+  include: !ruby/object:Word
+    word: include
+    stem: includ
+    docFrequency: 3.0
+    docPositions:
+    - 36
+    - 182
+  messages: !ruby/object:Word
+    word: messages
+    stem: messag
+    docFrequency: 3.0
+    docPositions:
+    - 37
+  example: !ruby/object:Word
+    word: example
+    stem: exampl
+    docFrequency: 4.0
+    docPositions:
+    - 37
+    - 51
+    - 182
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 2.0
+    docPositions:
+    - 37
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  content: !ruby/object:Word
+    word: content
+    stem: content
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  such: !ruby/object:Word
+    word: such
+    stem: such
+    docFrequency: 9.0
+    docPositions:
+    - 38
+    - 40
+    - 52
+    - 53
+    - 54
+    - 182
+  word: !ruby/object:Word
+    word: word
+    stem: word
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  processor: !ruby/object:Word
+    word: processor
+    stem: processor
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  spreadsheet: !ruby/object:Word
+    word: spreadsheet
+    stem: spreadsheet
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  files: !ruby/object:Word
+    word: files
+    stem: file
+    docFrequency: 8.0
+    docPositions:
+    - 38
+    - 39
+    - 40
+    - 49
+    - 182
+  audio: !ruby/object:Word
+    word: audio
+    stem: audio
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  video: !ruby/object:Word
+    word: video
+    stem: video
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  digital: !ruby/object:Word
+    word: digital
+    stem: digit
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  photographs: !ruby/object:Word
+    word: photographs
+    stem: photograph
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  any: !ruby/object:Word
+    word: any
+    stem: ani
+    docFrequency: 7.0
+    docPositions:
+    - 39
+    - 43
+    - 45
+    - 182
+  other: !ruby/object:Word
+    word: other
+    stem: other
+    docFrequency: 5.0
+    docPositions:
+    - 39
+    - 40
+    - 41
+    - 43
+  multimedia: !ruby/object:Word
+    word: multimedia
+    stem: multimedia
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  containing: !ruby/object:Word
+    word: containing
+    stem: contain
+    docFrequency: 6.0
+    docPositions:
+    - 40
+    - 52
+    - 53
+    - 182
+  zip: !ruby/object:Word
+    word: zip
+    stem: zip
+    docFrequency: 2.0
+    docPositions:
+    - 40
+  iso: !ruby/object:Word
+    word: iso
+    stem: iso
+    docFrequency: 2.0
+    docPositions:
+    - 40
+  images: !ruby/object:Word
+    word: images
+    stem: imag
+    docFrequency: 2.0
+    docPositions:
+    - 40
+  atm: !ruby/object:Word
+    word: atm
+    stem: atm
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  credit: !ruby/object:Word
+    word: credit
+    stem: credit
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  card: !ruby/object:Word
+    word: card
+    stem: card
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  banking: !ruby/object:Word
+    word: banking
+    stem: bank
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  sensor: !ruby/object:Word
+    word: sensor
+    stem: sensor
+    docFrequency: 2.0
+    docPositions:
+    - 42
+  person: !ruby/object:Word
+    word: person
+    stem: person
+    docFrequency: 6.0
+    docPositions:
+    - 43
+    - 44
+    - 49
+    - 182
+  keep: !ruby/object:Word
+    word: keep
+    stem: keep
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  private: !ruby/object:Word
+    word: private
+    stem: privat
+    docFrequency: 2.0
+    docPositions:
+    - 43
+  much: !ruby/object:Word
+    word: much
+    stem: much
+    docFrequency: 5.0
+    docPositions:
+    - 44
+    - 50
+    - 182
+  not: !ruby/object:Word
+    word: not
+    stem: not
+    docFrequency: 18.0
+    docPositions:
+    - 44
+    - 45
+    - 50
+    - 51
+    - 54
+    - 56
+    - 87
+    - 182
+  directly: !ruby/object:Word
+    word: directly
+    stem: directli
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  meaningful: !ruby/object:Word
+    word: meaningful
+    stem: meaning
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  humans: !ruby/object:Word
+    word: humans
+    stem: human
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  being: !ruby/object:Word
+    word: being
+    stem: be
+    docFrequency: 7.0
+    docPositions:
+    - 44
+    - 53
+    - 182
+  already: !ruby/object:Word
+    word: already
+    stem: alreadi
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  transformed: !ruby/object:Word
+    word: transformed
+    stem: transform
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  into: !ruby/object:Word
+    word: into
+    stem: into
+    docFrequency: 7.0
+    docPositions:
+    - 44
+    - 49
+    - 56
+    - 182
+  manipulable: !ruby/object:Word
+    word: manipulable
+    stem: manipul
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  forms: !ruby/object:Word
+    word: forms
+    stem: form
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  while: !ruby/object:Word
+    word: while
+    stem: while
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  original: !ruby/object:Word
+    word: original
+    stem: origin
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  implied: !ruby/object:Word
+    word: implied
+    stem: impli
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  could: !ruby/object:Word
+    word: could
+    stem: could
+    docFrequency: 9.0
+    docPositions:
+    - 44
+    - 49
+    - 54
+    - 182
+  read: !ruby/object:Word
+    word: read
+    stem: read
+    docFrequency: 4.0
+    docPositions:
+    - 44
+    - 106
+    - 182
+  human: !ruby/object:Word
+    word: human
+    stem: human
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  modern: !ruby/object:Word
+    word: modern
+    stem: modern
+    docFrequency: 9.0
+    docPositions:
+    - 44
+    - 49
+    - 51
+    - 54
+    - 182
+  emphasizes: !ruby/object:Word
+    word: emphasizes
+    stem: emphas
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  using: !ruby/object:Word
+    word: using
+    stem: us
+    docFrequency: 4.0
+    docPositions:
+    - 44
+    - 165
+    - 182
+  easily: !ruby/object:Word
+    word: easily
+    stem: easili
+    docFrequency: 7.0
+    docPositions:
+    - 44
+    - 49
+    - 54
+    - 182
+  interpret: !ruby/object:Word
+    word: interpret
+    stem: interpret
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 182
+  wish: !ruby/object:Word
+    word: wish
+    stem: wish
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  conceal: !ruby/object:Word
+    word: conceal
+    stem: conceal
+    docFrequency: 7.0
+    docPositions:
+    - 45
+    - 49
+    - 182
+  others: !ruby/object:Word
+    word: others
+    stem: other
+    docFrequency: 5.0
+    docPositions:
+    - 45
+    - 51
+    - 182
+  can: !ruby/object:Word
+    word: can
+    stem: can
+    docFrequency: 11.0
+    docPositions:
+    - 45
+    - 48
+    - 49
+    - 52
+    - 182
+  now: !ruby/object:Word
+    word: now
+    stem: now
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  treated: !ruby/object:Word
+    word: treated
+    stem: treat
+    docFrequency: 5.0
+    docPositions:
+    - 45
+    - 51
+    - 182
+  referred: !ruby/object:Word
+    word: referred
+    stem: refer
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  thus: !ruby/object:Word
+    word: thus
+    stem: thu
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  significant: !ruby/object:Word
+    word: significant
+    stem: signific
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  sense: !ruby/object:Word
+    word: sense
+    stem: sens
+    docFrequency: 5.0
+    docPositions:
+    - 45
+    - 56
+    - 182
+  normal: !ruby/object:Word
+    word: normal
+    stem: normal
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  representation: !ruby/object:Word
+    word: representation
+    stem: represent
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  action: !ruby/object:Word
+    word: action
+    stem: action
+    docFrequency: 4.0
+    docPositions:
+    - 45
+    - 179
+    - 182
+  been: !ruby/object:Word
+    word: been
+    stem: been
+    docFrequency: 5.0
+    docPositions:
+    - 45
+    - 51
+    - 182
+  taken: !ruby/object:Word
+    word: taken
+    stem: taken
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  compress: !ruby/object:Word
+    word: compress
+    stem: compress
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  digest: !ruby/object:Word
+    word: digest
+    stem: digest
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  need: !ruby/object:Word
+    word: need
+    stem: need
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  represent: !ruby/object:Word
+    word: represent
+    stem: repres
+    docFrequency: 3.0
+    docPositions:
+    - 45
+    - 182
+  even: !ruby/object:Word
+    word: even
+    stem: even
+    docFrequency: 17.0
+    docPositions:
+    - 45
+    - 49
+    - 50
+    - 53
+    - 54
+    - 56
+    - 182
+  if: !ruby/object:Word
+    word: if
+    stem: if
+    docFrequency: 13.0
+    docPositions:
+    - 45
+    - 48
+    - 49
+    - 52
+    - 182
+  does: !ruby/object:Word
+    word: does
+    stem: doe
+    docFrequency: 5.0
+    docPositions:
+    - 45
+    - 56
+    - 182
+  algorithm: !ruby/object:Word
+    word: algorithm
+    stem: algorithm
+    docFrequency: 9.0
+    docPositions:
+    - 46
+    - 182
+  output: !ruby/object:Word
+    word: output
+    stem: output
+    docFrequency: 5.0
+    docPositions:
+    - 46
+    - 182
+  termed: !ruby/object:Word
+    word: termed
+    stem: term
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  ciphertext: !ruby/object:Word
+    word: ciphertext
+    stem: ciphertext
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  particularly: !ruby/object:Word
+    word: particularly
+    stem: particularli
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  cipher: !ruby/object:Word
+    word: cipher
+    stem: cipher
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  codetext: !ruby/object:Word
+    word: codetext
+    stem: codetext
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  less: !ruby/object:Word
+    word: less
+    stem: less
+    docFrequency: 7.0
+    docPositions:
+    - 46
+    - 51
+    - 53
+    - 182
+  almost: !ruby/object:Word
+    word: almost
+    stem: almost
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  always: !ruby/object:Word
+    word: always
+    stem: alwai
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  only: !ruby/object:Word
+    word: only
+    stem: onli
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  involved: !ruby/object:Word
+    word: involved
+    stem: involv
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  actually: !ruby/object:Word
+    word: actually
+    stem: actual
+    docFrequency: 5.0
+    docPositions:
+    - 46
+    - 50
+    - 182
+  code: !ruby/object:Word
+    word: code
+    stem: code
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  some: !ruby/object:Word
+    word: some
+    stem: some
+    docFrequency: 11.0
+    docPositions:
+    - 46
+    - 50
+    - 51
+    - 52
+    - 182
+  systems: !ruby/object:Word
+    word: systems
+    stem: system
+    docFrequency: 13.0
+    docPositions:
+    - 46
+    - 50
+    - 53
+    - 54
+    - 182
+  however: !ruby/object:Word
+    word: however
+    stem: howev
+    docFrequency: 5.0
+    docPositions:
+    - 46
+    - 51
+    - 182
+  multiple: !ruby/object:Word
+    word: multiple
+    stem: multipl
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  layers: !ruby/object:Word
+    word: layers
+    stem: layer
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  case: !ruby/object:Word
+    word: case
+    stem: case
+    docFrequency: 13.0
+    docPositions:
+    - 46
+    - 49
+    - 53
+    - 56
+    - 182
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 7.0
+    docPositions:
+    - 46
+    - 48
+    - 49
+    - 182
+  becomes: !ruby/object:Word
+    word: becomes
+    stem: becom
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  next: !ruby/object:Word
+    word: next
+    stem: next
+    docFrequency: 3.0
+    docPositions:
+    - 46
+    - 182
+  cryptosystem: !ruby/object:Word
+    word: cryptosystem
+    stem: cryptosystem
+    docFrequency: 5.0
+    docPositions:
+    - 48
+    - 54
+    - 182
+  weaknesses: !ruby/object:Word
+    word: weaknesses
+    stem: weak
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  introduced: !ruby/object:Word
+    word: introduced
+    stem: introduc
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  through: !ruby/object:Word
+    word: through
+    stem: through
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  insecure: !ruby/object:Word
+    word: insecure
+    stem: insecur
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  allowing: !ruby/object:Word
+    word: allowing
+    stem: allow
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  attacker: !ruby/object:Word
+    word: attacker
+    stem: attack
+    docFrequency: 7.0
+    docPositions:
+    - 48
+    - 182
+  bypass: !ruby/object:Word
+    word: bypass
+    stem: bypass
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  altogether: !ruby/object:Word
+    word: altogether
+    stem: altogeth
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  vulnerable: !ruby/object:Word
+    word: vulnerable
+    stem: vulner
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  use: !ruby/object:Word
+    word: use
+    stem: us
+    docFrequency: 8.0
+    docPositions:
+    - 48
+    - 50
+    - 51
+    - 165
+    - 182
+  whether: !ruby/object:Word
+    word: whether
+    stem: whether
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  electronic: !ruby/object:Word
+    word: electronic
+    stem: electron
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  paper: !ruby/object:Word
+    word: paper
+    stem: paper
+    docFrequency: 5.0
+    docPositions:
+    - 48
+    - 50
+    - 182
+  format: !ruby/object:Word
+    word: format
+    stem: format
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  physical: !ruby/object:Word
+    word: physical
+    stem: physic
+    docFrequency: 11.0
+    docPositions:
+    - 48
+    - 49
+    - 51
+    - 182
+  deals: !ruby/object:Word
+    word: deals
+    stem: deal
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  methods: !ruby/object:Word
+    word: methods
+    stem: method
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  securing: !ruby/object:Word
+    word: securing
+    stem: secur
+    docFrequency: 5.0
+    docPositions:
+    - 48
+    - 49
+    - 182
+  its: !ruby/object:Word
+    word: its
+    stem: it
+    docFrequency: 9.0
+    docPositions:
+    - 48
+    - 49
+    - 50
+    - 182
+  media: !ruby/object:Word
+    word: media
+    stem: media
+    docFrequency: 11.0
+    docPositions:
+    - 48
+    - 49
+    - 50
+    - 53
+    - 182
+  local: !ruby/object:Word
+    word: local
+    stem: local
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  attacks: !ruby/object:Word
+    word: attacks
+    stem: attack
+    docFrequency: 5.0
+    docPositions:
+    - 48
+    - 54
+    - 182
+  instance: !ruby/object:Word
+    word: instance
+    stem: instanc
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  might: !ruby/object:Word
+    word: might
+    stem: might
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  enter: !ruby/object:Word
+    word: enter
+    stem: enter
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  poorly: !ruby/object:Word
+    word: poorly
+    stem: poorli
+    docFrequency: 5.0
+    docPositions:
+    - 48
+    - 53
+    - 182
+  secured: !ruby/object:Word
+    word: secured
+    stem: secur
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  building: !ruby/object:Word
+    word: building
+    stem: build
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  attempt: !ruby/object:Word
+    word: attempt
+    stem: attempt
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  open: !ruby/object:Word
+    word: open
+    stem: open
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  locked: !ruby/object:Word
+    word: locked
+    stem: lock
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  desk: !ruby/object:Word
+    word: desk
+    stem: desk
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  drawers: !ruby/object:Word
+    word: drawers
+    stem: drawer
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  safes: !ruby/object:Word
+    word: safes
+    stem: safe
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  engage: !ruby/object:Word
+    word: engage
+    stem: engag
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  dumpster: !ruby/object:Word
+    word: dumpster
+    stem: dumpster
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  diving: !ruby/object:Word
+    word: diving
+    stem: dive
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  able: !ruby/object:Word
+    word: able
+    stem: abl
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  reconstruct: !ruby/object:Word
+    word: reconstruct
+    stem: reconstruct
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  shredded: !ruby/object:Word
+    word: shredded
+    stem: shred
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  sufficiently: !ruby/object:Word
+    word: sufficiently
+    stem: suffici
+    docFrequency: 5.0
+    docPositions:
+    - 48
+    - 51
+    - 182
+  valuable: !ruby/object:Word
+    word: valuable
+    stem: valuabl
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  worth: !ruby/object:Word
+    word: worth
+    stem: worth
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  effort: !ruby/object:Word
+    word: effort
+    stem: effort
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  countermeasure: !ruby/object:Word
+    word: countermeasure
+    stem: countermeasur
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  burn: !ruby/object:Word
+    word: burn
+    stem: burn
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  thoroughly: !ruby/object:Word
+    word: thoroughly
+    stem: thoroughli
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  crosscut: !ruby/object:Word
+    word: crosscut
+    stem: crosscut
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  shred: !ruby/object:Word
+    word: shred
+    stem: shred
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  discarded: !ruby/object:Word
+    word: discarded
+    stem: discard
+    docFrequency: 7.0
+    docPositions:
+    - 48
+    - 50
+    - 51
+    - 182
+  printed: !ruby/object:Word
+    word: printed
+    stem: print
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  plaintexts: !ruby/object:Word
+    word: plaintexts
+    stem: plaintext
+    docFrequency: 5.0
+    docPositions:
+    - 48
+    - 50
+    - 182
+  nsa: !ruby/object:Word
+    word: nsa
+    stem: nsa
+    docFrequency: 5.0
+    docPositions:
+    - 48
+    - 51
+    - 182
+  infamous: !ruby/object:Word
+    word: infamous
+    stem: infam
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  disposal: !ruby/object:Word
+    word: disposal
+    stem: dispos
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  precautions: !ruby/object:Word
+    word: precautions
+    stem: precaut
+    docFrequency: 3.0
+    docPositions:
+    - 48
+    - 182
+  file: !ruby/object:Word
+    word: file
+    stem: file
+    docFrequency: 13.0
+    docPositions:
+    - 49
+    - 50
+    - 51
+    - 182
+  situation: !ruby/object:Word
+    word: situation
+    stem: situat
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  automatically: !ruby/object:Word
+    word: automatically
+    stem: automat
+    docFrequency: 5.0
+    docPositions:
+    - 49
+    - 51
+    - 182
+  made: !ruby/object:Word
+    word: made
+    stem: made
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  backup: !ruby/object:Word
+    word: backup
+    stem: backup
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  generated: !ruby/object:Word
+    word: generated
+    stem: gener
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  during: !ruby/object:Word
+    word: during
+    stem: dure
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  program: !ruby/object:Word
+    word: program
+    stem: program
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  execution: !ruby/object:Word
+    word: execution
+    stem: execut
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  must: !ruby/object:Word
+    word: must
+    stem: must
+    docFrequency: 7.0
+    docPositions:
+    - 49
+    - 182
+  included: !ruby/object:Word
+    word: included
+    stem: includ
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  here: !ruby/object:Word
+    word: here
+    stem: here
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  invisible: !ruby/object:Word
+    word: invisible
+    stem: invis
+    docFrequency: 5.0
+    docPositions:
+    - 49
+    - 51
+    - 182
+  user: !ruby/object:Word
+    word: user
+    stem: user
+    docFrequency: 9.0
+    docPositions:
+    - 49
+    - 56
+    - 179
+    - 182
+  along: !ruby/object:Word
+    word: along
+    stem: along
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  entire: !ruby/object:Word
+    word: entire
+    stem: entir
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  components: !ruby/object:Word
+    word: components
+    stem: compon
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  sensitive: !ruby/object:Word
+    word: sensitive
+    stem: sensit
+    docFrequency: 5.0
+    docPositions:
+    - 49
+    - 51
+    - 182
+  sometimes: !ruby/object:Word
+    word: sometimes
+    stem: sometim
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  processed: !ruby/object:Word
+    word: processed
+    stem: process
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  whose: !ruby/object:Word
+    word: whose
+    stem: whose
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  mass: !ruby/object:Word
+    word: mass
+    stem: mass
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  removable: !ruby/object:Word
+    word: removable
+    stem: remov
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  disk: !ruby/object:Word
+    word: disk
+    stem: disk
+    docFrequency: 20.0
+    docPositions:
+    - 49
+    - 50
+    - 51
+    - 52
+    - 61
+    - 182
+  separately: !ruby/object:Word
+    word: separately
+    stem: separ
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  vital: !ruby/object:Word
+    word: vital
+    stem: vital
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  useful: !ruby/object:Word
+    word: useful
+    stem: us
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  opposed: !ruby/object:Word
+    word: opposed
+    stem: oppos
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  handwaving: !ruby/object:Word
+    word: handwaving
+    stem: handwav
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 8.0
+    docPositions:
+    - 49
+    - 51
+    - 158
+    - 182
+  g: !ruby/object:Word
+    word: g
+    stem: g
+    docFrequency: 7.0
+    docPositions:
+    - 49
+    - 51
+    - 182
+  against: !ruby/object:Word
+    word: against
+    stem: against
+    docFrequency: 5.0
+    docPositions:
+    - 49
+    - 52
+    - 182
+  burglary: !ruby/object:Word
+    word: burglary
+    stem: burglari
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  brazen: !ruby/object:Word
+    word: brazen
+    stem: brazen
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  removal: !ruby/object:Word
+    word: removal
+    stem: remov
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  under: !ruby/object:Word
+    word: under
+    stem: under
+    docFrequency: 4.0
+    docPositions:
+    - 49
+    - 164
+    - 182
+  cover: !ruby/object:Word
+    word: cover
+    stem: cover
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  supposed: !ruby/object:Word
+    word: supposed
+    stem: suppos
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  repair: !ruby/object:Word
+    word: repair
+    stem: repair
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  installation: !ruby/object:Word
+    word: installation
+    stem: instal
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  covert: !ruby/object:Word
+    word: covert
+    stem: covert
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  monitoring: !ruby/object:Word
+    word: monitoring
+    stem: monitor
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  devices: !ruby/object:Word
+    word: devices
+    stem: devic
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  etc: !ruby/object:Word
+    word: etc
+    stem: etc
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  well: !ruby/object:Word
+    word: well
+    stem: well
+    docFrequency: 5.0
+    docPositions:
+    - 49
+    - 56
+    - 182
+  virtual: !ruby/object:Word
+    word: virtual
+    stem: virtual
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  operating: !ruby/object:Word
+    word: operating
+    stem: oper
+    docFrequency: 7.0
+    docPositions:
+    - 49
+    - 50
+    - 182
+  system: !ruby/object:Word
+    word: system
+    stem: system
+    docFrequency: 9.0
+    docPositions:
+    - 49
+    - 50
+    - 51
+    - 182
+  modification: !ruby/object:Word
+    word: modification
+    stem: modif
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  illicit: !ruby/object:Word
+    word: illicit
+    stem: illicit
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  network: !ruby/object:Word
+    word: network
+    stem: network
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  access: !ruby/object:Word
+    word: access
+    stem: access
+    docFrequency: 6.0
+    docPositions:
+    - 49
+    - 51
+    - 65
+    - 182
+  trojan: !ruby/object:Word
+    word: trojan
+    stem: trojan
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  programs: !ruby/object:Word
+    word: programs
+    stem: program
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  wide: !ruby/object:Word
+    word: wide
+    stem: wide
+    docFrequency: 5.0
+    docPositions:
+    - 49
+    - 51
+    - 182
+  availability: !ruby/object:Word
+    word: availability
+    stem: avail
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  keydrives: !ruby/object:Word
+    word: keydrives
+    stem: keydriv
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  plug: !ruby/object:Word
+    word: plug
+    stem: plug
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  store: !ruby/object:Word
+    word: store
+    stem: store
+    docFrequency: 6.0
+    docPositions:
+    - 49
+    - 56
+    - 134
+    - 182
+  large: !ruby/object:Word
+    word: large
+    stem: larg
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  quantities: !ruby/object:Word
+    word: quantities
+    stem: quantiti
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  poses: !ruby/object:Word
+    word: poses
+    stem: pose
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  another: !ruby/object:Word
+    word: another
+    stem: anoth
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  severe: !ruby/object:Word
+    word: severe
+    stem: sever
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  headache: !ruby/object:Word
+    word: headache
+    stem: headach
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  spy: !ruby/object:Word
+    word: spy
+    stem: spy
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  perhaps: !ruby/object:Word
+    word: perhaps
+    stem: perhap
+    docFrequency: 5.0
+    docPositions:
+    - 49
+    - 52
+    - 182
+  posing: !ruby/object:Word
+    word: posing
+    stem: pose
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  cleaning: !ruby/object:Word
+    word: cleaning
+    stem: clean
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  swallow: !ruby/object:Word
+    word: swallow
+    stem: swallow
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  necessary: !ruby/object:Word
+    word: necessary
+    stem: necessari
+    docFrequency: 3.0
+    docPositions:
+    - 49
+    - 182
+  drives: !ruby/object:Word
+    word: drives
+    stem: drive
+    docFrequency: 9.0
+    docPositions:
+    - 50
+    - 51
+    - 182
+  potential: !ruby/object:Word
+    word: potential
+    stem: potenti
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  source: !ruby/object:Word
+    word: source
+    stem: sourc
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  do: !ruby/object:Word
+    word: do
+    stem: do
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 56
+    - 182
+  erase: !ruby/object:Word
+    word: erase
+    stem: eras
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  anything: !ruby/object:Word
+    word: anything
+    stem: anyth
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  simply: !ruby/object:Word
+    word: simply
+    stem: simpli
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  mark: !ruby/object:Word
+    word: mark
+    stem: mark
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  space: !ruby/object:Word
+    word: space
+    stem: space
+    docFrequency: 7.0
+    docPositions:
+    - 50
+    - 182
+  occupied: !ruby/object:Word
+    word: occupied
+    stem: occupi
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 182
+  deleted: !ruby/object:Word
+    word: deleted
+    stem: delet
+    docFrequency: 7.0
+    docPositions:
+    - 50
+    - 182
+  remove: !ruby/object:Word
+    word: remove
+    stem: remov
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  entry: !ruby/object:Word
+    word: entry
+    stem: entri
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  directory: !ruby/object:Word
+    word: directory
+    stem: directori
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  way: !ruby/object:Word
+    word: way
+    stem: wai
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  remains: !ruby/object:Word
+    word: remains
+    stem: remain
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  fully: !ruby/object:Word
+    word: fully
+    stem: fulli
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  present: !ruby/object:Word
+    word: present
+    stem: present
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 51
+    - 182
+  until: !ruby/object:Word
+    word: until
+    stem: until
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  overwritten: !ruby/object:Word
+    word: overwritten
+    stem: overwritten
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 182
+  later: !ruby/object:Word
+    word: later
+    stem: later
+    docFrequency: 7.0
+    docPositions:
+    - 50
+    - 182
+  time: !ruby/object:Word
+    word: time
+    stem: time
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 182
+  reuses: !ruby/object:Word
+    word: reuses
+    stem: reus
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  low: !ruby/object:Word
+    word: low
+    stem: low
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  end: !ruby/object:Word
+    word: end
+    stem: end
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 56
+    - 182
+  sold: !ruby/object:Word
+    word: sold
+    stem: sold
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  many: !ruby/object:Word
+    word: many
+    stem: mani
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 182
+  gigabytes: !ruby/object:Word
+    word: gigabytes
+    stem: gigabyt
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  rising: !ruby/object:Word
+    word: rising
+    stem: rise
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  monthly: !ruby/object:Word
+    word: monthly
+    stem: monthli
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  months: !ruby/object:Word
+    word: months
+    stem: month
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  never: !ruby/object:Word
+    word: never
+    stem: never
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  overwriting: !ruby/object:Word
+    word: overwriting
+    stem: overwrit
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  portion: !ruby/object:Word
+    word: portion
+    stem: portion
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  surface: !ruby/object:Word
+    word: surface
+    stem: surfac
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  insufficient: !ruby/object:Word
+    word: insufficient
+    stem: insuffici
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  cases: !ruby/object:Word
+    word: cases
+    stem: case
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 51
+    - 182
+  peter: !ruby/object:Word
+    word: peter
+    stem: peter
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  gutmann: !ruby/object:Word
+    word: gutmann
+    stem: gutmann
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 182
+  university: !ruby/object:Word
+    word: university
+    stem: univers
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  auckland: !ruby/object:Word
+    word: auckland
+    stem: auckland
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  wrote: !ruby/object:Word
+    word: wrote
+    stem: wrote
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 182
+  celebrated: !ruby/object:Word
+    word: celebrated
+    stem: celebr
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  recovery: !ruby/object:Word
+    word: recovery
+    stem: recoveri
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 182
+  magnetic: !ruby/object:Word
+    word: magnetic
+    stem: magnet
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  disks: !ruby/object:Word
+    word: disks
+    stem: disk
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  areal: !ruby/object:Word
+    word: areal
+    stem: areal
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  densities: !ruby/object:Word
+    word: densities
+    stem: densiti
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  have: !ruby/object:Word
+    word: have
+    stem: have
+    docFrequency: 5.0
+    docPositions:
+    - 50
+    - 52
+    - 182
+  gotten: !ruby/object:Word
+    word: gotten
+    stem: gotten
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  higher: !ruby/object:Word
+    word: higher
+    stem: higher
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  then: !ruby/object:Word
+    word: then
+    stem: then
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  so: !ruby/object:Word
+    word: so
+    stem: so
+    docFrequency: 9.0
+    docPositions:
+    - 50
+    - 54
+    - 56
+    - 182
+  sort: !ruby/object:Word
+    word: sort
+    stem: sort
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  likely: !ruby/object:Word
+    word: likely
+    stem: like
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  more: !ruby/object:Word
+    word: more
+    stem: more
+    docFrequency: 4.0
+    docPositions:
+    - 50
+    - 111
+    - 182
+  difficult: !ruby/object:Word
+    word: difficult
+    stem: difficult
+    docFrequency: 3.0
+    docPositions:
+    - 50
+    - 182
+  than: !ruby/object:Word
+    word: than
+    stem: than
+    docFrequency: 7.0
+    docPositions:
+    - 50
+    - 51
+    - 53
+    - 182
+  independently: !ruby/object:Word
+    word: independently
+    stem: independ
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  hard: !ruby/object:Word
+    word: hard
+    stem: hard
+    docFrequency: 5.0
+    docPositions:
+    - 51
+    - 182
+  remap: !ruby/object:Word
+    word: remap
+    stem: remap
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  sectors: !ruby/object:Word
+    word: sectors
+    stem: sector
+    docFrequency: 5.0
+    docPositions:
+    - 51
+    - 182
+  starting: !ruby/object:Word
+    word: starting
+    stem: start
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  fail: !ruby/object:Word
+    word: fail
+    stem: fail
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  those: !ruby/object:Word
+    word: those
+    stem: those
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  'no': !ruby/object:Word
+    word: 'no'
+    stem: 'no'
+    docFrequency: 5.0
+    docPositions:
+    - 51
+    - 53
+    - 182
+  longer: !ruby/object:Word
+    word: longer
+    stem: longer
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  contain: !ruby/object:Word
+    word: contain
+    stem: contain
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  entirely: !ruby/object:Word
+    word: entirely
+    stem: entir
+    docFrequency: 7.0
+    docPositions:
+    - 51
+    - 53
+    - 54
+    - 182
+  all: !ruby/object:Word
+    word: all
+    stem: all
+    docFrequency: 9.0
+    docPositions:
+    - 51
+    - 52
+    - 56
+    - 182
+  software: !ruby/object:Word
+    word: software
+    stem: softwar
+    docFrequency: 5.0
+    docPositions:
+    - 51
+    - 56
+    - 182
+  uses: !ruby/object:Word
+    word: uses
+    stem: us
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  but: !ruby/object:Word
+    word: but
+    stem: but
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  nonetheless: !ruby/object:Word
+    word: nonetheless
+    stem: nonetheless
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  still: !ruby/object:Word
+    word: still
+    stem: still
+    docFrequency: 5.0
+    docPositions:
+    - 51
+    - 56
+    - 182
+  drive: !ruby/object:Word
+    word: drive
+    stem: drive
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  platter: !ruby/object:Word
+    word: platter
+    stem: platter
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  course: !ruby/object:Word
+    word: course
+    stem: cours
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  government: !ruby/object:Word
+    word: government
+    stem: govern
+    docFrequency: 5.0
+    docPositions:
+    - 51
+    - 182
+  agencies: !ruby/object:Word
+    word: agencies
+    stem: agenc
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  require: !ruby/object:Word
+    word: require
+    stem: requir
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  physically: !ruby/object:Word
+    word: physically
+    stem: physic
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  pulverized: !ruby/object:Word
+    word: pulverized
+    stem: pulver
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  chemically: !ruby/object:Word
+    word: chemically
+    stem: chemic
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  corrosives: !ruby/object:Word
+    word: corrosives
+    stem: corros
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  after: !ruby/object:Word
+    word: after
+    stem: after
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  practice: !ruby/object:Word
+    word: practice
+    stem: practic
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  widespread: !ruby/object:Word
+    word: widespread
+    stem: widespread
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  outside: !ruby/object:Word
+    word: outside
+    stem: outsid
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  garfinkel: !ruby/object:Word
+    word: garfinkel
+    stem: garfinkel
+    docFrequency: 4.0
+    docPositions:
+    - 51
+    - 61
+    - 182
+  shelat: !ruby/object:Word
+    word: shelat
+    stem: shelat
+    docFrequency: 4.0
+    docPositions:
+    - 51
+    - 61
+    - 182
+  analyzed: !ruby/object:Word
+    word: analyzed
+    stem: analyz
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  second: !ruby/object:Word
+    word: second
+    stem: second
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  hand: !ruby/object:Word
+    word: hand
+    stem: hand
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  acquired: !ruby/object:Word
+    word: acquired
+    stem: acquir
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  garage: !ruby/object:Word
+    word: garage
+    stem: garag
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  sales: !ruby/object:Word
+    word: sales
+    stem: sale
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  like: !ruby/object:Word
+    word: like
+    stem: like
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  found: !ruby/object:Word
+    word: found
+    stem: found
+    docFrequency: 5.0
+    docPositions:
+    - 51
+    - 182
+  had: !ruby/object:Word
+    word: had
+    stem: had
+    docFrequency: 5.0
+    docPositions:
+    - 51
+    - 52
+    - 182
+  sanitized: !ruby/object:Word
+    word: sanitized
+    stem: sanit
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  variety: !ruby/object:Word
+    word: variety
+    stem: varieti
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  personal: !ruby/object:Word
+    word: personal
+    stem: person
+    docFrequency: 4.0
+    docPositions:
+    - 51
+    - 86
+    - 182
+  confidential: !ruby/object:Word
+    word: confidential
+    stem: confidenti
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  readable: !ruby/object:Word
+    word: readable
+    stem: readabl
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  remanence: !ruby/object:Word
+    word: remanence
+    stem: reman
+    docFrequency: 3.0
+    docPositions:
+    - 51
+    - 182
+  laptop: !ruby/object:Word
+    word: laptop
+    stem: laptop
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  special: !ruby/object:Word
+    word: special
+    stem: special
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  problem: !ruby/object:Word
+    word: problem
+    stem: problem
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  us: !ruby/object:Word
+    word: us
+    stem: us
+    docFrequency: 5.0
+    docPositions:
+    - 52
+    - 182
+  state: !ruby/object:Word
+    word: state
+    stem: state
+    docFrequency: 4.0
+    docPositions:
+    - 52
+    - 179
+    - 182
+  department: !ruby/object:Word
+    word: department
+    stem: depart
+    docFrequency: 5.0
+    docPositions:
+    - 52
+    - 182
+  british: !ruby/object:Word
+    word: british
+    stem: british
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  secret: !ruby/object:Word
+    word: secret
+    stem: secret
+    docFrequency: 5.0
+    docPositions:
+    - 52
+    - 182
+  service: !ruby/object:Word
+    word: service
+    stem: servic
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  defense: !ruby/object:Word
+    word: defense
+    stem: defens
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  laptops: !ruby/object:Word
+    word: laptops
+    stem: laptop
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  form: !ruby/object:Word
+    word: form
+    stem: form
+    docFrequency: 5.0
+    docPositions:
+    - 52
+    - 56
+    - 182
+  vanish: !ruby/object:Word
+    word: vanish
+    stem: vanish
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  recent: !ruby/object:Word
+    word: recent
+    stem: recent
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  years: !ruby/object:Word
+    word: years
+    stem: year
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  announcements: !ruby/object:Word
+    word: announcements
+    stem: announc
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  similar: !ruby/object:Word
+    word: similar
+    stem: similar
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  losses: !ruby/object:Word
+    word: losses
+    stem: loss
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  becoming: !ruby/object:Word
+    word: becoming
+    stem: becom
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  common: !ruby/object:Word
+    word: common
+    stem: common
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  item: !ruby/object:Word
+    word: item
+    stem: item
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  news: !ruby/object:Word
+    word: news
+    stem: new
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  reports: !ruby/object:Word
+    word: reports
+    stem: report
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  techniques: !ruby/object:Word
+    word: techniques
+    stem: techniqu
+    docFrequency: 5.0
+    docPositions:
+    - 52
+    - 54
+    - 182
+  provide: !ruby/object:Word
+    word: provide
+    stem: provid
+    docFrequency: 5.0
+    docPositions:
+    - 52
+    - 56
+    - 182
+  protection: !ruby/object:Word
+    word: protection
+    stem: protect
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  loss: !ruby/object:Word
+    word: loss
+    stem: loss
+    docFrequency: 5.0
+    docPositions:
+    - 52
+    - 54
+    - 182
+  theft: !ruby/object:Word
+    word: theft
+    stem: theft
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  properly: !ruby/object:Word
+    word: properly
+    stem: properli
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 182
+  chosen: !ruby/object:Word
+    word: chosen
+    stem: chosen
+    docFrequency: 5.0
+    docPositions:
+    - 52
+    - 54
+    - 182
+  occasion: !ruby/object:Word
+    word: occasion
+    stem: occas
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  host: !ruby/object:Word
+    word: host
+    stem: host
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  itself: !ruby/object:Word
+    word: itself
+    stem: itself
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  encrypted: !ruby/object:Word
+    word: encrypted
+    stem: encrypt
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  transfer: !ruby/object:Word
+    word: transfer
+    stem: transfer
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  between: !ruby/object:Word
+    word: between
+    stem: between
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  nevertheless: !ruby/object:Word
+    word: nevertheless
+    stem: nevertheless
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  due: !ruby/object:Word
+    word: due
+    stem: due
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  designed: !ruby/object:Word
+    word: designed
+    stem: design
+    docFrequency: 5.0
+    docPositions:
+    - 53
+    - 54
+    - 182
+  policy: !ruby/object:Word
+    word: policy
+    stem: polici
+    docFrequency: 5.0
+    docPositions:
+    - 53
+    - 165
+    - 166
+    - 182
+  incident: !ruby/object:Word
+    word: incident
+    stem: incid
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  october: !ruby/object:Word
+    word: october
+    stem: octob
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  hm: !ruby/object:Word
+    word: hm
+    stem: hm
+    docFrequency: 4.0
+    docPositions:
+    - 53
+    - 62
+    - 182
+  revenue: !ruby/object:Word
+    word: revenue
+    stem: revenu
+    docFrequency: 4.0
+    docPositions:
+    - 53
+    - 62
+    - 182
+  customs: !ruby/object:Word
+    word: customs
+    stem: custom
+    docFrequency: 4.0
+    docPositions:
+    - 53
+    - 62
+    - 182
+  lost: !ruby/object:Word
+    word: lost
+    stem: lost
+    docFrequency: 5.0
+    docPositions:
+    - 53
+    - 54
+    - 182
+  cds: !ruby/object:Word
+    word: cds
+    stem: cd
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  records: !ruby/object:Word
+    word: records
+    stem: record
+    docFrequency: 4.0
+    docPositions:
+    - 53
+    - 62
+    - 182
+  million: !ruby/object:Word
+    word: million
+    stem: million
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  child: !ruby/object:Word
+    word: child
+    stem: child
+    docFrequency: 4.0
+    docPositions:
+    - 53
+    - 62
+    - 182
+  benefit: !ruby/object:Word
+    word: benefit
+    stem: benefit
+    docFrequency: 4.0
+    docPositions:
+    - 53
+    - 62
+    - 182
+  recipients: !ruby/object:Word
+    word: recipients
+    stem: recipi
+    docFrequency: 4.0
+    docPositions:
+    - 53
+    - 62
+    - 182
+  united: !ruby/object:Word
+    word: united
+    stem: unit
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  kingdom: !ruby/object:Word
+    word: kingdom
+    stem: kingdom
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  apparently: !ruby/object:Word
+    word: apparently
+    stem: appar
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  point: !ruby/object:Word
+    word: point
+    stem: point
+    docFrequency: 3.0
+    docPositions:
+    - 53
+    - 182
+  resist: !ruby/object:Word
+    word: resist
+    stem: resist
+    docFrequency: 5.0
+    docPositions:
+    - 54
+    - 182
+  known: !ruby/object:Word
+    word: known
+    stem: known
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  compromised: !ruby/object:Word
+    word: compromised
+    stem: compromis
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  stolen: !ruby/object:Word
+    word: stolen
+    stem: stolen
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  older: !ruby/object:Word
+    word: older
+    stem: older
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  padding: !ruby/object:Word
+    word: padding
+    stem: pad
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  russian: !ruby/object:Word
+    word: russian
+    stem: russian
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  copulation: !ruby/object:Word
+    word: copulation
+    stem: copul
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  obscure: !ruby/object:Word
+    word: obscure
+    stem: obscur
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  guessed: !ruby/object:Word
+    word: guessed
+    stem: guess
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  effects: !ruby/object:Word
+    word: effects
+    stem: effect
+    docFrequency: 3.0
+    docPositions:
+    - 54
+    - 182
+  several: !ruby/object:Word
+    word: several
+    stem: sever
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  popular: !ruby/object:Word
+    word: popular
+    stem: popular
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  browsers: !ruby/object:Word
+    word: browsers
+    stem: browser
+    docFrequency: 5.0
+    docPositions:
+    - 56
+    - 182
+  offer: !ruby/object:Word
+    word: offer
+    stem: offer
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 8.0
+    docPositions:
+    - 56
+    - 61
+    - 66
+    - 158
+    - 182
+  passwords: !ruby/object:Word
+    word: passwords
+    stem: password
+    docFrequency: 9.0
+    docPositions:
+    - 56
+    - 182
+  though: !ruby/object:Word
+    word: though
+    stem: though
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  them: !ruby/object:Word
+    word: them
+    stem: them
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  initially: !ruby/object:Word
+    word: initially
+    stem: initi
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  hide: !ruby/object:Word
+    word: hide
+    stem: hide
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  possible: !ruby/object:Word
+    word: possible
+    stem: possibl
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  anyone: !ruby/object:Word
+    word: anyone
+    stem: anyon
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  view: !ruby/object:Word
+    word: view
+    stem: view
+    docFrequency: 6.0
+    docPositions:
+    - 56
+    - 108
+    - 171
+    - 179
+    - 182
+  few: !ruby/object:Word
+    word: few
+    stem: few
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  clicks: !ruby/object:Word
+    word: clicks
+    stem: click
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  mouse: !ruby/object:Word
+    word: mouse
+    stem: mous
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  going: !ruby/object:Word
+    word: going
+    stem: go
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  settings: !ruby/object:Word
+    word: settings
+    stem: set
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  options: !ruby/object:Word
+    word: options
+    stem: option
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  menus: !ruby/object:Word
+    word: menus
+    stem: menu
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  emerged: !ruby/object:Word
+    word: emerged
+    stem: emerg
+    docFrequency: 5.0
+    docPositions:
+    - 56
+    - 182
+  firefox: !ruby/object:Word
+    word: firefox
+    stem: firefox
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  aug: !ruby/object:Word
+    word: aug
+    stem: aug
+    docFrequency: 9.0
+    docPositions:
+    - 56
+    - 65
+    - 66
+    - 67
+    - 182
+  google: !ruby/object:Word
+    word: google
+    stem: googl
+    docFrequency: 7.0
+    docPositions:
+    - 56
+    - 65
+    - 67
+    - 182
+  chrome: !ruby/object:Word
+    word: chrome
+    stem: chrome
+    docFrequency: 10.0
+    docPositions:
+    - 56
+    - 65
+    - 66
+    - 67
+    - 182
+  developer: !ruby/object:Word
+    word: developer
+    stem: develop
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  raised: !ruby/object:Word
+    word: raised
+    stem: rais
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  issue: !ruby/object:Word
+    word: issue
+    stem: issu
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  team: !ruby/object:Word
+    word: team
+    stem: team
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  company: !ruby/object:Word
+    word: company
+    stem: compani
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  representative: !ruby/object:Word
+    word: representative
+    stem: repres
+    docFrequency: 4.0
+    docPositions:
+    - 56
+    - 67
+    - 182
+  responded: !ruby/object:Word
+    word: responded
+    stem: respond
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  would: !ruby/object:Word
+    word: would
+    stem: would
+    docFrequency: 5.0
+    docPositions:
+    - 56
+    - 182
+  change: !ruby/object:Word
+    word: change
+    stem: chang
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  feature: !ruby/object:Word
+    word: feature
+    stem: featur
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  justified: !ruby/object:Word
+    word: justified
+    stem: justifi
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  refusal: !ruby/object:Word
+    word: refusal
+    stem: refus
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  saying: !ruby/object:Word
+    word: saying
+    stem: sai
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  hiding: !ruby/object:Word
+    word: hiding
+    stem: hide
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  users: !ruby/object:Word
+    word: users
+    stem: user
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  'false': !ruby/object:Word
+    word: 'false'
+    stem: fals
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  just: !ruby/object:Word
+    word: just
+    stem: just
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  we: !ruby/object:Word
+    word: we
+    stem: we
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  approach: !ruby/object:Word
+    word: approach
+    stem: approach
+    docFrequency: 3.0
+    docPositions:
+    - 56
+    - 182
+  red: !ruby/object:Word
+    word: red
+    stem: red
+    docFrequency: 2.0
+    docPositions:
+    - 58
+  black: !ruby/object:Word
+    word: black
+    stem: black
+    docFrequency: 2.0
+    docPositions:
+    - 58
+  concept: !ruby/object:Word
+    word: concept
+    stem: concept
+    docFrequency: 2.0
+    docPositions:
+    - 58
+  lightweight: !ruby/object:Word
+    word: lightweight
+    stem: lightweight
+    docFrequency: 2.0
+    docPositions:
+    - 59
+  markup: !ruby/object:Word
+    word: markup
+    stem: markup
+    docFrequency: 2.0
+    docPositions:
+    - 59
+  remembrance: !ruby/object:Word
+    word: remembrance
+    stem: remembr
+    docFrequency: 2.0
+    docPositions:
+    - 61
+  passed: !ruby/object:Word
+    word: passed
+    stem: pass
+    docFrequency: 2.0
+    docPositions:
+    - 61
+  study: !ruby/object:Word
+    word: study
+    stem: studi
+    docFrequency: 2.0
+    docPositions:
+    - 61
+  sanitization: !ruby/object:Word
+    word: sanitization
+    stem: sanit
+    docFrequency: 2.0
+    docPositions:
+    - 61
+  practices: !ruby/object:Word
+    word: practices
+    stem: practic
+    docFrequency: 2.0
+    docPositions:
+    - 61
+  ieee: !ruby/object:Word
+    word: ieee
+    stem: ieee
+    docFrequency: 2.0
+    docPositions:
+    - 61
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 4.0
+    docPositions:
+    - 61
+    - 165
+    - 166
+  january: !ruby/object:Word
+    word: january
+    stem: januari
+    docFrequency: 2.0
+    docPositions:
+    - 61
+  february: !ruby/object:Word
+    word: february
+    stem: februari
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 63
+  pdf: !ruby/object:Word
+    word: pdf
+    stem: pdf
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 63
+  uk: !ruby/object:Word
+    word: uk
+    stem: uk
+    docFrequency: 2.0
+    docPositions:
+    - 62
+  loses: !ruby/object:Word
+    word: loses
+    stem: lose
+    docFrequency: 2.0
+    docPositions:
+    - 62
+  bbc: !ruby/object:Word
+    word: bbc
+    stem: bbc
+    docFrequency: 2.0
+    docPositions:
+    - 62
+  kissel: !ruby/object:Word
+    word: kissel
+    stem: kissel
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  richard: !ruby/object:Word
+    word: richard
+    stem: richard
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  editor: !ruby/object:Word
+    word: editor
+    stem: editor
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  nist: !ruby/object:Word
+    word: nist
+    stem: nist
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  ir: !ruby/object:Word
+    word: ir
+    stem: ir
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  revision: !ruby/object:Word
+    word: revision
+    stem: revis
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  glossary: !ruby/object:Word
+    word: glossary
+    stem: glossari
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  key: !ruby/object:Word
+    word: key
+    stem: kei
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  terms: !ruby/object:Word
+    word: terms
+    stem: term
+    docFrequency: 4.0
+    docPositions:
+    - 63
+    - 165
+  national: !ruby/object:Word
+    word: national
+    stem: nation
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  institute: !ruby/object:Word
+    word: institute
+    stem: institut
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  standards: !ruby/object:Word
+    word: standards
+    stem: standard
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  technology: !ruby/object:Word
+    word: technology
+    stem: technolog
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 6.0
+    docPositions:
+    - 65
+    - 66
+    - 67
+    - 180
+    - 182
+  flaw: !ruby/object:Word
+    word: flaw
+    stem: flaw
+    docFrequency: 2.0
+    docPositions:
+    - 65
+  offers: !ruby/object:Word
+    word: offers
+    stem: offer
+    docFrequency: 2.0
+    docPositions:
+    - 65
+  unrestricted: !ruby/object:Word
+    word: unrestricted
+    stem: unrestrict
+    docFrequency: 2.0
+    docPositions:
+    - 65
+  guardian: !ruby/object:Word
+    word: guardian
+    stem: guardian
+    docFrequency: 2.0
+    docPositions:
+    - 65
+  retrieved: !ruby/object:Word
+    word: retrieved
+    stem: retriev
+    docFrequency: 5.0
+    docPositions:
+    - 65
+    - 66
+    - 67
+    - 77
+  insane: !ruby/object:Word
+    word: insane
+    stem: insan
+    docFrequency: 2.0
+    docPositions:
+    - 66
+  strategy: !ruby/object:Word
+    word: strategy
+    stem: strategi
+    docFrequency: 2.0
+    docPositions:
+    - 66
+  elliottkember: !ruby/object:Word
+    word: elliottkember
+    stem: elliottkemb
+    docFrequency: 2.0
+    docPositions:
+    - 66
+  statement: !ruby/object:Word
+    word: statement
+    stem: statement
+    docFrequency: 2.0
+    docPositions:
+    - 67
+  ycombinator: !ruby/object:Word
+    word: ycombinator
+    stem: ycombin
+    docFrequency: 2.0
+    docPositions:
+    - 67
+  https: !ruby/object:Word
+    word: https
+    stem: http
+    docFrequency: 2.0
+    docPositions:
+    - 77
+  en: !ruby/object:Word
+    word: en
+    stem: en
+    docFrequency: 2.0
+    docPositions:
+    - 77
+  org: !ruby/object:Word
+    word: org
+    stem: org
+    docFrequency: 2.0
+    docPositions:
+    - 77
+  w: !ruby/object:Word
+    word: w
+    stem: w
+    docFrequency: 2.0
+    docPositions:
+    - 77
+  index: !ruby/object:Word
+    word: index
+    stem: index
+    docFrequency: 2.0
+    docPositions:
+    - 77
+  php: !ruby/object:Word
+    word: php
+    stem: php
+    docFrequency: 2.0
+    docPositions:
+    - 77
+  title: !ruby/object:Word
+    word: title
+    stem: titl
+    docFrequency: 2.0
+    docPositions:
+    - 77
+  oldid: !ruby/object:Word
+    word: oldid
+    stem: oldid
+    docFrequency: 2.0
+    docPositions:
+    - 77
+  categories: !ruby/object:Word
+    word: categories
+    stem: categori
+    docFrequency: 3.0
+    docPositions:
+    - 78
+  cryptographyhidden: !ruby/object:Word
+    word: cryptographyhidden
+    stem: cryptographyhidden
+    docFrequency: 2.0
+    docPositions:
+    - 78
+  articles: !ruby/object:Word
+    word: articles
+    stem: articl
+    docFrequency: 4.0
+    docPositions:
+    - 78
+    - 179
+  needing: !ruby/object:Word
+    word: needing
+    stem: need
+    docFrequency: 3.0
+    docPositions:
+    - 78
+  menu: !ruby/object:Word
+    word: menu
+    stem: menu
+    docFrequency: 2.0
+    docPositions:
+    - 82
+  tools: !ruby/object:Word
+    word: tools
+    stem: tool
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 143
+  logged: !ruby/object:Word
+    word: logged
+    stem: log
+    docFrequency: 2.0
+    docPositions:
+    - 87
+  intalkcontributionscreate: !ruby/object:Word
+    word: intalkcontributionscreate
+    stem: intalkcontributionscr
+    docFrequency: 2.0
+    docPositions:
+    - 87
+  accountlog: !ruby/object:Word
+    word: accountlog
+    stem: accountlog
+    docFrequency: 2.0
+    docPositions:
+    - 87
+  namespaces: !ruby/object:Word
+    word: namespaces
+    stem: namespac
+    docFrequency: 2.0
+    docPositions:
+    - 90
+  talk: !ruby/object:Word
+    word: talk
+    stem: talk
+    docFrequency: 2.0
+    docPositions:
+    - 92
+  variants: !ruby/object:Word
+    word: variants
+    stem: variant
+    docFrequency: 2.0
+    docPositions:
+    - 96
+  views: !ruby/object:Word
+    word: views
+    stem: view
+    docFrequency: 2.0
+    docPositions:
+    - 105
+  history: !ruby/object:Word
+    word: history
+    stem: histori
+    docFrequency: 2.0
+    docPositions:
+    - 108
+  main: !ruby/object:Word
+    word: main
+    stem: main
+    docFrequency: 2.0
+    docPositions:
+    - 134
+  pagecontentsfeatured: !ruby/object:Word
+    word: pagecontentsfeatured
+    stem: pagecontentsfeatur
+    docFrequency: 2.0
+    docPositions:
+    - 134
+  contentcurrent: !ruby/object:Word
+    word: contentcurrent
+    stem: contentcurr
+    docFrequency: 2.0
+    docPositions:
+    - 134
+  eventsrandom: !ruby/object:Word
+    word: eventsrandom
+    stem: eventsrandom
+    docFrequency: 2.0
+    docPositions:
+    - 134
+  articledonate: !ruby/object:Word
+    word: articledonate
+    stem: articledon
+    docFrequency: 2.0
+    docPositions:
+    - 134
+  wikipediawikipedia: !ruby/object:Word
+    word: wikipediawikipedia
+    stem: wikipediawikipedia
+    docFrequency: 2.0
+    docPositions:
+    - 134
+  interaction: !ruby/object:Word
+    word: interaction
+    stem: interact
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  helpabout: !ruby/object:Word
+    word: helpabout
+    stem: helpabout
+    docFrequency: 2.0
+    docPositions:
+    - 140
+  wikipediacommunity: !ruby/object:Word
+    word: wikipediacommunity
+    stem: wikipediacommun
+    docFrequency: 2.0
+    docPositions:
+    - 140
+  portalrecent: !ruby/object:Word
+    word: portalrecent
+    stem: portalrec
+    docFrequency: 2.0
+    docPositions:
+    - 140
+  changescontact: !ruby/object:Word
+    word: changescontact
+    stem: changescontact
+    docFrequency: 2.0
+    docPositions:
+    - 140
+  page: !ruby/object:Word
+    word: page
+    stem: page
+    docFrequency: 5.0
+    docPositions:
+    - 140
+    - 146
+    - 163
+    - 179
+  links: !ruby/object:Word
+    word: links
+    stem: link
+    docFrequency: 4.0
+    docPositions:
+    - 146
+    - 158
+    - 179
+  hererelated: !ruby/object:Word
+    word: hererelated
+    stem: hererel
+    docFrequency: 2.0
+    docPositions:
+    - 146
+  changesupload: !ruby/object:Word
+    word: changesupload
+    stem: changesupload
+    docFrequency: 2.0
+    docPositions:
+    - 146
+  filespecial: !ruby/object:Word
+    word: filespecial
+    stem: filespeci
+    docFrequency: 2.0
+    docPositions:
+    - 146
+  pagespermanent: !ruby/object:Word
+    word: pagespermanent
+    stem: pagesperman
+    docFrequency: 2.0
+    docPositions:
+    - 146
+  linkpage: !ruby/object:Word
+    word: linkpage
+    stem: linkpag
+    docFrequency: 2.0
+    docPositions:
+    - 146
+  informationwikidata: !ruby/object:Word
+    word: informationwikidata
+    stem: informationwikidata
+    docFrequency: 2.0
+    docPositions:
+    - 146
+  itemcite: !ruby/object:Word
+    word: itemcite
+    stem: itemcit
+    docFrequency: 2.0
+    docPositions:
+    - 146
+  print: !ruby/object:Word
+    word: print
+    stem: print
+    docFrequency: 2.0
+    docPositions:
+    - 149
+  export: !ruby/object:Word
+    word: export
+    stem: export
+    docFrequency: 2.0
+    docPositions:
+    - 149
+  create: !ruby/object:Word
+    word: create
+    stem: creat
+    docFrequency: 2.0
+    docPositions:
+    - 152
+  bookdownload: !ruby/object:Word
+    word: bookdownload
+    stem: bookdownload
+    docFrequency: 2.0
+    docPositions:
+    - 152
+  pdfprintable: !ruby/object:Word
+    word: pdfprintable
+    stem: pdfprintabl
+    docFrequency: 2.0
+    docPositions:
+    - 152
+  version: !ruby/object:Word
+    word: version
+    stem: version
+    docFrequency: 2.0
+    docPositions:
+    - 152
+  languages: !ruby/object:Word
+    word: languages
+    stem: languag
+    docFrequency: 2.0
+    docPositions:
+    - 155
+  catal: !ruby/object:Word
+    word: catal
+    stem: catal
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  tinadeutschespa: !ruby/object:Word
+    word: tinadeutschespa
+    stem: tinadeutschespa
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  oleuskara: !ruby/object:Word
+    word: oleuskara
+    stem: oleuskara
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  bahasa: !ruby/object:Word
+    word: bahasa
+    stem: bahasa
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  indonesia: !ruby/object:Word
+    word: indonesia
+    stem: indonesia
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  polskiportugu: !ruby/object:Word
+    word: polskiportugu
+    stem: polskiportugu
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  simple: !ruby/object:Word
+    word: simple
+    stem: simpl
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  englishsloven: !ruby/object:Word
+    word: englishsloven
+    stem: englishsloven
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  ina: !ruby/object:Word
+    word: ina
+    stem: ina
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  srpskisvenska: !ruby/object:Word
+    word: srpskisvenska
+    stem: srpskisvenska
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  last: !ruby/object:Word
+    word: last
+    stem: last
+    docFrequency: 2.0
+    docPositions:
+    - 163
+  modified: !ruby/object:Word
+    word: modified
+    stem: modifi
+    docFrequency: 2.0
+    docPositions:
+    - 163
+  december: !ruby/object:Word
+    word: december
+    stem: decemb
+    docFrequency: 2.0
+    docPositions:
+    - 163
+  creative: !ruby/object:Word
+    word: creative
+    stem: creativ
+    docFrequency: 2.0
+    docPositions:
+    - 164
+  commons: !ruby/object:Word
+    word: commons
+    stem: common
+    docFrequency: 2.0
+    docPositions:
+    - 164
+  attribution: !ruby/object:Word
+    word: attribution
+    stem: attribut
+    docFrequency: 2.0
+    docPositions:
+    - 164
+  sharealike: !ruby/object:Word
+    word: sharealike
+    stem: sharealik
+    docFrequency: 2.0
+    docPositions:
+    - 164
+  license: !ruby/object:Word
+    word: license
+    stem: licens
+    docFrequency: 2.0
+    docPositions:
+    - 164
+  apply: !ruby/object:Word
+    word: apply
+    stem: appli
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  site: !ruby/object:Word
+    word: site
+    stem: site
+    docFrequency: 4.0
+    docPositions:
+    - 165
+    - 179
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  agree: !ruby/object:Word
+    word: agree
+    stem: agre
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  registered: !ruby/object:Word
+    word: registered
+    stem: regist
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  trademark: !ruby/object:Word
+    word: trademark
+    stem: trademark
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  wikimedia: !ruby/object:Word
+    word: wikimedia
+    stem: wikimedia
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  foundation: !ruby/object:Word
+    word: foundation
+    stem: foundat
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  inc: !ruby/object:Word
+    word: inc
+    stem: inc
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  non: !ruby/object:Word
+    word: non
+    stem: non
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  profit: !ruby/object:Word
+    word: profit
+    stem: profit
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  organization: !ruby/object:Word
+    word: organization
+    stem: organ
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  disclaimers: !ruby/object:Word
+    word: disclaimers
+    stem: disclaim
+    docFrequency: 2.0
+    docPositions:
+    - 168
+  contact: !ruby/object:Word
+    word: contact
+    stem: contact
+    docFrequency: 2.0
+    docPositions:
+    - 169
+  developers: !ruby/object:Word
+    word: developers
+    stem: develop
+    docFrequency: 2.0
+    docPositions:
+    - 170
+  mobile: !ruby/object:Word
+    word: mobile
+    stem: mobil
+    docFrequency: 2.0
+    docPositions:
+    - 171
+  window: !ruby/object:Word
+    word: window
+    stem: window
+    docFrequency: 7.0
+    docPositions:
+    - 178
+    - 180
+  rlq: !ruby/object:Word
+    word: rlq
+    stem: rlq
+    docFrequency: 7.0
+    docPositions:
+    - 178
+    - 180
+  push: !ruby/object:Word
+    word: push
+    stem: push
+    docFrequency: 3.0
+    docPositions:
+    - 178
+    - 180
+  function: !ruby/object:Word
+    word: function
+    stem: function
+    docFrequency: 3.0
+    docPositions:
+    - 178
+    - 180
+  mw: !ruby/object:Word
+    word: mw
+    stem: mw
+    docFrequency: 4.0
+    docPositions:
+    - 179
+    - 181
+  loader: !ruby/object:Word
+    word: loader
+    stem: loader
+    docFrequency: 3.0
+    docPositions:
+    - 179
+  ext: !ruby/object:Word
+    word: ext
+    stem: ext
+    docFrequency: 17.0
+    docPositions:
+    - 179
+  globalcssjs: !ruby/object:Word
+    word: globalcssjs
+    stem: globalcssj
+    docFrequency: 3.0
+    docPositions:
+    - 179
+  ready: !ruby/object:Word
+    word: ready
+    stem: readi
+    docFrequency: 6.0
+    docPositions:
+    - 179
+  groups: !ruby/object:Word
+    word: groups
+    stem: group
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  load: !ruby/object:Word
+    word: load
+    stem: load
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  cite: !ruby/object:Word
+    word: cite
+    stem: cite
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  mediawiki: !ruby/object:Word
+    word: mediawiki
+    stem: mediawiki
+    docFrequency: 7.0
+    docPositions:
+    - 179
+  toc: !ruby/object:Word
+    word: toc
+    stem: toc
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  postedit: !ruby/object:Word
+    word: postedit
+    stem: postedit
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  hidpi: !ruby/object:Word
+    word: hidpi
+    stem: hidpi
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  searchsuggest: !ruby/object:Word
+    word: searchsuggest
+    stem: searchsuggest
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  eventlogging: !ruby/object:Word
+    word: eventlogging
+    stem: eventlog
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  subscriber: !ruby/object:Word
+    word: subscriber
+    stem: subscrib
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  wikimediaevents: !ruby/object:Word
+    word: wikimediaevents
+    stem: wikimediaev
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  navigationtiming: !ruby/object:Word
+    word: navigationtiming
+    stem: navigationtim
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  gadget: !ruby/object:Word
+    word: gadget
+    stem: gadget
+    docFrequency: 8.0
+    docPositions:
+    - 179
+  teahouse: !ruby/object:Word
+    word: teahouse
+    stem: teahous
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  referencetooltips: !ruby/object:Word
+    word: referencetooltips
+    stem: referencetooltip
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  drn: !ruby/object:Word
+    word: drn
+    stem: drn
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  wizard: !ruby/object:Word
+    word: wizard
+    stem: wizard
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  charinsert: !ruby/object:Word
+    word: charinsert
+    stem: charinsert
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  reftoolbar: !ruby/object:Word
+    word: reftoolbar
+    stem: reftoolbar
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  switcher: !ruby/object:Word
+    word: switcher
+    stem: switcher
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  featured: !ruby/object:Word
+    word: featured
+    stem: featur
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  mmv: !ruby/object:Word
+    word: mmv
+    stem: mmv
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  bootstrap: !ruby/object:Word
+    word: bootstrap
+    stem: bootstrap
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  autostart: !ruby/object:Word
+    word: autostart
+    stem: autostart
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  visualeditor: !ruby/object:Word
+    word: visualeditor
+    stem: visualeditor
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  targetloader: !ruby/object:Word
+    word: targetloader
+    stem: targetload
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  schema: !ruby/object:Word
+    word: schema
+    stem: schema
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  universallanguageselector: !ruby/object:Word
+    word: universallanguageselector
+    stem: universallanguageselector
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  uls: !ruby/object:Word
+    word: uls
+    stem: ul
+    docFrequency: 3.0
+    docPositions:
+    - 179
+  eventlogger: !ruby/object:Word
+    word: eventlogger
+    stem: eventlogg
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  interlanguage: !ruby/object:Word
+    word: interlanguage
+    stem: interlanguag
+    docFrequency: 2.0
+    docPositions:
+    - 179
+  config: !ruby/object:Word
+    word: config
+    stem: config
+    docFrequency: 2.0
+    docPositions:
+    - 181
+  set: !ruby/object:Word
+    word: set
+    stem: set
+    docFrequency: 2.0
+    docPositions:
+    - 181
+  wgbackendresponsetime: !ruby/object:Word
+    word: wgbackendresponsetime
+    stem: wgbackendresponsetim
+    docFrequency: 2.0
+    docPositions:
+    - 181
+  wghostname: !ruby/object:Word
+    word: wghostname
+    stem: wghostnam
+    docFrequency: 2.0
+    docPositions:
+    - 181
+  nomin: !ruby/object:Word
+    word: nomin
+    stem: nomin
+    docFrequency: 2.0
+    docPositions:
+    - 181
+lineCount: 183
+wordCount: 2883
+rank: 0.25
+title: Plaintext - Wikipedia, the free encyclopedia
+links:
+- http://www.computer.org/security/garfinkel.pdf
+- http://news.bbc.co.uk/2/hi/uk_news/politics/7104368.stm
+- http://csrc.nist.gov/publications/nistir/ir7298-rev1/nistir-7298-revision1.pdf
+- http://www.theguardian.com/technology/2013/aug/07/google-chrome-password-security-flaw
+- http://blog.elliottkember.com/chromes-insane-password-security-strategy
+- https://news.ycombinator.com/item?id=6166731
+- https://news.ycombinator.com/user?id=justinschuh
+- https://twitter.com/justinschuh/status/364818561694302209
+- https://en.wikipedia.org/w/index.php?title=Plaintext&oldid=693452592
+- https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en
+- https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+rawText: "\n\t\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\tPlaintext\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom
+  Wikipedia, the free encyclopedia\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\tJump
+  to:\t\t\t\t\tnavigation, \t\t\t\t\tsearch\n\t\t\t\t\n\t\t\t\tThis article is about
+  cryptography.  For the computing term meaning the storage of textual material that
+  is (largely) unformatted, see plain text.\n\n\n\nThis article needs additional citations
+  for verification. Please help improve this article by adding citations to reliable
+  sources. Unsourced material may be challenged and removed. (June 2011)\nIn cryptography,
+  plaintext is information a sender wishes to transmit to a receiver. Cleartext is
+  often used as a synonym. Plaintext has reference to the operation of cryptographic
+  algorithms, usually encryption algorithms, and is the input upon which they operate.
+  Cleartext, by contrast, refers to data that is transmitted or stored unencrypted
+  (that is, 'in the clear').\n\n\n\nContents\n\n1 Overview\n2 Secure handling of plaintext\n2.1
+  Web browser saved password security controversy\n\n3 See also\n4 References\n\n\nOverview[edit]\nBefore
+  the computer era, plaintext most commonly meant message text in the language of
+  the communicating parties. Since computers became commonly available, the definition
+  has expanded to include:\nmessages (for example, email messages)\ndocument content
+  such as word processor and spreadsheet files\naudio and video files, digital photographs
+  and any other multimedia\nfiles containing other files such as Zip files or ISO
+  images\nATM, credit card and other banking information\nsensor data\nany other data
+  that a person wishes to keep private\nMuch of this data is not directly meaningful
+  to humans, being already transformed into computer manipulable forms. While the
+  original definition implied that the message could be read by a human being, the
+  modern definition emphasizes that a person using a computer could easily interpret
+  the data.\nAny information which the communicating parties wish to conceal from
+  others can now be treated, and referred to, as plaintext. Thus, in a significant
+  sense, plaintext is the 'normal' representation of data before any action has been
+  taken to conceal, compress, or 'digest' it. It need not represent text, and even
+  if it does, the text may not be \"plain\".\nPlaintext is used as input to an encryption
+  algorithm; the output is usually termed ciphertext particularly when the algorithm
+  is a cipher. Codetext is less often used, and almost always only when the algorithm
+  involved is actually a code. In some systems, however, multiple layers of encryption
+  are used, in which case the output of one encryption algorithm becomes plaintext
+  input for the next.\nSecure handling of plaintext[edit]\nIn a cryptosystem, weaknesses
+  can be introduced through insecure handling of plaintext, allowing an attacker to
+  bypass the cryptography altogether. Plaintext is vulnerable in use and in storage,
+  whether in electronic or paper format. Physical security deals with methods of securing
+  information and its storage media from local, physical, attacks. For instance, an
+  attacker might enter a poorly secured building and attempt to open locked desk drawers
+  or safes. An attacker can also engage in dumpster diving, and may be able to reconstruct
+  shredded information if it is sufficiently valuable to be worth the effort. One
+  countermeasure is to burn or thoroughly crosscut shred discarded printed plaintexts
+  or storage media; NSA is infamous for its disposal security precautions.\nIf plaintext
+  is stored in a computer file (and the situation of automatically made backup files
+  generated during program execution must be included here, even if invisible to the
+  user), the storage media along with the entire computer and its components must
+  be secure. Sensitive data is sometimes processed on computers whose mass storage
+  is removable, in which case physical security of the removed disk is separately
+  vital. In the case of securing a computer, useful (as opposed to handwaving) security
+  must be physical (e.g., against burglary, brazen removal under cover of supposed
+  repair, installation of covert monitoring devices, etc.), as well as virtual (e.g.,
+  operating system modification, illicit network access, Trojan programs, ...). The
+  wide availability of keydrives, which can plug into most modern computers and store
+  large quantities of data, poses another severe security headache. A spy (perhaps
+  posing as a cleaning person) could easily conceal one and even swallow it, if necessary.\nDiscarded
+  computers, disk drives and media are also a potential source of plaintexts. Most
+  operating systems do not actually erase anything — they simply mark the disk space
+  occupied by a deleted file as 'available for use', and remove its entry from the
+  file system directory. The information in a file deleted in this way remains fully
+  present until overwritten at some later time when the operating system reuses the
+  disk space. With even low-end computers commonly sold with many gigabytes of disk
+  space and rising monthly, this 'later time' may be months later, or never. Even
+  overwriting the portion of a disk surface occupied by a deleted file is insufficient
+  in many cases. Peter Gutmann of the University of Auckland wrote a celebrated 1996
+  paper on the recovery of overwritten information from magnetic disks; areal storage
+  densities have gotten much higher since then, so this sort of recovery is likely
+  to be more difficult than it was when Gutmann wrote.\nAlso, independently, modern
+  hard drives automatically remap sectors that are starting to fail; those sectors
+  no longer in use will contain information that is entirely invisible to the file
+  system (and all software which uses it for access to disk data), but is nonetheless
+  still present on the physical drive platter. It may, of course, be sensitive plaintext.
+  Some government agencies (e.g., NSA) require that all disk drives be physically
+  pulverized when they are discarded, and in some cases, chemically treated with corrosives
+  before or after. This practice is not widespread outside of the government, however.
+  For example, Garfinkel and Shelat (2003) analyzed 158 second-hand hard drives acquired
+  at garage sales and the like and found that less than 10% had been sufficiently
+  sanitized. A wide variety of personal and confidential information was found readable
+  from the others. See data remanence.\nLaptop computers are a special problem. The
+  US State Department, the British Secret Service, and the US Department of Defense
+  have all had laptops containing secret information,some perhaps in plaintext form,
+  'vanish' in recent years. Announcements of similar losses are becoming a common
+  item in news reports. Disk encryption techniques can provide protection against
+  such loss or theft — if properly chosen and used.\nOn occasion, even when the data
+  on the host systems is itself encrypted, the media used to transfer data between
+  such systems is nevertheless plaintext due to poorly designed data policy. An incident
+  in October 2007 in which HM Revenue and Customs lost CDs containing no less than
+  the records of 25 million child benefit recipients in the United Kingdom — the data
+  apparently being entirely unencrypted — is a case in point.\nModern cryptographic
+  systems are designed to resist known plaintext or even chosen plaintext attacks
+  and so may not be entirely compromised when plaintext is lost or stolen. Older systems
+  used techniques such as padding and Russian copulation to obscure information in
+  plaintext that could be easily guessed, and to resist the effects of loss of plaintext
+  on the security of the cryptosystem.\nWeb browser saved password security controversy[edit]\nSeveral
+  popular web browsers which offer to store a user's passwords do so in plaintext
+  form. Even though most of them initially hide the saved passwords, it is possible
+  for anyone to view all passwords in cleartext with a few clicks of the mouse, by
+  going into the browsers' security settings options menus. In 2010, it emerged that
+  this is the case with Firefox (still the case as of end-2014), and in Aug 2013 it
+  emerged that Google Chrome does so as well.[1] When a software developer raised
+  the issue with the Chrome security team,[2] a company representative responded that
+  Google would not change the feature, and justified the refusal by saying that hiding
+  the passwords would \"provide users with a false sense of security\" and \"that's
+  just not how we approach security on Chrome\".[3]\nSee also[edit]\nRed/black concept\nLightweight
+  markup language\nReferences[edit]\nS. Garfinkel and A Shelat, \"Remembrance of Data
+  Passed: A Study of Disk Sanitization Practices\", IEEE Security and Privacy, January/February
+  2003 (PDF).\nUK HM Revenue and Customs loses 25m records of child benefit recipients
+  BBC\nKissel, Richard (editor). (February, 2011). NIST IR 7298 Revision 1, Glossary
+  of Key Information Security Terms (PDF). National Institute of Standards and Technology.\n\n^
+  Google Chrome security flaw offers unrestricted password access, The Guardian, 7
+  Aug 2013. Retrieved 7 Aug 2013.\n^ Chrome’s insane password security strategy, ElliottKember.com,
+  6 Aug 2013. Retrieved 7 Aug 2013.\n^ Google Chrome security representative statement,
+  (2)(3), ycombinator.com. 6 Aug 2013. Retrieved 7 Aug 2013.\n\n\n\n\n\n\n\n\n\t\t\t\t\t\n\t\t\t\t\t\tRetrieved
+  from \"https://en.wikipedia.org/w/index.php?title=Plaintext&oldid=693452592\"\t\t\t\t\t\n\t\t\t\tCategories:
+  CryptographyHidden categories: Articles needing additional references from June
+  2011All articles needing additional references\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\t\n\t\t\tNavigation
+  menu\n\n\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tPersonal tools\n\t\t\t\t\t\tNot
+  logged inTalkContributionsCreate accountLog in\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tNamespaces\n\t\t\t\t\t\tArticle\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTalk\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tVariants\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tViews\n\t\t\t\t\t\tRead\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEdit\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView
+  history\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tMore\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSearch\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\tNavigation\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tMain
+  pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia
+  store\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tInteraction\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tHelpAbout
+  WikipediaCommunity portalRecent changesContact page\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tTools\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tWhat
+  links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata
+  itemCite this page\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tPrint/export\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tCreate
+  a bookDownload as PDFPrintable version\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tLanguages\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tCatalàČeštinaDeutschEspañolEuskaraفارسیBahasa
+  Indonesiaქართული日本語PolskiPortuguêsРусскийSimple EnglishSlovenčinaСрпски / srpskiSvenskaУкраїнська中文\t\t\t\t\tEdit
+  links\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t This page was last modified
+  on 2 December 2015, at 17:49.\n\t\t\t\t\t\t\t\t\t\t\tText is available under the
+  Creative Commons Attribution-ShareAlike License;\nadditional terms may apply.  By
+  using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is
+  a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.\n\t\t\t\t\t\t\t\t\tPrivacy
+  policy\n\t\t\t\t\t\t\t\t\t\t\tAbout Wikipedia\n\t\t\t\t\t\t\t\t\t\t\tDisclaimers\n\t\t\t\t\t\t\t\t\t\t\tContact
+  Wikipedia\n\t\t\t\t\t\t\t\t\t\t\tDevelopers\n\t\t\t\t\t\t\t\t\t\t\tMobile view\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\twindow.RLQ
+  = window.RLQ || []; window.RLQ.push( function () {\nmw.loader.state({\"ext.globalCssJs.site\":\"ready\",\"ext.globalCssJs.user\":\"ready\",\"user\":\"ready\",\"user.groups\":\"ready\"});mw.loader.load([\"ext.cite.a11y\",\"mediawiki.toc\",\"mediawiki.action.view.postEdit\",\"site\",\"mediawiki.user\",\"mediawiki.hidpi\",\"mediawiki.page.ready\",\"mediawiki.searchSuggest\",\"ext.eventLogging.subscriber\",\"ext.wikimediaEvents\",\"ext.navigationTiming\",\"ext.gadget.teahouse\",\"ext.gadget.ReferenceTooltips\",\"ext.gadget.DRN-wizard\",\"ext.gadget.charinsert\",\"ext.gadget.refToolbar\",\"ext.gadget.switcher\",\"ext.gadget.featured-articles-links\",\"mmv.bootstrap.autostart\",\"ext.visualEditor.targetLoader\",\"schema.UniversalLanguageSelector\",\"ext.uls.eventlogger\",\"ext.uls.interlanguage\"]);\n}
+  );window.RLQ = window.RLQ || []; window.RLQ.push( function () {\nmw.config.set({\"wgBackendResponseTime\":61,\"wgHostname\":\"mw1255\"});
+  /* @nomin */\n} );In cryptography, plaintext is information a sender wishes to transmit
+  to a receiver. Cleartext is often used as a synonym. Plaintext has reference to
+  the operation of cryptographic algorithms, usually encryption algorithms, and is
+  the input upon which they operate. Cleartext, by contrast, refers to data that is
+  transmitted or stored unencrypted (that is, 'in the clear').Before the computer
+  era, plaintext most commonly meant message text in the language of the communicating
+  parties. Since computers became commonly available, the definition has expanded
+  to include:Much of this data is not directly meaningful to humans, being already
+  transformed into computer manipulable forms. While the original definition implied
+  that the message could be read by a human being, the modern definition emphasizes
+  that a person using a computer could easily interpret the data.Any information which
+  the communicating parties wish to conceal from others can now be treated, and referred
+  to, as plaintext. Thus, in a significant sense, plaintext is the 'normal' representation
+  of data before any action has been taken to conceal, compress, or 'digest' it. It
+  need not represent text, and even if it does, the text may not be \"plain\".Plaintext
+  is used as input to an encryption algorithm; the output is usually termed ciphertext
+  particularly when the algorithm is a cipher. Codetext is less often used, and almost
+  always only when the algorithm involved is actually a code. In some systems, however,
+  multiple layers of encryption are used, in which case the output of one encryption
+  algorithm becomes plaintext input for the next.In a cryptosystem, weaknesses can
+  be introduced through insecure handling of plaintext, allowing an attacker to bypass
+  the cryptography altogether. Plaintext is vulnerable in use and in storage, whether
+  in electronic or paper format. Physical security deals with methods of securing
+  information and its storage media from local, physical, attacks. For instance, an
+  attacker might enter a poorly secured building and attempt to open locked desk drawers
+  or safes. An attacker can also engage in dumpster diving, and may be able to reconstruct
+  shredded information if it is sufficiently valuable to be worth the effort. One
+  countermeasure is to burn or thoroughly crosscut shred discarded printed plaintexts
+  or storage media; NSA is infamous for its disposal security precautions.If plaintext
+  is stored in a computer file (and the situation of automatically made backup files
+  generated during program execution must be included here, even if invisible to the
+  user), the storage media along with the entire computer and its components must
+  be secure. Sensitive data is sometimes processed on computers whose mass storage
+  is removable, in which case physical security of the removed disk is separately
+  vital. In the case of securing a computer, useful (as opposed to handwaving) security
+  must be physical (e.g., against burglary, brazen removal under cover of supposed
+  repair, installation of covert monitoring devices, etc.), as well as virtual (e.g.,
+  operating system modification, illicit network access, Trojan programs, ...). The
+  wide availability of keydrives, which can plug into most modern computers and store
+  large quantities of data, poses another severe security headache. A spy (perhaps
+  posing as a cleaning person) could easily conceal one and even swallow it, if necessary.Discarded
+  computers, disk drives and media are also a potential source of plaintexts. Most
+  operating systems do not actually erase anything — they simply mark the disk space
+  occupied by a deleted file as 'available for use', and remove its entry from the
+  file system directory. The information in a file deleted in this way remains fully
+  present until overwritten at some later time when the operating system reuses the
+  disk space. With even low-end computers commonly sold with many gigabytes of disk
+  space and rising monthly, this 'later time' may be months later, or never. Even
+  overwriting the portion of a disk surface occupied by a deleted file is insufficient
+  in many cases. Peter Gutmann of the University of Auckland wrote a celebrated 1996
+  paper on the recovery of overwritten information from magnetic disks; areal storage
+  densities have gotten much higher since then, so this sort of recovery is likely
+  to be more difficult than it was when Gutmann wrote.Also, independently, modern
+  hard drives automatically remap sectors that are starting to fail; those sectors
+  no longer in use will contain information that is entirely invisible to the file
+  system (and all software which uses it for access to disk data), but is nonetheless
+  still present on the physical drive platter. It may, of course, be sensitive plaintext.
+  Some government agencies (e.g., NSA) require that all disk drives be physically
+  pulverized when they are discarded, and in some cases, chemically treated with corrosives
+  before or after. This practice is not widespread outside of the government, however.
+  For example, Garfinkel and Shelat (2003) analyzed 158 second-hand hard drives acquired
+  at garage sales and the like and found that less than 10% had been sufficiently
+  sanitized. A wide variety of personal and confidential information was found readable
+  from the others. See data remanence.Laptop computers are a special problem. The
+  US State Department, the British Secret Service, and the US Department of Defense
+  have all had laptops containing secret information,some perhaps in plaintext form,
+  'vanish' in recent years. Announcements of similar losses are becoming a common
+  item in news reports. Disk encryption techniques can provide protection against
+  such loss or theft — if properly chosen and used.On occasion, even when the data
+  on the host systems is itself encrypted, the media used to transfer data between
+  such systems is nevertheless plaintext due to poorly designed data policy. An incident
+  in October 2007 in which HM Revenue and Customs lost CDs containing no less than
+  the records of 25 million child benefit recipients in the United Kingdom — the data
+  apparently being entirely unencrypted — is a case in point.Modern cryptographic
+  systems are designed to resist known plaintext or even chosen plaintext attacks
+  and so may not be entirely compromised when plaintext is lost or stolen. Older systems
+  used techniques such as padding and Russian copulation to obscure information in
+  plaintext that could be easily guessed, and to resist the effects of loss of plaintext
+  on the security of the cryptosystem.Several popular web browsers which offer to
+  store a user's passwords do so in plaintext form. Even though most of them initially
+  hide the saved passwords, it is possible for anyone to view all passwords in cleartext
+  with a few clicks of the mouse, by going into the browsers' security settings options
+  menus. In 2010, it emerged that this is the case with Firefox (still the case as
+  of end-2014), and in Aug 2013 it emerged that Google Chrome does so as well.[1]
+  When a software developer raised the issue with the Chrome security team,[2] a company
+  representative responded that Google would not change the feature, and justified
+  the refusal by saying that hiding the passwords would \"provide users with a false
+  sense of security\" and \"that's just not how we approach security on Chrome\".[3]"

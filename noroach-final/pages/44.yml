@@ -1,0 +1,1040 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors:
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : p
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-qcqaku"
+    line: 169
+    str1: p
+    str2: 
+    str3: 
+    int1: 0
+    column: 230
+address: http://people.iu.edu/
+inboundLinks: []
+lines:
+- |2+
+
+- |2+
+
+- "                \n"
+- "        \n"
+- "                \n"
+- "                    \n"
+- "                        \n"
+- "                            \n"
+- "                    \n"
+- "                    \n"
+- "                        \n"
+- "                            \n"
+- |2
+                                  University Information Technology Services
+- |2
+                                  Moving at the speed of innovation
+- "                            \n"
+- |2+
+
+- |2
+                              IT News
+- |2
+                                  IT.IU
+- |2
+                                  One.iu
+- |2
+                                  Box.iu
+- "                            \n"
+- "                    \n"
+- "                    \n"
+- "                        \n"
+- |2
+                              Explore IT@IU
+- |2
+                              Indiana University
+- "                        \n"
+- "                    \n"
+- "                \n"
+- |2+
+
+- "                \n"
+- "                \n"
+- "                    \n"
+- |2
+                          IU Address Book
+- |2+
+
+- |2
+                          Start New Search
+- |2
+                              Update Address Book Information
+- "                        \n"
+- |2
+                              Show menu
+- "                        \n"
+- "                    \n"
+- "                \n"
+- |2+
+
+- "        \n"
+- "            \n"
+- |2+
+
+- |2
+                  Site navigation
+- |2
+                  Start New Search
+- |2
+              Update Address Book Information
+- |2
+                  Explore IT@IU
+- |2
+                  IT accounts
+- |2
+                      IUware
+- |2
+                      IT@IU
+- |2
+                      Help
+- |2
+                      Cloudstorage
+- |2
+                      IT News
+- |2
+                      Training
+- |2
+                      Oncourse
+- |2
+                      One.iu
+- "                \n"
+- "        \n"
+- "        \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- |2
+                  IU Address Book
+- "        \n"
+- "        \n"
+- |2+
+
+- |2
+                      Last name:
+- |2
+                      starts with
+- |2
+                      is exactly
+- "                    \n"
+- |2
+                      First name:
+- "                    \n"
+- "                    \n"
+- |2
+                          Status
+- |2
+                              AnyEmployeeFacultyStudent
+- "                    \n"
+- |2
+                          Campus
+- |2
+                              AnyBloomingtonIndianapolisColumbusFort WayneGary (Northwest)KokomoNew Albany (Southeast)Richmond (East)South Bend
+- "                \n"
+- |2
+                  OR
+- |2
+                  Username:
+- "                \n"
+- "                        \n"
+- "                    \n"
+- "                        \n"
+- "    \n"
+- |2+
+
+- |2
+        var _gaq = _gaq || [];
+- |2
+        _gaq.push(['_setAccount', 'UA-38416540-2']);
+- |2
+        _gaq.push(['_trackPageview', 'search_form']);
+- |2+
+
+- |2
+        (function() {
+- |2
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+- |2
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+- |2
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+- |2
+        })();
+- |2+
+
+- |2
+      NOTICE: The IU Address Book, and University information technology resources, are provided by the University to facilitate the research, teaching, learning, and service missions of the University community. The contact information provided in the IU Address Book is NOT intended for use by commercial entities for commercial purposes.
+- "       \n"
+- "        \n"
+- "    \n"
+- "  \n"
+- "    \n"
+- "    \n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- "\t\n"
+- "\t    \n"
+- "\t        \n"
+- "\t            Copyright © \n"
+- "                    \n"
+- |2
+                          var current_date = new Date();
+- |2
+                          document.write(" " + current_date.getFullYear());
+- |2
+                      2015 The Trustees of Indiana University | Copyright Complaints
+- "\t        \n"
+- "\t        \n"
+- "\t            \n"
+- "\t                Facebook\n"
+- "\t                Twitter\n"
+- "\t                YouTube\n"
+- "\t                Google+\n"
+- "\t            \n"
+- "\t            \n"
+- "\t                About IT\n"
+- "\t                    Jobs in IT\n"
+- "\t                    Privacy Policy\n"
+- "\t                \n"
+- "\t        \n"
+- "\t    \n"
+- "\t\n"
+- |2+
+
+- |2+
+
+- |2
+    $(document).foundation();
+- "NOTICE: The IU Address Book, and University information technology resources, are
+  provided by the University to facilitate the research, teaching, learning, and service
+  missions of the University community. The contact information provided in the IU
+  Address Book is NOT intended for use by commercial entities for commercial purposes.Copyright
+  © \n"
+- "                    \n"
+- |2
+                          var current_date = new Date();
+- |2
+                          document.write(" " + current_date.getFullYear());
+- "                    "
+index:
+  university: !ruby/object:Word
+    word: university
+    stem: univers
+    docFrequency: 10
+    docPositions:
+    - 12
+    - 25
+    - 100
+    - 119
+    - 139
+  information: !ruby/object:Word
+    word: information
+    stem: inform
+    docFrequency: 8
+    docPositions:
+    - 12
+    - 36
+    - 48
+    - 100
+    - 139
+  technology: !ruby/object:Word
+    word: technology
+    stem: technolog
+    docFrequency: 4
+    docPositions:
+    - 12
+    - 100
+    - 139
+  services: !ruby/object:Word
+    word: services
+    stem: servic
+    docFrequency: 2
+    docPositions:
+    - 12
+  moving: !ruby/object:Word
+    word: moving
+    stem: move
+    docFrequency: 2
+    docPositions:
+    - 13
+  speed: !ruby/object:Word
+    word: speed
+    stem: speed
+    docFrequency: 2
+    docPositions:
+    - 13
+  innovation: !ruby/object:Word
+    word: innovation
+    stem: innov
+    docFrequency: 2
+    docPositions:
+    - 13
+  news: !ruby/object:Word
+    word: news
+    stem: new
+    docFrequency: 3
+    docPositions:
+    - 16
+    - 55
+  iu: !ruby/object:Word
+    word: iu
+    stem: iu
+    docFrequency: 14
+    docPositions:
+    - 17
+    - 18
+    - 19
+    - 24
+    - 33
+    - 49
+    - 52
+    - 58
+    - 65
+    - 100
+    - 139
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 3
+    docPositions:
+    - 18
+    - 58
+  box: !ruby/object:Word
+    word: box
+    stem: box
+    docFrequency: 2
+    docPositions:
+    - 19
+  explore: !ruby/object:Word
+    word: explore
+    stem: explor
+    docFrequency: 3
+    docPositions:
+    - 24
+    - 49
+  indiana: !ruby/object:Word
+    word: indiana
+    stem: indiana
+    docFrequency: 3
+    docPositions:
+    - 25
+    - 119
+  address: !ruby/object:Word
+    word: address
+    stem: address
+    docFrequency: 9
+    docPositions:
+    - 33
+    - 36
+    - 48
+    - 65
+    - 100
+    - 139
+  book: !ruby/object:Word
+    word: book
+    stem: book
+    docFrequency: 9
+    docPositions:
+    - 33
+    - 36
+    - 48
+    - 65
+    - 100
+    - 139
+  start: !ruby/object:Word
+    word: start
+    stem: start
+    docFrequency: 3
+    docPositions:
+    - 35
+    - 47
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 5
+    docPositions:
+    - 35
+    - 47
+    - 117
+    - 141
+  search: !ruby/object:Word
+    word: search
+    stem: search
+    docFrequency: 3
+    docPositions:
+    - 35
+    - 47
+  update: !ruby/object:Word
+    word: update
+    stem: updat
+    docFrequency: 3
+    docPositions:
+    - 36
+    - 48
+  show: !ruby/object:Word
+    word: show
+    stem: show
+    docFrequency: 2
+    docPositions:
+    - 38
+  menu: !ruby/object:Word
+    word: menu
+    stem: menu
+    docFrequency: 2
+    docPositions:
+    - 38
+  site: !ruby/object:Word
+    word: site
+    stem: site
+    docFrequency: 2
+    docPositions:
+    - 46
+  navigation: !ruby/object:Word
+    word: navigation
+    stem: navig
+    docFrequency: 2
+    docPositions:
+    - 46
+  accounts: !ruby/object:Word
+    word: accounts
+    stem: account
+    docFrequency: 2
+    docPositions:
+    - 50
+  iuware: !ruby/object:Word
+    word: iuware
+    stem: iuwar
+    docFrequency: 2
+    docPositions:
+    - 51
+  help: !ruby/object:Word
+    word: help
+    stem: help
+    docFrequency: 2
+    docPositions:
+    - 53
+  cloudstorage: !ruby/object:Word
+    word: cloudstorage
+    stem: cloudstorag
+    docFrequency: 2
+    docPositions:
+    - 54
+  training: !ruby/object:Word
+    word: training
+    stem: train
+    docFrequency: 2
+    docPositions:
+    - 56
+  oncourse: !ruby/object:Word
+    word: oncourse
+    stem: oncours
+    docFrequency: 2
+    docPositions:
+    - 57
+  last: !ruby/object:Word
+    word: last
+    stem: last
+    docFrequency: 2
+    docPositions:
+    - 69
+  name: !ruby/object:Word
+    word: name
+    stem: name
+    docFrequency: 3
+    docPositions:
+    - 69
+    - 73
+  starts: !ruby/object:Word
+    word: starts
+    stem: start
+    docFrequency: 2
+    docPositions:
+    - 70
+  exactly: !ruby/object:Word
+    word: exactly
+    stem: exactli
+    docFrequency: 2
+    docPositions:
+    - 71
+  first: !ruby/object:Word
+    word: first
+    stem: first
+    docFrequency: 2
+    docPositions:
+    - 73
+  status: !ruby/object:Word
+    word: status
+    stem: statu
+    docFrequency: 2
+    docPositions:
+    - 76
+  anyemployeefacultystudent: !ruby/object:Word
+    word: anyemployeefacultystudent
+    stem: anyemployeefacultystud
+    docFrequency: 2
+    docPositions:
+    - 77
+  campus: !ruby/object:Word
+    word: campus
+    stem: campu
+    docFrequency: 2
+    docPositions:
+    - 79
+  anybloomingtonindianapoliscolumbusfort: !ruby/object:Word
+    word: anybloomingtonindianapoliscolumbusfort
+    stem: anybloomingtonindianapoliscolumbusfort
+    docFrequency: 2
+    docPositions:
+    - 80
+  waynegary: !ruby/object:Word
+    word: waynegary
+    stem: waynegari
+    docFrequency: 2
+    docPositions:
+    - 80
+  northwest: !ruby/object:Word
+    word: northwest
+    stem: northwest
+    docFrequency: 2
+    docPositions:
+    - 80
+  kokomonew: !ruby/object:Word
+    word: kokomonew
+    stem: kokomonew
+    docFrequency: 2
+    docPositions:
+    - 80
+  albany: !ruby/object:Word
+    word: albany
+    stem: albani
+    docFrequency: 2
+    docPositions:
+    - 80
+  southeast: !ruby/object:Word
+    word: southeast
+    stem: southeast
+    docFrequency: 2
+    docPositions:
+    - 80
+  richmond: !ruby/object:Word
+    word: richmond
+    stem: richmond
+    docFrequency: 2
+    docPositions:
+    - 80
+  east: !ruby/object:Word
+    word: east
+    stem: east
+    docFrequency: 2
+    docPositions:
+    - 80
+  south: !ruby/object:Word
+    word: south
+    stem: south
+    docFrequency: 2
+    docPositions:
+    - 80
+  bend: !ruby/object:Word
+    word: bend
+    stem: bend
+    docFrequency: 2
+    docPositions:
+    - 80
+  username: !ruby/object:Word
+    word: username
+    stem: usernam
+    docFrequency: 2
+    docPositions:
+    - 83
+  _gaq: !ruby/object:Word
+    word: _gaq
+    stem: _gaq
+    docFrequency: 5
+    docPositions:
+    - 90
+    - 91
+    - 92
+  push: !ruby/object:Word
+    word: push
+    stem: push
+    docFrequency: 3
+    docPositions:
+    - 91
+    - 92
+  _setaccount: !ruby/object:Word
+    word: _setaccount
+    stem: _setaccount
+    docFrequency: 2
+    docPositions:
+    - 91
+  ua: !ruby/object:Word
+    word: ua
+    stem: ua
+    docFrequency: 2
+    docPositions:
+    - 91
+  _trackpageview: !ruby/object:Word
+    word: _trackpageview
+    stem: _trackpageview
+    docFrequency: 2
+    docPositions:
+    - 92
+  search_form: !ruby/object:Word
+    word: search_form
+    stem: search_form
+    docFrequency: 2
+    docPositions:
+    - 92
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 3
+    docPositions:
+    - 94
+    - 138
+  function: !ruby/object:Word
+    word: function
+    stem: function
+    docFrequency: 2
+    docPositions:
+    - 94
+  ga: !ruby/object:Word
+    word: ga
+    stem: ga
+    docFrequency: 7
+    docPositions:
+    - 95
+    - 96
+    - 97
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 7
+    docPositions:
+    - 95
+    - 96
+    - 97
+    - 118
+    - 138
+    - 142
+  createelement: !ruby/object:Word
+    word: createelement
+    stem: createel
+    docFrequency: 2
+    docPositions:
+    - 95
+  script: !ruby/object:Word
+    word: script
+    stem: script
+    docFrequency: 3
+    docPositions:
+    - 95
+    - 97
+  type: !ruby/object:Word
+    word: type
+    stem: type
+    docFrequency: 2
+    docPositions:
+    - 95
+  text: !ruby/object:Word
+    word: text
+    stem: text
+    docFrequency: 2
+    docPositions:
+    - 95
+  async: !ruby/object:Word
+    word: async
+    stem: async
+    docFrequency: 2
+    docPositions:
+    - 95
+  'true': !ruby/object:Word
+    word: 'true'
+    stem: 'true'
+    docFrequency: 2
+    docPositions:
+    - 95
+  https: !ruby/object:Word
+    word: https
+    stem: http
+    docFrequency: 3
+    docPositions:
+    - 96
+  location: !ruby/object:Word
+    word: location
+    stem: locat
+    docFrequency: 2
+    docPositions:
+    - 96
+  protocol: !ruby/object:Word
+    word: protocol
+    stem: protocol
+    docFrequency: 2
+    docPositions:
+    - 96
+  ssl: !ruby/object:Word
+    word: ssl
+    stem: ssl
+    docFrequency: 2
+    docPositions:
+    - 96
+  google: !ruby/object:Word
+    word: google
+    stem: googl
+    docFrequency: 3
+    docPositions:
+    - 96
+    - 126
+  analytics: !ruby/object:Word
+    word: analytics
+    stem: analyt
+    docFrequency: 2
+    docPositions:
+    - 96
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 4
+    docPositions:
+    - 97
+  getelementsbytagname: !ruby/object:Word
+    word: getelementsbytagname
+    stem: getelementsbytagnam
+    docFrequency: 2
+    docPositions:
+    - 97
+  parentnode: !ruby/object:Word
+    word: parentnode
+    stem: parentnod
+    docFrequency: 2
+    docPositions:
+    - 97
+  insertbefore: !ruby/object:Word
+    word: insertbefore
+    stem: insertbefor
+    docFrequency: 2
+    docPositions:
+    - 97
+  notice: !ruby/object:Word
+    word: notice
+    stem: notic
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 5
+    docPositions:
+    - 100
+    - 139
+  resources: !ruby/object:Word
+    word: resources
+    stem: resourc
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  provided: !ruby/object:Word
+    word: provided
+    stem: provid
+    docFrequency: 5
+    docPositions:
+    - 100
+    - 139
+  facilitate: !ruby/object:Word
+    word: facilitate
+    stem: facilit
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  research: !ruby/object:Word
+    word: research
+    stem: research
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  teaching: !ruby/object:Word
+    word: teaching
+    stem: teach
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  learning: !ruby/object:Word
+    word: learning
+    stem: learn
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  service: !ruby/object:Word
+    word: service
+    stem: servic
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  missions: !ruby/object:Word
+    word: missions
+    stem: mission
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  community: !ruby/object:Word
+    word: community
+    stem: commun
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  contact: !ruby/object:Word
+    word: contact
+    stem: contact
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  not: !ruby/object:Word
+    word: not
+    stem: not
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  intended: !ruby/object:Word
+    word: intended
+    stem: intend
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  use: !ruby/object:Word
+    word: use
+    stem: us
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  commercial: !ruby/object:Word
+    word: commercial
+    stem: commerci
+    docFrequency: 5
+    docPositions:
+    - 100
+    - 139
+  entities: !ruby/object:Word
+    word: entities
+    stem: entiti
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  purposes: !ruby/object:Word
+    word: purposes
+    stem: purpos
+    docFrequency: 3
+    docPositions:
+    - 100
+    - 139
+  copyright: !ruby/object:Word
+    word: copyright
+    stem: copyright
+    docFrequency: 4
+    docPositions:
+    - 115
+    - 119
+    - 139
+  current_date: !ruby/object:Word
+    word: current_date
+    stem: current_d
+    docFrequency: 5
+    docPositions:
+    - 117
+    - 118
+    - 141
+    - 142
+  date: !ruby/object:Word
+    word: date
+    stem: date
+    docFrequency: 3
+    docPositions:
+    - 117
+    - 141
+  write: !ruby/object:Word
+    word: write
+    stem: write
+    docFrequency: 3
+    docPositions:
+    - 118
+    - 142
+  getfullyear: !ruby/object:Word
+    word: getfullyear
+    stem: getfullyear
+    docFrequency: 3
+    docPositions:
+    - 118
+    - 142
+  trustees: !ruby/object:Word
+    word: trustees
+    stem: truste
+    docFrequency: 2
+    docPositions:
+    - 119
+  complaints: !ruby/object:Word
+    word: complaints
+    stem: complaint
+    docFrequency: 2
+    docPositions:
+    - 119
+  facebook: !ruby/object:Word
+    word: facebook
+    stem: facebook
+    docFrequency: 2
+    docPositions:
+    - 123
+  twitter: !ruby/object:Word
+    word: twitter
+    stem: twitter
+    docFrequency: 2
+    docPositions:
+    - 124
+  youtube: !ruby/object:Word
+    word: youtube
+    stem: youtub
+    docFrequency: 2
+    docPositions:
+    - 125
+  jobs: !ruby/object:Word
+    word: jobs
+    stem: job
+    docFrequency: 2
+    docPositions:
+    - 130
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 2
+    docPositions:
+    - 131
+  policy: !ruby/object:Word
+    word: policy
+    stem: polici
+    docFrequency: 2
+    docPositions:
+    - 131
+  foundation: !ruby/object:Word
+    word: foundation
+    stem: foundat
+    docFrequency: 2
+    docPositions:
+    - 138
+lineCount: 144
+wordCount: 275
+rank: 0.25
+title: IU Address Book
+links:
+- http://itnews.iu.edu
+- http://it.iu.edu
+- http://one.iu.edu
+- http://box.iu.edu/
+- https://kb.iu.edu/data/afol.html
+- https://kb.iu.edu/data/afol.html
+- https://itaccounts.iu.edu/
+- http://iuware.iu.edu
+- http://it.iu.edu
+- http://uits.iu.edu/
+- http://cloudstorage.iu.edu
+- http://itnews.iu.edu
+- http://ittraining.iu.edu
+- http://oncourse.iu.edu
+- http://one.iu.edu
+- http://www.iu.edu/comments/copyright.shtml
+- http://www.iu.edu/
+- http://www.iu.edu/comments/complaint.shtml
+- http://www.facebook.com/iu.uits
+- https://twitter.com/insideuits
+- http://www.youtube.com/uitsatiu
+- https://plus.google.com/109054154815294782478
+- http://it.iu.edu
+- http://www.indiana.edu/~uitshr/uitshrjobs.html
+rawText: "\n\n                \n        \n                \n                    \n
+  \                       \n                            \n                    \n                    \n
+  \                       \n                            \n                                University
+  Information Technology Services\n                                Moving at the speed
+  of innovation\n                            \n\n                            IT News\n
+  \                               IT.IU\n                                One.iu\n
+  \                               Box.iu\n                            \n                    \n
+  \                   \n                        \n                            Explore
+  IT@IU\n                            Indiana University\n                        \n
+  \                   \n                \n\n                \n                \n                    \n
+  \                       IU Address Book\n\n                        Start New Search\n
+  \                           Update Address Book Information\n                        \n
+  \                           Show menu\n                        \n                    \n
+  \               \n\n        \n            \n\n                Site navigation\n
+  \               Start New Search\n            Update Address Book Information\n
+  \               Explore IT@IU\n                IT accounts\n                    IUware\n
+  \                   IT@IU\n                    Help\n                    Cloudstorage\n
+  \                   IT News\n                    Training\n                    Oncourse\n
+  \                   One.iu\n                \n        \n        \n  \n    \n        \n
+  \               IU Address Book\n        \n        \n\n                    Last
+  name:\n                    starts with\n                    is exactly\n                    \n
+  \                   First name:\n                    \n                    \n                        Status\n
+  \                           AnyEmployeeFacultyStudent\n                    \n                        Campus\n
+  \                           AnyBloomingtonIndianapolisColumbusFort WayneGary (Northwest)KokomoNew
+  Albany (Southeast)Richmond (East)South Bend\n                \n                OR\n
+  \               Username:\n                \n                        \n                    \n
+  \                       \n    \n\n      var _gaq = _gaq || [];\n      _gaq.push(['_setAccount',
+  'UA-38416540-2']);\n      _gaq.push(['_trackPageview', 'search_form']);\n\n      (function()
+  {\n        var ga = document.createElement('script'); ga.type = 'text/javascript';
+  ga.async = true;\n        ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+  : 'http://www') + '.google-analytics.com/ga.js';\n        var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(ga, s);\n      })();\n\n    NOTICE: The IU Address Book,
+  and University information technology resources, are provided by the University
+  to facilitate the research, teaching, learning, and service missions of the University
+  community. The contact information provided in the IU Address Book is NOT intended
+  for use by commercial entities for commercial purposes.\n       \n        \n    \n
+  \ \n    \n    \n\n\n\n\n\n\t\n\t    \n\t        \n\t            Copyright © \n                    \n
+  \                       var current_date = new Date();\n                        document.write(\"
+  \" + current_date.getFullYear());\n                    2015 The Trustees of Indiana
+  University | Copyright Complaints\n\t        \n\t        \n\t            \n\t                Facebook\n\t
+  \               Twitter\n\t                YouTube\n\t                Google+\n\t
+  \           \n\t            \n\t                About IT\n\t                    Jobs
+  in IT\n\t                    Privacy Policy\n\t                \n\t        \n\t
+  \   \n\t\n\n\n  $(document).foundation();\nNOTICE: The IU Address Book, and University
+  information technology resources, are provided by the University to facilitate the
+  research, teaching, learning, and service missions of the University community.
+  The contact information provided in the IU Address Book is NOT intended for use
+  by commercial entities for commercial purposes.Copyright © \n                    \n
+  \                       var current_date = new Date();\n                        document.write(\"
+  \" + current_date.getFullYear());\n                    "

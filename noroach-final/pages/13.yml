@@ -1,0 +1,2201 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors: []
+address: https://lists.wikimedia.org/mailman/listinfo/wikien-l
+inboundLinks: []
+lines:
+- "\r\n"
+- "\r\n"
+- "  \r\n"
+- "\r\n"
+- "   \r\n"
+- "\r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "\r\n"
+- "   \r\n"
+- "\r\n"
+- "    \r\n"
+- "\t\t\r\n"
+- "     WikiEN-l Mailing List\r\n"
+- "\r\n"
+- "     \r\n"
+- "\r\n"
+- "     \r\n"
+- "\r\n"
+- "    \r\n"
+- "\r\n"
+- "    \r\n"
+- "\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      \r\n"
+- "       This mailing list is for discussing issues relating particularly to the
+  English language Wikipedia. Issues relating to the broader Wikipedia community belong
+  at the Wikipedia-l mailing list.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       Requests to be unblocked on the English-language Wikipedia should go to
+  the specialised Unblock-en-l mailing list.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       If you have any queries or complaints about this mailing list, please contact
+  the list administrators.\r\n"
+- "      \r\n"
+- "     \r\n"
+- "\t\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      How to post to this mailing list\r\n"
+- "      \r\n"
+- "       To send an e-mail to WikiEN-l, you must first be subscribed to the mailing
+  list (see how to subscribe below).\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       Once you are a subscriber to this mailing list, you can make a posting by
+  sending your message to the following address:wikien-l@lists.wikimedia.org.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       If you are a new subscriber, your messages will be automatically moderated
+  to await approval by a mailing list administrator. This is necessary to prevent
+  spam and abuse.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       All e-mails you send to this mailing list will be available on public web
+  archives, both on and off Wikimedia servers. Do not send an e-mail to this list
+  unless you are happy for the general public to read it and quote you.\r\n"
+- "      \r\n"
+- "     \r\n"
+- "\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      Rules\r\n"
+- "      \r\n"
+- "       This is a working list for the encyclopedia. Conversations should remain
+  on-topic and civil at all times. Posters are expected to follow good practice similar
+  to Wikiquette: assume good faith and be polite and constructive.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       Members who do not behave appropriately may be moderated or removed from
+  the list by one of the list administrators.\r\n"
+- "      \r\n"
+- "     \r\n"
+- "\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      \r\n"
+- "       Subscribing to this mailing list\r\n"
+- "       \r\n"
+- "        You can subscribe by filling out the following form. You will be sent a
+  verification e-mail.\r\n"
+- "       \r\n"
+- "       \r\n"
+- "        Your e-mail address:   \r\n"
+- "       \r\n"
+- "        Your name or username (optional):   \r\n"
+- "       \r\n"
+- "        You can enter a privacy password below. This provides only mild security,
+  because it will occasionally be e-mailed back to you in cleartext. Do not use a
+  valuable password.\r\n"
+- "       \r\n"
+- "       \r\n"
+- "        If you do not enter a password, a random one will be automatically generated
+  and sent to you once you have confirmed your subscription. You can always request
+  a mail-back of your password when you edit your personal options.\r\n"
+- "       \r\n"
+- "       \r\n"
+- "        Password:   \r\n"
+- "       \r\n"
+- "        Re-enter your password:   \r\n"
+- "       \r\n"
+- "        Would you prefer to receive all list e-mails separately, or together in
+  a single daily digest e-mail? Separate e-mails    Daily Digest\r\n"
+- "       \r\n"
+- "       \r\n"
+- "        \r\n"
+- "      \r\n"
+- "     \r\n"
+- "\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      Changing options and unsubscribing\r\n"
+- "      \r\n"
+- "       To change your mailing list options (such as to turn off mailings) or to
+  unsubscribe completely from the mailing list, please log in with your e-mail address
+  below.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       You will be asked to provide your mailing list password. If cannot remember
+  it, you will be able to request a password reminder.\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       \r\n"
+- "        \r\n"
+- "         \r\n"
+- "       \r\n"
+- "      \r\n"
+- "     \r\n"
+- "\r\n"
+- "     \r\n"
+- "      \r\n"
+- "      Administrators\r\n"
+- "      \r\n"
+- "       The WikiEN-l mailing list administrators can be contacted collectively by
+  e-mail at wikien-l-owner a t lists.wikimedia.org\r\n"
+- "      \r\n"
+- "      \r\n"
+- "       The WikiEN-l mailing list administrators are:\r\n"
+- "      \r\n"
+- "      Mark Ryan\r\n"
+- "       David Gerard\r\n"
+- "       Andrew Lih\r\n"
+- "       Phil Sandifer\r\n"
+- "       Steve Bennett\r\n"
+- "       John Lee\r\n"
+- "       Alphax\r\n"
+- "      \r\n"
+- "\r\n"
+- "    \r\n"
+- "\r\n"
+- "    \r\n"
+- "     Table of contents\r\n"
+- "     Posting to this list\r\n"
+- "      Rules\r\n"
+- "      Subscribing to this list\r\n"
+- "      Unsubscribe from this list\r\n"
+- "      Change subscription options\r\n"
+- "      List administrators\r\n"
+- "\r\n"
+- "     Other related pages\r\n"
+- "     Membership options login\r\n"
+- "      Administrative interface\r\n"
+- "      Moderation interface\r\n"
+- "      Archive of prior postings\r\n"
+- "     Search posting archives\r\n"
+- "     \r\n"
+- "      \r\n"
+- "       \r\n"
+- "       Sort results by:\r\n"
+- "        \r\n"
+- "         Date\r\n"
+- "       \r\n"
+- "         \r\n"
+- "       \r\n"
+- "        \r\n"
+- "         Relevance\r\n"
+- "       \r\n"
+- "       \r\n"
+- "     \r\n"
+- "\r\n"
+- "     Other mailing lists\r\n"
+- "     Wikipedia-l\r\n"
+- "      Foundation-l\r\n"
+- "      Wikitech-l\r\n"
+- "      Commons-l\r\n"
+- "      Full list on Meta\r\n"
+- "     \r\n"
+- "\t\r\n"
+- "    \r\n"
+- "\r\n"
+- "   \r\n"
+- "\r\n"
+- "   \r\n"
+- "    This mailing list is powered by Mailman, the GNU Mailing List Manager.\r\n"
+- "    Page based upon a design by Arcsin, licensed under the Creative Commons Attribution
+  2.5 License.\r\n"
+- "   \r\n"
+- "\r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "   \r\n"
+- "\r\n"
+- "  \r\n"
+- "\r\n"
+- " \r\n"
+- "       This mailing list is for discussing issues relating particularly to the
+  English language Wikipedia. Issues relating to the broader Wikipedia community belong
+  at the Wikipedia-l mailing list.\r\n"
+- "      \r\n"
+- "       Requests to be unblocked on the English-language Wikipedia should go to
+  the specialised Unblock-en-l mailing list.\r\n"
+- "      \r\n"
+- "       If you have any queries or complaints about this mailing list, please contact
+  the list administrators.\r\n"
+- "      \r\n"
+- "       To send an e-mail to WikiEN-l, you must first be subscribed to the mailing
+  list (see how to subscribe below).\r\n"
+- "      \r\n"
+- "       Once you are a subscriber to this mailing list, you can make a posting by
+  sending your message to the following address:wikien-l@lists.wikimedia.org.\r\n"
+- "      \r\n"
+- "       If you are a new subscriber, your messages will be automatically moderated
+  to await approval by a mailing list administrator. This is necessary to prevent
+  spam and abuse.\r\n"
+- "      \r\n"
+- "       All e-mails you send to this mailing list will be available on public web
+  archives, both on and off Wikimedia servers. Do not send an e-mail to this list
+  unless you are happy for the general public to read it and quote you.\r\n"
+- "      \r\n"
+- "       This is a working list for the encyclopedia. Conversations should remain
+  on-topic and civil at all times. Posters are expected to follow good practice similar
+  to Wikiquette: assume good faith and be polite and constructive.\r\n"
+- "      \r\n"
+- "       Members who do not behave appropriately may be moderated or removed from
+  the list by one of the list administrators.\r\n"
+- "      \r\n"
+- "        You can subscribe by filling out the following form. You will be sent a
+  verification e-mail.\r\n"
+- "       \r\n"
+- "        Your e-mail address:   \r\n"
+- "        Your name or username (optional):   \r\n"
+- "        You can enter a privacy password below. This provides only mild security,
+  because it will occasionally be e-mailed back to you in cleartext. Do not use a
+  valuable password.\r\n"
+- "       \r\n"
+- "        If you do not enter a password, a random one will be automatically generated
+  and sent to you once you have confirmed your subscription. You can always request
+  a mail-back of your password when you edit your personal options.\r\n"
+- "       \r\n"
+- "        Password:   \r\n"
+- "        Re-enter your password:   \r\n"
+- "        Would you prefer to receive all list e-mails separately, or together in
+  a single daily digest e-mail? Separate e-mails    Daily Digest\r\n"
+- "       \r\n"
+- "        \r\n"
+- "       To change your mailing list options (such as to turn off mailings) or to
+  unsubscribe completely from the mailing list, please log in with your e-mail address
+  below.\r\n"
+- "      \r\n"
+- "       You will be asked to provide your mailing list password. If cannot remember
+  it, you will be able to request a password reminder.\r\n"
+- "      \r\n"
+- "         \r\n"
+- "       The WikiEN-l mailing list administrators can be contacted collectively by
+  e-mail at wikien-l-owner a t lists.wikimedia.org\r\n"
+- "      \r\n"
+- "       The WikiEN-l mailing list administrators are:\r\n"
+- "      "
+index:
+  wikien: !ruby/object:Word
+    word: wikien
+    stem: wikien
+    docFrequency: 12.0
+    docPositions:
+    - 25
+    - 52
+    - 55
+    - 126
+    - 129
+    - 214
+    - 216
+    - 244
+    - 246
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 20.0
+    docPositions:
+    - 25
+    - 38
+    - 41
+    - 52
+    - 55
+    - 126
+    - 129
+    - 173
+    - 174
+    - 175
+    - 176
+    - 208
+    - 210
+    - 214
+    - 216
+    - 244
+    - 246
+  mailing: !ruby/object:Word
+    word: mailing
+    stem: mail
+    docFrequency: 33.0
+    docPositions:
+    - 25
+    - 38
+    - 41
+    - 44
+    - 50
+    - 52
+    - 55
+    - 58
+    - 61
+    - 79
+    - 109
+    - 112
+    - 126
+    - 129
+    - 172
+    - 185
+    - 208
+    - 210
+    - 212
+    - 214
+    - 216
+    - 218
+    - 220
+    - 239
+    - 241
+    - 244
+    - 246
+  list: !ruby/object:Word
+    word: list
+    stem: list
+    docFrequency: 49.0
+    docPositions:
+    - 25
+    - 38
+    - 41
+    - 44
+    - 50
+    - 52
+    - 55
+    - 58
+    - 61
+    - 69
+    - 72
+    - 79
+    - 98
+    - 109
+    - 112
+    - 126
+    - 129
+    - 144
+    - 146
+    - 147
+    - 149
+    - 177
+    - 185
+    - 208
+    - 210
+    - 212
+    - 214
+    - 216
+    - 218
+    - 220
+    - 222
+    - 224
+    - 236
+    - 239
+    - 241
+    - 244
+    - 246
+  discussing: !ruby/object:Word
+    word: discussing
+    stem: discuss
+    docFrequency: 3.0
+    docPositions:
+    - 38
+    - 208
+  issues: !ruby/object:Word
+    word: issues
+    stem: issu
+    docFrequency: 5.0
+    docPositions:
+    - 38
+    - 208
+  relating: !ruby/object:Word
+    word: relating
+    stem: relat
+    docFrequency: 5.0
+    docPositions:
+    - 38
+    - 208
+  particularly: !ruby/object:Word
+    word: particularly
+    stem: particularli
+    docFrequency: 3.0
+    docPositions:
+    - 38
+    - 208
+  english: !ruby/object:Word
+    word: english
+    stem: english
+    docFrequency: 5.0
+    docPositions:
+    - 38
+    - 41
+    - 208
+    - 210
+  language: !ruby/object:Word
+    word: language
+    stem: languag
+    docFrequency: 5.0
+    docPositions:
+    - 38
+    - 41
+    - 208
+    - 210
+  wikipedia: !ruby/object:Word
+    word: wikipedia
+    stem: wikipedia
+    docFrequency: 10.0
+    docPositions:
+    - 38
+    - 41
+    - 173
+    - 208
+    - 210
+  broader: !ruby/object:Word
+    word: broader
+    stem: broader
+    docFrequency: 3.0
+    docPositions:
+    - 38
+    - 208
+  community: !ruby/object:Word
+    word: community
+    stem: commun
+    docFrequency: 3.0
+    docPositions:
+    - 38
+    - 208
+  belong: !ruby/object:Word
+    word: belong
+    stem: belong
+    docFrequency: 3.0
+    docPositions:
+    - 38
+    - 208
+  requests: !ruby/object:Word
+    word: requests
+    stem: request
+    docFrequency: 3.0
+    docPositions:
+    - 41
+    - 210
+  unblocked: !ruby/object:Word
+    word: unblocked
+    stem: unblock
+    docFrequency: 3.0
+    docPositions:
+    - 41
+    - 210
+  should: !ruby/object:Word
+    word: should
+    stem: should
+    docFrequency: 5.0
+    docPositions:
+    - 41
+    - 69
+    - 210
+    - 222
+  go: !ruby/object:Word
+    word: go
+    stem: go
+    docFrequency: 3.0
+    docPositions:
+    - 41
+    - 210
+  specialised: !ruby/object:Word
+    word: specialised
+    stem: specialis
+    docFrequency: 3.0
+    docPositions:
+    - 41
+    - 210
+  unblock: !ruby/object:Word
+    word: unblock
+    stem: unblock
+    docFrequency: 3.0
+    docPositions:
+    - 41
+    - 210
+  en: !ruby/object:Word
+    word: en
+    stem: en
+    docFrequency: 3.0
+    docPositions:
+    - 41
+    - 210
+  if: !ruby/object:Word
+    word: if
+    stem: if
+    docFrequency: 9.0
+    docPositions:
+    - 44
+    - 58
+    - 91
+    - 112
+    - 212
+    - 218
+    - 232
+    - 241
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 41.0
+    docPositions:
+    - 44
+    - 52
+    - 55
+    - 58
+    - 61
+    - 81
+    - 88
+    - 91
+    - 98
+    - 112
+    - 212
+    - 214
+    - 216
+    - 218
+    - 220
+    - 226
+    - 230
+    - 232
+    - 236
+    - 241
+  have: !ruby/object:Word
+    word: have
+    stem: have
+    docFrequency: 5.0
+    docPositions:
+    - 44
+    - 91
+    - 212
+    - 232
+  any: !ruby/object:Word
+    word: any
+    stem: ani
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 212
+  queries: !ruby/object:Word
+    word: queries
+    stem: queri
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 212
+  complaints: !ruby/object:Word
+    word: complaints
+    stem: complaint
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 212
+  please: !ruby/object:Word
+    word: please
+    stem: pleas
+    docFrequency: 5.0
+    docPositions:
+    - 44
+    - 109
+    - 212
+    - 239
+  contact: !ruby/object:Word
+    word: contact
+    stem: contact
+    docFrequency: 3.0
+    docPositions:
+    - 44
+    - 212
+  administrators: !ruby/object:Word
+    word: administrators
+    stem: administr
+    docFrequency: 11.0
+    docPositions:
+    - 44
+    - 72
+    - 124
+    - 126
+    - 129
+    - 149
+    - 212
+    - 224
+    - 244
+    - 246
+  post: !ruby/object:Word
+    word: post
+    stem: post
+    docFrequency: 2.0
+    docPositions:
+    - 50
+  send: !ruby/object:Word
+    word: send
+    stem: send
+    docFrequency: 7.0
+    docPositions:
+    - 52
+    - 61
+    - 214
+    - 220
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 23.0
+    docPositions:
+    - 52
+    - 61
+    - 81
+    - 84
+    - 88
+    - 98
+    - 109
+    - 126
+    - 214
+    - 220
+    - 226
+    - 228
+    - 230
+    - 236
+    - 239
+    - 244
+  mail: !ruby/object:Word
+    word: mail
+    stem: mail
+    docFrequency: 17.0
+    docPositions:
+    - 52
+    - 61
+    - 81
+    - 84
+    - 91
+    - 98
+    - 109
+    - 126
+    - 214
+    - 220
+    - 226
+    - 228
+    - 232
+    - 236
+    - 239
+    - 244
+  must: !ruby/object:Word
+    word: must
+    stem: must
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 214
+  first: !ruby/object:Word
+    word: first
+    stem: first
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 214
+  subscribed: !ruby/object:Word
+    word: subscribed
+    stem: subscrib
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 214
+  see: !ruby/object:Word
+    word: see
+    stem: see
+    docFrequency: 3.0
+    docPositions:
+    - 52
+    - 214
+  subscribe: !ruby/object:Word
+    word: subscribe
+    stem: subscrib
+    docFrequency: 5.0
+    docPositions:
+    - 52
+    - 81
+    - 214
+    - 226
+  below: !ruby/object:Word
+    word: below
+    stem: below
+    docFrequency: 7.0
+    docPositions:
+    - 52
+    - 88
+    - 109
+    - 214
+    - 230
+    - 239
+  once: !ruby/object:Word
+    word: once
+    stem: onc
+    docFrequency: 5.0
+    docPositions:
+    - 55
+    - 91
+    - 216
+    - 232
+  subscriber: !ruby/object:Word
+    word: subscriber
+    stem: subscrib
+    docFrequency: 5.0
+    docPositions:
+    - 55
+    - 58
+    - 216
+    - 218
+  can: !ruby/object:Word
+    word: can
+    stem: can
+    docFrequency: 11.0
+    docPositions:
+    - 55
+    - 81
+    - 88
+    - 91
+    - 126
+    - 216
+    - 226
+    - 230
+    - 232
+    - 244
+  make: !ruby/object:Word
+    word: make
+    stem: make
+    docFrequency: 3.0
+    docPositions:
+    - 55
+    - 216
+  posting: !ruby/object:Word
+    word: posting
+    stem: post
+    docFrequency: 5.0
+    docPositions:
+    - 55
+    - 144
+    - 156
+    - 216
+  sending: !ruby/object:Word
+    word: sending
+    stem: send
+    docFrequency: 3.0
+    docPositions:
+    - 55
+    - 216
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 23.0
+    docPositions:
+    - 55
+    - 58
+    - 84
+    - 86
+    - 91
+    - 96
+    - 109
+    - 112
+    - 216
+    - 218
+    - 228
+    - 229
+    - 232
+    - 235
+    - 239
+    - 241
+  message: !ruby/object:Word
+    word: message
+    stem: messag
+    docFrequency: 3.0
+    docPositions:
+    - 55
+    - 216
+  following: !ruby/object:Word
+    word: following
+    stem: follow
+    docFrequency: 5.0
+    docPositions:
+    - 55
+    - 81
+    - 216
+    - 226
+  address: !ruby/object:Word
+    word: address
+    stem: address
+    docFrequency: 7.0
+    docPositions:
+    - 55
+    - 84
+    - 109
+    - 216
+    - 228
+    - 239
+  lists: !ruby/object:Word
+    word: lists
+    stem: list
+    docFrequency: 6.0
+    docPositions:
+    - 55
+    - 126
+    - 172
+    - 216
+    - 244
+  wikimedia: !ruby/object:Word
+    word: wikimedia
+    stem: wikimedia
+    docFrequency: 7.0
+    docPositions:
+    - 55
+    - 61
+    - 126
+    - 216
+    - 220
+    - 244
+  org: !ruby/object:Word
+    word: org
+    stem: org
+    docFrequency: 5.0
+    docPositions:
+    - 55
+    - 126
+    - 216
+    - 244
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 218
+  messages: !ruby/object:Word
+    word: messages
+    stem: messag
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 218
+  automatically: !ruby/object:Word
+    word: automatically
+    stem: automat
+    docFrequency: 5.0
+    docPositions:
+    - 58
+    - 91
+    - 218
+    - 232
+  moderated: !ruby/object:Word
+    word: moderated
+    stem: moder
+    docFrequency: 5.0
+    docPositions:
+    - 58
+    - 72
+    - 218
+    - 224
+  await: !ruby/object:Word
+    word: await
+    stem: await
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 218
+  approval: !ruby/object:Word
+    word: approval
+    stem: approv
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 218
+  administrator: !ruby/object:Word
+    word: administrator
+    stem: administr
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 218
+  necessary: !ruby/object:Word
+    word: necessary
+    stem: necessari
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 218
+  prevent: !ruby/object:Word
+    word: prevent
+    stem: prevent
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 218
+  spam: !ruby/object:Word
+    word: spam
+    stem: spam
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 218
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 16.0
+    docPositions:
+    - 58
+    - 61
+    - 69
+    - 91
+    - 107
+    - 218
+    - 220
+    - 222
+    - 232
+  abuse: !ruby/object:Word
+    word: abuse
+    stem: abus
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 218
+  all: !ruby/object:Word
+    word: all
+    stem: all
+    docFrequency: 7.0
+    docPositions:
+    - 61
+    - 69
+    - 98
+    - 220
+    - 222
+    - 236
+  mails: !ruby/object:Word
+    word: mails
+    stem: mail
+    docFrequency: 7.0
+    docPositions:
+    - 61
+    - 98
+    - 220
+    - 236
+  available: !ruby/object:Word
+    word: available
+    stem: avail
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 220
+  public: !ruby/object:Word
+    word: public
+    stem: public
+    docFrequency: 5.0
+    docPositions:
+    - 61
+    - 220
+  web: !ruby/object:Word
+    word: web
+    stem: web
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 220
+  archives: !ruby/object:Word
+    word: archives
+    stem: archiv
+    docFrequency: 4.0
+    docPositions:
+    - 61
+    - 156
+    - 220
+  both: !ruby/object:Word
+    word: both
+    stem: both
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 220
+  'off': !ruby/object:Word
+    word: 'off'
+    stem: 'off'
+    docFrequency: 5.0
+    docPositions:
+    - 61
+    - 109
+    - 220
+    - 239
+  servers: !ruby/object:Word
+    word: servers
+    stem: server
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 220
+  do: !ruby/object:Word
+    word: do
+    stem: do
+    docFrequency: 9.0
+    docPositions:
+    - 61
+    - 72
+    - 88
+    - 91
+    - 220
+    - 224
+    - 230
+    - 232
+  not: !ruby/object:Word
+    word: not
+    stem: not
+    docFrequency: 9.0
+    docPositions:
+    - 61
+    - 72
+    - 88
+    - 91
+    - 220
+    - 224
+    - 230
+    - 232
+  unless: !ruby/object:Word
+    word: unless
+    stem: unless
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 220
+  happy: !ruby/object:Word
+    word: happy
+    stem: happi
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 220
+  general: !ruby/object:Word
+    word: general
+    stem: gener
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 220
+  read: !ruby/object:Word
+    word: read
+    stem: read
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 220
+  quote: !ruby/object:Word
+    word: quote
+    stem: quot
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 220
+  rules: !ruby/object:Word
+    word: rules
+    stem: rule
+    docFrequency: 3.0
+    docPositions:
+    - 67
+    - 145
+  working: !ruby/object:Word
+    word: working
+    stem: work
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  encyclopedia: !ruby/object:Word
+    word: encyclopedia
+    stem: encyclopedia
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  conversations: !ruby/object:Word
+    word: conversations
+    stem: convers
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  remain: !ruby/object:Word
+    word: remain
+    stem: remain
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  topic: !ruby/object:Word
+    word: topic
+    stem: topic
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  civil: !ruby/object:Word
+    word: civil
+    stem: civil
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  times: !ruby/object:Word
+    word: times
+    stem: time
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  posters: !ruby/object:Word
+    word: posters
+    stem: poster
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  expected: !ruby/object:Word
+    word: expected
+    stem: expect
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  follow: !ruby/object:Word
+    word: follow
+    stem: follow
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  good: !ruby/object:Word
+    word: good
+    stem: good
+    docFrequency: 5.0
+    docPositions:
+    - 69
+    - 222
+  practice: !ruby/object:Word
+    word: practice
+    stem: practic
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  similar: !ruby/object:Word
+    word: similar
+    stem: similar
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  wikiquette: !ruby/object:Word
+    word: wikiquette
+    stem: wikiquett
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  assume: !ruby/object:Word
+    word: assume
+    stem: assum
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  faith: !ruby/object:Word
+    word: faith
+    stem: faith
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  polite: !ruby/object:Word
+    word: polite
+    stem: polit
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  constructive: !ruby/object:Word
+    word: constructive
+    stem: construct
+    docFrequency: 3.0
+    docPositions:
+    - 69
+    - 222
+  members: !ruby/object:Word
+    word: members
+    stem: member
+    docFrequency: 3.0
+    docPositions:
+    - 72
+    - 224
+  behave: !ruby/object:Word
+    word: behave
+    stem: behav
+    docFrequency: 3.0
+    docPositions:
+    - 72
+    - 224
+  appropriately: !ruby/object:Word
+    word: appropriately
+    stem: appropri
+    docFrequency: 3.0
+    docPositions:
+    - 72
+    - 224
+  may: !ruby/object:Word
+    word: may
+    stem: mai
+    docFrequency: 3.0
+    docPositions:
+    - 72
+    - 224
+  removed: !ruby/object:Word
+    word: removed
+    stem: remov
+    docFrequency: 3.0
+    docPositions:
+    - 72
+    - 224
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 5.0
+    docPositions:
+    - 72
+    - 91
+    - 224
+    - 232
+  subscribing: !ruby/object:Word
+    word: subscribing
+    stem: subscrib
+    docFrequency: 3.0
+    docPositions:
+    - 79
+    - 146
+  filling: !ruby/object:Word
+    word: filling
+    stem: fill
+    docFrequency: 3.0
+    docPositions:
+    - 81
+    - 226
+  out: !ruby/object:Word
+    word: out
+    stem: out
+    docFrequency: 3.0
+    docPositions:
+    - 81
+    - 226
+  form: !ruby/object:Word
+    word: form
+    stem: form
+    docFrequency: 3.0
+    docPositions:
+    - 81
+    - 226
+  sent: !ruby/object:Word
+    word: sent
+    stem: sent
+    docFrequency: 5.0
+    docPositions:
+    - 81
+    - 91
+    - 226
+    - 232
+  verification: !ruby/object:Word
+    word: verification
+    stem: verif
+    docFrequency: 3.0
+    docPositions:
+    - 81
+    - 226
+  name: !ruby/object:Word
+    word: name
+    stem: name
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 229
+  username: !ruby/object:Word
+    word: username
+    stem: usernam
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 229
+  optional: !ruby/object:Word
+    word: optional
+    stem: option
+    docFrequency: 3.0
+    docPositions:
+    - 86
+    - 229
+  enter: !ruby/object:Word
+    word: enter
+    stem: enter
+    docFrequency: 7.0
+    docPositions:
+    - 88
+    - 91
+    - 96
+    - 230
+    - 232
+    - 235
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  password: !ruby/object:Word
+    word: password
+    stem: password
+    docFrequency: 17.0
+    docPositions:
+    - 88
+    - 91
+    - 94
+    - 96
+    - 112
+    - 230
+    - 232
+    - 234
+    - 235
+    - 241
+  provides: !ruby/object:Word
+    word: provides
+    stem: provid
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  only: !ruby/object:Word
+    word: only
+    stem: onli
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  mild: !ruby/object:Word
+    word: mild
+    stem: mild
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  security: !ruby/object:Word
+    word: security
+    stem: secur
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  because: !ruby/object:Word
+    word: because
+    stem: becaus
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  occasionally: !ruby/object:Word
+    word: occasionally
+    stem: occasion
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  mailed: !ruby/object:Word
+    word: mailed
+    stem: mail
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  back: !ruby/object:Word
+    word: back
+    stem: back
+    docFrequency: 5.0
+    docPositions:
+    - 88
+    - 91
+    - 230
+    - 232
+  cleartext: !ruby/object:Word
+    word: cleartext
+    stem: cleartext
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  use: !ruby/object:Word
+    word: use
+    stem: us
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  valuable: !ruby/object:Word
+    word: valuable
+    stem: valuabl
+    docFrequency: 3.0
+    docPositions:
+    - 88
+    - 230
+  random: !ruby/object:Word
+    word: random
+    stem: random
+    docFrequency: 3.0
+    docPositions:
+    - 91
+    - 232
+  generated: !ruby/object:Word
+    word: generated
+    stem: gener
+    docFrequency: 3.0
+    docPositions:
+    - 91
+    - 232
+  confirmed: !ruby/object:Word
+    word: confirmed
+    stem: confirm
+    docFrequency: 3.0
+    docPositions:
+    - 91
+    - 232
+  subscription: !ruby/object:Word
+    word: subscription
+    stem: subscript
+    docFrequency: 4.0
+    docPositions:
+    - 91
+    - 148
+    - 232
+  always: !ruby/object:Word
+    word: always
+    stem: alwai
+    docFrequency: 3.0
+    docPositions:
+    - 91
+    - 232
+  request: !ruby/object:Word
+    word: request
+    stem: request
+    docFrequency: 5.0
+    docPositions:
+    - 91
+    - 112
+    - 232
+    - 241
+  edit: !ruby/object:Word
+    word: edit
+    stem: edit
+    docFrequency: 3.0
+    docPositions:
+    - 91
+    - 232
+  personal: !ruby/object:Word
+    word: personal
+    stem: person
+    docFrequency: 3.0
+    docPositions:
+    - 91
+    - 232
+  options: !ruby/object:Word
+    word: options
+    stem: option
+    docFrequency: 8.0
+    docPositions:
+    - 91
+    - 107
+    - 109
+    - 148
+    - 152
+    - 232
+    - 239
+  re: !ruby/object:Word
+    word: re
+    stem: re
+    docFrequency: 3.0
+    docPositions:
+    - 96
+    - 235
+  would: !ruby/object:Word
+    word: would
+    stem: would
+    docFrequency: 3.0
+    docPositions:
+    - 98
+    - 236
+  prefer: !ruby/object:Word
+    word: prefer
+    stem: prefer
+    docFrequency: 3.0
+    docPositions:
+    - 98
+    - 236
+  receive: !ruby/object:Word
+    word: receive
+    stem: receiv
+    docFrequency: 3.0
+    docPositions:
+    - 98
+    - 236
+  separately: !ruby/object:Word
+    word: separately
+    stem: separ
+    docFrequency: 3.0
+    docPositions:
+    - 98
+    - 236
+  together: !ruby/object:Word
+    word: together
+    stem: togeth
+    docFrequency: 3.0
+    docPositions:
+    - 98
+    - 236
+  single: !ruby/object:Word
+    word: single
+    stem: singl
+    docFrequency: 3.0
+    docPositions:
+    - 98
+    - 236
+  daily: !ruby/object:Word
+    word: daily
+    stem: daili
+    docFrequency: 5.0
+    docPositions:
+    - 98
+    - 236
+  digest: !ruby/object:Word
+    word: digest
+    stem: digest
+    docFrequency: 5.0
+    docPositions:
+    - 98
+    - 236
+  separate: !ruby/object:Word
+    word: separate
+    stem: separ
+    docFrequency: 3.0
+    docPositions:
+    - 98
+    - 236
+  changing: !ruby/object:Word
+    word: changing
+    stem: chang
+    docFrequency: 2.0
+    docPositions:
+    - 107
+  unsubscribing: !ruby/object:Word
+    word: unsubscribing
+    stem: unsubscrib
+    docFrequency: 2.0
+    docPositions:
+    - 107
+  change: !ruby/object:Word
+    word: change
+    stem: chang
+    docFrequency: 4.0
+    docPositions:
+    - 109
+    - 148
+    - 239
+  such: !ruby/object:Word
+    word: such
+    stem: such
+    docFrequency: 3.0
+    docPositions:
+    - 109
+    - 239
+  turn: !ruby/object:Word
+    word: turn
+    stem: turn
+    docFrequency: 3.0
+    docPositions:
+    - 109
+    - 239
+  mailings: !ruby/object:Word
+    word: mailings
+    stem: mail
+    docFrequency: 3.0
+    docPositions:
+    - 109
+    - 239
+  unsubscribe: !ruby/object:Word
+    word: unsubscribe
+    stem: unsubscrib
+    docFrequency: 4.0
+    docPositions:
+    - 109
+    - 147
+    - 239
+  completely: !ruby/object:Word
+    word: completely
+    stem: complet
+    docFrequency: 3.0
+    docPositions:
+    - 109
+    - 239
+  log: !ruby/object:Word
+    word: log
+    stem: log
+    docFrequency: 3.0
+    docPositions:
+    - 109
+    - 239
+  asked: !ruby/object:Word
+    word: asked
+    stem: ask
+    docFrequency: 3.0
+    docPositions:
+    - 112
+    - 241
+  provide: !ruby/object:Word
+    word: provide
+    stem: provid
+    docFrequency: 3.0
+    docPositions:
+    - 112
+    - 241
+  cannot: !ruby/object:Word
+    word: cannot
+    stem: cannot
+    docFrequency: 3.0
+    docPositions:
+    - 112
+    - 241
+  remember: !ruby/object:Word
+    word: remember
+    stem: rememb
+    docFrequency: 3.0
+    docPositions:
+    - 112
+    - 241
+  able: !ruby/object:Word
+    word: able
+    stem: abl
+    docFrequency: 3.0
+    docPositions:
+    - 112
+    - 241
+  reminder: !ruby/object:Word
+    word: reminder
+    stem: remind
+    docFrequency: 3.0
+    docPositions:
+    - 112
+    - 241
+  contacted: !ruby/object:Word
+    word: contacted
+    stem: contact
+    docFrequency: 3.0
+    docPositions:
+    - 126
+    - 244
+  collectively: !ruby/object:Word
+    word: collectively
+    stem: collect
+    docFrequency: 3.0
+    docPositions:
+    - 126
+    - 244
+  owner: !ruby/object:Word
+    word: owner
+    stem: owner
+    docFrequency: 3.0
+    docPositions:
+    - 126
+    - 244
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 3.0
+    docPositions:
+    - 126
+    - 244
+  mark: !ruby/object:Word
+    word: mark
+    stem: mark
+    docFrequency: 2.0
+    docPositions:
+    - 131
+  ryan: !ruby/object:Word
+    word: ryan
+    stem: ryan
+    docFrequency: 2.0
+    docPositions:
+    - 131
+  david: !ruby/object:Word
+    word: david
+    stem: david
+    docFrequency: 2.0
+    docPositions:
+    - 132
+  gerard: !ruby/object:Word
+    word: gerard
+    stem: gerard
+    docFrequency: 2.0
+    docPositions:
+    - 132
+  andrew: !ruby/object:Word
+    word: andrew
+    stem: andrew
+    docFrequency: 2.0
+    docPositions:
+    - 133
+  lih: !ruby/object:Word
+    word: lih
+    stem: lih
+    docFrequency: 2.0
+    docPositions:
+    - 133
+  phil: !ruby/object:Word
+    word: phil
+    stem: phil
+    docFrequency: 2.0
+    docPositions:
+    - 134
+  sandifer: !ruby/object:Word
+    word: sandifer
+    stem: sandif
+    docFrequency: 2.0
+    docPositions:
+    - 134
+  steve: !ruby/object:Word
+    word: steve
+    stem: steve
+    docFrequency: 2.0
+    docPositions:
+    - 135
+  bennett: !ruby/object:Word
+    word: bennett
+    stem: bennett
+    docFrequency: 2.0
+    docPositions:
+    - 135
+  john: !ruby/object:Word
+    word: john
+    stem: john
+    docFrequency: 2.0
+    docPositions:
+    - 136
+  lee: !ruby/object:Word
+    word: lee
+    stem: lee
+    docFrequency: 2.0
+    docPositions:
+    - 136
+  alphax: !ruby/object:Word
+    word: alphax
+    stem: alphax
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  table: !ruby/object:Word
+    word: table
+    stem: tabl
+    docFrequency: 2.0
+    docPositions:
+    - 143
+  contents: !ruby/object:Word
+    word: contents
+    stem: content
+    docFrequency: 2.0
+    docPositions:
+    - 143
+  other: !ruby/object:Word
+    word: other
+    stem: other
+    docFrequency: 3.0
+    docPositions:
+    - 151
+    - 172
+  related: !ruby/object:Word
+    word: related
+    stem: relat
+    docFrequency: 2.0
+    docPositions:
+    - 151
+  pages: !ruby/object:Word
+    word: pages
+    stem: page
+    docFrequency: 2.0
+    docPositions:
+    - 151
+  membership: !ruby/object:Word
+    word: membership
+    stem: membership
+    docFrequency: 2.0
+    docPositions:
+    - 152
+  login: !ruby/object:Word
+    word: login
+    stem: login
+    docFrequency: 2.0
+    docPositions:
+    - 152
+  administrative: !ruby/object:Word
+    word: administrative
+    stem: administr
+    docFrequency: 2.0
+    docPositions:
+    - 153
+  interface: !ruby/object:Word
+    word: interface
+    stem: interfac
+    docFrequency: 3.0
+    docPositions:
+    - 153
+    - 154
+  moderation: !ruby/object:Word
+    word: moderation
+    stem: moder
+    docFrequency: 2.0
+    docPositions:
+    - 154
+  archive: !ruby/object:Word
+    word: archive
+    stem: archiv
+    docFrequency: 2.0
+    docPositions:
+    - 155
+  prior: !ruby/object:Word
+    word: prior
+    stem: prior
+    docFrequency: 2.0
+    docPositions:
+    - 155
+  postings: !ruby/object:Word
+    word: postings
+    stem: post
+    docFrequency: 2.0
+    docPositions:
+    - 155
+  search: !ruby/object:Word
+    word: search
+    stem: search
+    docFrequency: 2.0
+    docPositions:
+    - 156
+  sort: !ruby/object:Word
+    word: sort
+    stem: sort
+    docFrequency: 2.0
+    docPositions:
+    - 160
+  results: !ruby/object:Word
+    word: results
+    stem: result
+    docFrequency: 2.0
+    docPositions:
+    - 160
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 3.0
+    docPositions:
+    - 162
+    - 167
+  date: !ruby/object:Word
+    word: date
+    stem: date
+    docFrequency: 2.0
+    docPositions:
+    - 162
+  relevance: !ruby/object:Word
+    word: relevance
+    stem: relev
+    docFrequency: 2.0
+    docPositions:
+    - 167
+  foundation: !ruby/object:Word
+    word: foundation
+    stem: foundat
+    docFrequency: 2.0
+    docPositions:
+    - 174
+  wikitech: !ruby/object:Word
+    word: wikitech
+    stem: wikitech
+    docFrequency: 2.0
+    docPositions:
+    - 175
+  commons: !ruby/object:Word
+    word: commons
+    stem: common
+    docFrequency: 3.0
+    docPositions:
+    - 176
+    - 186
+  full: !ruby/object:Word
+    word: full
+    stem: full
+    docFrequency: 2.0
+    docPositions:
+    - 177
+  meta: !ruby/object:Word
+    word: meta
+    stem: meta
+    docFrequency: 2.0
+    docPositions:
+    - 177
+  powered: !ruby/object:Word
+    word: powered
+    stem: power
+    docFrequency: 2.0
+    docPositions:
+    - 185
+  mailman: !ruby/object:Word
+    word: mailman
+    stem: mailman
+    docFrequency: 2.0
+    docPositions:
+    - 185
+  gnu: !ruby/object:Word
+    word: gnu
+    stem: gnu
+    docFrequency: 2.0
+    docPositions:
+    - 185
+  manager: !ruby/object:Word
+    word: manager
+    stem: manag
+    docFrequency: 2.0
+    docPositions:
+    - 185
+  page: !ruby/object:Word
+    word: page
+    stem: page
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  based: !ruby/object:Word
+    word: based
+    stem: base
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  upon: !ruby/object:Word
+    word: upon
+    stem: upon
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  design: !ruby/object:Word
+    word: design
+    stem: design
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  arcsin: !ruby/object:Word
+    word: arcsin
+    stem: arcsin
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  licensed: !ruby/object:Word
+    word: licensed
+    stem: licens
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  under: !ruby/object:Word
+    word: under
+    stem: under
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  creative: !ruby/object:Word
+    word: creative
+    stem: creativ
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  attribution: !ruby/object:Word
+    word: attribution
+    stem: attribut
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  license: !ruby/object:Word
+    word: license
+    stem: licens
+    docFrequency: 2.0
+    docPositions:
+    - 186
+lineCount: 248
+wordCount: 1017
+rank: 0.25
+title: WikiEN-l mailing list
+links:
+- http://en.wikipedia.org
+- http://lists.wikimedia.org/mailman/listinfo/wikipedia-l
+- http://lists.wikimedia.org/mailman/listinfo/unblock-en-l
+- http://en.wikipedia.org/wiki/Wikipedia:Wikiquette
+- http://c2.com/cgi/wiki?StBenedictsRule
+- http://en.wikipedia.org/wiki/Cleartext
+- http://en.wikipedia.org/wiki/User:Mark
+- http://en.wikipedia.org/wiki/User:David_Gerard
+- http://en.wikipedia.org/wiki/User:Fuzheado
+- http://en.wikipedia.org/wiki/User:Phil_Sandifer
+- http://en.wikipedia.org/wiki/User:Johnleemk
+- http://en.wikipedia.org/wiki/User:Alphax
+- https://lists.wikimedia.org/mailman/options/wikien-l
+- https://lists.wikimedia.org/mailman/admin/wikien-l
+- https://lists.wikimedia.org/mailman/admindb/wikien-l
+- http://lists.wikimedia.org/pipermail/wikien-l/
+- https://lists.wikimedia.org/mailman/listinfo/wikipedia-l
+- https://lists.wikimedia.org/mailman/listinfo/foundation-l
+- https://lists.wikimedia.org/mailman/listinfo/wikitech-l
+- https://lists.wikimedia.org/mailman/listinfo/commons-l
+- http://meta.wikimedia.org/wiki/Mailing_lists/overview
+- http://www.list.org/
+- http://www.gnu.org
+- http://templates.arcsin.se
+- http://creativecommons.org/licenses/by/2.5/
+rawText: "\r\n\r\n  \r\n\r\n   \r\n\r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n
+  \  \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n\r\n   \r\n\r\n    \r\n\t\t\r\n
+  \    WikiEN-l Mailing List\r\n\r\n     \r\n\r\n     \r\n\r\n    \r\n\r\n    \r\n\r\n
+  \    \r\n      \r\n      \r\n       This mailing list is for discussing issues relating
+  particularly to the English language Wikipedia. Issues relating to the broader Wikipedia
+  community belong at the Wikipedia-l mailing list.\r\n      \r\n      \r\n       Requests
+  to be unblocked on the English-language Wikipedia should go to the specialised Unblock-en-l
+  mailing list.\r\n      \r\n      \r\n       If you have any queries or complaints
+  about this mailing list, please contact the list administrators.\r\n      \r\n     \r\n\t\r\n
+  \    \r\n      \r\n      How to post to this mailing list\r\n      \r\n       To
+  send an e-mail to WikiEN-l, you must first be subscribed to the mailing list (see
+  how to subscribe below).\r\n      \r\n      \r\n       Once you are a subscriber
+  to this mailing list, you can make a posting by sending your message to the following
+  address:wikien-l@lists.wikimedia.org.\r\n      \r\n      \r\n       If you are a
+  new subscriber, your messages will be automatically moderated to await approval
+  by a mailing list administrator. This is necessary to prevent spam and abuse.\r\n
+  \     \r\n      \r\n       All e-mails you send to this mailing list will be available
+  on public web archives, both on and off Wikimedia servers. Do not send an e-mail
+  to this list unless you are happy for the general public to read it and quote you.\r\n
+  \     \r\n     \r\n\r\n     \r\n      \r\n      Rules\r\n      \r\n       This is
+  a working list for the encyclopedia. Conversations should remain on-topic and civil
+  at all times. Posters are expected to follow good practice similar to Wikiquette:
+  assume good faith and be polite and constructive.\r\n      \r\n      \r\n       Members
+  who do not behave appropriately may be moderated or removed from the list by one
+  of the list administrators.\r\n      \r\n     \r\n\r\n     \r\n      \r\n      \r\n
+  \      Subscribing to this mailing list\r\n       \r\n        You can subscribe
+  by filling out the following form. You will be sent a verification e-mail.\r\n       \r\n
+  \      \r\n        Your e-mail address:   \r\n       \r\n        Your name or username
+  (optional):   \r\n       \r\n        You can enter a privacy password below. This
+  provides only mild security, because it will occasionally be e-mailed back to you
+  in cleartext. Do not use a valuable password.\r\n       \r\n       \r\n        If
+  you do not enter a password, a random one will be automatically generated and sent
+  to you once you have confirmed your subscription. You can always request a mail-back
+  of your password when you edit your personal options.\r\n       \r\n       \r\n
+  \       Password:   \r\n       \r\n        Re-enter your password:   \r\n       \r\n
+  \       Would you prefer to receive all list e-mails separately, or together in
+  a single daily digest e-mail? Separate e-mails    Daily Digest\r\n       \r\n       \r\n
+  \       \r\n      \r\n     \r\n\r\n     \r\n      \r\n      Changing options and
+  unsubscribing\r\n      \r\n       To change your mailing list options (such as to
+  turn off mailings) or to unsubscribe completely from the mailing list, please log
+  in with your e-mail address below.\r\n      \r\n      \r\n       You will be asked
+  to provide your mailing list password. If cannot remember it, you will be able to
+  request a password reminder.\r\n      \r\n      \r\n       \r\n        \r\n         \r\n
+  \      \r\n      \r\n     \r\n\r\n     \r\n      \r\n      Administrators\r\n      \r\n
+  \      The WikiEN-l mailing list administrators can be contacted collectively by
+  e-mail at wikien-l-owner a t lists.wikimedia.org\r\n      \r\n      \r\n       The
+  WikiEN-l mailing list administrators are:\r\n      \r\n      Mark Ryan\r\n       David
+  Gerard\r\n       Andrew Lih\r\n       Phil Sandifer\r\n       Steve Bennett\r\n
+  \      John Lee\r\n       Alphax\r\n      \r\n\r\n    \r\n\r\n    \r\n     Table
+  of contents\r\n     Posting to this list\r\n      Rules\r\n      Subscribing to
+  this list\r\n      Unsubscribe from this list\r\n      Change subscription options\r\n
+  \     List administrators\r\n\r\n     Other related pages\r\n     Membership options
+  login\r\n      Administrative interface\r\n      Moderation interface\r\n      Archive
+  of prior postings\r\n     Search posting archives\r\n     \r\n      \r\n       \r\n
+  \      Sort results by:\r\n        \r\n         Date\r\n       \r\n         \r\n
+  \      \r\n        \r\n         Relevance\r\n       \r\n       \r\n     \r\n\r\n
+  \    Other mailing lists\r\n     Wikipedia-l\r\n      Foundation-l\r\n      Wikitech-l\r\n
+  \     Commons-l\r\n      Full list on Meta\r\n     \r\n\t\r\n    \r\n\r\n   \r\n\r\n
+  \  \r\n    This mailing list is powered by Mailman, the GNU Mailing List Manager.\r\n
+  \   Page based upon a design by Arcsin, licensed under the Creative Commons Attribution
+  2.5 License.\r\n   \r\n\r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n
+  \  \r\n   \r\n   \r\n   \r\n   \r\n   \r\n   \r\n\r\n  \r\n\r\n \r\n       This
+  mailing list is for discussing issues relating particularly to the English language
+  Wikipedia. Issues relating to the broader Wikipedia community belong at the Wikipedia-l
+  mailing list.\r\n      \r\n       Requests to be unblocked on the English-language
+  Wikipedia should go to the specialised Unblock-en-l mailing list.\r\n      \r\n
+  \      If you have any queries or complaints about this mailing list, please contact
+  the list administrators.\r\n      \r\n       To send an e-mail to WikiEN-l, you
+  must first be subscribed to the mailing list (see how to subscribe below).\r\n      \r\n
+  \      Once you are a subscriber to this mailing list, you can make a posting by
+  sending your message to the following address:wikien-l@lists.wikimedia.org.\r\n
+  \     \r\n       If you are a new subscriber, your messages will be automatically
+  moderated to await approval by a mailing list administrator. This is necessary to
+  prevent spam and abuse.\r\n      \r\n       All e-mails you send to this mailing
+  list will be available on public web archives, both on and off Wikimedia servers.
+  Do not send an e-mail to this list unless you are happy for the general public to
+  read it and quote you.\r\n      \r\n       This is a working list for the encyclopedia.
+  Conversations should remain on-topic and civil at all times. Posters are expected
+  to follow good practice similar to Wikiquette: assume good faith and be polite and
+  constructive.\r\n      \r\n       Members who do not behave appropriately may be
+  moderated or removed from the list by one of the list administrators.\r\n      \r\n
+  \       You can subscribe by filling out the following form. You will be sent a
+  verification e-mail.\r\n       \r\n        Your e-mail address:   \r\n        Your
+  name or username (optional):   \r\n        You can enter a privacy password below.
+  This provides only mild security, because it will occasionally be e-mailed back
+  to you in cleartext. Do not use a valuable password.\r\n       \r\n        If you
+  do not enter a password, a random one will be automatically generated and sent to
+  you once you have confirmed your subscription. You can always request a mail-back
+  of your password when you edit your personal options.\r\n       \r\n        Password:
+    \r\n        Re-enter your password:   \r\n        Would you prefer to receive
+  all list e-mails separately, or together in a single daily digest e-mail? Separate
+  e-mails    Daily Digest\r\n       \r\n        \r\n       To change your mailing
+  list options (such as to turn off mailings) or to unsubscribe completely from the
+  mailing list, please log in with your e-mail address below.\r\n      \r\n       You
+  will be asked to provide your mailing list password. If cannot remember it, you
+  will be able to request a password reminder.\r\n      \r\n         \r\n       The
+  WikiEN-l mailing list administrators can be contacted collectively by e-mail at
+  wikien-l-owner a t lists.wikimedia.org\r\n      \r\n       The WikiEN-l mailing
+  list administrators are:\r\n      "

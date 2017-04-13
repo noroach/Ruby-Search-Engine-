@@ -1,0 +1,631 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors: []
+address: https://lists.wikimedia.org/mailman/options/daily-article-l
+inboundLinks: []
+lines:
+- |2+
+
+- |2+
+
+- |
+  daily-article-l list: member options login page
+- "  \n"
+- |
+  In order to change your membership option, you must
+- |2
+      first log in by giving your email address and membership password in the section
+- |2
+      below.  If you don't remember your membership password, you can have it
+- |2
+      emailed to you by clicking on the button below.  If you just want to
+- |2
+      unsubscribe from this list, click on the Unsubscribe button and a
+- |2
+      confirmation message will be sent to you.
+- |2+
+
+- |2
+      Important: From this point on, you must have
+- |2
+      cookies enabled in your browser, otherwise none of your changes will take
+- |2
+      effect.
+- "    \n"
+- "    \n"
+- |2
+            Email address:
+- "              \n"
+- |2
+              Password:
+- "              \n"
+- "            \n"
+- "            \n"
+- |2
+      Unsubscribe
+- |2
+      By clicking on the Unsubscribe button, a
+- |2
+      confirmation message will be emailed to you.  This message will have a
+- |2
+      link that you should click on to complete the removal process (you can
+- |2
+      also confirm by email; see the instructions in the confirmation
+- |2
+      message).
+- "    \n"
+- |2
+      Password reminder
+- |2
+      By clicking on the Remind button, your
+- |2
+      password will be emailed to you.
+- "    \n"
+- "    \n"
+- |
+  daily-article-l list run by dal-feedback at wikimedia.orgdaily-article-l administrative interface (requires authorization)Overview of all lists.wikimedia.org mailing lists
+- |
+  version 2.1.18
+- "    \n"
+- "    \n"
+- "    \n"
+- "  \n"
+- |
+  Important: From this point on, you must have
+- |2
+      cookies enabled in your browser, otherwise none of your changes will take
+- |2
+      effect.
+- "    \n"
+index:
+  daily: !ruby/object:Word
+    word: daily
+    stem: daili
+    docFrequency: 3.0
+    docPositions:
+    - 2
+    - 34
+  article: !ruby/object:Word
+    word: article
+    stem: articl
+    docFrequency: 4.0
+    docPositions:
+    - 2
+    - 34
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 4.0
+    docPositions:
+    - 2
+    - 34
+  list: !ruby/object:Word
+    word: list
+    stem: list
+    docFrequency: 4.0
+    docPositions:
+    - 2
+    - 8
+    - 34
+  member: !ruby/object:Word
+    word: member
+    stem: member
+    docFrequency: 2.0
+    docPositions:
+    - 2
+  options: !ruby/object:Word
+    word: options
+    stem: option
+    docFrequency: 2.0
+    docPositions:
+    - 2
+  login: !ruby/object:Word
+    word: login
+    stem: login
+    docFrequency: 2.0
+    docPositions:
+    - 2
+  page: !ruby/object:Word
+    word: page
+    stem: page
+    docFrequency: 2.0
+    docPositions:
+    - 2
+  order: !ruby/object:Word
+    word: order
+    stem: order
+    docFrequency: 2.0
+    docPositions:
+    - 4
+  change: !ruby/object:Word
+    word: change
+    stem: chang
+    docFrequency: 2.0
+    docPositions:
+    - 4
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 9.0
+    docPositions:
+    - 4
+    - 5
+    - 6
+    - 12
+    - 30
+    - 41
+  membership: !ruby/object:Word
+    word: membership
+    stem: membership
+    docFrequency: 4.0
+    docPositions:
+    - 4
+    - 5
+    - 6
+  option: !ruby/object:Word
+    word: option
+    stem: option
+    docFrequency: 2.0
+    docPositions:
+    - 4
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 13.0
+    docPositions:
+    - 4
+    - 6
+    - 7
+    - 9
+    - 11
+    - 24
+    - 25
+    - 31
+    - 40
+  must: !ruby/object:Word
+    word: must
+    stem: must
+    docFrequency: 4.0
+    docPositions:
+    - 4
+    - 11
+    - 40
+  first: !ruby/object:Word
+    word: first
+    stem: first
+    docFrequency: 2.0
+    docPositions:
+    - 5
+  log: !ruby/object:Word
+    word: log
+    stem: log
+    docFrequency: 2.0
+    docPositions:
+    - 5
+  giving: !ruby/object:Word
+    word: giving
+    stem: give
+    docFrequency: 2.0
+    docPositions:
+    - 5
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 4.0
+    docPositions:
+    - 5
+    - 16
+    - 26
+  address: !ruby/object:Word
+    word: address
+    stem: address
+    docFrequency: 3.0
+    docPositions:
+    - 5
+    - 16
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 3.0
+    docPositions:
+    - 5
+    - 8
+  password: !ruby/object:Word
+    word: password
+    stem: password
+    docFrequency: 6.0
+    docPositions:
+    - 5
+    - 6
+    - 18
+    - 29
+    - 31
+  section: !ruby/object:Word
+    word: section
+    stem: section
+    docFrequency: 2.0
+    docPositions:
+    - 5
+  below: !ruby/object:Word
+    word: below
+    stem: below
+    docFrequency: 3.0
+    docPositions:
+    - 6
+    - 7
+  if: !ruby/object:Word
+    word: if
+    stem: if
+    docFrequency: 3.0
+    docPositions:
+    - 6
+    - 7
+  don: !ruby/object:Word
+    word: don
+    stem: don
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  remember: !ruby/object:Word
+    word: remember
+    stem: rememb
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  can: !ruby/object:Word
+    word: can
+    stem: can
+    docFrequency: 3.0
+    docPositions:
+    - 6
+    - 25
+  have: !ruby/object:Word
+    word: have
+    stem: have
+    docFrequency: 5.0
+    docPositions:
+    - 6
+    - 11
+    - 24
+    - 40
+  emailed: !ruby/object:Word
+    word: emailed
+    stem: email
+    docFrequency: 4.0
+    docPositions:
+    - 7
+    - 24
+    - 31
+  clicking: !ruby/object:Word
+    word: clicking
+    stem: click
+    docFrequency: 4.0
+    docPositions:
+    - 7
+    - 23
+    - 30
+  button: !ruby/object:Word
+    word: button
+    stem: button
+    docFrequency: 5.0
+    docPositions:
+    - 7
+    - 8
+    - 23
+    - 30
+  just: !ruby/object:Word
+    word: just
+    stem: just
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  want: !ruby/object:Word
+    word: want
+    stem: want
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  unsubscribe: !ruby/object:Word
+    word: unsubscribe
+    stem: unsubscrib
+    docFrequency: 5.0
+    docPositions:
+    - 8
+    - 22
+    - 23
+  click: !ruby/object:Word
+    word: click
+    stem: click
+    docFrequency: 3.0
+    docPositions:
+    - 8
+    - 25
+  confirmation: !ruby/object:Word
+    word: confirmation
+    stem: confirm
+    docFrequency: 4.0
+    docPositions:
+    - 9
+    - 24
+    - 26
+  message: !ruby/object:Word
+    word: message
+    stem: messag
+    docFrequency: 5.0
+    docPositions:
+    - 9
+    - 24
+    - 27
+  sent: !ruby/object:Word
+    word: sent
+    stem: sent
+    docFrequency: 2.0
+    docPositions:
+    - 9
+  important: !ruby/object:Word
+    word: important
+    stem: import
+    docFrequency: 3.0
+    docPositions:
+    - 11
+    - 40
+  point: !ruby/object:Word
+    word: point
+    stem: point
+    docFrequency: 3.0
+    docPositions:
+    - 11
+    - 40
+  cookies: !ruby/object:Word
+    word: cookies
+    stem: cooki
+    docFrequency: 3.0
+    docPositions:
+    - 12
+    - 41
+  enabled: !ruby/object:Word
+    word: enabled
+    stem: enabl
+    docFrequency: 3.0
+    docPositions:
+    - 12
+    - 41
+  browser: !ruby/object:Word
+    word: browser
+    stem: browser
+    docFrequency: 3.0
+    docPositions:
+    - 12
+    - 41
+  otherwise: !ruby/object:Word
+    word: otherwise
+    stem: otherwis
+    docFrequency: 3.0
+    docPositions:
+    - 12
+    - 41
+  none: !ruby/object:Word
+    word: none
+    stem: none
+    docFrequency: 3.0
+    docPositions:
+    - 12
+    - 41
+  changes: !ruby/object:Word
+    word: changes
+    stem: chang
+    docFrequency: 3.0
+    docPositions:
+    - 12
+    - 41
+  take: !ruby/object:Word
+    word: take
+    stem: take
+    docFrequency: 3.0
+    docPositions:
+    - 12
+    - 41
+  effect: !ruby/object:Word
+    word: effect
+    stem: effect
+    docFrequency: 3.0
+    docPositions:
+    - 13
+    - 42
+  link: !ruby/object:Word
+    word: link
+    stem: link
+    docFrequency: 2.0
+    docPositions:
+    - 25
+  should: !ruby/object:Word
+    word: should
+    stem: should
+    docFrequency: 2.0
+    docPositions:
+    - 25
+  complete: !ruby/object:Word
+    word: complete
+    stem: complet
+    docFrequency: 2.0
+    docPositions:
+    - 25
+  removal: !ruby/object:Word
+    word: removal
+    stem: remov
+    docFrequency: 2.0
+    docPositions:
+    - 25
+  process: !ruby/object:Word
+    word: process
+    stem: process
+    docFrequency: 2.0
+    docPositions:
+    - 25
+  also: !ruby/object:Word
+    word: also
+    stem: also
+    docFrequency: 2.0
+    docPositions:
+    - 26
+  confirm: !ruby/object:Word
+    word: confirm
+    stem: confirm
+    docFrequency: 2.0
+    docPositions:
+    - 26
+  see: !ruby/object:Word
+    word: see
+    stem: see
+    docFrequency: 2.0
+    docPositions:
+    - 26
+  instructions: !ruby/object:Word
+    word: instructions
+    stem: instruct
+    docFrequency: 2.0
+    docPositions:
+    - 26
+  reminder: !ruby/object:Word
+    word: reminder
+    stem: remind
+    docFrequency: 2.0
+    docPositions:
+    - 29
+  remind: !ruby/object:Word
+    word: remind
+    stem: remind
+    docFrequency: 2.0
+    docPositions:
+    - 30
+  run: !ruby/object:Word
+    word: run
+    stem: run
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  dal: !ruby/object:Word
+    word: dal
+    stem: dal
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  feedback: !ruby/object:Word
+    word: feedback
+    stem: feedback
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  wikimedia: !ruby/object:Word
+    word: wikimedia
+    stem: wikimedia
+    docFrequency: 3.0
+    docPositions:
+    - 34
+  orgdaily: !ruby/object:Word
+    word: orgdaily
+    stem: orgdaili
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  administrative: !ruby/object:Word
+    word: administrative
+    stem: administr
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  interface: !ruby/object:Word
+    word: interface
+    stem: interfac
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  requires: !ruby/object:Word
+    word: requires
+    stem: requir
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  authorization: !ruby/object:Word
+    word: authorization
+    stem: author
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  overview: !ruby/object:Word
+    word: overview
+    stem: overview
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  all: !ruby/object:Word
+    word: all
+    stem: all
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  lists: !ruby/object:Word
+    word: lists
+    stem: list
+    docFrequency: 3.0
+    docPositions:
+    - 34
+  org: !ruby/object:Word
+    word: org
+    stem: org
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  mailing: !ruby/object:Word
+    word: mailing
+    stem: mail
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  version: !ruby/object:Word
+    word: version
+    stem: version
+    docFrequency: 2.0
+    docPositions:
+    - 35
+lineCount: 44
+wordCount: 209
+rank: 0.25
+title: 'daily-article-l list: member options login page'
+links:
+- http://www.gnu.org/software/mailman/index.html
+- http://www.python.org/
+- http://www.gnu.org/
+- http://www.debian.org/
+rawText: "\n\ndaily-article-l list: member options login page\n  \nIn order to change
+  your membership option, you must\n    first log in by giving your email address
+  and membership password in the section\n    below.  If you don't remember your membership
+  password, you can have it\n    emailed to you by clicking on the button below.  If
+  you just want to\n    unsubscribe from this list, click on the Unsubscribe button
+  and a\n    confirmation message will be sent to you.\n\n    Important: From this
+  point on, you must have\n    cookies enabled in your browser, otherwise none of
+  your changes will take\n    effect.\n    \n    \n          Email address:\n              \n
+  \           Password:\n              \n            \n            \n    Unsubscribe\n
+  \   By clicking on the Unsubscribe button, a\n    confirmation message will be emailed
+  to you.  This message will have a\n    link that you should click on to complete
+  the removal process (you can\n    also confirm by email; see the instructions in
+  the confirmation\n    message).\n    \n    Password reminder\n    By clicking on
+  the Remind button, your\n    password will be emailed to you.\n    \n    \ndaily-article-l
+  list run by dal-feedback at wikimedia.orgdaily-article-l administrative interface
+  (requires authorization)Overview of all lists.wikimedia.org mailing lists\nversion
+  2.1.18\n    \n    \n    \n  \nImportant: From this point on, you must have\n    cookies
+  enabled in your browser, otherwise none of your changes will take\n    effect.\n
+  \   \n"

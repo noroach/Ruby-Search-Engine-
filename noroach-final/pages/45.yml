@@ -1,0 +1,4008 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors:
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag nav invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 126
+    str1: nav
+    str2: 
+    str3: 
+    int1: 0
+    column: 203
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag main invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 130
+    str1: main
+    str2: 
+    str3: 
+    int1: 0
+    column: 53
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag section invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 133
+    str1: section
+    str2: 
+    str3: 
+    int1: 0
+    column: 53
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag section invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 134
+    str1: section
+    str2: 
+    str3: 
+    int1: 0
+    column: 60
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag section invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 140
+    str1: section
+    str2: 
+    str3: 
+    int1: 0
+    column: 72
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      ID connect-filter-search already defined
+    domain: 23
+    code: 513
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 141
+    str1: connect-filter-search
+    str2: connect-filter-search
+    str3: 
+    int1: 0
+    column: 256
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: expecting ';'
+    domain: 5
+    code: 23
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 166
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 37793
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: expecting ';'
+    domain: 5
+    code: 23
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 166
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 37805
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: expecting ';'
+    domain: 5
+    code: 23
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 166
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 61941
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: expecting ';'
+    domain: 5
+    code: 23
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 166
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 76692
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag section invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 175
+    str1: section
+    str2: 
+    str3: 
+    int1: 0
+    column: 126
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag section invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 189
+    str1: section
+    str2: 
+    str3: 
+    int1: 0
+    column: 56
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag footer invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 250
+    str1: footer
+    str2: 
+    str3: 
+    int1: 0
+    column: 122
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag nav invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1vk0l6"
+    line: 269
+    str1: nav
+    str2: 
+    str3: 
+    int1: 0
+    column: 158
+address: https://www.indiana.edu/social/index.html
+inboundLinks: []
+lines:
+- |2+
+
+- "   \n"
+- "\r\n"
+- "\r\n"
+- "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\n"
+- "new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\n"
+- "j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n"
+- "'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n"
+- |
+  })(window,document,'script','dataLayer','GTM-NF6HQX');
+- |
+  Skip to Content
+- |
+  Skip to Main Navigation
+- |
+  Skip to Search
+- |2+
+
+- "    \n"
+- |2+
+
+- "        \n"
+- "        \n"
+- "    \n"
+- "        \n"
+- "        \n"
+- "        \n"
+- "            \n"
+- "\t\n"
+- "\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\tIndiana University Bloomington\n"
+- "\t\t\t\t\tIndiana University Bloomington\n"
+- "\t\t\t\t\tIU Bloomington\n"
+- "\t\t\t\t\n"
+- "\t\t\t\n"
+- "\t\n"
+- "        \n"
+- "    \n"
+- "        \n"
+- "        \n"
+- "        \n"
+- "            \n"
+- "    \n"
+- |2
+          Menu
+- |2
+          Search
+- "    \n"
+- |2+
+
+- |2+
+
+- |2+
+
+- "        \n"
+- "    \n"
+- "        \n"
+- "            \n"
+- |2
+              HomeAboutAdmissionsAcademicsResearchHoosier LifeYour FutureAlumni & GivingNews & EventsSearchHomeSocial MediaSocial MediaLet’s get socialLooking for a social media account at IU Bloomington? You’re in the right place! Explore this list of IU Bloomington social networks and get connected.
+- "Something missing? Submit your official IU Bloomington accounts by filling out
+  the request form.Filter Your ChoicesWhat  AllAcademicArtsAthleticsLibrariesNewsPrimaryServiceStudent
+  GroupName\r\n"
+- "      F\r\n"
+- "      T\r\n"
+- "      Y\r\n"
+- "      G\r\n"
+- "      L\r\n"
+- "      B\r\n"
+- "      V\r\n"
+- "      F\r\n"
+- "      P\r\n"
+- "      I\r\n"
+- |2
+      Admissions (Undergraduate) (Bloomington)FacebookTwitterYouTube    FlickrPinterestInstagramAfrican American and African Diaspora Studies, Dept. of (Bloomington)Facebook         African American Arts InstituteFacebookTwitterYouTube      InstagramAfrican Studies Program (Bloomington)Facebook         American Constitution Society (ACS) (Bloomington) Twitter        Art at IU Twitter   Blog    Asian Culture Center (Bloomington)FacebookTwitter        Athletics (Bloomington)FacebookTwitterYouTube     Pinterest Basketball, Men's (Bloomington)FacebookTwitter        Basketball, Women's (Bloomington)FacebookTwitter        Biology, Dept. of (Bloomington)FacebookTwitter   Blog    Black Film Center/Archive (Bloomington)FacebookTwitter   Blog    Bloomington Professional CouncilFacebook   LinkedIn     Borns Jewish Studies Program (Bloomington)Facebook         Business, Kelley School of (Bloomington)FacebookTwitterYouTubeGoogle PlusLinkedInBlog  PinterestInstagramCenter for Aging and CommunityFacebookTwitterYouTube  Blog Flickr  Center for Languages of the Central Asian Region (Bloomington)FacebookTwitterYouTubeGoogle Plus      Center for Latin American and Caribbean Studies (Bloomington)FacebookTwitter     Flickr  Center for the Study of Global Change (Bloomington)Facebook         Center for the Study of the Middle East (Bloomington)FacebookTwitterYouTube      InstagramCenter of Excellence for Women in Tehchnology (CEWiT)FacebookTwitter      Pinterest Center on American and Global Security (Bloomington)FacebookTwitter        Chemistry, Dept. of (Bloomington)FacebookTwitter        Chinese Flagship Center (Bloomington)Facebook         College of Arts and Sciences (Bloomington)FacebookTwitter        Communication and Culture, Dept. of (Bloomington)Facebook    Blog    Communication and Culture, Dept. of (Graduate)Facebook    Blog    Dhar India Studies Program (Bloomington)Facebook         East Asian Languages and Culture, Dept. of (Bloomington)Facebook         East Asian Studies Center (Bloomington)Facebook YouTube       Education, School of (Bloomington)FacebookTwitterYouTube   Vimeo   Environmental Health, Dept. of (Bloomington)FacebookTwitter        First Year Experience (FYE) (Bloomington)FacebookTwitterYouTube       Folklore and Ethnomusicology, Dept. of (Bloomington)Facebook YouTube       French and Italian, Dept. of (Bloomington)Facebook YouTube       Geography, Department of (Bloomington)FacebookTwitter      Pinterest Geological Sciences, Dept. of (Bloomington)Facebook         Germanic Studies, Dept. of (Bloomington)Facebook         Global and International Studies, School of (Bloomington)Facebook         Graduate and Professional Student Organization (GPSO) (Bloomington)FacebookTwitter  LinkedIn    InstagramGrunwald Gallery of ArtFacebookTwitter   Blog   InstagramHistory, Dept. of (Bloomington)FacebookTwitter        Honors Program in Foreign LanguagesFacebook YouTube    Flickr  Human Resources, BloomingtonFacebookTwitter        Indiana Memorial Uninon HotelFacebookTwitter        Informatics and Computing, School of (Bloomington)FacebookTwitterYouTube LinkedIn   PinterestInstagramInformation and Library Sciences, Dept. of (Bloomington)FacebookTwitter  LinkedIn    InstagramInstitute for European Studies (Bloomington)Facebook    BlogVimeo   Institute for International Business (Bloomington)FacebookTwitter        International Admissions (Bloomington)Facebook         International Delegations: Office of the President     Blog Flickr  International Services, Office ofFacebookTwitterYouTube      InstagramInternational Studies, Dept. of (Bloomington)Facebook   LinkedInBlog    Islamic Studies Program (Bloomington)Facebook         IT TrainingFacebookTwitterYouTubeGoogle Plus    PinterestInstagramIU Alumni Association (IUAA)FacebookTwitterYouTube LinkedIn  Flickr  IU Art MusuemFacebookTwitter   Blog    IU AuditoriumFacebookTwitter        IU BloomingtonFacebookTwitterYouTubeGoogle PlusLinkedInBlog  PinterestInstagramIU Bookstore (Bloomington)FacebookTwitter        IU Campus Bus (Bloomington)FacebookTwitter        IU CinemaFacebookTwitterYouTube     PinterestInstagramIU Communications TwitterYouTube       IU FoundationFacebookTwitterYouTube LinkedIn  Flickr InstagramIU Health and Wellness News Twitter Google Plus Blog    IU Health Center (Bloomington) Twitter        IU Latino Alumni Association (IULAA)FacebookTwitter  LinkedIn  Flickr  IU LibrariesFacebookTwitterYouTube  Blog Flickr  IU PressFacebookTwitterYouTubeGoogle Plus  Vimeo   IU Student FoundationFacebookTwitter        IU Summer Language Workshop (Bloomington)FacebookTwitterYouTube       IU Surplus Store (Bloomington)FacebookTwitter        IU Tech StoreFacebookTwitter        IU Tennis Center (Bloomington)FacebookTwitter        IU Visitor Information Center (Bloomington)FacebookTwitter        Japanese Animation and Culture Club (Bloomington)Facebook         Journalism, School of (Bloomington)FacebookTwitter  LinkedIn Vimeo   Kelley DirectFacebookTwitterYouTube LinkedInBlog  Pinterest Kelley Living Learning Center Twitter        Kelley MBA (Bloomington)FacebookTwitterYouTube  Blog  Pinterest Kelley School of Business (Undergraduate)  YouTube       Kinsey InstituteFacebookTwitterYouTubeGoogle Plus Blog    La Casa - Latino Cultural Center (Bloomington)FacebookTwitter        Liberal Arts Management ProgramFacebook         Law, Maurer School of (Bloomington)FacebookTwitterYouTube LinkedIn     LEAD IUB Twitter        LEAD IUBFacebook   LinkedIn     Linguistics, Dept. of (Bloomington)Facebook         Mathers MuseumFacebookTwitter Google Plus   FlickrPinterest Media School, TheFacebookTwitterYouTubeGoogle PlusLinkedInBlog   InstagramMedieval Studies Institute (Bloomington)FacebookTwitter        Music, Jacobs School of (Bloomington)FacebookTwitterYouTube       National Center on AccessibilityFacebook         Neal Mashall Black Culture CenterFacebookTwitter        Near Eastern Languages and Cultures, Dept. of (Bloomington)Facebook         Opera & Ballet Theater (Bloomington)FacebookTwitterYouTube       Optometry, School ofFacebookTwitter        Overseas Study, Office ofFacebookTwitterYouTube LinkedInBlog Flickr  Parking OperationsFacebookTwitter      Pinterest Political And Civic Engagement (PACE)Facebook YouTube       Poynter Center for the Study of EthicsFacebook   LinkedIn     Process Experience Architecture Group Twitter        Psychological and Brain Sciences, Dept. of (Bloomington)FacebookTwitter  LinkedIn VimeoFlickr  Public and Environmental Affairs, School of (SPEA) (Bloomington)FacebookTwitterYouTube LinkedIn    InstagramPublic Health Office of Career Services, School ofFacebookTwitterYouTube LinkedInBlog    Public Health-Bloomington, IU School ofFacebookTwitter  LinkedIn  Flickr  Recreational Sports (Bloomington)FacebookTwitterYouTube       Registrar, Office of the (Bloomington)FacebookTwitter        Residential Programs and Services (Bloomington)FacebookTwitterYouTube     PinterestInstagramRussian and East European Institute (Bloomington)Facebook         Scholarships, Office of (Bloomington)FacebookTwitterYouTube      InstagramSPEA OverseasFacebookTwitter   Blog    Speech and Hearing Science, Dept. of (Bloomington)Facebook         Street Smart Party AnimalsFacebookTwitter        Student Legal Services (Bloomington)FacebookTwitter   Blog    Student Life and Learning (Bloomington)FacebookTwitter        Students for Life at IU (Bloomington)Facebook         Sustainability, Office of (Bloomington)FacebookTwitter   Blog    Telecommunications, Dept. of (Bloomington)Facebook         Theatre and Drama, Dept. of (Bloomington)FacebookTwitterYouTube  Blog   InstagramThemesterFacebookTwitter   Blog    UITS IT News TwitterYouTube       UITS Technology Center Consulting (Bloomington)FacebookTwitter        University Archives Twitter   Blog    University Graduate School (Bloomington)FacebookTwitter      Pinterest Varsity ClubFacebookTwitter Google Plus     InstagramVice Provost for Research (Bloomington)FacebookTwitter        We Are IUFacebookTwitter   Blog  Pinterest WFIU Public RadioFacebookTwitter     Flickr  Women in IT at IUFacebookTwitter        WTIU Public TelevisionFacebookTwitterYouTube LinkedIn  Flickr  
+- |
+  Twitter
+- |
+  Facebook
+- |
+  Instagram
+- |
+  YouTube
+- |
+  Pinterest
+- |
+  LinkedIn
+- |
+  Google Plus
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Services
+- |
+  Canvas
+- |
+  Oncourse
+- |
+  One.IU
+- |2+
+
+- |2+
+
+- |
+  Find
+- |
+  People
+- |
+  Social Media
+- |
+  A-Z List
+- |
+  Courses
+- |
+  Campus Map
+- |2+
+
+- |2+
+
+- |
+  Library
+- |
+  IU Bloomington Libraries
+- |
+  IUCAT
+- |
+  OneSearch@IU
+- |2+
+
+- |2+
+
+- |
+  Resources
+- |
+  Knowledge Base
+- |
+  IT Services
+- |
+  Faculty & Staff Resources
+- |2+
+
+- |2+
+
+- |
+  Email
+- |
+  Imail
+- |
+  Umail
+- |
+  Outlook Web Access
+- |
+  Webmail
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Indiana University Bloomington
+- |2+
+
+- |
+  107 S. Indiana AvenueBloomington, IN47405-7000
+- |2
+   Phone: 812-855-4848
+- |2+
+
+- |
+  askiu@iu.edu
+- |2+
+
+- |2+
+
+- |2+
+
+- "\t\tFulfilling the Promise\n"
+- |2+
+
+- "\t\t\n"
+- "\t\t\tCopyright © 2015 The Trustees of Indiana University\n"
+- "\t\t\n"
+- |2+
+
+- "\t\tPrivacy Notice\n"
+- |2+
+
+- "\t\n"
+- |2+
+
+- "        \n"
+- |2+
+
+- |2+
+
+- |
+  AboutRankings & Campus Statistics
+- |
+  History
+- |
+  Fulfilling the Promise
+- |
+  Mission
+- |2+
+
+- |
+  Campus InitiativesDiversity
+- |
+  Global Partnerships & Programs
+- |
+  Arts & Humanities
+- |2
+    New Schools & Programs
+- |2+
+
+- |
+  Leadership & Administration
+- |
+  Campus Map
+- |
+  Safety & Emergency Information
+- |
+  Transportation & Parking
+- |
+  Employment
+- |
+  A-Z List
+- |
+  How to Hire IU Students
+- |2+
+
+- |2+
+
+- |
+  AdmissionsHow to Apply
+- |
+  Cost & Finances
+- |
+  Visit IU & Bloomington
+- |2+
+
+- |2+
+
+- |
+  AcademicsThe Academic Experience
+- |
+  Degrees & Majors
+- |
+  Schools
+- |
+  Academic Opportunities
+- |
+  Study Abroad
+- |
+  Online Classes & Programs
+- |
+  Schedule of Classes & Academic Calendar
+- |
+  Academic Advising & Support
+- |
+  Libraries
+- |2+
+
+- |2+
+
+- |
+  ResearchResearch Experiences
+- |
+  Research Centers
+- |
+  Research Resources for Faculty
+- |2+
+
+- |2+
+
+- |
+  Hoosier LifeTraditions & Spirit
+- |
+  Student Organizations
+- |
+  Recreational Sports
+- |
+  Athletics
+- |
+  Health, Wellness & Safety
+- |
+  Housing & Dining
+- |
+  Visiting Bloomington
+- |
+  Attractions & Things to Do
+- |2+
+
+- |2+
+
+- |
+  Your FutureFind Your Passion
+- |
+  Get Experience
+- |
+  Develop Your Career
+- |
+  Use Your Network
+- |
+  Success Stories
+- |2+
+
+- |
+  Alumni & Giving
+- |
+  News & Events
+- |2+
+
+- "        \n"
+- "    \n"
+- "    \n"
+- "    \n"
+- |2+
+
+- "        \n"
+- "        \n"
+- "// \n"
+- |2+
+
+- "// \n"
+- |2+
+
+- "// \n"
+- |2+
+
+- "// \n"
+- |2+
+
+- "// \n"
+- |2+
+
+- "// \n"
+- |2+
+
+- "// \n"
+- |2+
+
+- "// \n"
+- |2+
+
+- "// \n"
+- |2+
+
+- "// \n"
+- |2+
+
+- "\t\t\t\t\n"
+- "\t\t\t\t\tIndiana University Bloomington\n"
+- "\t\t\t\t\tIndiana University Bloomington\n"
+- "\t\t\t\t\tIU Bloomington\n"
+- "\t\t\t\t\n"
+- "\t\t\tLooking for a social media account at IU Bloomington? You’re in the right
+  place! Explore this list of IU Bloomington social networks and get connected.Something
+  missing? Submit your official IU Bloomington accounts by filling out the request
+  form.What  AllAcademicArtsAthleticsLibrariesNewsPrimaryServiceStudent GroupIndiana
+  University BloomingtonFulfilling the Promise\n"
+- "\t\t\tCopyright © 2015 The Trustees of Indiana University\n"
+- "\t\tPrivacy Notice\n"
+- |2+
+
+- "\t"
+index:
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 4
+    docPositions:
+    - 4
+    - 7
+    - 8
+  function: !ruby/object:Word
+    word: function
+    stem: function
+    docFrequency: 2
+    docPositions:
+    - 4
+  w: !ruby/object:Word
+    word: w
+    stem: w
+    docFrequency: 5
+    docPositions:
+    - 4
+  d: !ruby/object:Word
+    word: d
+    stem: d
+    docFrequency: 4
+    docPositions:
+    - 4
+    - 5
+    - 6
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 8
+    docPositions:
+    - 4
+    - 5
+    - 6
+    - 48
+    - 60
+    - 107
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 9
+    docPositions:
+    - 4
+    - 6
+    - 54
+  i: !ruby/object:Word
+    word: i
+    stem: i
+    docFrequency: 4
+    docPositions:
+    - 4
+    - 7
+    - 59
+  push: !ruby/object:Word
+    word: push
+    stem: push
+    docFrequency: 2
+    docPositions:
+    - 4
+  gtm: !ruby/object:Word
+    word: gtm
+    stem: gtm
+    docFrequency: 5
+    docPositions:
+    - 4
+    - 5
+    - 7
+    - 8
+  start: !ruby/object:Word
+    word: start
+    stem: start
+    docFrequency: 2
+    docPositions:
+    - 4
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 3
+    docPositions:
+    - 5
+    - 135
+  date: !ruby/object:Word
+    word: date
+    stem: date
+    docFrequency: 2
+    docPositions:
+    - 5
+  gettime: !ruby/object:Word
+    word: gettime
+    stem: gettim
+    docFrequency: 2
+    docPositions:
+    - 5
+  event: !ruby/object:Word
+    word: event
+    stem: event
+    docFrequency: 2
+    docPositions:
+    - 5
+  f: !ruby/object:Word
+    word: f
+    stem: f
+    docFrequency: 6
+    docPositions:
+    - 5
+    - 7
+    - 50
+    - 57
+  getelementsbytagname: !ruby/object:Word
+    word: getelementsbytagname
+    stem: getelementsbytagnam
+    docFrequency: 2
+    docPositions:
+    - 5
+  j: !ruby/object:Word
+    word: j
+    stem: j
+    docFrequency: 5
+    docPositions:
+    - 6
+    - 7
+  createelement: !ruby/object:Word
+    word: createelement
+    stem: createel
+    docFrequency: 2
+    docPositions:
+    - 6
+  dl: !ruby/object:Word
+    word: dl
+    stem: dl
+    docFrequency: 3
+    docPositions:
+    - 6
+    - 7
+  datalayer: !ruby/object:Word
+    word: datalayer
+    stem: datalay
+    docFrequency: 3
+    docPositions:
+    - 6
+    - 8
+  async: !ruby/object:Word
+    word: async
+    stem: async
+    docFrequency: 2
+    docPositions:
+    - 6
+  'true': !ruby/object:Word
+    word: 'true'
+    stem: 'true'
+    docFrequency: 2
+    docPositions:
+    - 6
+  googletagmanager: !ruby/object:Word
+    word: googletagmanager
+    stem: googletagmanag
+    docFrequency: 2
+    docPositions:
+    - 7
+  id: !ruby/object:Word
+    word: id
+    stem: id
+    docFrequency: 2
+    docPositions:
+    - 7
+  parentnode: !ruby/object:Word
+    word: parentnode
+    stem: parentnod
+    docFrequency: 2
+    docPositions:
+    - 7
+  insertbefore: !ruby/object:Word
+    word: insertbefore
+    stem: insertbefor
+    docFrequency: 2
+    docPositions:
+    - 7
+  window: !ruby/object:Word
+    word: window
+    stem: window
+    docFrequency: 2
+    docPositions:
+    - 8
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 2
+    docPositions:
+    - 8
+  script: !ruby/object:Word
+    word: script
+    stem: script
+    docFrequency: 2
+    docPositions:
+    - 8
+  skip: !ruby/object:Word
+    word: skip
+    stem: skip
+    docFrequency: 4
+    docPositions:
+    - 9
+    - 10
+    - 11
+  content: !ruby/object:Word
+    word: content
+    stem: content
+    docFrequency: 2
+    docPositions:
+    - 9
+  main: !ruby/object:Word
+    word: main
+    stem: main
+    docFrequency: 2
+    docPositions:
+    - 10
+  navigation: !ruby/object:Word
+    word: navigation
+    stem: navig
+    docFrequency: 2
+    docPositions:
+    - 10
+  search: !ruby/object:Word
+    word: search
+    stem: search
+    docFrequency: 3
+    docPositions:
+    - 11
+    - 39
+  indiana: !ruby/object:Word
+    word: indiana
+    stem: indiana
+    docFrequency: 10
+    docPositions:
+    - 25
+    - 26
+    - 60
+    - 105
+    - 107
+    - 117
+    - 214
+    - 215
+    - 219
+  university: !ruby/object:Word
+    word: university
+    stem: univers
+    docFrequency: 11
+    docPositions:
+    - 25
+    - 26
+    - 60
+    - 105
+    - 117
+    - 214
+    - 215
+    - 218
+    - 219
+  bloomington: !ruby/object:Word
+    word: bloomington
+    stem: bloomington
+    docFrequency: 95
+    docPositions:
+    - 25
+    - 26
+    - 27
+    - 48
+    - 49
+    - 60
+    - 86
+    - 105
+    - 148
+    - 173
+    - 214
+    - 215
+    - 216
+    - 218
+  iu: !ruby/object:Word
+    word: iu
+    stem: iu
+    docFrequency: 34
+    docPositions:
+    - 27
+    - 48
+    - 49
+    - 60
+    - 74
+    - 86
+    - 88
+    - 110
+    - 143
+    - 148
+    - 216
+    - 218
+  menu: !ruby/object:Word
+    word: menu
+    stem: menu
+    docFrequency: 2
+    docPositions:
+    - 38
+  homeaboutadmissionsacademicsresearchhoosier: !ruby/object:Word
+    word: homeaboutadmissionsacademicsresearchhoosier
+    stem: homeaboutadmissionsacademicsresearchhoosi
+    docFrequency: 2
+    docPositions:
+    - 48
+  lifeyour: !ruby/object:Word
+    word: lifeyour
+    stem: lifeyour
+    docFrequency: 2
+    docPositions:
+    - 48
+  futurealumni: !ruby/object:Word
+    word: futurealumni
+    stem: futurealumni
+    docFrequency: 2
+    docPositions:
+    - 48
+  givingnews: !ruby/object:Word
+    word: givingnews
+    stem: givingnew
+    docFrequency: 2
+    docPositions:
+    - 48
+  eventssearchhomesocial: !ruby/object:Word
+    word: eventssearchhomesocial
+    stem: eventssearchhomesoci
+    docFrequency: 2
+    docPositions:
+    - 48
+  mediasocial: !ruby/object:Word
+    word: mediasocial
+    stem: mediasoci
+    docFrequency: 2
+    docPositions:
+    - 48
+  medialet: !ruby/object:Word
+    word: medialet
+    stem: medialet
+    docFrequency: 2
+    docPositions:
+    - 48
+  get: !ruby/object:Word
+    word: get
+    stem: get
+    docFrequency: 5
+    docPositions:
+    - 48
+    - 178
+    - 218
+  sociallooking: !ruby/object:Word
+    word: sociallooking
+    stem: sociallook
+    docFrequency: 2
+    docPositions:
+    - 48
+  social: !ruby/object:Word
+    word: social
+    stem: social
+    docFrequency: 6
+    docPositions:
+    - 48
+    - 79
+    - 218
+  media: !ruby/object:Word
+    word: media
+    stem: media
+    docFrequency: 5
+    docPositions:
+    - 48
+    - 60
+    - 79
+    - 218
+  account: !ruby/object:Word
+    word: account
+    stem: account
+    docFrequency: 3
+    docPositions:
+    - 48
+    - 218
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 3
+    docPositions:
+    - 48
+    - 218
+  re: !ruby/object:Word
+    word: re
+    stem: re
+    docFrequency: 3
+    docPositions:
+    - 48
+    - 218
+  right: !ruby/object:Word
+    word: right
+    stem: right
+    docFrequency: 3
+    docPositions:
+    - 48
+    - 218
+  place: !ruby/object:Word
+    word: place
+    stem: place
+    docFrequency: 3
+    docPositions:
+    - 48
+    - 218
+  explore: !ruby/object:Word
+    word: explore
+    stem: explor
+    docFrequency: 3
+    docPositions:
+    - 48
+    - 218
+  list: !ruby/object:Word
+    word: list
+    stem: list
+    docFrequency: 5
+    docPositions:
+    - 48
+    - 80
+    - 142
+    - 218
+  networks: !ruby/object:Word
+    word: networks
+    stem: network
+    docFrequency: 3
+    docPositions:
+    - 48
+    - 218
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 28
+    docPositions:
+    - 48
+    - 60
+    - 218
+  connected: !ruby/object:Word
+    word: connected
+    stem: connect
+    docFrequency: 3
+    docPositions:
+    - 48
+    - 218
+  something: !ruby/object:Word
+    word: something
+    stem: someth
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  missing: !ruby/object:Word
+    word: missing
+    stem: miss
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  submit: !ruby/object:Word
+    word: submit
+    stem: submit
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 8
+    docPositions:
+    - 49
+    - 177
+    - 179
+    - 180
+    - 218
+  official: !ruby/object:Word
+    word: official
+    stem: offici
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  accounts: !ruby/object:Word
+    word: accounts
+    stem: account
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  filling: !ruby/object:Word
+    word: filling
+    stem: fill
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  out: !ruby/object:Word
+    word: out
+    stem: out
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  request: !ruby/object:Word
+    word: request
+    stem: request
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  form: !ruby/object:Word
+    word: form
+    stem: form
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  filter: !ruby/object:Word
+    word: filter
+    stem: filter
+    docFrequency: 2
+    docPositions:
+    - 49
+  choiceswhat: !ruby/object:Word
+    word: choiceswhat
+    stem: choiceswhat
+    docFrequency: 2
+    docPositions:
+    - 49
+  allacademicartsathleticslibrariesnewsprimaryservicestudent: !ruby/object:Word
+    word: allacademicartsathleticslibrariesnewsprimaryservicestudent
+    stem: allacademicartsathleticslibrariesnewsprimaryservicestud
+    docFrequency: 3
+    docPositions:
+    - 49
+    - 218
+  groupname: !ruby/object:Word
+    word: groupname
+    stem: groupnam
+    docFrequency: 2
+    docPositions:
+    - 49
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 2
+    docPositions:
+    - 51
+  y: !ruby/object:Word
+    word: y
+    stem: y
+    docFrequency: 2
+    docPositions:
+    - 52
+  g: !ruby/object:Word
+    word: g
+    stem: g
+    docFrequency: 2
+    docPositions:
+    - 53
+  b: !ruby/object:Word
+    word: b
+    stem: b
+    docFrequency: 2
+    docPositions:
+    - 55
+  v: !ruby/object:Word
+    word: v
+    stem: v
+    docFrequency: 2
+    docPositions:
+    - 56
+  p: !ruby/object:Word
+    word: p
+    stem: p
+    docFrequency: 2
+    docPositions:
+    - 58
+  admissions: !ruby/object:Word
+    word: admissions
+    stem: admiss
+    docFrequency: 3
+    docPositions:
+    - 60
+  undergraduate: !ruby/object:Word
+    word: undergraduate
+    stem: undergradu
+    docFrequency: 3
+    docPositions:
+    - 60
+  facebooktwitteryoutube: !ruby/object:Word
+    word: facebooktwitteryoutube
+    stem: facebooktwitteryoutub
+    docFrequency: 18
+    docPositions:
+    - 60
+  flickrpinterestinstagramafrican: !ruby/object:Word
+    word: flickrpinterestinstagramafrican
+    stem: flickrpinterestinstagramafrican
+    docFrequency: 2
+    docPositions:
+    - 60
+  american: !ruby/object:Word
+    word: american
+    stem: american
+    docFrequency: 6
+    docPositions:
+    - 60
+  african: !ruby/object:Word
+    word: african
+    stem: african
+    docFrequency: 3
+    docPositions:
+    - 60
+  diaspora: !ruby/object:Word
+    word: diaspora
+    stem: diaspora
+    docFrequency: 2
+    docPositions:
+    - 60
+  studies: !ruby/object:Word
+    word: studies
+    stem: studi
+    docFrequency: 13
+    docPositions:
+    - 60
+  dept: !ruby/object:Word
+    word: dept
+    stem: dept
+    docFrequency: 21
+    docPositions:
+    - 60
+  facebook: !ruby/object:Word
+    word: facebook
+    stem: facebook
+    docFrequency: 29
+    docPositions:
+    - 60
+    - 62
+  arts: !ruby/object:Word
+    word: arts
+    stem: art
+    docFrequency: 5
+    docPositions:
+    - 60
+    - 134
+  institutefacebooktwitteryoutube: !ruby/object:Word
+    word: institutefacebooktwitteryoutube
+    stem: institutefacebooktwitteryoutub
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagramafrican: !ruby/object:Word
+    word: instagramafrican
+    stem: instagramafrican
+    docFrequency: 2
+    docPositions:
+    - 60
+  program: !ruby/object:Word
+    word: program
+    stem: program
+    docFrequency: 6
+    docPositions:
+    - 60
+  constitution: !ruby/object:Word
+    word: constitution
+    stem: constitut
+    docFrequency: 2
+    docPositions:
+    - 60
+  society: !ruby/object:Word
+    word: society
+    stem: societi
+    docFrequency: 2
+    docPositions:
+    - 60
+  acs: !ruby/object:Word
+    word: acs
+    stem: ac
+    docFrequency: 2
+    docPositions:
+    - 60
+  twitter: !ruby/object:Word
+    word: twitter
+    stem: twitter
+    docFrequency: 10
+    docPositions:
+    - 60
+    - 61
+  art: !ruby/object:Word
+    word: art
+    stem: art
+    docFrequency: 3
+    docPositions:
+    - 60
+  blog: !ruby/object:Word
+    word: blog
+    stem: blog
+    docFrequency: 21
+    docPositions:
+    - 60
+  asian: !ruby/object:Word
+    word: asian
+    stem: asian
+    docFrequency: 5
+    docPositions:
+    - 60
+  culture: !ruby/object:Word
+    word: culture
+    stem: cultur
+    docFrequency: 7
+    docPositions:
+    - 60
+  center: !ruby/object:Word
+    word: center
+    stem: center
+    docFrequency: 18
+    docPositions:
+    - 60
+  facebooktwitter: !ruby/object:Word
+    word: facebooktwitter
+    stem: facebooktwitt
+    docFrequency: 34
+    docPositions:
+    - 60
+  athletics: !ruby/object:Word
+    word: athletics
+    stem: athlet
+    docFrequency: 3
+    docPositions:
+    - 60
+    - 170
+  pinterest: !ruby/object:Word
+    word: pinterest
+    stem: pinterest
+    docFrequency: 10
+    docPositions:
+    - 60
+    - 65
+  basketball: !ruby/object:Word
+    word: basketball
+    stem: basketbal
+    docFrequency: 3
+    docPositions:
+    - 60
+  men: !ruby/object:Word
+    word: men
+    stem: men
+    docFrequency: 2
+    docPositions:
+    - 60
+  women: !ruby/object:Word
+    word: women
+    stem: women
+    docFrequency: 4
+    docPositions:
+    - 60
+  biology: !ruby/object:Word
+    word: biology
+    stem: biologi
+    docFrequency: 2
+    docPositions:
+    - 60
+  black: !ruby/object:Word
+    word: black
+    stem: black
+    docFrequency: 3
+    docPositions:
+    - 60
+  film: !ruby/object:Word
+    word: film
+    stem: film
+    docFrequency: 2
+    docPositions:
+    - 60
+  archive: !ruby/object:Word
+    word: archive
+    stem: archiv
+    docFrequency: 2
+    docPositions:
+    - 60
+  professional: !ruby/object:Word
+    word: professional
+    stem: profession
+    docFrequency: 3
+    docPositions:
+    - 60
+  councilfacebook: !ruby/object:Word
+    word: councilfacebook
+    stem: councilfacebook
+    docFrequency: 2
+    docPositions:
+    - 60
+  linkedin: !ruby/object:Word
+    word: linkedin
+    stem: linkedin
+    docFrequency: 17
+    docPositions:
+    - 60
+    - 66
+  borns: !ruby/object:Word
+    word: borns
+    stem: born
+    docFrequency: 2
+    docPositions:
+    - 60
+  jewish: !ruby/object:Word
+    word: jewish
+    stem: jewish
+    docFrequency: 2
+    docPositions:
+    - 60
+  business: !ruby/object:Word
+    word: business
+    stem: busi
+    docFrequency: 4
+    docPositions:
+    - 60
+  kelley: !ruby/object:Word
+    word: kelley
+    stem: kellei
+    docFrequency: 6
+    docPositions:
+    - 60
+  school: !ruby/object:Word
+    word: school
+    stem: school
+    docFrequency: 15
+    docPositions:
+    - 60
+  facebooktwitteryoutubegoogle: !ruby/object:Word
+    word: facebooktwitteryoutubegoogle
+    stem: facebooktwitteryoutubegoogl
+    docFrequency: 3
+    docPositions:
+    - 60
+  pluslinkedinblog: !ruby/object:Word
+    word: pluslinkedinblog
+    stem: pluslinkedinblog
+    docFrequency: 4
+    docPositions:
+    - 60
+  pinterestinstagramcenter: !ruby/object:Word
+    word: pinterestinstagramcenter
+    stem: pinterestinstagramcent
+    docFrequency: 2
+    docPositions:
+    - 60
+  aging: !ruby/object:Word
+    word: aging
+    stem: ag
+    docFrequency: 2
+    docPositions:
+    - 60
+  communityfacebooktwitteryoutube: !ruby/object:Word
+    word: communityfacebooktwitteryoutube
+    stem: communityfacebooktwitteryoutub
+    docFrequency: 2
+    docPositions:
+    - 60
+  flickr: !ruby/object:Word
+    word: flickr
+    stem: flickr
+    docFrequency: 13
+    docPositions:
+    - 60
+  languages: !ruby/object:Word
+    word: languages
+    stem: languag
+    docFrequency: 4
+    docPositions:
+    - 60
+  central: !ruby/object:Word
+    word: central
+    stem: central
+    docFrequency: 2
+    docPositions:
+    - 60
+  region: !ruby/object:Word
+    word: region
+    stem: region
+    docFrequency: 2
+    docPositions:
+    - 60
+  plus: !ruby/object:Word
+    word: plus
+    stem: plu
+    docFrequency: 9
+    docPositions:
+    - 60
+    - 67
+  latin: !ruby/object:Word
+    word: latin
+    stem: latin
+    docFrequency: 2
+    docPositions:
+    - 60
+  caribbean: !ruby/object:Word
+    word: caribbean
+    stem: caribbean
+    docFrequency: 2
+    docPositions:
+    - 60
+  study: !ruby/object:Word
+    word: study
+    stem: studi
+    docFrequency: 6
+    docPositions:
+    - 60
+    - 155
+  global: !ruby/object:Word
+    word: global
+    stem: global
+    docFrequency: 5
+    docPositions:
+    - 60
+    - 133
+  change: !ruby/object:Word
+    word: change
+    stem: chang
+    docFrequency: 2
+    docPositions:
+    - 60
+  middle: !ruby/object:Word
+    word: middle
+    stem: middl
+    docFrequency: 2
+    docPositions:
+    - 60
+  east: !ruby/object:Word
+    word: east
+    stem: east
+    docFrequency: 5
+    docPositions:
+    - 60
+  instagramcenter: !ruby/object:Word
+    word: instagramcenter
+    stem: instagramcent
+    docFrequency: 2
+    docPositions:
+    - 60
+  excellence: !ruby/object:Word
+    word: excellence
+    stem: excel
+    docFrequency: 2
+    docPositions:
+    - 60
+  tehchnology: !ruby/object:Word
+    word: tehchnology
+    stem: tehchnolog
+    docFrequency: 2
+    docPositions:
+    - 60
+  cewit: !ruby/object:Word
+    word: cewit
+    stem: cewit
+    docFrequency: 2
+    docPositions:
+    - 60
+  security: !ruby/object:Word
+    word: security
+    stem: secur
+    docFrequency: 2
+    docPositions:
+    - 60
+  chemistry: !ruby/object:Word
+    word: chemistry
+    stem: chemistri
+    docFrequency: 2
+    docPositions:
+    - 60
+  chinese: !ruby/object:Word
+    word: chinese
+    stem: chines
+    docFrequency: 2
+    docPositions:
+    - 60
+  flagship: !ruby/object:Word
+    word: flagship
+    stem: flagship
+    docFrequency: 2
+    docPositions:
+    - 60
+  college: !ruby/object:Word
+    word: college
+    stem: colleg
+    docFrequency: 2
+    docPositions:
+    - 60
+  sciences: !ruby/object:Word
+    word: sciences
+    stem: scienc
+    docFrequency: 5
+    docPositions:
+    - 60
+  communication: !ruby/object:Word
+    word: communication
+    stem: commun
+    docFrequency: 3
+    docPositions:
+    - 60
+  graduate: !ruby/object:Word
+    word: graduate
+    stem: graduat
+    docFrequency: 4
+    docPositions:
+    - 60
+  dhar: !ruby/object:Word
+    word: dhar
+    stem: dhar
+    docFrequency: 2
+    docPositions:
+    - 60
+  india: !ruby/object:Word
+    word: india
+    stem: india
+    docFrequency: 2
+    docPositions:
+    - 60
+  youtube: !ruby/object:Word
+    word: youtube
+    stem: youtub
+    docFrequency: 8
+    docPositions:
+    - 60
+    - 64
+  education: !ruby/object:Word
+    word: education
+    stem: educ
+    docFrequency: 2
+    docPositions:
+    - 60
+  vimeo: !ruby/object:Word
+    word: vimeo
+    stem: vimeo
+    docFrequency: 4
+    docPositions:
+    - 60
+  environmental: !ruby/object:Word
+    word: environmental
+    stem: environment
+    docFrequency: 3
+    docPositions:
+    - 60
+  health: !ruby/object:Word
+    word: health
+    stem: health
+    docFrequency: 7
+    docPositions:
+    - 60
+    - 171
+  first: !ruby/object:Word
+    word: first
+    stem: first
+    docFrequency: 2
+    docPositions:
+    - 60
+  year: !ruby/object:Word
+    word: year
+    stem: year
+    docFrequency: 2
+    docPositions:
+    - 60
+  experience: !ruby/object:Word
+    word: experience
+    stem: experi
+    docFrequency: 5
+    docPositions:
+    - 60
+    - 151
+    - 178
+  fye: !ruby/object:Word
+    word: fye
+    stem: fye
+    docFrequency: 2
+    docPositions:
+    - 60
+  folklore: !ruby/object:Word
+    word: folklore
+    stem: folklor
+    docFrequency: 2
+    docPositions:
+    - 60
+  ethnomusicology: !ruby/object:Word
+    word: ethnomusicology
+    stem: ethnomusicolog
+    docFrequency: 2
+    docPositions:
+    - 60
+  french: !ruby/object:Word
+    word: french
+    stem: french
+    docFrequency: 2
+    docPositions:
+    - 60
+  italian: !ruby/object:Word
+    word: italian
+    stem: italian
+    docFrequency: 2
+    docPositions:
+    - 60
+  geography: !ruby/object:Word
+    word: geography
+    stem: geographi
+    docFrequency: 2
+    docPositions:
+    - 60
+  department: !ruby/object:Word
+    word: department
+    stem: depart
+    docFrequency: 2
+    docPositions:
+    - 60
+  geological: !ruby/object:Word
+    word: geological
+    stem: geolog
+    docFrequency: 2
+    docPositions:
+    - 60
+  germanic: !ruby/object:Word
+    word: germanic
+    stem: german
+    docFrequency: 2
+    docPositions:
+    - 60
+  international: !ruby/object:Word
+    word: international
+    stem: intern
+    docFrequency: 6
+    docPositions:
+    - 60
+  student: !ruby/object:Word
+    word: student
+    stem: student
+    docFrequency: 6
+    docPositions:
+    - 60
+    - 168
+  organization: !ruby/object:Word
+    word: organization
+    stem: organ
+    docFrequency: 2
+    docPositions:
+    - 60
+  gpso: !ruby/object:Word
+    word: gpso
+    stem: gpso
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagramgrunwald: !ruby/object:Word
+    word: instagramgrunwald
+    stem: instagramgrunwald
+    docFrequency: 2
+    docPositions:
+    - 60
+  gallery: !ruby/object:Word
+    word: gallery
+    stem: galleri
+    docFrequency: 2
+    docPositions:
+    - 60
+  artfacebooktwitter: !ruby/object:Word
+    word: artfacebooktwitter
+    stem: artfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagramhistory: !ruby/object:Word
+    word: instagramhistory
+    stem: instagramhistori
+    docFrequency: 2
+    docPositions:
+    - 60
+  honors: !ruby/object:Word
+    word: honors
+    stem: honor
+    docFrequency: 2
+    docPositions:
+    - 60
+  foreign: !ruby/object:Word
+    word: foreign
+    stem: foreign
+    docFrequency: 2
+    docPositions:
+    - 60
+  languagesfacebook: !ruby/object:Word
+    word: languagesfacebook
+    stem: languagesfacebook
+    docFrequency: 2
+    docPositions:
+    - 60
+  human: !ruby/object:Word
+    word: human
+    stem: human
+    docFrequency: 2
+    docPositions:
+    - 60
+  resources: !ruby/object:Word
+    word: resources
+    stem: resourc
+    docFrequency: 5
+    docPositions:
+    - 60
+    - 91
+    - 94
+    - 164
+  bloomingtonfacebooktwitter: !ruby/object:Word
+    word: bloomingtonfacebooktwitter
+    stem: bloomingtonfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  memorial: !ruby/object:Word
+    word: memorial
+    stem: memori
+    docFrequency: 2
+    docPositions:
+    - 60
+  uninon: !ruby/object:Word
+    word: uninon
+    stem: uninon
+    docFrequency: 2
+    docPositions:
+    - 60
+  hotelfacebooktwitter: !ruby/object:Word
+    word: hotelfacebooktwitter
+    stem: hotelfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  informatics: !ruby/object:Word
+    word: informatics
+    stem: informat
+    docFrequency: 2
+    docPositions:
+    - 60
+  computing: !ruby/object:Word
+    word: computing
+    stem: comput
+    docFrequency: 2
+    docPositions:
+    - 60
+  pinterestinstagraminformation: !ruby/object:Word
+    word: pinterestinstagraminformation
+    stem: pinterestinstagraminform
+    docFrequency: 2
+    docPositions:
+    - 60
+  library: !ruby/object:Word
+    word: library
+    stem: librari
+    docFrequency: 3
+    docPositions:
+    - 60
+    - 85
+  instagraminstitute: !ruby/object:Word
+    word: instagraminstitute
+    stem: instagraminstitut
+    docFrequency: 2
+    docPositions:
+    - 60
+  european: !ruby/object:Word
+    word: european
+    stem: european
+    docFrequency: 3
+    docPositions:
+    - 60
+  blogvimeo: !ruby/object:Word
+    word: blogvimeo
+    stem: blogvimeo
+    docFrequency: 2
+    docPositions:
+    - 60
+  institute: !ruby/object:Word
+    word: institute
+    stem: institut
+    docFrequency: 4
+    docPositions:
+    - 60
+  delegations: !ruby/object:Word
+    word: delegations
+    stem: deleg
+    docFrequency: 2
+    docPositions:
+    - 60
+  office: !ruby/object:Word
+    word: office
+    stem: offic
+    docFrequency: 8
+    docPositions:
+    - 60
+  president: !ruby/object:Word
+    word: president
+    stem: presid
+    docFrequency: 2
+    docPositions:
+    - 60
+  services: !ruby/object:Word
+    word: services
+    stem: servic
+    docFrequency: 7
+    docPositions:
+    - 60
+    - 71
+    - 93
+  offacebooktwitteryoutube: !ruby/object:Word
+    word: offacebooktwitteryoutube
+    stem: offacebooktwitteryoutub
+    docFrequency: 4
+    docPositions:
+    - 60
+  instagraminternational: !ruby/object:Word
+    word: instagraminternational
+    stem: instagramintern
+    docFrequency: 2
+    docPositions:
+    - 60
+  linkedinblog: !ruby/object:Word
+    word: linkedinblog
+    stem: linkedinblog
+    docFrequency: 5
+    docPositions:
+    - 60
+  islamic: !ruby/object:Word
+    word: islamic
+    stem: islam
+    docFrequency: 2
+    docPositions:
+    - 60
+  trainingfacebooktwitteryoutubegoogle: !ruby/object:Word
+    word: trainingfacebooktwitteryoutubegoogle
+    stem: trainingfacebooktwitteryoutubegoogl
+    docFrequency: 2
+    docPositions:
+    - 60
+  pinterestinstagramiu: !ruby/object:Word
+    word: pinterestinstagramiu
+    stem: pinterestinstagramiu
+    docFrequency: 4
+    docPositions:
+    - 60
+  alumni: !ruby/object:Word
+    word: alumni
+    stem: alumni
+    docFrequency: 4
+    docPositions:
+    - 60
+    - 183
+  association: !ruby/object:Word
+    word: association
+    stem: associ
+    docFrequency: 3
+    docPositions:
+    - 60
+  iuaa: !ruby/object:Word
+    word: iuaa
+    stem: iuaa
+    docFrequency: 2
+    docPositions:
+    - 60
+  musuemfacebooktwitter: !ruby/object:Word
+    word: musuemfacebooktwitter
+    stem: musuemfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  auditoriumfacebooktwitter: !ruby/object:Word
+    word: auditoriumfacebooktwitter
+    stem: auditoriumfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  bloomingtonfacebooktwitteryoutubegoogle: !ruby/object:Word
+    word: bloomingtonfacebooktwitteryoutubegoogle
+    stem: bloomingtonfacebooktwitteryoutubegoogl
+    docFrequency: 2
+    docPositions:
+    - 60
+  bookstore: !ruby/object:Word
+    word: bookstore
+    stem: bookstor
+    docFrequency: 2
+    docPositions:
+    - 60
+  campus: !ruby/object:Word
+    word: campus
+    stem: campu
+    docFrequency: 6
+    docPositions:
+    - 60
+    - 82
+    - 127
+    - 132
+    - 138
+  bus: !ruby/object:Word
+    word: bus
+    stem: bu
+    docFrequency: 2
+    docPositions:
+    - 60
+  cinemafacebooktwitteryoutube: !ruby/object:Word
+    word: cinemafacebooktwitteryoutube
+    stem: cinemafacebooktwitteryoutub
+    docFrequency: 2
+    docPositions:
+    - 60
+  communications: !ruby/object:Word
+    word: communications
+    stem: commun
+    docFrequency: 2
+    docPositions:
+    - 60
+  twitteryoutube: !ruby/object:Word
+    word: twitteryoutube
+    stem: twitteryoutub
+    docFrequency: 3
+    docPositions:
+    - 60
+  foundationfacebooktwitteryoutube: !ruby/object:Word
+    word: foundationfacebooktwitteryoutube
+    stem: foundationfacebooktwitteryoutub
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagramiu: !ruby/object:Word
+    word: instagramiu
+    stem: instagramiu
+    docFrequency: 2
+    docPositions:
+    - 60
+  wellness: !ruby/object:Word
+    word: wellness
+    stem: well
+    docFrequency: 3
+    docPositions:
+    - 60
+    - 171
+  news: !ruby/object:Word
+    word: news
+    stem: new
+    docFrequency: 4
+    docPositions:
+    - 60
+    - 184
+  google: !ruby/object:Word
+    word: google
+    stem: googl
+    docFrequency: 5
+    docPositions:
+    - 60
+    - 67
+  latino: !ruby/object:Word
+    word: latino
+    stem: latino
+    docFrequency: 3
+    docPositions:
+    - 60
+  iulaa: !ruby/object:Word
+    word: iulaa
+    stem: iulaa
+    docFrequency: 2
+    docPositions:
+    - 60
+  librariesfacebooktwitteryoutube: !ruby/object:Word
+    word: librariesfacebooktwitteryoutube
+    stem: librariesfacebooktwitteryoutub
+    docFrequency: 2
+    docPositions:
+    - 60
+  pressfacebooktwitteryoutubegoogle: !ruby/object:Word
+    word: pressfacebooktwitteryoutubegoogle
+    stem: pressfacebooktwitteryoutubegoogl
+    docFrequency: 2
+    docPositions:
+    - 60
+  foundationfacebooktwitter: !ruby/object:Word
+    word: foundationfacebooktwitter
+    stem: foundationfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  summer: !ruby/object:Word
+    word: summer
+    stem: summer
+    docFrequency: 2
+    docPositions:
+    - 60
+  language: !ruby/object:Word
+    word: language
+    stem: languag
+    docFrequency: 2
+    docPositions:
+    - 60
+  workshop: !ruby/object:Word
+    word: workshop
+    stem: workshop
+    docFrequency: 2
+    docPositions:
+    - 60
+  surplus: !ruby/object:Word
+    word: surplus
+    stem: surplu
+    docFrequency: 2
+    docPositions:
+    - 60
+  store: !ruby/object:Word
+    word: store
+    stem: store
+    docFrequency: 2
+    docPositions:
+    - 60
+  tech: !ruby/object:Word
+    word: tech
+    stem: tech
+    docFrequency: 2
+    docPositions:
+    - 60
+  storefacebooktwitter: !ruby/object:Word
+    word: storefacebooktwitter
+    stem: storefacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  tennis: !ruby/object:Word
+    word: tennis
+    stem: tenni
+    docFrequency: 2
+    docPositions:
+    - 60
+  visitor: !ruby/object:Word
+    word: visitor
+    stem: visitor
+    docFrequency: 2
+    docPositions:
+    - 60
+  information: !ruby/object:Word
+    word: information
+    stem: inform
+    docFrequency: 3
+    docPositions:
+    - 60
+    - 139
+  japanese: !ruby/object:Word
+    word: japanese
+    stem: japanes
+    docFrequency: 2
+    docPositions:
+    - 60
+  animation: !ruby/object:Word
+    word: animation
+    stem: anim
+    docFrequency: 2
+    docPositions:
+    - 60
+  club: !ruby/object:Word
+    word: club
+    stem: club
+    docFrequency: 2
+    docPositions:
+    - 60
+  journalism: !ruby/object:Word
+    word: journalism
+    stem: journal
+    docFrequency: 2
+    docPositions:
+    - 60
+  directfacebooktwitteryoutube: !ruby/object:Word
+    word: directfacebooktwitteryoutube
+    stem: directfacebooktwitteryoutub
+    docFrequency: 2
+    docPositions:
+    - 60
+  living: !ruby/object:Word
+    word: living
+    stem: live
+    docFrequency: 2
+    docPositions:
+    - 60
+  learning: !ruby/object:Word
+    word: learning
+    stem: learn
+    docFrequency: 3
+    docPositions:
+    - 60
+  mba: !ruby/object:Word
+    word: mba
+    stem: mba
+    docFrequency: 2
+    docPositions:
+    - 60
+  kinsey: !ruby/object:Word
+    word: kinsey
+    stem: kinsei
+    docFrequency: 2
+    docPositions:
+    - 60
+  institutefacebooktwitteryoutubegoogle: !ruby/object:Word
+    word: institutefacebooktwitteryoutubegoogle
+    stem: institutefacebooktwitteryoutubegoogl
+    docFrequency: 2
+    docPositions:
+    - 60
+  la: !ruby/object:Word
+    word: la
+    stem: la
+    docFrequency: 2
+    docPositions:
+    - 60
+  casa: !ruby/object:Word
+    word: casa
+    stem: casa
+    docFrequency: 2
+    docPositions:
+    - 60
+  cultural: !ruby/object:Word
+    word: cultural
+    stem: cultur
+    docFrequency: 2
+    docPositions:
+    - 60
+  liberal: !ruby/object:Word
+    word: liberal
+    stem: liber
+    docFrequency: 2
+    docPositions:
+    - 60
+  management: !ruby/object:Word
+    word: management
+    stem: manag
+    docFrequency: 2
+    docPositions:
+    - 60
+  programfacebook: !ruby/object:Word
+    word: programfacebook
+    stem: programfacebook
+    docFrequency: 2
+    docPositions:
+    - 60
+  law: !ruby/object:Word
+    word: law
+    stem: law
+    docFrequency: 2
+    docPositions:
+    - 60
+  maurer: !ruby/object:Word
+    word: maurer
+    stem: maurer
+    docFrequency: 2
+    docPositions:
+    - 60
+  lead: !ruby/object:Word
+    word: lead
+    stem: lead
+    docFrequency: 3
+    docPositions:
+    - 60
+  iub: !ruby/object:Word
+    word: iub
+    stem: iub
+    docFrequency: 2
+    docPositions:
+    - 60
+  iubfacebook: !ruby/object:Word
+    word: iubfacebook
+    stem: iubfacebook
+    docFrequency: 2
+    docPositions:
+    - 60
+  linguistics: !ruby/object:Word
+    word: linguistics
+    stem: linguist
+    docFrequency: 2
+    docPositions:
+    - 60
+  mathers: !ruby/object:Word
+    word: mathers
+    stem: mather
+    docFrequency: 2
+    docPositions:
+    - 60
+  museumfacebooktwitter: !ruby/object:Word
+    word: museumfacebooktwitter
+    stem: museumfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  flickrpinterest: !ruby/object:Word
+    word: flickrpinterest
+    stem: flickrpinterest
+    docFrequency: 2
+    docPositions:
+    - 60
+  thefacebooktwitteryoutubegoogle: !ruby/object:Word
+    word: thefacebooktwitteryoutubegoogle
+    stem: thefacebooktwitteryoutubegoogl
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagrammedieval: !ruby/object:Word
+    word: instagrammedieval
+    stem: instagrammediev
+    docFrequency: 2
+    docPositions:
+    - 60
+  music: !ruby/object:Word
+    word: music
+    stem: music
+    docFrequency: 2
+    docPositions:
+    - 60
+  jacobs: !ruby/object:Word
+    word: jacobs
+    stem: jacob
+    docFrequency: 2
+    docPositions:
+    - 60
+  national: !ruby/object:Word
+    word: national
+    stem: nation
+    docFrequency: 2
+    docPositions:
+    - 60
+  accessibilityfacebook: !ruby/object:Word
+    word: accessibilityfacebook
+    stem: accessibilityfacebook
+    docFrequency: 2
+    docPositions:
+    - 60
+  neal: !ruby/object:Word
+    word: neal
+    stem: neal
+    docFrequency: 2
+    docPositions:
+    - 60
+  mashall: !ruby/object:Word
+    word: mashall
+    stem: mashal
+    docFrequency: 2
+    docPositions:
+    - 60
+  centerfacebooktwitter: !ruby/object:Word
+    word: centerfacebooktwitter
+    stem: centerfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  near: !ruby/object:Word
+    word: near
+    stem: near
+    docFrequency: 2
+    docPositions:
+    - 60
+  eastern: !ruby/object:Word
+    word: eastern
+    stem: eastern
+    docFrequency: 2
+    docPositions:
+    - 60
+  cultures: !ruby/object:Word
+    word: cultures
+    stem: cultur
+    docFrequency: 2
+    docPositions:
+    - 60
+  opera: !ruby/object:Word
+    word: opera
+    stem: opera
+    docFrequency: 2
+    docPositions:
+    - 60
+  ballet: !ruby/object:Word
+    word: ballet
+    stem: ballet
+    docFrequency: 2
+    docPositions:
+    - 60
+  theater: !ruby/object:Word
+    word: theater
+    stem: theater
+    docFrequency: 2
+    docPositions:
+    - 60
+  optometry: !ruby/object:Word
+    word: optometry
+    stem: optometri
+    docFrequency: 2
+    docPositions:
+    - 60
+  offacebooktwitter: !ruby/object:Word
+    word: offacebooktwitter
+    stem: offacebooktwitt
+    docFrequency: 3
+    docPositions:
+    - 60
+  overseas: !ruby/object:Word
+    word: overseas
+    stem: oversea
+    docFrequency: 2
+    docPositions:
+    - 60
+  parking: !ruby/object:Word
+    word: parking
+    stem: park
+    docFrequency: 3
+    docPositions:
+    - 60
+    - 140
+  operationsfacebooktwitter: !ruby/object:Word
+    word: operationsfacebooktwitter
+    stem: operationsfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  political: !ruby/object:Word
+    word: political
+    stem: polit
+    docFrequency: 2
+    docPositions:
+    - 60
+  civic: !ruby/object:Word
+    word: civic
+    stem: civic
+    docFrequency: 2
+    docPositions:
+    - 60
+  engagement: !ruby/object:Word
+    word: engagement
+    stem: engag
+    docFrequency: 2
+    docPositions:
+    - 60
+  pace: !ruby/object:Word
+    word: pace
+    stem: pace
+    docFrequency: 2
+    docPositions:
+    - 60
+  poynter: !ruby/object:Word
+    word: poynter
+    stem: poynter
+    docFrequency: 2
+    docPositions:
+    - 60
+  ethicsfacebook: !ruby/object:Word
+    word: ethicsfacebook
+    stem: ethicsfacebook
+    docFrequency: 2
+    docPositions:
+    - 60
+  process: !ruby/object:Word
+    word: process
+    stem: process
+    docFrequency: 2
+    docPositions:
+    - 60
+  architecture: !ruby/object:Word
+    word: architecture
+    stem: architectur
+    docFrequency: 2
+    docPositions:
+    - 60
+  group: !ruby/object:Word
+    word: group
+    stem: group
+    docFrequency: 2
+    docPositions:
+    - 60
+  psychological: !ruby/object:Word
+    word: psychological
+    stem: psycholog
+    docFrequency: 2
+    docPositions:
+    - 60
+  brain: !ruby/object:Word
+    word: brain
+    stem: brain
+    docFrequency: 2
+    docPositions:
+    - 60
+  vimeoflickr: !ruby/object:Word
+    word: vimeoflickr
+    stem: vimeoflickr
+    docFrequency: 2
+    docPositions:
+    - 60
+  public: !ruby/object:Word
+    word: public
+    stem: public
+    docFrequency: 5
+    docPositions:
+    - 60
+  affairs: !ruby/object:Word
+    word: affairs
+    stem: affair
+    docFrequency: 2
+    docPositions:
+    - 60
+  spea: !ruby/object:Word
+    word: spea
+    stem: spea
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagrampublic: !ruby/object:Word
+    word: instagrampublic
+    stem: instagrampubl
+    docFrequency: 2
+    docPositions:
+    - 60
+  career: !ruby/object:Word
+    word: career
+    stem: career
+    docFrequency: 3
+    docPositions:
+    - 60
+    - 179
+  recreational: !ruby/object:Word
+    word: recreational
+    stem: recreat
+    docFrequency: 3
+    docPositions:
+    - 60
+    - 169
+  sports: !ruby/object:Word
+    word: sports
+    stem: sport
+    docFrequency: 3
+    docPositions:
+    - 60
+    - 169
+  registrar: !ruby/object:Word
+    word: registrar
+    stem: registrar
+    docFrequency: 2
+    docPositions:
+    - 60
+  residential: !ruby/object:Word
+    word: residential
+    stem: residenti
+    docFrequency: 2
+    docPositions:
+    - 60
+  programs: !ruby/object:Word
+    word: programs
+    stem: program
+    docFrequency: 5
+    docPositions:
+    - 60
+    - 133
+    - 135
+    - 156
+  pinterestinstagramrussian: !ruby/object:Word
+    word: pinterestinstagramrussian
+    stem: pinterestinstagramrussian
+    docFrequency: 2
+    docPositions:
+    - 60
+  scholarships: !ruby/object:Word
+    word: scholarships
+    stem: scholarship
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagramspea: !ruby/object:Word
+    word: instagramspea
+    stem: instagramspea
+    docFrequency: 2
+    docPositions:
+    - 60
+  overseasfacebooktwitter: !ruby/object:Word
+    word: overseasfacebooktwitter
+    stem: overseasfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  speech: !ruby/object:Word
+    word: speech
+    stem: speech
+    docFrequency: 2
+    docPositions:
+    - 60
+  hearing: !ruby/object:Word
+    word: hearing
+    stem: hear
+    docFrequency: 2
+    docPositions:
+    - 60
+  science: !ruby/object:Word
+    word: science
+    stem: scienc
+    docFrequency: 2
+    docPositions:
+    - 60
+  street: !ruby/object:Word
+    word: street
+    stem: street
+    docFrequency: 2
+    docPositions:
+    - 60
+  smart: !ruby/object:Word
+    word: smart
+    stem: smart
+    docFrequency: 2
+    docPositions:
+    - 60
+  party: !ruby/object:Word
+    word: party
+    stem: parti
+    docFrequency: 2
+    docPositions:
+    - 60
+  animalsfacebooktwitter: !ruby/object:Word
+    word: animalsfacebooktwitter
+    stem: animalsfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  legal: !ruby/object:Word
+    word: legal
+    stem: legal
+    docFrequency: 2
+    docPositions:
+    - 60
+  life: !ruby/object:Word
+    word: life
+    stem: life
+    docFrequency: 3
+    docPositions:
+    - 60
+  students: !ruby/object:Word
+    word: students
+    stem: student
+    docFrequency: 3
+    docPositions:
+    - 60
+    - 143
+  sustainability: !ruby/object:Word
+    word: sustainability
+    stem: sustain
+    docFrequency: 2
+    docPositions:
+    - 60
+  telecommunications: !ruby/object:Word
+    word: telecommunications
+    stem: telecommun
+    docFrequency: 2
+    docPositions:
+    - 60
+  theatre: !ruby/object:Word
+    word: theatre
+    stem: theatr
+    docFrequency: 2
+    docPositions:
+    - 60
+  drama: !ruby/object:Word
+    word: drama
+    stem: drama
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagramthemesterfacebooktwitter: !ruby/object:Word
+    word: instagramthemesterfacebooktwitter
+    stem: instagramthemesterfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  uits: !ruby/object:Word
+    word: uits
+    stem: uit
+    docFrequency: 3
+    docPositions:
+    - 60
+  technology: !ruby/object:Word
+    word: technology
+    stem: technolog
+    docFrequency: 2
+    docPositions:
+    - 60
+  consulting: !ruby/object:Word
+    word: consulting
+    stem: consult
+    docFrequency: 2
+    docPositions:
+    - 60
+  archives: !ruby/object:Word
+    word: archives
+    stem: archiv
+    docFrequency: 2
+    docPositions:
+    - 60
+  varsity: !ruby/object:Word
+    word: varsity
+    stem: varsiti
+    docFrequency: 2
+    docPositions:
+    - 60
+  clubfacebooktwitter: !ruby/object:Word
+    word: clubfacebooktwitter
+    stem: clubfacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagramvice: !ruby/object:Word
+    word: instagramvice
+    stem: instagramvic
+    docFrequency: 2
+    docPositions:
+    - 60
+  provost: !ruby/object:Word
+    word: provost
+    stem: provost
+    docFrequency: 2
+    docPositions:
+    - 60
+  research: !ruby/object:Word
+    word: research
+    stem: research
+    docFrequency: 4
+    docPositions:
+    - 60
+    - 163
+    - 164
+  we: !ruby/object:Word
+    word: we
+    stem: we
+    docFrequency: 2
+    docPositions:
+    - 60
+  iufacebooktwitter: !ruby/object:Word
+    word: iufacebooktwitter
+    stem: iufacebooktwitt
+    docFrequency: 3
+    docPositions:
+    - 60
+  wfiu: !ruby/object:Word
+    word: wfiu
+    stem: wfiu
+    docFrequency: 2
+    docPositions:
+    - 60
+  radiofacebooktwitter: !ruby/object:Word
+    word: radiofacebooktwitter
+    stem: radiofacebooktwitt
+    docFrequency: 2
+    docPositions:
+    - 60
+  wtiu: !ruby/object:Word
+    word: wtiu
+    stem: wtiu
+    docFrequency: 2
+    docPositions:
+    - 60
+  televisionfacebooktwitteryoutube: !ruby/object:Word
+    word: televisionfacebooktwitteryoutube
+    stem: televisionfacebooktwitteryoutub
+    docFrequency: 2
+    docPositions:
+    - 60
+  instagram: !ruby/object:Word
+    word: instagram
+    stem: instagram
+    docFrequency: 2
+    docPositions:
+    - 63
+  canvas: !ruby/object:Word
+    word: canvas
+    stem: canva
+    docFrequency: 2
+    docPositions:
+    - 72
+  oncourse: !ruby/object:Word
+    word: oncourse
+    stem: oncours
+    docFrequency: 2
+    docPositions:
+    - 73
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 2
+    docPositions:
+    - 74
+  find: !ruby/object:Word
+    word: find
+    stem: find
+    docFrequency: 2
+    docPositions:
+    - 77
+  people: !ruby/object:Word
+    word: people
+    stem: peopl
+    docFrequency: 2
+    docPositions:
+    - 78
+  z: !ruby/object:Word
+    word: z
+    stem: z
+    docFrequency: 3
+    docPositions:
+    - 80
+    - 142
+  courses: !ruby/object:Word
+    word: courses
+    stem: cours
+    docFrequency: 2
+    docPositions:
+    - 81
+  map: !ruby/object:Word
+    word: map
+    stem: map
+    docFrequency: 3
+    docPositions:
+    - 82
+    - 138
+  libraries: !ruby/object:Word
+    word: libraries
+    stem: librari
+    docFrequency: 3
+    docPositions:
+    - 86
+    - 159
+  iucat: !ruby/object:Word
+    word: iucat
+    stem: iucat
+    docFrequency: 2
+    docPositions:
+    - 87
+  onesearch: !ruby/object:Word
+    word: onesearch
+    stem: onesearch
+    docFrequency: 2
+    docPositions:
+    - 88
+  knowledge: !ruby/object:Word
+    word: knowledge
+    stem: knowledg
+    docFrequency: 2
+    docPositions:
+    - 92
+  base: !ruby/object:Word
+    word: base
+    stem: base
+    docFrequency: 2
+    docPositions:
+    - 92
+  faculty: !ruby/object:Word
+    word: faculty
+    stem: faculti
+    docFrequency: 3
+    docPositions:
+    - 94
+    - 164
+  staff: !ruby/object:Word
+    word: staff
+    stem: staff
+    docFrequency: 2
+    docPositions:
+    - 94
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 2
+    docPositions:
+    - 97
+  imail: !ruby/object:Word
+    word: imail
+    stem: imail
+    docFrequency: 2
+    docPositions:
+    - 98
+  umail: !ruby/object:Word
+    word: umail
+    stem: umail
+    docFrequency: 2
+    docPositions:
+    - 99
+  outlook: !ruby/object:Word
+    word: outlook
+    stem: outlook
+    docFrequency: 2
+    docPositions:
+    - 100
+  web: !ruby/object:Word
+    word: web
+    stem: web
+    docFrequency: 2
+    docPositions:
+    - 100
+  access: !ruby/object:Word
+    word: access
+    stem: access
+    docFrequency: 2
+    docPositions:
+    - 100
+  webmail: !ruby/object:Word
+    word: webmail
+    stem: webmail
+    docFrequency: 2
+    docPositions:
+    - 101
+  avenuebloomington: !ruby/object:Word
+    word: avenuebloomington
+    stem: avenuebloomington
+    docFrequency: 2
+    docPositions:
+    - 107
+  phone: !ruby/object:Word
+    word: phone
+    stem: phone
+    docFrequency: 2
+    docPositions:
+    - 108
+  askiu: !ruby/object:Word
+    word: askiu
+    stem: askiu
+    docFrequency: 2
+    docPositions:
+    - 110
+  edu: !ruby/object:Word
+    word: edu
+    stem: edu
+    docFrequency: 2
+    docPositions:
+    - 110
+  fulfilling: !ruby/object:Word
+    word: fulfilling
+    stem: fulfil
+    docFrequency: 3
+    docPositions:
+    - 114
+    - 129
+  promise: !ruby/object:Word
+    word: promise
+    stem: promis
+    docFrequency: 4
+    docPositions:
+    - 114
+    - 129
+    - 218
+  copyright: !ruby/object:Word
+    word: copyright
+    stem: copyright
+    docFrequency: 3
+    docPositions:
+    - 117
+    - 219
+  trustees: !ruby/object:Word
+    word: trustees
+    stem: truste
+    docFrequency: 3
+    docPositions:
+    - 117
+    - 219
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 3
+    docPositions:
+    - 120
+    - 220
+  notice: !ruby/object:Word
+    word: notice
+    stem: notic
+    docFrequency: 3
+    docPositions:
+    - 120
+    - 220
+  aboutrankings: !ruby/object:Word
+    word: aboutrankings
+    stem: aboutrank
+    docFrequency: 2
+    docPositions:
+    - 127
+  statistics: !ruby/object:Word
+    word: statistics
+    stem: statist
+    docFrequency: 2
+    docPositions:
+    - 127
+  history: !ruby/object:Word
+    word: history
+    stem: histori
+    docFrequency: 2
+    docPositions:
+    - 128
+  mission: !ruby/object:Word
+    word: mission
+    stem: mission
+    docFrequency: 2
+    docPositions:
+    - 130
+  initiativesdiversity: !ruby/object:Word
+    word: initiativesdiversity
+    stem: initiativesdivers
+    docFrequency: 2
+    docPositions:
+    - 132
+  partnerships: !ruby/object:Word
+    word: partnerships
+    stem: partnership
+    docFrequency: 2
+    docPositions:
+    - 133
+  humanities: !ruby/object:Word
+    word: humanities
+    stem: human
+    docFrequency: 2
+    docPositions:
+    - 134
+  schools: !ruby/object:Word
+    word: schools
+    stem: school
+    docFrequency: 3
+    docPositions:
+    - 135
+    - 153
+  leadership: !ruby/object:Word
+    word: leadership
+    stem: leadership
+    docFrequency: 2
+    docPositions:
+    - 137
+  administration: !ruby/object:Word
+    word: administration
+    stem: administr
+    docFrequency: 2
+    docPositions:
+    - 137
+  safety: !ruby/object:Word
+    word: safety
+    stem: safeti
+    docFrequency: 3
+    docPositions:
+    - 139
+    - 171
+  emergency: !ruby/object:Word
+    word: emergency
+    stem: emerg
+    docFrequency: 2
+    docPositions:
+    - 139
+  transportation: !ruby/object:Word
+    word: transportation
+    stem: transport
+    docFrequency: 2
+    docPositions:
+    - 140
+  employment: !ruby/object:Word
+    word: employment
+    stem: employ
+    docFrequency: 2
+    docPositions:
+    - 141
+  hire: !ruby/object:Word
+    word: hire
+    stem: hire
+    docFrequency: 2
+    docPositions:
+    - 143
+  admissionshow: !ruby/object:Word
+    word: admissionshow
+    stem: admissionshow
+    docFrequency: 2
+    docPositions:
+    - 146
+  apply: !ruby/object:Word
+    word: apply
+    stem: appli
+    docFrequency: 2
+    docPositions:
+    - 146
+  cost: !ruby/object:Word
+    word: cost
+    stem: cost
+    docFrequency: 2
+    docPositions:
+    - 147
+  finances: !ruby/object:Word
+    word: finances
+    stem: financ
+    docFrequency: 2
+    docPositions:
+    - 147
+  visit: !ruby/object:Word
+    word: visit
+    stem: visit
+    docFrequency: 2
+    docPositions:
+    - 148
+  academicsthe: !ruby/object:Word
+    word: academicsthe
+    stem: academicsth
+    docFrequency: 2
+    docPositions:
+    - 151
+  academic: !ruby/object:Word
+    word: academic
+    stem: academ
+    docFrequency: 5
+    docPositions:
+    - 151
+    - 154
+    - 157
+    - 158
+  degrees: !ruby/object:Word
+    word: degrees
+    stem: degre
+    docFrequency: 2
+    docPositions:
+    - 152
+  majors: !ruby/object:Word
+    word: majors
+    stem: major
+    docFrequency: 2
+    docPositions:
+    - 152
+  opportunities: !ruby/object:Word
+    word: opportunities
+    stem: opportun
+    docFrequency: 2
+    docPositions:
+    - 154
+  abroad: !ruby/object:Word
+    word: abroad
+    stem: abroad
+    docFrequency: 2
+    docPositions:
+    - 155
+  online: !ruby/object:Word
+    word: online
+    stem: onlin
+    docFrequency: 2
+    docPositions:
+    - 156
+  classes: !ruby/object:Word
+    word: classes
+    stem: class
+    docFrequency: 3
+    docPositions:
+    - 156
+    - 157
+  schedule: !ruby/object:Word
+    word: schedule
+    stem: schedul
+    docFrequency: 2
+    docPositions:
+    - 157
+  calendar: !ruby/object:Word
+    word: calendar
+    stem: calendar
+    docFrequency: 2
+    docPositions:
+    - 157
+  advising: !ruby/object:Word
+    word: advising
+    stem: advis
+    docFrequency: 2
+    docPositions:
+    - 158
+  support: !ruby/object:Word
+    word: support
+    stem: support
+    docFrequency: 2
+    docPositions:
+    - 158
+  researchresearch: !ruby/object:Word
+    word: researchresearch
+    stem: researchresearch
+    docFrequency: 2
+    docPositions:
+    - 162
+  experiences: !ruby/object:Word
+    word: experiences
+    stem: experi
+    docFrequency: 2
+    docPositions:
+    - 162
+  centers: !ruby/object:Word
+    word: centers
+    stem: center
+    docFrequency: 2
+    docPositions:
+    - 163
+  hoosier: !ruby/object:Word
+    word: hoosier
+    stem: hoosier
+    docFrequency: 2
+    docPositions:
+    - 167
+  lifetraditions: !ruby/object:Word
+    word: lifetraditions
+    stem: lifetradit
+    docFrequency: 2
+    docPositions:
+    - 167
+  spirit: !ruby/object:Word
+    word: spirit
+    stem: spirit
+    docFrequency: 2
+    docPositions:
+    - 167
+  organizations: !ruby/object:Word
+    word: organizations
+    stem: organ
+    docFrequency: 2
+    docPositions:
+    - 168
+  housing: !ruby/object:Word
+    word: housing
+    stem: hous
+    docFrequency: 2
+    docPositions:
+    - 172
+  dining: !ruby/object:Word
+    word: dining
+    stem: dine
+    docFrequency: 2
+    docPositions:
+    - 172
+  visiting: !ruby/object:Word
+    word: visiting
+    stem: visit
+    docFrequency: 2
+    docPositions:
+    - 173
+  attractions: !ruby/object:Word
+    word: attractions
+    stem: attract
+    docFrequency: 2
+    docPositions:
+    - 174
+  things: !ruby/object:Word
+    word: things
+    stem: thing
+    docFrequency: 2
+    docPositions:
+    - 174
+  do: !ruby/object:Word
+    word: do
+    stem: do
+    docFrequency: 2
+    docPositions:
+    - 174
+  futurefind: !ruby/object:Word
+    word: futurefind
+    stem: futurefind
+    docFrequency: 2
+    docPositions:
+    - 177
+  passion: !ruby/object:Word
+    word: passion
+    stem: passion
+    docFrequency: 2
+    docPositions:
+    - 177
+  develop: !ruby/object:Word
+    word: develop
+    stem: develop
+    docFrequency: 2
+    docPositions:
+    - 179
+  use: !ruby/object:Word
+    word: use
+    stem: us
+    docFrequency: 2
+    docPositions:
+    - 180
+  network: !ruby/object:Word
+    word: network
+    stem: network
+    docFrequency: 2
+    docPositions:
+    - 180
+  success: !ruby/object:Word
+    word: success
+    stem: success
+    docFrequency: 2
+    docPositions:
+    - 181
+  stories: !ruby/object:Word
+    word: stories
+    stem: stori
+    docFrequency: 2
+    docPositions:
+    - 181
+  giving: !ruby/object:Word
+    word: giving
+    stem: give
+    docFrequency: 2
+    docPositions:
+    - 183
+  events: !ruby/object:Word
+    word: events
+    stem: event
+    docFrequency: 2
+    docPositions:
+    - 184
+  looking: !ruby/object:Word
+    word: looking
+    stem: look
+    docFrequency: 2
+    docPositions:
+    - 218
+  groupindiana: !ruby/object:Word
+    word: groupindiana
+    stem: groupindiana
+    docFrequency: 2
+    docPositions:
+    - 218
+  bloomingtonfulfilling: !ruby/object:Word
+    word: bloomingtonfulfilling
+    stem: bloomingtonfulfil
+    docFrequency: 2
+    docPositions:
+    - 218
+lineCount: 223
+wordCount: 1156
+rank: 0.25
+title: Social Media: Indiana University Bloomington
+links:
+- https://www.indiana.edu
+- https://www.indiana.edu
+- https://www.indiana.edu/about/index.html
+- https://www.indiana.edu/admissions/index.html
+- https://www.indiana.edu/academics/index.html
+- https://www.indiana.edu/research/index.html
+- https://www.indiana.edu/hoosier-life/index.html
+- https://www.indiana.edu/future/index.html
+- https://www.indiana.edu/alumni-giving/index.html
+- https://www.indiana.edu/news-events/index.html
+- http://www.iu.edu/connect/request-form.shtml
+- http://admissions.indiana.edu/
+- https://www.facebook.com/IUAdmissions
+- https://twitter.com/IUAdmissions
+- https://www.youtube.com/user/IUAdmissions
+- http://www.flickr.com/photos/iuadmissions/
+- http://pinterest.com/iuadmit/
+- https://instagram.com/IUAdmissions/
+- http://www.indiana.edu/~afroamer/
+- https://www.facebook.com/aaadsiu
+- http://www.indiana.edu/~aaai/index.shtml
+- https://www.facebook.com/iuaaai
+- https://twitter.com/IUaaai
+- https://www.youtube.com/user/TheIUAAAI
+- https://instagram.com/iuaaai/
+- http://www.indiana.edu/~afrist/home/
+- https://www.facebook.com/pages/African-Studies-Program/367538175107
+- http://law.indiana.edu/students/activities/american_constitution/index.shtml
+- https://twitter.com/@IUMaurerACS
+- https://twitter.com/bethany_nolan
+- http://viewpoints.iu.edu/art-at-iu/
+- http://www.indiana.edu/~acc/
+- https://www.facebook.com/pages/IU-Asian-Culture-Center/153756851312460
+- https://twitter.com/ACC_IU
+- http://www.iuhoosiers.com/
+- https://www.facebook.com/IUHoosiers
+- https://twitter.com/ourindiana
+- http://www.youtube.com/user/IUAthletics
+- http://pinterest.com/IUHoosiers/
+- http://www.iuhoosiers.com/index.aspx?path=mbball&
+- https://www.facebook.com/IndianaMensBasketball
+- https://twitter.com/IndianaMBB
+- http://www.iuhoosiers.com/index.aspx?path=wbball&
+- https://www.facebook.com/IndianaWBB
+- https://twitter.com/IndianaWBB
+- http://www.bio.indiana.edu/
+- https://www.facebook.com/pages/Indiana-University-Bloomington-Department-of-Biology/92741198402
+- https://twitter.com/hoosierbiology
+- http://hoosierbiology.wordpress.com/
+- http://www.indiana.edu/~bfca/home/
+- https://www.facebook.com/blackfilmcenterarchiveevents/
+- https://twitter.com/blackfilmcenter
+- http://blackfilmcenterarchive.wordpress.com/
+- http://www.indiana.edu/~iubpc/
+- https://www.facebook.com/iubpc
+- http://www.linkedin.com/pub/indiana-university-bloomington-professional-council/80/893/364
+- http://www.indiana.edu/~jsp/index.shtml
+- https://www.facebook.com/pages/The-Robert-A-and-Sandra-S-Borns-Jewish-Studies-Program/96535758656
+- http://kelley.iu.edu/
+- https://www.facebook.com/KelleySchool
+- https://twitter.com/kelleyschool
+- http://www.youtube.com/user/iukelley
+- https://plus.google.com/105049657103459901116/
+- http://www.linkedin.com/company/kelley-school-of-business
+- http://kelleyschool.blogspot.com/
+- https://pinterest.com/kelleyschool/
+- https://instagram.com/iukelleyschool/
+- http://www.iidc.indiana.edu/index.php?pageId=31
+- https://www.facebook.com/pages/Center-on-Aging-Community-Indiana-University/107042329334011
+- https://twitter.com/cac_iu
+- http://www.youtube.com/cacvoices
+- http://agingindiana.wordpress.com/
+- http://www.flickr.com/photos/49112708@N04/
+- http://iub.edu/~celcar/main.php
+- https://www.facebook.com/pages/IU-Center-for-Languages-of-the-Central-Asian-Region/128011097220731
+- https://twitter.com/IUCeLCAR
+- https://www.youtube.com/user/celcariu
+- https://plus.google.com/104318272434714755973
+- http://www.indiana.edu/~clacs/
+- https://www.facebook.com/iuclacs
+- https://twitter.com/IUCLACS
+- http://www.flickr.com/photos/iu-clacs/
+- http://www.indiana.edu/~global/
+- https://www.facebook.com/pages/Center-for-the-Study-of-Global-Change-Indiana-University/160420260637324?sk=wall
+- http://www.iub.edu/~csme/
+- https://www.facebook.com/iucsme
+- https://twitter.com/csme_iu
+- https://www.youtube.com/user/iucsme
+- https://instagram.com/iucsme/
+- http://cewit.indiana.edu/
+- https://www.facebook.com/iucewit
+- https://twitter.com/iu_cewit
+- http://www.pinterest.com/iucewit/
+- http://cags.indiana.edu/
+- https://www.facebook.com/IUCAGS
+- https://twitter.com/CAGS_Indiana
+- http://chem.indiana.edu/
+- https://www.facebook.com/pages/Indiana-University-Department-of-Chemistry/128950357125789
+- https://twitter.com/iubchemistry
+- http://www.indiana.edu/~flagship/
+- https://www.facebook.com/pages/Indiana-University-Chinese-Flagship-Center/167598296629751
+- http://college.indiana.edu/
+- https://www.facebook.com/IUCollegeOfArtsAndSciences
+- https://twitter.com/iucollege
+- http://www.indiana.edu/~cmcl/
+- https://www.facebook.com/pages/Indiana-University-Communication-and-Culture-Undergraduate-Program/295312585983
+- http://communicationandculture.blogspot.com/
+- http://www.indiana.edu/~cmcl/
+- https://www.facebook.com/pages/Indiana-University-Department-of-Communication-and-Culture-Graduate-Program/262439790173
+- http://cmclgrads.blogspot.com
+- http://www.indiana.edu/~isp/index.html
+- https://www.facebook.com/pages/IU-Dhar-India-Studies-Program/141685405894720
+- http://www.indiana.edu/~ealc/
+- https://www.facebook.com/iuealc
+- http://www.indiana.edu/~easc/
+- https://www.facebook.com/easciu
+- https://www.youtube.com/user/EASCIU
+- http://education.indiana.edu/
+- https://www.facebook.com/IUSchoolofEd
+- https://twitter.com/iuschoolofed
+- http://www.youtube.com/user/iuschoolofeducation
+- http://vimeo.com/iusoe
+- http://www.publichealth.indiana.edu/departments/environmental-health/index.shtml
+- https://www.facebook.com/pages/IU-Department-of-Environmental-Health/203807522971132
+- https://twitter.com/envrhealth
+- https://fye.indiana.edu/
+- https://www.facebook.com/iufye
+- https://twitter.com/iufye
+- https://www.youtube.com/user/iufye
+- http://webdb.iu.edu/folkethno/scripts/index.cfm
+- https://www.facebook.com/IUFolklore
+- http://www.youtube.com/folkethn
+- http://www.indiana.edu/~frithome/
+- https://www.facebook.com/FRITIU
+- https://www.youtube.com/user/fritusw
+- http://geography.indiana.edu/
+- https://www.facebook.com/IUGeography
+- https://twitter.com/iugeography
+- https://www.pinterest.com/iugeography/
+- http://geology.indiana.edu/
+- https://www.facebook.com/pages/Indiana-University-Geological-Sciences/431096835105
+- http://www.indiana.edu/~germanic/
+- https://www.facebook.com/IUBGermanic
+- http://www.sgis.indiana.edu/
+- https://www.facebook.com/IUSGIS
+- http://www.indiana.edu/~gpso/
+- https://www.facebook.com/IUBGPSO
+- https://twitter.com/iugpso
+- https://www.linkedin.com/groups/IU-Graduate-Professional-Student-Organization-4996178
+- http://instagram.com/iugpso
+- http://www.indiana.edu/~grunwald/
+- https://www.facebook.com/grunwaldgallery
+- https://twitter.com/grunwaldgallery
+- http://grunwald-gallery.tumblr.com/
+- https://instagram.com/grunwaldgallery/
+- http://www.indiana.edu/~histweb/
+- https://www.facebook.com/IUBHistory
+- https://twitter.com/iubhistory
+- http://www.indiana.edu/~iuhpfl/index.shtml
+- https://www.facebook.com/iuhpfl
+- http://www.youtube.com/user/IUHPFL
+- http://www.flickr.com/photos/69968433@N05/
+- http://www.indiana.edu/~uhrs/
+- https://www.facebook.com/IUBHR
+- https://twitter.com/IUB_HR
+- http://imu.indiana.edu/hotel/
+- https://www.facebook.com/IndianaMemorialUnion
+- https://twitter.com/OfficialIMU
+- http://www.soic.indiana.edu/
+- https://www.facebook.com/iusoic
+- https://twitter.com/iusoic
+- http://www.youtube.com/iusoic
+- http://www.linkedin.com/groups/IU-School-Informatics-Computing-133911?gid=133911
+- https://pinterest.com/iusoic/
+- http://instagram.com/iusoic
+- http://www.ils.indiana.edu
+- https://www.facebook.com/iu.ils
+- https://twitter.com/iuils
+- https://www.linkedin.com/groups/IU-Department-Information-Library-Science-6714380?gid=6714380
+- https://instagram.com/iuils
+- http://www.iub.edu/~euroinst/
+- https://www.facebook.com/iuwest
+- http://iuwest.wordpress.com/
+- http://vimeo.com/iuwest
+- http://kelley.iu.edu/iib/
+- https://www.facebook.com/KelleyIIB
+- https://twitter.com/kelleyiib
+- http://ois.indiana.edu/admissions/index.shtml
+- https://www.facebook.com/pages/Indiana-University-Office-of-International-Admissions/22745660857
+- http://president.iu.edu/international/index.shtml
+- http://global.iu.edu/blog/africa/
+- http://www.flickr.com/photos/iu_foundation/7129621671/
+- http://ois.iu.edu/
+- https://www.facebook.com/iu.ois
+- https://twitter.com/iu_ois
+- https://www.youtube.com/user/intlserv
+- http://instagram.com/iu_ois
+- http://www.indiana.edu/~intlweb/
+- https://www.facebook.com/IUintl
+- https://www.linkedin.com/groups?home=&gid=8115344&trk=my_groups-tile-grp
+- http://intliu.blogspot.com/
+- http://www.indiana.edu/~islmprog/
+- https://www.facebook.com/IU.Islamic.Studies
+- https://ittraining.iu.edu/
+- https://www.facebook.com/ittrainingiu
+- https://twitter.com/ittrainingiu
+- https://www.youtube.com/user/ittrainingiu
+- https://plus.google.com/107349354115304601895/posts
+- https://www.pinterest.com/ittrainingiu/
+- https://instagram.com/ittrainingiu
+- https://alumni.indiana.edu/
+- https://www.facebook.com/IUALUMNI
+- https://twitter.com/iuaa
+- https://www.youtube.com/user/IUAAvideos
+- https://www.linkedin.com/groups?gid=3763271
+- https://www.flickr.com/photos/iualumni
+- https://artmuseum.indiana.edu/
+- https://www.facebook.com/iuartmuseum
+- https://twitter.com/iuartmuseum
+- http://artfromallangles.wordpress.com
+- http://www.iuauditorium.com/
+- https://www.facebook.com/iuauditorium
+- https://twitter.com/iuauditorium
+- http://www.iub.edu
+- https://www.facebook.com/IndianaUniversity
+- https://twitter.com/IUBloomington
+- http://www.youtube.com/iu
+- https://plus.google.com/u/0/116105654836823545019/posts
+- http://www.linkedin.com/edu/school?id=18342
+- http://viewpoints.iu.edu/
+- https://pinterest.com/indianauniv/
+- http://instagram.com/iubloomington
+- http://iub.bncollege.com/webapp/wcs/stores/servlet/BNCBHomePage?storeId=39052&catalogId=10001&langId=-1
+- https://www.facebook.com/iubkstore
+- https://twitter.com/iubookstore
+- http://iubus.indiana.edu/
+- https://www.facebook.com/iu.campusbus
+- https://twitter.com/iubcampusbus
+- http://www.cinema.indiana.edu/
+- http://www.facebook.com/iucinema
+- http://twitter.com/IUCinema
+- http://www.youtube.com/user/IUCinema
+- http://pinterest.com/aplaceforfilm
+- https://instagram.com/iucinema/
+- http://communications.iu.edu/
+- https://twitter.com/IUComm
+- https://www.youtube.com/user/iu
+- http://iufoundation.iu.edu/
+- https://www.facebook.com/IUFoundation
+- https://twitter.com/iufoundation
+- https://www.youtube.com/user/IUFoundation
+- https://www.linkedin.com/company/indiana-university-foundation
+- http://www.flickr.com/photos/iu_foundation
+- https://instagram.com/iufoundation/
+- https://twitter.com/vitality_iu
+- https://plus.google.com/117338818945321476782/posts
+- http://viewpoints.iu.edu/health-and-vitality/
+- http://healthcenter.indiana.edu/
+- https://twitter.com/IUHealthCenter
+- https://alumni.indiana.edu/affiliates/latino/
+- https://www.facebook.com/groups/IULAA/
+- https://twitter.com/iulaa
+- https://www.linkedin.com/groups/Indiana-University-Latino-Alumni-Association-4594835
+- https://www.flickr.com/photos/iualumni/sets/72157633766938620/
+- http://libraries.iub.edu/
+- https://www.facebook.com/pages/IU-Libraries/237699996274633
+- https://twitter.com/iulibraries
+- http://www.youtube.com/iulibraries
+- https://blogs.libraries.iub.edu/
+- http://www.flickr.com/photos/wellslibrary/
+- http://www.iupress.indiana.edu/
+- https://www.facebook.com/iupress
+- https://twitter.com/iupress
+- http://www.youtube.com/iupress
+- https://plus.google.com/115444288032700584669/posts
+- http://vimeo.com/iupress
+- http://www.iusf.indiana.edu/
+- https://www.facebook.com/pages/Indiana-University-Student-Foundation/142690686649
+- https://twitter.com/IUSF
+- http://www.indiana.edu/~swseel/
+- https://www.facebook.com/pages/IU-Summer-Language-Workshop-SWSEEL/128414110563364
+- https://twitter.com/IUSWSEEL
+- http://www.youtube.com/channel/UC1QA2IFn9zGJelhJT51RHfw
+- https://www.facebook.com/IU.Surplus
+- https://twitter.com/IUSurplus
+- http://iub.bncollege.com/
+- https://www.facebook.com/iutechstore
+- https://twitter.com/iutechstore
+- http://www.indiana.edu/~tnscntr/
+- https://www.facebook.com/pages/IU-Tennis-Center/110297822330621
+- https://twitter.com/iutenniscenter
+- https://visitorcenter.indiana.edu
+- https://www.facebook.com/visitIU
+- https://twitter.com/IUVisitorCenter
+- https://www.facebook.com/groups/iuanimeclub
+- http://journalism.indiana.edu/
+- https://www.facebook.com/iujournalism
+- https://twitter.com/iujournalism
+- http://www.linkedin.com/groups/Indiana-University-School-Journalism-154498
+- http://vimeo.com/iujournalism
+- http://kelley.iu.edu/onlineMBA
+- https://www.facebook.com/kelleydirect
+- https://twitter.com/kelleydirect
+- http://www.youtube.com/user/kelleydirect
+- http://www.linkedin.com/groups?gid=43448
+- http://kelleydirect.blogspot.com/
+- http://pinterest.com/kelleyschool/kelley-direct/
+- http://kelley.iu.edu/Ugrad/Why/LLC/page39055.html
+- https://twitter.com/IUKelleyLLC
+- http://kelley.iu.edu/mba/
+- https://www.facebook.com/KelleyMBA
+- https://twitter.com/iukelleymba
+- http://www.youtube.com/user/KelleyMBA
+- http://kelleymba.blogspot.com/
+- http://pinterest.com/kelleyschool/kelley-mba/
+- http://kelley.iu.edu/ugrad/
+- http://www.youtube.com/user/kelleyugrad
+- http://www.indiana.edu/~kinsey/
+- https://www.facebook.com/kinseyinstitute
+- https://twitter.com/kinseyinstitute
+- http://www.youtube.com/user/kinseyinstitute
+- https://plus.google.com/107487516516805118083/posts
+- http://kinseyconfidential.org/blog/
+- http://www.iu.edu/~lacasa/
+- https://www.facebook.com/la.casa.7
+- https://twitter.com/LaCasa_IU
+- https://lamp.indiana.edu
+- http://www.facebook.com/LAMP.IU
+- http://www.law.indiana.edu/
+- https://www.facebook.com/pages/Indiana-University-Maurer-School-of-Law/351672842904
+- https://twitter.com/iumaurerlaw
+- https://www.youtube.com/channel/UChQUjIQsye5DYW8XhLclnPg
+- http://www.linkedin.com/groups?home=&gid=41819
+- http://studentaffairs.indiana.edu/student-life-learning/index.shtml
+- http://twitter.com/HoosierLead
+- http://www.indiana.edu/~liblilly/
+- https://www.facebook.com/pages/The-Lilly-Library-Indiana-University/64220463448
+- http://www.indiana.edu/~liblilly/blog/
+- http://www.indiana.edu/~lingdept/
+- https://www.facebook.com/indiana.linguistics
+- http://www.indiana.edu/~mathers/
+- https://www.facebook.com/pages/Mathers-Museum-of-World-Cultures/153705734715810
+- https://twitter.com/MathersMuseum
+- https://plus.google.com/114838969253059340577/posts#114838969253059340577/posts
+- http://www.flickr.com/photos/mathers_museum/
+- http://pinterest.com/mathersmuseum/
+- http://mediaschool.indiana.edu/
+- https://www.facebook.com/IUMediaSchool
+- https://twitter.com/IUMediaSchool
+- https://www.youtube.com/user/IUMediaSchool
+- https://plus.google.com/u/0/110957403101791890929
+- https://www.linkedin.com/edu/the-media-school---indiana-university-150040
+- http://mediaschool.indiana.edu/feed/
+- http://instagram.com/iumediaschool
+- http://www.indiana.edu/~medieval/
+- https://www.facebook.com/MedievalStudiesInstitute
+- https://twitter.com/Medieval_IU
+- http://music.indiana.edu/
+- https://www.facebook.com/IUJSoM
+- https://twitter.com/iujsom
+- http://www.youtube.com/thejsom
+- http://www.ncaonline.org/
+- https://www.facebook.com/nationalcenteronaccessibility
+- http://nmbcc.indiana.edu/
+- https://www.facebook.com/nealmarshallblackculturecenter
+- https://twitter.com/nmbcc_iu
+- http://www.indiana.edu/~nelc/
+- https://www.facebook.com/NELCatIU
+- http://music.indiana.edu/opera/
+- https://www.facebook.com/IUOperaBalletTheater
+- https://twitter.com/IUOperaBallet
+- https://www.youtube.com/user/TheJSoM
+- http://www.optometry.iu.edu/
+- https://www.facebook.com/iuoptometry/
+- https://twitter.com/IU_Optometry
+- http://overseas.iu.edu/
+- https://www.facebook.com/IUOverseas
+- https://twitter.com/iuoverseas
+- http://www.youtube.com/iuoverseas
+- http://www.linkedin.com/groups?gid=3720682
+- http://iuoverseas.wordpress.com
+- http://www.flickr.com/photos/iuoverseas
+- http://parking.indiana.edu/
+- https://www.facebook.com/pages/IUB-Parking-Operations/144717762322318
+- http://twitter.com/IUParking
+- http://www.pinterest.com/iuparking/
+- http://pace.indiana.edu/
+- http://www.facebook.com/PACE.Indiana.edu
+- http://www.youtube.com/iupace
+- http://poynter.indiana.edu/
+- https://www.facebook.com/ThePoynterCenter
+- http://www.linkedin.com/in/thepoyntercenter
+- http://www.indiana.edu/~usable/
+- https://twitter.com/iu_pxa
+- http://psych.indiana.edu/index.php
+- https://www.facebook.com/IUPsych
+- https://twitter.com/iupsych
+- http://www.linkedin.com/groups/IUB-Psychological-Brain-Sciences-Alumni-1271617
+- http://vimeo.com/iupsych
+- http://www.flickr.com/photos/66531172@N08/
+- https://spea.indiana.edu
+- https://www.facebook.com/iuspea
+- https://twitter.com/speaiub
+- http://www.youtube.com/iuspea
+- http://www.linkedin.com/groups/IU-School-Public-Environmental-Affairs-3723936/about
+- https://instagram.com/kelleyindy/
+- http://www.publichealth.indiana.edu/careers/
+- http://www.facebook.com/IUSPHCareers
+- http://twitter.com/IUSPHCareers
+- http://www.youtube.com/iupace
+- http://www.linkedin.com/groups?gid=2501784&trk=hb_side_g
+- http://iusphcareers.wordpress.com/
+- http://www.publichealth.indiana.edu/
+- https://www.facebook.com/iusph
+- https://twitter.com/iusph
+- http://www.linkedin.com/groups?gid=2501784
+- https://www.flickr.com/photos/iusph
+- http://www.iurecsports.org/
+- https://www.facebook.com/IURecSports
+- https://twitter.com/iurecsports
+- http://www.youtube.com/user/IURecSports
+- http://registrar.indiana.edu/
+- https://www.facebook.com/IUBRegistrar
+- https://twitter.com/IUB_Registrar
+- http://rps.indiana.edu/index.cfml
+- https://www.facebook.com/RPSIU
+- https://twitter.com/iurps
+- http://www.youtube.com/user/rpsiub
+- http://www.pinterest.com/IURPS/
+- https://instagram.com/rpsiu
+- http://www.indiana.edu/~reeiweb/
+- https://www.facebook.com/IUREEI
+- https://scholarships.indiana.edu/
+- https://www.facebook.com/iuscholarships
+- https://twitter.com/IUscholarships
+- http://www.youtube.com/iuscholarships
+- https://instagram.com/iuscholarships
+- https://spea.indiana.edu/student-experience/overseas/index.html
+- https://www.facebook.com/IU.SPEA.Overseas
+- https://twitter.com/speaoverseasedu
+- http://iusboverseas.wordpress.com/
+- http://www.indiana.edu/~sphs/home/
+- https://www.facebook.com/IUSpeechandHearing
+- http://streetsmart.indiana.edu/
+- https://www.facebook.com/StreetSmartPartyAnimals
+- https://twitter.com/StreetSmartIU
+- https://www.indiana.edu/~sls/
+- https://www.facebook.com/stulegal
+- https://twitter.com/iustudentlegal
+- https://www.indiana.edu/~sls/blog/
+- http://studentaffairs.indiana.edu/student-life-learning/index.shtml
+- https://www.facebook.com/iusll
+- https://twitter.com/sll_iu
+- https://www.facebook.com/IUSFL
+- http://sustain.indiana.edu
+- https://www.facebook.com/pages/IU-Office-of-Sustainability/155807901134219
+- https://twitter.com/iusustain
+- http://iusustain.wordpress.com/
+- http://www.indiana.edu/~telecom/index.shtml
+- https://www.facebook.com/IU.Dept.of.Telecommunications
+- http://www.indiana.edu/~thtr/index.shtml
+- https://www.facebook.com/IUTheatre
+- https://twitter.com/iutheatre
+- http://www.youtube.com/user/iutheatre
+- http://7thandjordan.wordpress.com/
+- https://instagram.com/IUTheatreandDrama/
+- http://themester.indiana.edu/
+- https://www.facebook.com/IUBthemester
+- https://twitter.com/iubthemester
+- http://themester.blogspot.com/
+- http://uitsnews.iu.edu
+- http://twitter.com/IUITNews
+- http://www.youtube.com/uitsatiu
+- http://uits.iu.edu/page/apgz
+- https://www.facebook.com/uits.tcc.iub
+- https://twitter.com/uits_tcc_iub
+- http://libraries.iub.edu/index.php?pageId=93
+- https://twitter.com/IUBArchives
+- https://blogs.libraries.iub.edu/iubarchives/
+- http://graduate.indiana.edu/
+- https://www.facebook.com/iugradschool
+- https://twitter.com/iugradschool
+- https://pinterest.com/iugradschool/
+- http://varsityclub.indiana.edu
+- https://www.facebook.com/iuvarsityclub
+- https://twitter.com/iuvarsityclub
+- https://plus.google.com/112979640637362448565/posts
+- https://instagram.com/iuvarsityclub/
+- http://ovpr.indiana.edu/
+- https://www.facebook.com/pages/IU-Bloomington-Office-of-the-Vice-Provost-for-Research/852927534727642?ref=hl
+- https://twitter.com/IUBResearch
+- http://www.weareiu.com/
+- https://www.facebook.com/weareiu
+- https://twitter.com/We_Are_IU
+- http://feeds.feedburner.com/WeAreIU
+- http://www.pinterest.com/weareiu/
+- http://indianapublicmedia.org/radio/
+- https://www.facebook.com/wfiupublicradio
+- https://twitter.com/wfiu
+- http://www.flickr.com/photos/wfiupublicradio/
+- https://www.facebook.com/IUWIT
+- https://twitter.com/iuwit
+- http://indianapublicmedia.org/tv/
+- https://www.facebook.com/wtiupublictv
+- https://twitter.com/wtiu
+- http://www.youtube.com/user/wtiu
+- https://www.linkedin.com/company/wtiu-tv-pbs-
+- http://www.flickr.com/photos/wfiupublicradio/
+- https://twitter.com/IUBloomington
+- https://facebook.com/IndianaUniversity
+- https://instagram.com/iubloomington
+- https://youtube.com/c/IndianaUniversityBloomington1820
+- https://www.pinterest.com/indianauniv
+- https://www.linkedin.com/edu/school?id=18342
+- https://plus.google.com/116105654836823545019
+- https://canvas.iu.edu/
+- https://oncourse.iu.edu/
+- https://one.iu.edu/
+- http://people.iu.edu/
+- https://www.indiana.edu/social/index.html
+- https://www.indiana.edu/about/a-z-list/index.html
+- http://registrar.indiana.edu/browser/index.shtml
+- http://map.iu.edu/iub/
+- https://libraries.indiana.edu/
+- http://iucat.iu.edu/
+- http://libraries.indiana.edu/resources/onesearch
+- https://kb.iu.edu/
+- https://uits.iu.edu/
+- https://www.indiana.edu/faculty-staff/index.html
+- https://imail.iu.edu/
+- https://umail.iu.edu/
+- https://www.exchange.iu.edu
+- https://webmail.iu.edu/
+- http://www.iu.edu/copyright/index.shtml
+- http://www.iu.edu/
+- https://www.indiana.edu/about/index.html
+- https://www.indiana.edu/about/rankings-statistics.html
+- https://www.indiana.edu/about/history/index.html
+- https://www.indiana.edu/about/fulfilling-promise.html
+- https://www.indiana.edu/about/mission.html
+- https://www.indiana.edu/about/initiatives/index.html
+- https://www.indiana.edu/about/initiatives/diversity.html
+- https://www.indiana.edu/about/initiatives/global.html
+- https://www.indiana.edu/about/initiatives/arts-humanities.html
+- https://www.indiana.edu/about/initiatives/new-schools.html
+- https://www.indiana.edu/about/leadership.html
+- https://www.indiana.edu/about/map.html
+- https://www.indiana.edu/about/safety.html
+- https://www.indiana.edu/about/transportation.html
+- https://www.indiana.edu/about/employment.html
+- https://www.indiana.edu/about/a-z-list/index.html
+- https://www.indiana.edu/about/hire-iu-students.html
+- https://www.indiana.edu/admissions/index.html
+- https://www.indiana.edu/admissions/apply.html
+- https://www.indiana.edu/admissions/cost-finances.html
+- https://www.indiana.edu/admissions/visit.html
+- https://www.indiana.edu/academics/index.html
+- https://www.indiana.edu/academics/academic-experience.html
+- https://www.indiana.edu/academics/degrees-majors/index.html
+- https://www.indiana.edu/academics/schools.html
+- https://www.indiana.edu/academics/opportunities.html
+- https://www.indiana.edu/academics/abroad.html
+- https://www.indiana.edu/academics/online.html
+- https://www.indiana.edu/academics/classes-calendar.html
+- https://www.indiana.edu/academics/advising-support.html
+- https://www.indiana.edu/academics/libraries.html
+- https://www.indiana.edu/research/index.html
+- https://www.indiana.edu/research/experiences.html
+- https://www.indiana.edu/research/centers.html
+- https://www.indiana.edu/research/faculty-resources.html
+- https://www.indiana.edu/hoosier-life/index.html
+- https://www.indiana.edu/hoosier-life/traditions.html
+- https://www.indiana.edu/hoosier-life/student-organizations.html
+- https://www.indiana.edu/hoosier-life/campus-recreation.html
+- https://www.indiana.edu/hoosier-life/athletics.html
+- https://www.indiana.edu/hoosier-life/health-wellness.html
+- https://www.indiana.edu/hoosier-life/housing-dining.html
+- https://www.indiana.edu/hoosier-life/visiting-bloomington.html
+- https://www.indiana.edu/hoosier-life/attractions.html
+- https://www.indiana.edu/future/index.html
+- https://www.indiana.edu/future/explore.html
+- https://www.indiana.edu/future/experience.html
+- https://www.indiana.edu/future/career.html
+- https://www.indiana.edu/future/network.html
+- https://www.indiana.edu/future/success/index.html
+- https://www.indiana.edu/alumni-giving/index.html
+- https://www.indiana.edu/news-events/index.html
+rawText: "\n   \n\r\n\r\n(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew
+  Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-NF6HQX');\nSkip
+  to Content\nSkip to Main Navigation\nSkip to Search\n\n    \n\n        \n        \n
+  \   \n        \n        \n        \n            \n\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tIndiana
+  University Bloomington\n\t\t\t\t\tIndiana University Bloomington\n\t\t\t\t\tIU Bloomington\n\t\t\t\t\n\t\t\t\n\t\n
+  \       \n    \n        \n        \n        \n            \n    \n        Menu\n
+  \       Search\n    \n\n\n\n        \n    \n        \n            \n            HomeAboutAdmissionsAcademicsResearchHoosier
+  LifeYour FutureAlumni & GivingNews & EventsSearchHomeSocial MediaSocial MediaLet’s
+  get socialLooking for a social media account at IU Bloomington? You’re in the right
+  place! Explore this list of IU Bloomington social networks and get connected.\nSomething
+  missing? Submit your official IU Bloomington accounts by filling out the request
+  form.Filter Your ChoicesWhat  AllAcademicArtsAthleticsLibrariesNewsPrimaryServiceStudent
+  GroupName\r\n      F\r\n      T\r\n      Y\r\n      G\r\n      L\r\n      B\r\n
+  \     V\r\n      F\r\n      P\r\n      I\r\n    Admissions (Undergraduate) (Bloomington)FacebookTwitterYouTube    FlickrPinterestInstagramAfrican
+  American and African Diaspora Studies, Dept. of (Bloomington)Facebook         African
+  American Arts InstituteFacebookTwitterYouTube      InstagramAfrican Studies Program
+  (Bloomington)Facebook         American Constitution Society (ACS) (Bloomington) Twitter        Art
+  at IU Twitter   Blog    Asian Culture Center (Bloomington)FacebookTwitter        Athletics
+  (Bloomington)FacebookTwitterYouTube     Pinterest Basketball, Men's (Bloomington)FacebookTwitter        Basketball,
+  Women's (Bloomington)FacebookTwitter        Biology, Dept. of (Bloomington)FacebookTwitter   Blog    Black
+  Film Center/Archive (Bloomington)FacebookTwitter   Blog    Bloomington Professional
+  CouncilFacebook   LinkedIn     Borns Jewish Studies Program (Bloomington)Facebook         Business,
+  Kelley School of (Bloomington)FacebookTwitterYouTubeGoogle PlusLinkedInBlog  PinterestInstagramCenter
+  for Aging and CommunityFacebookTwitterYouTube  Blog Flickr  Center for Languages
+  of the Central Asian Region (Bloomington)FacebookTwitterYouTubeGoogle Plus      Center
+  for Latin American and Caribbean Studies (Bloomington)FacebookTwitter     Flickr  Center
+  for the Study of Global Change (Bloomington)Facebook         Center for the Study
+  of the Middle East (Bloomington)FacebookTwitterYouTube      InstagramCenter of Excellence
+  for Women in Tehchnology (CEWiT)FacebookTwitter      Pinterest Center on American
+  and Global Security (Bloomington)FacebookTwitter        Chemistry, Dept. of (Bloomington)FacebookTwitter        Chinese
+  Flagship Center (Bloomington)Facebook         College of Arts and Sciences (Bloomington)FacebookTwitter        Communication
+  and Culture, Dept. of (Bloomington)Facebook    Blog    Communication and Culture,
+  Dept. of (Graduate)Facebook    Blog    Dhar India Studies Program (Bloomington)Facebook         East
+  Asian Languages and Culture, Dept. of (Bloomington)Facebook         East Asian Studies
+  Center (Bloomington)Facebook YouTube       Education, School of (Bloomington)FacebookTwitterYouTube   Vimeo   Environmental
+  Health, Dept. of (Bloomington)FacebookTwitter        First Year Experience (FYE)
+  (Bloomington)FacebookTwitterYouTube       Folklore and Ethnomusicology, Dept. of
+  (Bloomington)Facebook YouTube       French and Italian, Dept. of (Bloomington)Facebook YouTube       Geography,
+  Department of (Bloomington)FacebookTwitter      Pinterest Geological Sciences, Dept.
+  of (Bloomington)Facebook         Germanic Studies, Dept. of (Bloomington)Facebook         Global
+  and International Studies, School of (Bloomington)Facebook         Graduate and
+  Professional Student Organization (GPSO) (Bloomington)FacebookTwitter  LinkedIn    InstagramGrunwald
+  Gallery of ArtFacebookTwitter   Blog   InstagramHistory, Dept. of (Bloomington)FacebookTwitter        Honors
+  Program in Foreign LanguagesFacebook YouTube    Flickr  Human Resources, BloomingtonFacebookTwitter        Indiana
+  Memorial Uninon HotelFacebookTwitter        Informatics and Computing, School of
+  (Bloomington)FacebookTwitterYouTube LinkedIn   PinterestInstagramInformation and
+  Library Sciences, Dept. of (Bloomington)FacebookTwitter  LinkedIn    InstagramInstitute
+  for European Studies (Bloomington)Facebook    BlogVimeo   Institute for International
+  Business (Bloomington)FacebookTwitter        International Admissions (Bloomington)Facebook         International
+  Delegations: Office of the President     Blog Flickr  International Services, Office
+  ofFacebookTwitterYouTube      InstagramInternational Studies, Dept. of (Bloomington)Facebook   LinkedInBlog    Islamic
+  Studies Program (Bloomington)Facebook         IT TrainingFacebookTwitterYouTubeGoogle
+  Plus    PinterestInstagramIU Alumni Association (IUAA)FacebookTwitterYouTube LinkedIn  Flickr  IU
+  Art MusuemFacebookTwitter   Blog    IU AuditoriumFacebookTwitter        IU BloomingtonFacebookTwitterYouTubeGoogle
+  PlusLinkedInBlog  PinterestInstagramIU Bookstore (Bloomington)FacebookTwitter        IU
+  Campus Bus (Bloomington)FacebookTwitter        IU CinemaFacebookTwitterYouTube     PinterestInstagramIU
+  Communications TwitterYouTube       IU FoundationFacebookTwitterYouTube LinkedIn  Flickr InstagramIU
+  Health and Wellness News Twitter Google Plus Blog    IU Health Center (Bloomington) Twitter        IU
+  Latino Alumni Association (IULAA)FacebookTwitter  LinkedIn  Flickr  IU LibrariesFacebookTwitterYouTube  Blog Flickr  IU
+  PressFacebookTwitterYouTubeGoogle Plus  Vimeo   IU Student FoundationFacebookTwitter        IU
+  Summer Language Workshop (Bloomington)FacebookTwitterYouTube       IU Surplus Store
+  (Bloomington)FacebookTwitter        IU Tech StoreFacebookTwitter        IU Tennis
+  Center (Bloomington)FacebookTwitter        IU Visitor Information Center (Bloomington)FacebookTwitter        Japanese
+  Animation and Culture Club (Bloomington)Facebook         Journalism, School of (Bloomington)FacebookTwitter  LinkedIn Vimeo   Kelley
+  DirectFacebookTwitterYouTube LinkedInBlog  Pinterest Kelley Living Learning Center Twitter        Kelley
+  MBA (Bloomington)FacebookTwitterYouTube  Blog  Pinterest Kelley School of Business
+  (Undergraduate)  YouTube       Kinsey InstituteFacebookTwitterYouTubeGoogle Plus Blog    La
+  Casa - Latino Cultural Center (Bloomington)FacebookTwitter        Liberal Arts Management
+  ProgramFacebook         Law, Maurer School of (Bloomington)FacebookTwitterYouTube LinkedIn     LEAD
+  IUB Twitter        LEAD IUBFacebook   LinkedIn     Linguistics, Dept. of (Bloomington)Facebook         Mathers
+  MuseumFacebookTwitter Google Plus   FlickrPinterest Media School, TheFacebookTwitterYouTubeGoogle
+  PlusLinkedInBlog   InstagramMedieval Studies Institute (Bloomington)FacebookTwitter        Music,
+  Jacobs School of (Bloomington)FacebookTwitterYouTube       National Center on AccessibilityFacebook         Neal
+  Mashall Black Culture CenterFacebookTwitter        Near Eastern Languages and Cultures,
+  Dept. of (Bloomington)Facebook         Opera & Ballet Theater (Bloomington)FacebookTwitterYouTube       Optometry,
+  School ofFacebookTwitter        Overseas Study, Office ofFacebookTwitterYouTube LinkedInBlog Flickr  Parking
+  OperationsFacebookTwitter      Pinterest Political And Civic Engagement (PACE)Facebook YouTube       Poynter
+  Center for the Study of EthicsFacebook   LinkedIn     Process Experience Architecture
+  Group Twitter        Psychological and Brain Sciences, Dept. of (Bloomington)FacebookTwitter  LinkedIn VimeoFlickr  Public
+  and Environmental Affairs, School of (SPEA) (Bloomington)FacebookTwitterYouTube LinkedIn    InstagramPublic
+  Health Office of Career Services, School ofFacebookTwitterYouTube LinkedInBlog    Public
+  Health-Bloomington, IU School ofFacebookTwitter  LinkedIn  Flickr  Recreational
+  Sports (Bloomington)FacebookTwitterYouTube       Registrar, Office of the (Bloomington)FacebookTwitter        Residential
+  Programs and Services (Bloomington)FacebookTwitterYouTube     PinterestInstagramRussian
+  and East European Institute (Bloomington)Facebook         Scholarships, Office of
+  (Bloomington)FacebookTwitterYouTube      InstagramSPEA OverseasFacebookTwitter   Blog    Speech
+  and Hearing Science, Dept. of (Bloomington)Facebook         Street Smart Party AnimalsFacebookTwitter        Student
+  Legal Services (Bloomington)FacebookTwitter   Blog    Student Life and Learning
+  (Bloomington)FacebookTwitter        Students for Life at IU (Bloomington)Facebook         Sustainability,
+  Office of (Bloomington)FacebookTwitter   Blog    Telecommunications, Dept. of (Bloomington)Facebook         Theatre
+  and Drama, Dept. of (Bloomington)FacebookTwitterYouTube  Blog   InstagramThemesterFacebookTwitter   Blog    UITS
+  IT News TwitterYouTube       UITS Technology Center Consulting (Bloomington)FacebookTwitter        University
+  Archives Twitter   Blog    University Graduate School (Bloomington)FacebookTwitter      Pinterest Varsity
+  ClubFacebookTwitter Google Plus     InstagramVice Provost for Research (Bloomington)FacebookTwitter        We
+  Are IUFacebookTwitter   Blog  Pinterest WFIU Public RadioFacebookTwitter     Flickr  Women
+  in IT at IUFacebookTwitter        WTIU Public TelevisionFacebookTwitterYouTube LinkedIn  Flickr  \nTwitter\nFacebook\nInstagram\nYouTube\nPinterest\nLinkedIn\nGoogle
+  Plus\n\n\n\nServices\nCanvas\nOncourse\nOne.IU\n\n\nFind\nPeople\nSocial Media\nA-Z
+  List\nCourses\nCampus Map\n\n\nLibrary\nIU Bloomington Libraries\nIUCAT\nOneSearch@IU\n\n\nResources\nKnowledge
+  Base\nIT Services\nFaculty & Staff Resources\n\n\nEmail\nImail\nUmail\nOutlook Web
+  Access\nWebmail\n\n\n\nIndiana University Bloomington\n\n107 S. Indiana AvenueBloomington,
+  IN47405-7000\n Phone: 812-855-4848\n\naskiu@iu.edu\n\n\n\n\t\tFulfilling the Promise\n\n\t\t\n\t\t\tCopyright
+  © 2015 The Trustees of Indiana University\n\t\t\n\n\t\tPrivacy Notice\n\n\t\n\n
+  \       \n\n\nAboutRankings & Campus Statistics\nHistory\nFulfilling the Promise\nMission\n\nCampus
+  InitiativesDiversity\nGlobal Partnerships & Programs\nArts & Humanities\n  New Schools
+  & Programs\n\nLeadership & Administration\nCampus Map\nSafety & Emergency Information\nTransportation
+  & Parking\nEmployment\nA-Z List\nHow to Hire IU Students\n\n\nAdmissionsHow to Apply\nCost
+  & Finances\nVisit IU & Bloomington\n\n\nAcademicsThe Academic Experience\nDegrees
+  & Majors\nSchools\nAcademic Opportunities\nStudy Abroad\nOnline Classes & Programs\nSchedule
+  of Classes & Academic Calendar\nAcademic Advising & Support\nLibraries\n\n\nResearchResearch
+  Experiences\nResearch Centers\nResearch Resources for Faculty\n\n\nHoosier LifeTraditions
+  & Spirit\nStudent Organizations\nRecreational Sports\nAthletics\nHealth, Wellness
+  & Safety\nHousing & Dining\nVisiting Bloomington\nAttractions & Things to Do\n\n\nYour
+  FutureFind Your Passion\nGet Experience\nDevelop Your Career\nUse Your Network\nSuccess
+  Stories\n\nAlumni & Giving\nNews & Events\n\n        \n    \n    \n    \n\n        \n
+  \       \n// \n\n// \n\n// \n\n// \n\n// \n\n// \n\n// \n\n// \n\n// \n\n// \n\n\t\t\t\t\n\t\t\t\t\tIndiana
+  University Bloomington\n\t\t\t\t\tIndiana University Bloomington\n\t\t\t\t\tIU Bloomington\n\t\t\t\t\n\t\t\tLooking
+  for a social media account at IU Bloomington? You’re in the right place! Explore
+  this list of IU Bloomington social networks and get connected.Something missing?
+  Submit your official IU Bloomington accounts by filling out the request form.What
+  \ AllAcademicArtsAthleticsLibrariesNewsPrimaryServiceStudent GroupIndiana University
+  BloomingtonFulfilling the Promise\n\t\t\tCopyright © 2015 The Trustees of Indiana
+  University\n\t\tPrivacy Notice\n\n\t"

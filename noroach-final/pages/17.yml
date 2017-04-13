@@ -1,0 +1,485 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors: []
+address: https://lists.wikimedia.org/mailman/admin/daily-article-l
+inboundLinks: []
+lines:
+- " \n"
+- |2+
+
+- "  \n"
+- "\tdaily-article-l Administrator\n"
+- "\t    Authentication\n"
+- "      \n"
+- |2
+      List Administrator Password:
+- "      \n"
+- "    \n"
+- |2
+      Important: From this point on, you
+- |2
+        must have cookies enabled in your browser, otherwise no
+- |2
+        administrative changes will take effect.
+- |2+
+
+- |2
+        Session cookies are used in Mailman's
+- |2
+        administrative interface so that you don't need to
+- |2
+        re-authenticate with every administrative operation.  This
+- |2
+        cookie will expire automatically when you exit your browser, or
+- |2
+        you can explicitly expire the cookie by hitting the
+- |2
+        Logout link under Other Administrative
+- |2
+        Activities (which you'll see once you successfully log in).
+- |2
+   Important: From this point on, you
+- |2
+        must have cookies enabled in your browser, otherwise no
+- |2
+        administrative changes will take effect.
+- |2+
+
+- |2
+        Session cookies are used in Mailman's
+- |2
+        administrative interface so that you don't need to
+- |2
+        re-authenticate with every administrative operation.  This
+- |2
+        cookie will expire automatically when you exit your browser, or
+- |2
+        you can explicitly expire the cookie by hitting the
+- |2
+        Logout link under Other Administrative
+- |2
+        Activities (which you'll see once you successfully log in).
+- |2+
+
+index:
+  daily: !ruby/object:Word
+    word: daily
+    stem: daili
+    docFrequency: 2.0
+    docPositions:
+    - 3
+  article: !ruby/object:Word
+    word: article
+    stem: articl
+    docFrequency: 2.0
+    docPositions:
+    - 3
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 2.0
+    docPositions:
+    - 3
+  administrator: !ruby/object:Word
+    word: administrator
+    stem: administr
+    docFrequency: 3.0
+    docPositions:
+    - 3
+    - 6
+  authentication: !ruby/object:Word
+    word: authentication
+    stem: authent
+    docFrequency: 2.0
+    docPositions:
+    - 4
+  list: !ruby/object:Word
+    word: list
+    stem: list
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  password: !ruby/object:Word
+    word: password
+    stem: password
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  important: !ruby/object:Word
+    word: important
+    stem: import
+    docFrequency: 3.0
+    docPositions:
+    - 9
+    - 20
+  point: !ruby/object:Word
+    word: point
+    stem: point
+    docFrequency: 3.0
+    docPositions:
+    - 9
+    - 20
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 13.0
+    docPositions:
+    - 9
+    - 14
+    - 16
+    - 17
+    - 19
+    - 20
+    - 25
+    - 27
+    - 28
+    - 30
+  must: !ruby/object:Word
+    word: must
+    stem: must
+    docFrequency: 3.0
+    docPositions:
+    - 10
+    - 21
+  have: !ruby/object:Word
+    word: have
+    stem: have
+    docFrequency: 3.0
+    docPositions:
+    - 10
+    - 21
+  cookies: !ruby/object:Word
+    word: cookies
+    stem: cooki
+    docFrequency: 5.0
+    docPositions:
+    - 10
+    - 13
+    - 21
+    - 24
+  enabled: !ruby/object:Word
+    word: enabled
+    stem: enabl
+    docFrequency: 3.0
+    docPositions:
+    - 10
+    - 21
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 5.0
+    docPositions:
+    - 10
+    - 16
+    - 21
+    - 27
+  browser: !ruby/object:Word
+    word: browser
+    stem: browser
+    docFrequency: 5.0
+    docPositions:
+    - 10
+    - 16
+    - 21
+    - 27
+  otherwise: !ruby/object:Word
+    word: otherwise
+    stem: otherwis
+    docFrequency: 3.0
+    docPositions:
+    - 10
+    - 21
+  'no': !ruby/object:Word
+    word: 'no'
+    stem: 'no'
+    docFrequency: 3.0
+    docPositions:
+    - 10
+    - 21
+  administrative: !ruby/object:Word
+    word: administrative
+    stem: administr
+    docFrequency: 9.0
+    docPositions:
+    - 11
+    - 14
+    - 15
+    - 18
+    - 22
+    - 25
+    - 26
+    - 29
+  changes: !ruby/object:Word
+    word: changes
+    stem: chang
+    docFrequency: 3.0
+    docPositions:
+    - 11
+    - 22
+  take: !ruby/object:Word
+    word: take
+    stem: take
+    docFrequency: 3.0
+    docPositions:
+    - 11
+    - 22
+  effect: !ruby/object:Word
+    word: effect
+    stem: effect
+    docFrequency: 3.0
+    docPositions:
+    - 11
+    - 22
+  session: !ruby/object:Word
+    word: session
+    stem: session
+    docFrequency: 3.0
+    docPositions:
+    - 13
+    - 24
+  used: !ruby/object:Word
+    word: used
+    stem: us
+    docFrequency: 3.0
+    docPositions:
+    - 13
+    - 24
+  mailman: !ruby/object:Word
+    word: mailman
+    stem: mailman
+    docFrequency: 3.0
+    docPositions:
+    - 13
+    - 24
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 3.0
+    docPositions:
+    - 13
+    - 24
+  interface: !ruby/object:Word
+    word: interface
+    stem: interfac
+    docFrequency: 3.0
+    docPositions:
+    - 14
+    - 25
+  so: !ruby/object:Word
+    word: so
+    stem: so
+    docFrequency: 3.0
+    docPositions:
+    - 14
+    - 25
+  don: !ruby/object:Word
+    word: don
+    stem: don
+    docFrequency: 3.0
+    docPositions:
+    - 14
+    - 25
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 3.0
+    docPositions:
+    - 14
+    - 25
+  need: !ruby/object:Word
+    word: need
+    stem: need
+    docFrequency: 3.0
+    docPositions:
+    - 14
+    - 25
+  re: !ruby/object:Word
+    word: re
+    stem: re
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 26
+  authenticate: !ruby/object:Word
+    word: authenticate
+    stem: authent
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 26
+  every: !ruby/object:Word
+    word: every
+    stem: everi
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 26
+  operation: !ruby/object:Word
+    word: operation
+    stem: oper
+    docFrequency: 3.0
+    docPositions:
+    - 15
+    - 26
+  cookie: !ruby/object:Word
+    word: cookie
+    stem: cooki
+    docFrequency: 5.0
+    docPositions:
+    - 16
+    - 17
+    - 27
+    - 28
+  expire: !ruby/object:Word
+    word: expire
+    stem: expir
+    docFrequency: 5.0
+    docPositions:
+    - 16
+    - 17
+    - 27
+    - 28
+  automatically: !ruby/object:Word
+    word: automatically
+    stem: automat
+    docFrequency: 3.0
+    docPositions:
+    - 16
+    - 27
+  exit: !ruby/object:Word
+    word: exit
+    stem: exit
+    docFrequency: 3.0
+    docPositions:
+    - 16
+    - 27
+  can: !ruby/object:Word
+    word: can
+    stem: can
+    docFrequency: 3.0
+    docPositions:
+    - 17
+    - 28
+  explicitly: !ruby/object:Word
+    word: explicitly
+    stem: explicitli
+    docFrequency: 3.0
+    docPositions:
+    - 17
+    - 28
+  hitting: !ruby/object:Word
+    word: hitting
+    stem: hit
+    docFrequency: 3.0
+    docPositions:
+    - 17
+    - 28
+  logout: !ruby/object:Word
+    word: logout
+    stem: logout
+    docFrequency: 3.0
+    docPositions:
+    - 18
+    - 29
+  link: !ruby/object:Word
+    word: link
+    stem: link
+    docFrequency: 3.0
+    docPositions:
+    - 18
+    - 29
+  under: !ruby/object:Word
+    word: under
+    stem: under
+    docFrequency: 3.0
+    docPositions:
+    - 18
+    - 29
+  other: !ruby/object:Word
+    word: other
+    stem: other
+    docFrequency: 3.0
+    docPositions:
+    - 18
+    - 29
+  activities: !ruby/object:Word
+    word: activities
+    stem: activ
+    docFrequency: 3.0
+    docPositions:
+    - 19
+    - 30
+  which: !ruby/object:Word
+    word: which
+    stem: which
+    docFrequency: 3.0
+    docPositions:
+    - 19
+    - 30
+  ll: !ruby/object:Word
+    word: ll
+    stem: ll
+    docFrequency: 3.0
+    docPositions:
+    - 19
+    - 30
+  see: !ruby/object:Word
+    word: see
+    stem: see
+    docFrequency: 3.0
+    docPositions:
+    - 19
+    - 30
+  once: !ruby/object:Word
+    word: once
+    stem: onc
+    docFrequency: 3.0
+    docPositions:
+    - 19
+    - 30
+  successfully: !ruby/object:Word
+    word: successfully
+    stem: successfulli
+    docFrequency: 3.0
+    docPositions:
+    - 19
+    - 30
+  log: !ruby/object:Word
+    word: log
+    stem: log
+    docFrequency: 3.0
+    docPositions:
+    - 19
+    - 30
+lineCount: 32
+wordCount: 162
+rank: 0.25
+title: daily-article-l Administrator Authentication
+links:
+- http://www.gnu.org/software/mailman/index.html
+- http://www.python.org/
+- http://www.gnu.org/
+- http://www.debian.org/
+rawText: " \n\n  \n\tdaily-article-l Administrator\n\t    Authentication\n      \n
+  \   List Administrator Password:\n      \n    \n    Important: From this point on,
+  you\n      must have cookies enabled in your browser, otherwise no\n      administrative
+  changes will take effect.\n\n      Session cookies are used in Mailman's\n      administrative
+  interface so that you don't need to\n      re-authenticate with every administrative
+  operation.  This\n      cookie will expire automatically when you exit your browser,
+  or\n      you can explicitly expire the cookie by hitting the\n      Logout link
+  under Other Administrative\n      Activities (which you'll see once you successfully
+  log in).\n Important: From this point on, you\n      must have cookies enabled in
+  your browser, otherwise no\n      administrative changes will take effect.\n\n      Session
+  cookies are used in Mailman's\n      administrative interface so that you don't
+  need to\n      re-authenticate with every administrative operation.  This\n      cookie
+  will expire automatically when you exit your browser, or\n      you can explicitly
+  expire the cookie by hitting the\n      Logout link under Other Administrative\n
+  \     Activities (which you'll see once you successfully log in).\n\n"

@@ -1,0 +1,1145 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors: []
+address: https://lists.wikimedia.org/mailman/listinfo/daily-image-l
+inboundLinks: []
+lines:
+- "\r\n"
+- "  \r\n"
+- "  \r\n"
+- "    \r\n"
+- "      \r\n"
+- "        daily-image-l\r\n"
+- "        \r\rWikimedia CommonsPicture of the Day\rIn your inbox, every day!This
+  is an announcement-only list where subscribers will receive one email per day, containing
+  a link to (and details about) the Wikimedia Commons' Picture of the Day. These \"Featured
+  Pictures\" are high-quality, freely-licensed media, usually created by Wikimedians
+  or sourced from the public domain. They are recognised by the Wikimedia Commons
+  community as the best of the best.\rQuestions & answers can be found at https://commons.wikimedia.org/wiki/Commons:Daily-image-l.\r\n"
+- "        Visit the daily-image-l Archives. \r\n"
+- "        \r\n"
+- "      \r\n"
+- "        \r\n"
+- "          Subscribe\r\n"
+- |2
+            Your e-mail address:Your name (optional):Preferred language:
+- " Catalan  Czech  Danish  German  English (USA)  Spanish (Spain)  Estonian  Euskara
+  \ Finnish  French  Croatian  Hungarian  Interlingua  Italian  Japanese  Korean  Lithuanian
+  \ Dutch  Norwegian  Polish  Portuguese  Portuguese (Brazil)  Romanian  Russian  Slovenian
+  \ Serbian  Swedish  Turkish  Ukrainian  Chinese (China)  Chinese (Taiwan) \r\n"
+- "          \r\n"
+- "          \r\n"
+- "          \r\n"
+- "          \r\n"
+- |2
+            You will be sent email requesting confirmation, to
+- |2
+              prevent others from gratuitously subscribing you. This is a hidden list, which means that the
+- "            list of members is available only to the list administrator.\r\n"
+- "          \r\n"
+- "        \r\n"
+- "        \r\n"
+- "          \r\n"
+- "          \r\n"
+- "          \r\n"
+- |2
+            (The subscribers list is only available to the list
+- "            administrator.) Enter your admin address and password to visit  the
+  subscribers list:  Admin address: Password:   \r\n"
+- "        \r\n"
+- "          Change your settings or unsubscribe\r\n"
+- |2
+            To unsubscribe from daily-image-l, get a password reminder,
+- |2
+          or change your subscription options enter your subscription
+- |2
+          email address:
+- |2
+            If you leave the field blank, you will be prompted for
+- "        your email address\r\n"
+- "        \r\n"
+- "        \r\n"
+- "          Admins\r\n"
+- |2
+            daily-image-l list run by steinsplitter at wikipedia.de, brianna.laugher at gmail.com, bryan.tongminh at gmail.comdaily-image-l administrative interface (requires authorization)Overview of all lists.wikimedia.org mailing lists
+- |
+  version 2.1.18
+- "    \n"
+- "    \n"
+- "    \n"
+- "  \r\n"
+- "        \r\n"
+- "      \r\n"
+- "    \r\n"
+- "  \t\r\n"
+- "\t  \r\n"
+- "      \r\n"
+- "        Mailing lists\r\n"
+- "          About \r\n"
+- "\t\t  POTD\r\n"
+- "        \r\n"
+- "       \r\n"
+- "  \r\n"
+- "  \r\n"
+- "    Based on a design by freeCSStemplates.org \r\n"
+- "\tand \r\n"
+- "\t\r\n"
+- "\tmailman-template-commons @ GitHub (Contributors) \r\n"
+- "\t- CC-BY 3.0.\r\n"
+- "  \r\n"
+- "  \r\n"
+- "  \rEnter your admin address and password to visit  the subscribers list: \n"
+- "Based on a design by freeCSStemplates.org \r\n"
+- "\tand \r\n"
+- "\t\r\n"
+- "\tmailman-template-commons @ GitHub (Contributors) \r\n"
+- "\t- CC-BY 3.0."
+index:
+  daily: !ruby/object:Word
+    word: daily
+    stem: daili
+    docFrequency: 6.0
+    docPositions:
+    - 5
+    - 6
+    - 7
+    - 31
+    - 39
+  image: !ruby/object:Word
+    word: image
+    stem: imag
+    docFrequency: 7.0
+    docPositions:
+    - 5
+    - 6
+    - 7
+    - 31
+    - 39
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 7.0
+    docPositions:
+    - 5
+    - 6
+    - 7
+    - 31
+    - 39
+  wikimedia: !ruby/object:Word
+    word: wikimedia
+    stem: wikimedia
+    docFrequency: 6.0
+    docPositions:
+    - 6
+    - 39
+  commonspicture: !ruby/object:Word
+    word: commonspicture
+    stem: commonspictur
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  day: !ruby/object:Word
+    word: day
+    stem: dai
+    docFrequency: 5.0
+    docPositions:
+    - 6
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 10.0
+    docPositions:
+    - 6
+    - 12
+    - 28
+    - 30
+    - 32
+    - 35
+    - 65
+  inbox: !ruby/object:Word
+    word: inbox
+    stem: inbox
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  every: !ruby/object:Word
+    word: every
+    stem: everi
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  announcement: !ruby/object:Word
+    word: announcement
+    stem: announc
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  only: !ruby/object:Word
+    word: only
+    stem: onli
+    docFrequency: 4.0
+    docPositions:
+    - 6
+    - 20
+    - 27
+  list: !ruby/object:Word
+    word: list
+    stem: list
+    docFrequency: 10.0
+    docPositions:
+    - 6
+    - 19
+    - 20
+    - 27
+    - 28
+    - 39
+    - 65
+  subscribers: !ruby/object:Word
+    word: subscribers
+    stem: subscrib
+    docFrequency: 5.0
+    docPositions:
+    - 6
+    - 27
+    - 28
+    - 65
+  receive: !ruby/object:Word
+    word: receive
+    stem: receiv
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 5.0
+    docPositions:
+    - 6
+    - 18
+    - 33
+    - 35
+  per: !ruby/object:Word
+    word: per
+    stem: per
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  containing: !ruby/object:Word
+    word: containing
+    stem: contain
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  link: !ruby/object:Word
+    word: link
+    stem: link
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 6.0
+    docPositions:
+    - 6
+    - 28
+    - 59
+    - 65
+    - 67
+  details: !ruby/object:Word
+    word: details
+    stem: detail
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  commons: !ruby/object:Word
+    word: commons
+    stem: common
+    docFrequency: 7.0
+    docPositions:
+    - 6
+    - 61
+    - 69
+  picture: !ruby/object:Word
+    word: picture
+    stem: pictur
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  these: !ruby/object:Word
+    word: these
+    stem: these
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  featured: !ruby/object:Word
+    word: featured
+    stem: featur
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  pictures: !ruby/object:Word
+    word: pictures
+    stem: pictur
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  high: !ruby/object:Word
+    word: high
+    stem: high
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  quality: !ruby/object:Word
+    word: quality
+    stem: qualiti
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  freely: !ruby/object:Word
+    word: freely
+    stem: freeli
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  licensed: !ruby/object:Word
+    word: licensed
+    stem: licens
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  media: !ruby/object:Word
+    word: media
+    stem: media
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  usually: !ruby/object:Word
+    word: usually
+    stem: usual
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  created: !ruby/object:Word
+    word: created
+    stem: creat
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  wikimedians: !ruby/object:Word
+    word: wikimedians
+    stem: wikimedian
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  sourced: !ruby/object:Word
+    word: sourced
+    stem: sourc
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  public: !ruby/object:Word
+    word: public
+    stem: public
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  domain: !ruby/object:Word
+    word: domain
+    stem: domain
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  they: !ruby/object:Word
+    word: they
+    stem: thei
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  recognised: !ruby/object:Word
+    word: recognised
+    stem: recognis
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  community: !ruby/object:Word
+    word: community
+    stem: commun
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  best: !ruby/object:Word
+    word: best
+    stem: best
+    docFrequency: 3.0
+    docPositions:
+    - 6
+  questions: !ruby/object:Word
+    word: questions
+    stem: question
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  answers: !ruby/object:Word
+    word: answers
+    stem: answer
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  can: !ruby/object:Word
+    word: can
+    stem: can
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  found: !ruby/object:Word
+    word: found
+    stem: found
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  https: !ruby/object:Word
+    word: https
+    stem: http
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  org: !ruby/object:Word
+    word: org
+    stem: org
+    docFrequency: 5.0
+    docPositions:
+    - 6
+    - 39
+    - 58
+    - 66
+  wiki: !ruby/object:Word
+    word: wiki
+    stem: wiki
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  visit: !ruby/object:Word
+    word: visit
+    stem: visit
+    docFrequency: 4.0
+    docPositions:
+    - 7
+    - 28
+    - 65
+  archives: !ruby/object:Word
+    word: archives
+    stem: archiv
+    docFrequency: 2.0
+    docPositions:
+    - 7
+  subscribe: !ruby/object:Word
+    word: subscribe
+    stem: subscrib
+    docFrequency: 2.0
+    docPositions:
+    - 11
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 2.0
+    docPositions:
+    - 12
+  mail: !ruby/object:Word
+    word: mail
+    stem: mail
+    docFrequency: 2.0
+    docPositions:
+    - 12
+  address: !ruby/object:Word
+    word: address
+    stem: address
+    docFrequency: 7.0
+    docPositions:
+    - 12
+    - 28
+    - 33
+    - 35
+    - 65
+  name: !ruby/object:Word
+    word: name
+    stem: name
+    docFrequency: 2.0
+    docPositions:
+    - 12
+  optional: !ruby/object:Word
+    word: optional
+    stem: option
+    docFrequency: 2.0
+    docPositions:
+    - 12
+  preferred: !ruby/object:Word
+    word: preferred
+    stem: prefer
+    docFrequency: 2.0
+    docPositions:
+    - 12
+  language: !ruby/object:Word
+    word: language
+    stem: languag
+    docFrequency: 2.0
+    docPositions:
+    - 12
+  catalan: !ruby/object:Word
+    word: catalan
+    stem: catalan
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  czech: !ruby/object:Word
+    word: czech
+    stem: czech
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  danish: !ruby/object:Word
+    word: danish
+    stem: danish
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  german: !ruby/object:Word
+    word: german
+    stem: german
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  english: !ruby/object:Word
+    word: english
+    stem: english
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  usa: !ruby/object:Word
+    word: usa
+    stem: usa
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  spanish: !ruby/object:Word
+    word: spanish
+    stem: spanish
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  spain: !ruby/object:Word
+    word: spain
+    stem: spain
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  estonian: !ruby/object:Word
+    word: estonian
+    stem: estonian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  euskara: !ruby/object:Word
+    word: euskara
+    stem: euskara
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  finnish: !ruby/object:Word
+    word: finnish
+    stem: finnish
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  french: !ruby/object:Word
+    word: french
+    stem: french
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  croatian: !ruby/object:Word
+    word: croatian
+    stem: croatian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  hungarian: !ruby/object:Word
+    word: hungarian
+    stem: hungarian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  interlingua: !ruby/object:Word
+    word: interlingua
+    stem: interlingua
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  italian: !ruby/object:Word
+    word: italian
+    stem: italian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  japanese: !ruby/object:Word
+    word: japanese
+    stem: japanes
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  korean: !ruby/object:Word
+    word: korean
+    stem: korean
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  lithuanian: !ruby/object:Word
+    word: lithuanian
+    stem: lithuanian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  dutch: !ruby/object:Word
+    word: dutch
+    stem: dutch
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  norwegian: !ruby/object:Word
+    word: norwegian
+    stem: norwegian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  polish: !ruby/object:Word
+    word: polish
+    stem: polish
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  portuguese: !ruby/object:Word
+    word: portuguese
+    stem: portugues
+    docFrequency: 3.0
+    docPositions:
+    - 13
+  brazil: !ruby/object:Word
+    word: brazil
+    stem: brazil
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  romanian: !ruby/object:Word
+    word: romanian
+    stem: romanian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  russian: !ruby/object:Word
+    word: russian
+    stem: russian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  slovenian: !ruby/object:Word
+    word: slovenian
+    stem: slovenian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  serbian: !ruby/object:Word
+    word: serbian
+    stem: serbian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  swedish: !ruby/object:Word
+    word: swedish
+    stem: swedish
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  turkish: !ruby/object:Word
+    word: turkish
+    stem: turkish
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  ukrainian: !ruby/object:Word
+    word: ukrainian
+    stem: ukrainian
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  chinese: !ruby/object:Word
+    word: chinese
+    stem: chines
+    docFrequency: 3.0
+    docPositions:
+    - 13
+  china: !ruby/object:Word
+    word: china
+    stem: china
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  taiwan: !ruby/object:Word
+    word: taiwan
+    stem: taiwan
+    docFrequency: 2.0
+    docPositions:
+    - 13
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 5.0
+    docPositions:
+    - 18
+    - 19
+    - 34
+  sent: !ruby/object:Word
+    word: sent
+    stem: sent
+    docFrequency: 2.0
+    docPositions:
+    - 18
+  requesting: !ruby/object:Word
+    word: requesting
+    stem: request
+    docFrequency: 2.0
+    docPositions:
+    - 18
+  confirmation: !ruby/object:Word
+    word: confirmation
+    stem: confirm
+    docFrequency: 2.0
+    docPositions:
+    - 18
+  prevent: !ruby/object:Word
+    word: prevent
+    stem: prevent
+    docFrequency: 2.0
+    docPositions:
+    - 19
+  others: !ruby/object:Word
+    word: others
+    stem: other
+    docFrequency: 2.0
+    docPositions:
+    - 19
+  gratuitously: !ruby/object:Word
+    word: gratuitously
+    stem: gratuit
+    docFrequency: 2.0
+    docPositions:
+    - 19
+  subscribing: !ruby/object:Word
+    word: subscribing
+    stem: subscrib
+    docFrequency: 2.0
+    docPositions:
+    - 19
+  hidden: !ruby/object:Word
+    word: hidden
+    stem: hidden
+    docFrequency: 2.0
+    docPositions:
+    - 19
+  which: !ruby/object:Word
+    word: which
+    stem: which
+    docFrequency: 2.0
+    docPositions:
+    - 19
+  means: !ruby/object:Word
+    word: means
+    stem: mean
+    docFrequency: 2.0
+    docPositions:
+    - 19
+  members: !ruby/object:Word
+    word: members
+    stem: member
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  available: !ruby/object:Word
+    word: available
+    stem: avail
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 27
+  administrator: !ruby/object:Word
+    word: administrator
+    stem: administr
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 28
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 4.0
+    docPositions:
+    - 27
+    - 62
+    - 70
+  enter: !ruby/object:Word
+    word: enter
+    stem: enter
+    docFrequency: 4.0
+    docPositions:
+    - 28
+    - 32
+    - 65
+  admin: !ruby/object:Word
+    word: admin
+    stem: admin
+    docFrequency: 4.0
+    docPositions:
+    - 28
+    - 65
+  password: !ruby/object:Word
+    word: password
+    stem: password
+    docFrequency: 5.0
+    docPositions:
+    - 28
+    - 31
+    - 65
+  change: !ruby/object:Word
+    word: change
+    stem: chang
+    docFrequency: 3.0
+    docPositions:
+    - 30
+    - 32
+  settings: !ruby/object:Word
+    word: settings
+    stem: set
+    docFrequency: 2.0
+    docPositions:
+    - 30
+  unsubscribe: !ruby/object:Word
+    word: unsubscribe
+    stem: unsubscrib
+    docFrequency: 3.0
+    docPositions:
+    - 30
+    - 31
+  get: !ruby/object:Word
+    word: get
+    stem: get
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  reminder: !ruby/object:Word
+    word: reminder
+    stem: remind
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  subscription: !ruby/object:Word
+    word: subscription
+    stem: subscript
+    docFrequency: 3.0
+    docPositions:
+    - 32
+  options: !ruby/object:Word
+    word: options
+    stem: option
+    docFrequency: 2.0
+    docPositions:
+    - 32
+  if: !ruby/object:Word
+    word: if
+    stem: if
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  leave: !ruby/object:Word
+    word: leave
+    stem: leav
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  field: !ruby/object:Word
+    word: field
+    stem: field
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  blank: !ruby/object:Word
+    word: blank
+    stem: blank
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  prompted: !ruby/object:Word
+    word: prompted
+    stem: prompt
+    docFrequency: 2.0
+    docPositions:
+    - 34
+  admins: !ruby/object:Word
+    word: admins
+    stem: admin
+    docFrequency: 2.0
+    docPositions:
+    - 38
+  run: !ruby/object:Word
+    word: run
+    stem: run
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  steinsplitter: !ruby/object:Word
+    word: steinsplitter
+    stem: steinsplitt
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  wikipedia: !ruby/object:Word
+    word: wikipedia
+    stem: wikipedia
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  de: !ruby/object:Word
+    word: de
+    stem: de
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  brianna: !ruby/object:Word
+    word: brianna
+    stem: brianna
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  laugher: !ruby/object:Word
+    word: laugher
+    stem: laugher
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  gmail: !ruby/object:Word
+    word: gmail
+    stem: gmail
+    docFrequency: 3.0
+    docPositions:
+    - 39
+  bryan: !ruby/object:Word
+    word: bryan
+    stem: bryan
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  tongminh: !ruby/object:Word
+    word: tongminh
+    stem: tongminh
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  comdaily: !ruby/object:Word
+    word: comdaily
+    stem: comdaili
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  administrative: !ruby/object:Word
+    word: administrative
+    stem: administr
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  interface: !ruby/object:Word
+    word: interface
+    stem: interfac
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  requires: !ruby/object:Word
+    word: requires
+    stem: requir
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  authorization: !ruby/object:Word
+    word: authorization
+    stem: author
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  overview: !ruby/object:Word
+    word: overview
+    stem: overview
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  all: !ruby/object:Word
+    word: all
+    stem: all
+    docFrequency: 2.0
+    docPositions:
+    - 39
+  lists: !ruby/object:Word
+    word: lists
+    stem: list
+    docFrequency: 4.0
+    docPositions:
+    - 39
+    - 51
+  mailing: !ruby/object:Word
+    word: mailing
+    stem: mail
+    docFrequency: 3.0
+    docPositions:
+    - 39
+    - 51
+  version: !ruby/object:Word
+    word: version
+    stem: version
+    docFrequency: 2.0
+    docPositions:
+    - 40
+  potd: !ruby/object:Word
+    word: potd
+    stem: potd
+    docFrequency: 2.0
+    docPositions:
+    - 53
+  based: !ruby/object:Word
+    word: based
+    stem: base
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 66
+  design: !ruby/object:Word
+    word: design
+    stem: design
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 66
+  freecsstemplates: !ruby/object:Word
+    word: freecsstemplates
+    stem: freecsstempl
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 66
+  mailman: !ruby/object:Word
+    word: mailman
+    stem: mailman
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 69
+  template: !ruby/object:Word
+    word: template
+    stem: templat
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 69
+  github: !ruby/object:Word
+    word: github
+    stem: github
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 69
+  contributors: !ruby/object:Word
+    word: contributors
+    stem: contributor
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 69
+  cc: !ruby/object:Word
+    word: cc
+    stem: cc
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 70
+lineCount: 71
+wordCount: 328
+rank: 0.25
+title: daily-image-l Mailing List - Wikimedia
+links:
+- http://commons.wikimedia.org/wiki/Commons:Picture_of_the_day
+- https://commons.wikimedia.org/wiki/Commons:Daily-image-l
+- https://lists.wikimedia.org/pipermail/daily-image-l/
+- http://www.gnu.org/software/mailman/index.html
+- http://www.python.org/
+- http://www.gnu.org/
+- http://www.debian.org/
+- http://commons.wikimedia.org/wiki/Image:Featured_envelope.svg
+- https://meta.wikimedia.org/wiki/Mailing_lists
+- https://commons.wikimedia.org/wiki/Commons:Picture_of_the_day
+- http://www.freecsstemplates.org
+- https://github.com/Steinsplitter/mailman-template-commons
+- https://github.com/Steinsplitter/mailman-template-commons/graphs/contributors
+- https://creativecommons.org/licenses/by/3.0/
+rawText: "\r\n  \r\n  \r\n    \r\n      \r\n        daily-image-l\r\n        \r\rWikimedia
+  CommonsPicture of the Day\rIn your inbox, every day!This is an announcement-only
+  list where subscribers will receive one email per day, containing a link to (and
+  details about) the Wikimedia Commons' Picture of the Day. These \"Featured Pictures\"
+  are high-quality, freely-licensed media, usually created by Wikimedians or sourced
+  from the public domain. They are recognised by the Wikimedia Commons community as
+  the best of the best.\rQuestions & answers can be found at https://commons.wikimedia.org/wiki/Commons:Daily-image-l.\r\n
+  \       Visit the daily-image-l Archives. \r\n        \r\n      \r\n        \r\n
+  \         Subscribe\r\n          Your e-mail address:Your name (optional):Preferred
+  language:\n Catalan  Czech  Danish  German  English (USA)  Spanish (Spain)  Estonian
+  \ Euskara  Finnish  French  Croatian  Hungarian  Interlingua  Italian  Japanese
+  \ Korean  Lithuanian  Dutch  Norwegian  Polish  Portuguese  Portuguese (Brazil)
+  \ Romanian  Russian  Slovenian  Serbian  Swedish  Turkish  Ukrainian  Chinese (China)
+  \ Chinese (Taiwan) \r\n          \r\n          \r\n          \r\n          \r\n
+  \         You will be sent email requesting confirmation, to\n            prevent
+  others from gratuitously subscribing you. This is a hidden list, which means that
+  the\n            list of members is available only to the list administrator.\r\n
+  \         \r\n        \r\n        \r\n          \r\n          \r\n          \r\n
+  \         (The subscribers list is only available to the list\n            administrator.)
+  Enter your admin address and password to visit  the subscribers list:  Admin address:
+  Password:   \r\n        \r\n          Change your settings or unsubscribe\r\n          To
+  unsubscribe from daily-image-l, get a password reminder,\n        or change your
+  subscription options enter your subscription\n        email address:\n          If
+  you leave the field blank, you will be prompted for\n        your email address\r\n
+  \       \r\n        \r\n          Admins\r\n          daily-image-l list run by
+  steinsplitter at wikipedia.de, brianna.laugher at gmail.com, bryan.tongminh at gmail.comdaily-image-l
+  administrative interface (requires authorization)Overview of all lists.wikimedia.org
+  mailing lists\nversion 2.1.18\n    \n    \n    \n  \r\n        \r\n      \r\n    \r\n
+  \ \t\r\n\t  \r\n      \r\n        Mailing lists\r\n          About \r\n\t\t  POTD\r\n
+  \       \r\n       \r\n  \r\n  \r\n    Based on a design by freeCSStemplates.org
+  \r\n\tand \r\n\t\r\n\tmailman-template-commons @ GitHub (Contributors) \r\n\t- CC-BY
+  3.0.\r\n  \r\n  \r\n  \rEnter your admin address and password to visit  the subscribers
+  list: \nBased on a design by freeCSStemplates.org \r\n\tand \r\n\t\r\n\tmailman-template-commons
+  @ GitHub (Contributors) \r\n\t- CC-BY 3.0."

@@ -1,0 +1,3907 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors:
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag header invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 73
+    str1: header
+    str2: 
+    str3: 
+    int1: 0
+    column: 36
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag nav invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 139
+    str1: nav
+    str2: 
+    str3: 
+    int1: 0
+    column: 61
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag article invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 516
+    str1: article
+    str2: 
+    str3: 
+    int1: 0
+    column: 119
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag header invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 518
+    str1: header
+    str2: 
+    str3: 
+    int1: 0
+    column: 14
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag figure invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 712
+    str1: figure
+    str2: 
+    str3: 
+    int1: 0
+    column: 41
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag figcaption invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 714
+    str1: figcaption
+    str2: 
+    str3: 
+    int1: 0
+    column: 246
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag figure invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 721
+    str1: figure
+    str2: 
+    str3: 
+    int1: 0
+    column: 41
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag figcaption invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 723
+    str1: figcaption
+    str2: 
+    str3: 
+    int1: 0
+    column: 302
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag footer invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 777
+    str1: footer
+    str2: 
+    str3: 
+    int1: 0
+    column: 41
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      ID todays-hours-wrapper already defined
+    domain: 23
+    code: 513
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 975
+    str1: todays-hours-wrapper
+    str2: todays-hours-wrapper
+    str3: 
+    int1: 0
+    column: 88
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag footer invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-12878wq"
+    line: 1041
+    str1: footer
+    str2: 
+    str3: 
+    int1: 0
+    column: 113
+address: https://libraries.indiana.edu/
+inboundLinks: []
+lines:
+- |2+
+
+- "      \n"
+- |2
+        Skip to main content
+- "    \n"
+- "    \n"
+- "  \n"
+- |2+
+
+- "\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\tIndiana University Bloomington\n"
+- "\t\t\t\t\tIndiana University Bloomington\n"
+- "\t\t\t\t\tIU Bloomington\n"
+- "\t\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\n"
+- "\t\n"
+- |2+
+
+- |2+
+
+- |2+
+
+- "  \n"
+- |2+
+
+- |2+
+
+- "  \n"
+- "      \n"
+- "              \n"
+- |2
+            Indiana University Bloomington
+- "        \n"
+- "      \n"
+- "      \n"
+- "    \n"
+- |2+
+
+- "    \n"
+- "      \n"
+- "      \n"
+- |2
+          Libraries
+- "      \n"
+- "        \n"
+- "    \n"
+- |2+
+
+- "      \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "      \n"
+- |2
+          Research books, subject matter, classes, etc.
+- "        \n"
+- "    \n"
+- "    \n"
+- "      \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "    Menu  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- |2+
+
+- |2+
+
+- "  \n"
+- "      \n"
+- "    \n"
+- "  \n"
+- "    \n"
+- "      \n"
+- "    \n"
+- |2+
+
+- "      \n"
+- |2
+    Research Resources
+- "    \n"
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "            \n"
+- |2
+        Browse Subject Guides by Discipline
+- "    \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "      \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- |2
+                  A
+- |2
+               |     B
+- |2
+               |     C
+- |2
+               |     D
+- |2
+               |     E
+- |2
+               |     F
+- |2
+               |     G
+- |2
+               |     H
+- |2
+               |     I
+- |2
+               |     J
+- |2
+               |     K
+- |2
+               |     L
+- |2
+               |     M
+- |2
+               |     N
+- |2
+               |     O
+- |2
+               |     P
+- |2
+               |     R
+- |2
+               |     S
+- |2
+               |     T
+- |2
+               |     U
+- |2
+               |     V
+- "          \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "  \n"
+- "      \n"
+- "      \n"
+- "              \n"
+- "          African American and African Diaspora Studies            \n"
+- "                  \n"
+- "              \n"
+- "          Applied Health Science            \n"
+- "              \n"
+- "              \n"
+- "          African Studies            \n"
+- "                  \n"
+- "              \n"
+- "          Archaeology            \n"
+- "              \n"
+- "              \n"
+- "          American Studies            \n"
+- "                  \n"
+- "              \n"
+- "          Art & Art History            \n"
+- "              \n"
+- "              \n"
+- "          Animal Behavior            \n"
+- "                  \n"
+- "              \n"
+- "          Arts Management and Administration            \n"
+- "              \n"
+- "              \n"
+- "          Anthropology            \n"
+- "                  \n"
+- "              \n"
+- "          Astronomy            \n"
+- "              \n"
+- "              \n"
+- "          Apparel Merchandising and Interior Design            \n"
+- "                  \n"
+- "                      \n"
+- "              \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- |2
+        Looking for a specific resource?Resources A-Z list
+- "    \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- "  \n"
+- |
+  Campus Libraries
+- "    \n"
+- "  \n"
+- "    \n"
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "            \n"
+- "          Archives of African American Music & Culture  \n"
+- "            \n"
+- "          Archives of Traditional Music  \n"
+- "            \n"
+- "          Black Film Center/Archive  \n"
+- "            \n"
+- "          Business/SPEA Information Commons  \n"
+- "            \n"
+- "          Center for Disability Information and Referral (CeDIR)  \n"
+- "            \n"
+- "          Chemistry Library  \n"
+- "            \n"
+- "          Education Library  \n"
+- "            \n"
+- "          Fine Arts Library  \n"
+- "            \n"
+- "          GLBT Library  \n"
+- "            \n"
+- "          Herman B Wells Library  \n"
+- "            \n"
+- "          Indiana Prevention Resource Center Library  \n"
+- "            \n"
+- "          IU Libraries Moving Image Archive  \n"
+- "            \n"
+- "          Kinsey Institute Library  \n"
+- "            \n"
+- "          Law Library  \n"
+- "            \n"
+- "          Life Sciences Library  \n"
+- "            \n"
+- "          Lilly Library  \n"
+- "            \n"
+- "          Neal-Marshall Black Culture Center Library  \n"
+- "            \n"
+- "          Optometry Library  \n"
+- "            \n"
+- "          Ostrom Workshop Library  \n"
+- "            \n"
+- "          RPS Libraries  \n"
+- "            \n"
+- "          Sinor Research Institute for Inner Asian Studies  \n"
+- "            \n"
+- "          Swain Hall Library  \n"
+- "            \n"
+- "          University Archives and Records Management  \n"
+- "            \n"
+- "          William & Gayle Cook Music Library  \n"
+- "            \n"
+- "          Wylie House Museum  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- |
+  Library Services
+- "    \n"
+- "  \n"
+- "    \n"
+- "  \n"
+- |2
+          Popular Services
+- "    \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "        \n"
+- "      \n"
+- "          Borrowing and Circulation    \n"
+- "  \n"
+- "      \n"
+- "          Class Reserves    \n"
+- "  \n"
+- "      \n"
+- "          Course Guides & Research Workshops    \n"
+- "  \n"
+- "      \n"
+- "          Help with Citing Sources    \n"
+- "  \n"
+- "      \n"
+- "          Instructional Resources for Faculty & Instructors    \n"
+- "  \n"
+- "      \n"
+- "          Interlibrary Loan (ILL)    \n"
+- "  \n"
+- "      \n"
+- "          Renew    \n"
+- "  \n"
+- "      \n"
+- "          Research Assistance    \n"
+- "  \n"
+- "      \n"
+- "          Rooms for Groups, Study or Collaboration    \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "  \n"
+- |2
+          All Services
+- "    \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "        \n"
+- "      \n"
+- "          Borrow, Renew, Request    \n"
+- "  \n"
+- "      \n"
+- "          Computing and More    \n"
+- "  \n"
+- "      \n"
+- "          Digital Scholarship    \n"
+- "  \n"
+- "      \n"
+- "          Instructional Services    \n"
+- "  \n"
+- "      \n"
+- "          Online Learning    \n"
+- "  \n"
+- "      \n"
+- "          Reference and Research Services    \n"
+- "  \n"
+- "      \n"
+- "          Services for Library Users with Disabilities    \n"
+- "  \n"
+- "      \n"
+- "          Visitor Information    \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- |2+
+
+- "  \n"
+- "    View All  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- |
+  Help
+- "    \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- |2
+      Course Guides
+- |
+  Find Online Full-Text Journals
+- |
+  Library Help in the UITS Knowledge Base
+- |
+  Library Workshops
+- |
+  Reference Services dept.
+- |
+  Tips for Off-Campus Access
+- |2+
+
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "  \n"
+- |2
+          Ask A Librarian
+- "    \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "        \n"
+- "      \n"
+- "          \n"
+- "  \n"
+- "    \n"
+- "    \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "      \n"
+- "          \n"
+- "    \n"
+- "\t\n"
+- "\t\t\tCall Us: 812.855.0100\n"
+- "\t\t\n"
+- "\t\t\tText: 812.671.0275\n"
+- "\t\n"
+- |2+
+
+- "\t\n"
+- "\t\t\tChat (Offline)\n"
+- "\t\t\n"
+- "\t\t\tEmail Us\n"
+- "\t\t\n"
+- "\t\t\tMake an Appointment\n"
+- "\t\n"
+- |2+
+
+- "  \n"
+- |2+
+
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- |
+  IUCAT
+- "  \n"
+- "      \n"
+- "  \n"
+- |2+
+
+- |2+
+
+- "  \n"
+- "    \n"
+- "        \n"
+- "    \n"
+- |2
+                            Home
+- "                                          \n"
+- |2+
+
+- |2+
+
+- "      \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "  \n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- "  \n"
+- "      \n"
+- "      \n"
+- "  \n"
+- |2
+          Today's hours for:
+- "    \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "  Select a location \n"
+- |2
+   Herman B Wells LibraryBusiness/SPEA Information CommonsChemistry LibraryEducation LibraryFine Arts LibraryLife Sciences LibraryLilly LibraryNeal-Marshall Black Culture Center LibraryOptometry LibrarySwain Hall LibraryUniversity Archives and Records ManagementWilliam & Gayle Cook Music LibraryWylie House Museum
+- |2+
+
+- "  \n"
+- |2
+      11:00am - 2:00am
+- "  \n"
+- "  \n"
+- |2
+      View all Library Hours
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2
+          News & Events
+- "    \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "        \n"
+- "      \n"
+- "          \n"
+- "Browzine: Easy Access to Your Favorite Scholarly Journals Anywhere    \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "        \n"
+- "      \n"
+- "          IUCAT Unavailable December 26-30 2015    \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "        \n"
+- "      \n"
+- "          December 11th, 2015 - 1:00pm    \n"
+- "          Fall 2015 Information Literacy Course Grants Panel    \n"
+- "          Learn about how course instructors and librarians collaborated this semester
+  to make information literacy an integral part of courses in a variety of disciplines.
+  \     \n"
+- "  \n"
+- "      \n"
+- "          January 7th, 2016 - 12:00pm    \n"
+- "          Copyright and Fair Use for Instructors    \n"
+- "          Learn about educational uses of copyrighted materials for both on-campus
+  and online instruction    \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- "    \n"
+- "  \n"
+- "      \n"
+- "      \n"
+- "  \n"
+- |2
+          Start Your Research
+- "    \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "  \n"
+- |2
+      A-Z List of ResourcesAsk a LibrarianCourse GuidesOneSearch@IU - a great place to startOnline Full-Text Journals - browse or searchSubject Guides A-ZMore Reference & Research Services
+- "  \n"
+- |2+
+
+- "  \n"
+- |2
+      Of Special Interest to ScholarsDigital CollectionsIUScholarWorksLibrary Publishing & Data ServicesLibrary WorkshopsServices for Faculty and InstructorsScholars' Commons
+- "  \n"
+- |2+
+
+- "  \n"
+- "    Explore our collections  \n"
+- |2+
+
+- |2
+    Learn about Kwanzaa: The African-American Festival of Lights
+- "  \n"
+- |
+  Through Dec 20 in the Lilly Library: Sam Loyd, Puzzle King
+- "  \n"
+- |2+
+
+- "      \n"
+- |2
+      Peer Reviewed, Refereed, Scholarly - Tips for Identifying Journals
+- |2
+           by Web Staff
+- |2+
+
+- "    \n"
+- "      \n"
+- "      \n"
+- |2
+      Science Data Management Storage and Preservation
+- |2
+           by Jennifer Laherty
+- |2+
+
+- "    \n"
+- "      \n"
+- "      \n"
+- |2
+      Market Research @ the IUB Libraries
+- |2
+           by Christina Sheley
+- |2+
+
+- "    \n"
+- "      \n"
+- "      \n"
+- |2
+      Electronic Resources: Trials and New Additions
+- |2
+           by Lori Duggan
+- |2+
+
+- "    \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- |2+
+
+- "          \n"
+- |2+
+
+- "    \n"
+- "    \n"
+- "    \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "      \n"
+- |2+
+
+- "      \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "  \n"
+- |2
+          Top Recommended Resources
+- "    \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "      \n"
+- "              \n"
+- "           IUCAT more info about IUCAT            \n"
+- "                  \n"
+- "              \n"
+- "           OneSearch@IU more info about OneSearch@IU            \n"
+- "              \n"
+- "              \n"
+- "           ABI/INFORM Complete more info about ABI/INFORM Complete            \n"
+- "                  \n"
+- "              \n"
+- "           JSTOR more info about JSTOR            \n"
+- "              \n"
+- "              \n"
+- "           Academic Search (EBSCO) more info about Academic Search (EBSCO)            \n"
+- "                  \n"
+- "              \n"
+- "           MLA International Bibliography more info about MLA International Bibliography
+  \           \n"
+- "              \n"
+- "              \n"
+- "           ERIC (EBSCO) more info about ERIC (EBSCO)            \n"
+- "                  \n"
+- "              \n"
+- "           PsycINFO more info about PsycINFO            \n"
+- "              \n"
+- "              \n"
+- "           Google Scholar more info about Google Scholar            \n"
+- "                  \n"
+- "              \n"
+- "           Scopus more info about Scopus            \n"
+- "              \n"
+- "              \n"
+- "           LexisNexis Academic more info about LexisNexis Academic            \n"
+- "                  \n"
+- "              \n"
+- "           Web of Science more info about Web of Science            \n"
+- "              \n"
+- "              \n"
+- "           HathiTrust Digital Library more info about HathiTrust Digital Library
+  \           \n"
+- "                  \n"
+- "              \n"
+- "           WorldCat more info about WorldCat            \n"
+- "              \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- |2+
+
+- "  \n"
+- "    See All Resources  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "  \n"
+- |2
+          Libraries News and Events
+- "    \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "      \n"
+- "          \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "        \n"
+- "      \n"
+- "          Browzine: Easy Access to Your Favorite Scholarly Journals Anywhere    \n"
+- "  \n"
+- "      \n"
+- "          IUCAT Unavailable December 26-30 2015    \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "    \n"
+- "        \n"
+- "  \n"
+- "  \n"
+- "      \n"
+- "        \n"
+- "      \n"
+- "          December 11th, 2015 - 1:00pm        :  \n"
+- "          Fall 2015 Information Literacy Course Grants Panel    \n"
+- "  \n"
+- "      \n"
+- "          January 7th, 2016 - 12:00pm        :  \n"
+- "          Copyright and Fair Use for Instructors    \n"
+- "    \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "  \n"
+- "    \n"
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- "    Today's Hours: \n"
+- |2
+    11:00am - 2:00am
+- |2
+    (More library hoursMore)
+- |2+
+
+- "  Select a location \n"
+- |2
+   Herman B Wells LibraryBusiness/SPEA Information CommonsChemistry LibraryEducation LibraryFine Arts LibraryLife Sciences LibraryLilly LibraryNeal-Marshall Black Culture Center LibraryOptometry LibrarySwain Hall LibraryUniversity Archives and Records ManagementWilliam & Gayle Cook Music LibraryWylie House Museum
+- "  \n"
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- |2
+      About IUB Libraries
+- |
+  Alumni and Friends
+- |
+  Departments and Staff
+- |
+  Jobs and Libraries Human Resources
+- |
+  Contributions: Donate Now
+- |2+
+
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- "      \n"
+- "  \n"
+- "  \n"
+- |2
+       Facebook
+- |2
+   Twitter
+- |2
+   YouTube
+- |2
+   flickr
+- |2
+   RSS
+- |2+
+
+- |2+
+
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- |2+
+
+- |2+
+
+- "    \n"
+- "  \n"
+- "        \n"
+- "    \n"
+- "      \n"
+- |2+
+
+- |2
+          Colophon
+- "    \n"
+- |2
+    Libraries Privacy Policy
+- |
+  Contact Us
+- |
+  Intranet (Staff)
+- |
+  Login (Staff)
+- |2+
+
+- "    \n"
+- "  \n"
+- "  \n"
+- |2+
+
+- "  \n"
+- |2+
+
+- "\t\tFulfilling the Promise\n"
+- "\t\tPrivacy Notice\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\tCopyright ©2015\t\t\t\n"
+- "\t\t\tThe Trustees of Indiana University,\n"
+- "\t\t\tCopyright Complaints\n"
+- "\t\t\n"
+- "\t\n"
+- |2+
+
+- |2
+        setTimeout(function(){var a=document.createElement("script");
+- |2
+        var b=document.getElementsByTagName('script')[0];
+- |2
+        a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9898.js";
+- |2
+        a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+- "      \n"
+- |2
+        Skip to main content
+- |2
+      Browse Subject Guides by DisciplineLooking for a specific resource?Resources A-Z list
+- "\tA-Z List of ResourcesAsk a LibrarianCourse GuidesOneSearch@IU - a great place
+  to startOnline Full-Text Journals - browse or searchSubject Guides A-ZMore Reference
+  & Research ServicesOf Special Interest to ScholarsDigital CollectionsIUScholarWorksLibrary
+  Publishing & Data ServicesLibrary WorkshopsServices for Faculty and InstructorsScholars'
+  CommonsLearn about Kwanzaa: The African-American Festival of LightsThrough Dec 20
+  in the Lilly Library: Sam Loyd, Puzzle KingFulfilling the PromisePrivacy Notice\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\tCopyright ©2015\t\t\t\n"
+- "\t\t\tThe Trustees of Indiana University,\n"
+- "\t\t\tCopyright Complaints\n"
+- "\t\t"
+index:
+  skip: !ruby/object:Word
+    word: skip
+    stem: skip
+    docFrequency: 3
+    docPositions:
+    - 2
+    - 891
+  main: !ruby/object:Word
+    word: main
+    stem: main
+    docFrequency: 3
+    docPositions:
+    - 2
+    - 891
+  content: !ruby/object:Word
+    word: content
+    stem: content
+    docFrequency: 3
+    docPositions:
+    - 2
+    - 891
+  indiana: !ruby/object:Word
+    word: indiana
+    stem: indiana
+    docFrequency: 7
+    docPositions:
+    - 11
+    - 12
+    - 27
+    - 221
+    - 881
+    - 897
+  university: !ruby/object:Word
+    word: university
+    stem: univers
+    docFrequency: 7
+    docPositions:
+    - 11
+    - 12
+    - 27
+    - 245
+    - 881
+    - 897
+  bloomington: !ruby/object:Word
+    word: bloomington
+    stem: bloomington
+    docFrequency: 5
+    docPositions:
+    - 11
+    - 12
+    - 13
+    - 27
+  iu: !ruby/object:Word
+    word: iu
+    stem: iu
+    docFrequency: 7
+    docPositions:
+    - 13
+    - 223
+    - 606
+    - 687
+    - 893
+  libraries: !ruby/object:Word
+    word: libraries
+    stem: librari
+    docFrequency: 10
+    docPositions:
+    - 36
+    - 187
+    - 223
+    - 239
+    - 634
+    - 746
+    - 828
+    - 831
+    - 864
+  research: !ruby/object:Word
+    word: research
+    stem: research
+    docFrequency: 11
+    docPositions:
+    - 54
+    - 88
+    - 241
+    - 287
+    - 302
+    - 349
+    - 597
+    - 606
+    - 634
+    - 893
+  books: !ruby/object:Word
+    word: books
+    stem: book
+    docFrequency: 2
+    docPositions:
+    - 54
+  subject: !ruby/object:Word
+    word: subject
+    stem: subject
+    docFrequency: 4
+    docPositions:
+    - 54
+    - 96
+    - 892
+  matter: !ruby/object:Word
+    word: matter
+    stem: matter
+    docFrequency: 2
+    docPositions:
+    - 54
+  classes: !ruby/object:Word
+    word: classes
+    stem: class
+    docFrequency: 2
+    docPositions:
+    - 54
+  etc: !ruby/object:Word
+    word: etc
+    stem: etc
+    docFrequency: 2
+    docPositions:
+    - 54
+  menu: !ruby/object:Word
+    word: menu
+    stem: menu
+    docFrequency: 2
+    docPositions:
+    - 70
+  resources: !ruby/object:Word
+    word: resources
+    stem: resourc
+    docFrequency: 9
+    docPositions:
+    - 88
+    - 178
+    - 293
+    - 640
+    - 673
+    - 731
+    - 831
+    - 892
+  browse: !ruby/object:Word
+    word: browse
+    stem: brows
+    docFrequency: 5
+    docPositions:
+    - 96
+    - 606
+    - 892
+    - 893
+  guides: !ruby/object:Word
+    word: guides
+    stem: guid
+    docFrequency: 7
+    docPositions:
+    - 96
+    - 287
+    - 385
+    - 606
+    - 892
+    - 893
+  discipline: !ruby/object:Word
+    word: discipline
+    stem: disciplin
+    docFrequency: 2
+    docPositions:
+    - 96
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 22
+    docPositions:
+    - 107
+    - 108
+    - 109
+    - 110
+    - 111
+    - 112
+    - 113
+    - 114
+    - 115
+    - 116
+    - 117
+    - 118
+    - 119
+    - 120
+    - 121
+    - 122
+    - 123
+    - 124
+    - 125
+    - 126
+    - 815
+  b: !ruby/object:Word
+    word: b
+    stem: b
+    docFrequency: 8
+    docPositions:
+    - 107
+    - 219
+    - 499
+    - 818
+    - 887
+    - 889
+  c: !ruby/object:Word
+    word: c
+    stem: c
+    docFrequency: 2
+    docPositions:
+    - 108
+  d: !ruby/object:Word
+    word: d
+    stem: d
+    docFrequency: 2
+    docPositions:
+    - 109
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 2
+    docPositions:
+    - 110
+  f: !ruby/object:Word
+    word: f
+    stem: f
+    docFrequency: 2
+    docPositions:
+    - 111
+  g: !ruby/object:Word
+    word: g
+    stem: g
+    docFrequency: 2
+    docPositions:
+    - 112
+  h: !ruby/object:Word
+    word: h
+    stem: h
+    docFrequency: 2
+    docPositions:
+    - 113
+  i: !ruby/object:Word
+    word: i
+    stem: i
+    docFrequency: 2
+    docPositions:
+    - 114
+  j: !ruby/object:Word
+    word: j
+    stem: j
+    docFrequency: 2
+    docPositions:
+    - 115
+  k: !ruby/object:Word
+    word: k
+    stem: k
+    docFrequency: 2
+    docPositions:
+    - 116
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 2
+    docPositions:
+    - 117
+  m: !ruby/object:Word
+    word: m
+    stem: m
+    docFrequency: 2
+    docPositions:
+    - 118
+  n: !ruby/object:Word
+    word: n
+    stem: n
+    docFrequency: 2
+    docPositions:
+    - 119
+  o: !ruby/object:Word
+    word: o
+    stem: o
+    docFrequency: 2
+    docPositions:
+    - 120
+  p: !ruby/object:Word
+    word: p
+    stem: p
+    docFrequency: 2
+    docPositions:
+    - 121
+  r: !ruby/object:Word
+    word: r
+    stem: r
+    docFrequency: 2
+    docPositions:
+    - 122
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 4
+    docPositions:
+    - 123
+    - 493
+    - 813
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 2
+    docPositions:
+    - 124
+  u: !ruby/object:Word
+    word: u
+    stem: u
+    docFrequency: 2
+    docPositions:
+    - 125
+  v: !ruby/object:Word
+    word: v
+    stem: v
+    docFrequency: 2
+    docPositions:
+    - 126
+  african: !ruby/object:Word
+    word: african
+    stem: african
+    docFrequency: 7
+    docPositions:
+    - 139
+    - 145
+    - 201
+    - 616
+    - 893
+  american: !ruby/object:Word
+    word: american
+    stem: american
+    docFrequency: 6
+    docPositions:
+    - 139
+    - 151
+    - 201
+    - 616
+    - 893
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 23
+    docPositions:
+    - 139
+    - 160
+    - 169
+    - 209
+    - 245
+    - 281
+    - 337
+    - 349
+    - 499
+    - 575
+    - 579
+    - 580
+    - 610
+    - 628
+    - 640
+    - 746
+    - 792
+    - 818
+    - 829
+    - 830
+    - 831
+    - 893
+  diaspora: !ruby/object:Word
+    word: diaspora
+    stem: diaspora
+    docFrequency: 2
+    docPositions:
+    - 139
+  studies: !ruby/object:Word
+    word: studies
+    stem: studi
+    docFrequency: 5
+    docPositions:
+    - 139
+    - 145
+    - 151
+    - 241
+  applied: !ruby/object:Word
+    word: applied
+    stem: appli
+    docFrequency: 2
+    docPositions:
+    - 142
+  health: !ruby/object:Word
+    word: health
+    stem: health
+    docFrequency: 2
+    docPositions:
+    - 142
+  science: !ruby/object:Word
+    word: science
+    stem: scienc
+    docFrequency: 5
+    docPositions:
+    - 142
+    - 628
+    - 717
+  archaeology: !ruby/object:Word
+    word: archaeology
+    stem: archaeolog
+    docFrequency: 2
+    docPositions:
+    - 148
+  art: !ruby/object:Word
+    word: art
+    stem: art
+    docFrequency: 3
+    docPositions:
+    - 154
+  history: !ruby/object:Word
+    word: history
+    stem: histori
+    docFrequency: 2
+    docPositions:
+    - 154
+  animal: !ruby/object:Word
+    word: animal
+    stem: anim
+    docFrequency: 2
+    docPositions:
+    - 157
+  behavior: !ruby/object:Word
+    word: behavior
+    stem: behavior
+    docFrequency: 2
+    docPositions:
+    - 157
+  arts: !ruby/object:Word
+    word: arts
+    stem: art
+    docFrequency: 5
+    docPositions:
+    - 160
+    - 215
+    - 499
+    - 818
+  management: !ruby/object:Word
+    word: management
+    stem: manag
+    docFrequency: 4
+    docPositions:
+    - 160
+    - 245
+    - 628
+  administration: !ruby/object:Word
+    word: administration
+    stem: administr
+    docFrequency: 2
+    docPositions:
+    - 160
+  anthropology: !ruby/object:Word
+    word: anthropology
+    stem: anthropolog
+    docFrequency: 2
+    docPositions:
+    - 163
+  astronomy: !ruby/object:Word
+    word: astronomy
+    stem: astronomi
+    docFrequency: 2
+    docPositions:
+    - 166
+  apparel: !ruby/object:Word
+    word: apparel
+    stem: apparel
+    docFrequency: 2
+    docPositions:
+    - 169
+  merchandising: !ruby/object:Word
+    word: merchandising
+    stem: merchandis
+    docFrequency: 2
+    docPositions:
+    - 169
+  interior: !ruby/object:Word
+    word: interior
+    stem: interior
+    docFrequency: 2
+    docPositions:
+    - 169
+  design: !ruby/object:Word
+    word: design
+    stem: design
+    docFrequency: 2
+    docPositions:
+    - 169
+  looking: !ruby/object:Word
+    word: looking
+    stem: look
+    docFrequency: 2
+    docPositions:
+    - 178
+  specific: !ruby/object:Word
+    word: specific
+    stem: specif
+    docFrequency: 3
+    docPositions:
+    - 178
+    - 892
+  resource: !ruby/object:Word
+    word: resource
+    stem: resourc
+    docFrequency: 4
+    docPositions:
+    - 178
+    - 221
+    - 892
+  z: !ruby/object:Word
+    word: z
+    stem: z
+    docFrequency: 5
+    docPositions:
+    - 178
+    - 606
+    - 892
+    - 893
+  list: !ruby/object:Word
+    word: list
+    stem: list
+    docFrequency: 5
+    docPositions:
+    - 178
+    - 606
+    - 892
+    - 893
+  campus: !ruby/object:Word
+    word: campus
+    stem: campu
+    docFrequency: 4
+    docPositions:
+    - 187
+    - 390
+    - 580
+  archives: !ruby/object:Word
+    word: archives
+    stem: archiv
+    docFrequency: 6
+    docPositions:
+    - 201
+    - 203
+    - 245
+    - 499
+    - 818
+  music: !ruby/object:Word
+    word: music
+    stem: music
+    docFrequency: 6
+    docPositions:
+    - 201
+    - 203
+    - 247
+    - 499
+    - 818
+  culture: !ruby/object:Word
+    word: culture
+    stem: cultur
+    docFrequency: 5
+    docPositions:
+    - 201
+    - 233
+    - 499
+    - 818
+  traditional: !ruby/object:Word
+    word: traditional
+    stem: tradit
+    docFrequency: 2
+    docPositions:
+    - 203
+  black: !ruby/object:Word
+    word: black
+    stem: black
+    docFrequency: 5
+    docPositions:
+    - 205
+    - 233
+    - 499
+    - 818
+  film: !ruby/object:Word
+    word: film
+    stem: film
+    docFrequency: 2
+    docPositions:
+    - 205
+  center: !ruby/object:Word
+    word: center
+    stem: center
+    docFrequency: 7
+    docPositions:
+    - 205
+    - 209
+    - 221
+    - 233
+    - 499
+    - 818
+  archive: !ruby/object:Word
+    word: archive
+    stem: archiv
+    docFrequency: 3
+    docPositions:
+    - 205
+    - 223
+  business: !ruby/object:Word
+    word: business
+    stem: busi
+    docFrequency: 2
+    docPositions:
+    - 207
+  spea: !ruby/object:Word
+    word: spea
+    stem: spea
+    docFrequency: 4
+    docPositions:
+    - 207
+    - 499
+    - 818
+  information: !ruby/object:Word
+    word: information
+    stem: inform
+    docFrequency: 9
+    docPositions:
+    - 207
+    - 209
+    - 355
+    - 499
+    - 574
+    - 575
+    - 788
+    - 818
+  commons: !ruby/object:Word
+    word: commons
+    stem: common
+    docFrequency: 3
+    docPositions:
+    - 207
+    - 610
+  disability: !ruby/object:Word
+    word: disability
+    stem: disabl
+    docFrequency: 2
+    docPositions:
+    - 209
+  referral: !ruby/object:Word
+    word: referral
+    stem: referr
+    docFrequency: 2
+    docPositions:
+    - 209
+  cedir: !ruby/object:Word
+    word: cedir
+    stem: cedir
+    docFrequency: 2
+    docPositions:
+    - 209
+  chemistry: !ruby/object:Word
+    word: chemistry
+    stem: chemistri
+    docFrequency: 2
+    docPositions:
+    - 211
+  library: !ruby/object:Word
+    word: library
+    stem: librari
+    docFrequency: 26
+    docPositions:
+    - 211
+    - 213
+    - 215
+    - 217
+    - 219
+    - 221
+    - 225
+    - 227
+    - 229
+    - 231
+    - 233
+    - 235
+    - 237
+    - 243
+    - 247
+    - 265
+    - 352
+    - 387
+    - 388
+    - 505
+    - 618
+    - 720
+    - 815
+    - 893
+  education: !ruby/object:Word
+    word: education
+    stem: educ
+    docFrequency: 2
+    docPositions:
+    - 213
+  fine: !ruby/object:Word
+    word: fine
+    stem: fine
+    docFrequency: 2
+    docPositions:
+    - 215
+  glbt: !ruby/object:Word
+    word: glbt
+    stem: glbt
+    docFrequency: 2
+    docPositions:
+    - 217
+  herman: !ruby/object:Word
+    word: herman
+    stem: herman
+    docFrequency: 4
+    docPositions:
+    - 219
+    - 499
+    - 818
+  wells: !ruby/object:Word
+    word: wells
+    stem: well
+    docFrequency: 4
+    docPositions:
+    - 219
+    - 499
+    - 818
+  prevention: !ruby/object:Word
+    word: prevention
+    stem: prevent
+    docFrequency: 2
+    docPositions:
+    - 221
+  moving: !ruby/object:Word
+    word: moving
+    stem: move
+    docFrequency: 2
+    docPositions:
+    - 223
+  image: !ruby/object:Word
+    word: image
+    stem: imag
+    docFrequency: 2
+    docPositions:
+    - 223
+  kinsey: !ruby/object:Word
+    word: kinsey
+    stem: kinsei
+    docFrequency: 2
+    docPositions:
+    - 225
+  institute: !ruby/object:Word
+    word: institute
+    stem: institut
+    docFrequency: 3
+    docPositions:
+    - 225
+    - 241
+  law: !ruby/object:Word
+    word: law
+    stem: law
+    docFrequency: 2
+    docPositions:
+    - 227
+  life: !ruby/object:Word
+    word: life
+    stem: life
+    docFrequency: 2
+    docPositions:
+    - 229
+  sciences: !ruby/object:Word
+    word: sciences
+    stem: scienc
+    docFrequency: 4
+    docPositions:
+    - 229
+    - 499
+    - 818
+  lilly: !ruby/object:Word
+    word: lilly
+    stem: lilli
+    docFrequency: 4
+    docPositions:
+    - 231
+    - 618
+    - 893
+  neal: !ruby/object:Word
+    word: neal
+    stem: neal
+    docFrequency: 2
+    docPositions:
+    - 233
+  marshall: !ruby/object:Word
+    word: marshall
+    stem: marshal
+    docFrequency: 4
+    docPositions:
+    - 233
+    - 499
+    - 818
+  optometry: !ruby/object:Word
+    word: optometry
+    stem: optometri
+    docFrequency: 2
+    docPositions:
+    - 235
+  ostrom: !ruby/object:Word
+    word: ostrom
+    stem: ostrom
+    docFrequency: 2
+    docPositions:
+    - 237
+  workshop: !ruby/object:Word
+    word: workshop
+    stem: workshop
+    docFrequency: 2
+    docPositions:
+    - 237
+  rps: !ruby/object:Word
+    word: rps
+    stem: rp
+    docFrequency: 2
+    docPositions:
+    - 239
+  sinor: !ruby/object:Word
+    word: sinor
+    stem: sinor
+    docFrequency: 2
+    docPositions:
+    - 241
+  inner: !ruby/object:Word
+    word: inner
+    stem: inner
+    docFrequency: 2
+    docPositions:
+    - 241
+  asian: !ruby/object:Word
+    word: asian
+    stem: asian
+    docFrequency: 2
+    docPositions:
+    - 241
+  swain: !ruby/object:Word
+    word: swain
+    stem: swain
+    docFrequency: 2
+    docPositions:
+    - 243
+  hall: !ruby/object:Word
+    word: hall
+    stem: hall
+    docFrequency: 4
+    docPositions:
+    - 243
+    - 499
+    - 818
+  records: !ruby/object:Word
+    word: records
+    stem: record
+    docFrequency: 4
+    docPositions:
+    - 245
+    - 499
+    - 818
+  william: !ruby/object:Word
+    word: william
+    stem: william
+    docFrequency: 2
+    docPositions:
+    - 247
+  gayle: !ruby/object:Word
+    word: gayle
+    stem: gayl
+    docFrequency: 4
+    docPositions:
+    - 247
+    - 499
+    - 818
+  cook: !ruby/object:Word
+    word: cook
+    stem: cook
+    docFrequency: 4
+    docPositions:
+    - 247
+    - 499
+    - 818
+  wylie: !ruby/object:Word
+    word: wylie
+    stem: wyli
+    docFrequency: 2
+    docPositions:
+    - 249
+  house: !ruby/object:Word
+    word: house
+    stem: hous
+    docFrequency: 4
+    docPositions:
+    - 249
+    - 499
+    - 818
+  museum: !ruby/object:Word
+    word: museum
+    stem: museum
+    docFrequency: 4
+    docPositions:
+    - 249
+    - 499
+    - 818
+  services: !ruby/object:Word
+    word: services
+    stem: servic
+    docFrequency: 9
+    docPositions:
+    - 265
+    - 270
+    - 323
+    - 343
+    - 349
+    - 352
+    - 389
+    - 606
+  popular: !ruby/object:Word
+    word: popular
+    stem: popular
+    docFrequency: 2
+    docPositions:
+    - 270
+  borrowing: !ruby/object:Word
+    word: borrowing
+    stem: borrow
+    docFrequency: 2
+    docPositions:
+    - 281
+  circulation: !ruby/object:Word
+    word: circulation
+    stem: circul
+    docFrequency: 2
+    docPositions:
+    - 281
+  class: !ruby/object:Word
+    word: class
+    stem: class
+    docFrequency: 2
+    docPositions:
+    - 284
+  reserves: !ruby/object:Word
+    word: reserves
+    stem: reserv
+    docFrequency: 2
+    docPositions:
+    - 284
+  course: !ruby/object:Word
+    word: course
+    stem: cours
+    docFrequency: 6
+    docPositions:
+    - 287
+    - 385
+    - 574
+    - 575
+    - 788
+  workshops: !ruby/object:Word
+    word: workshops
+    stem: workshop
+    docFrequency: 3
+    docPositions:
+    - 287
+    - 388
+  help: !ruby/object:Word
+    word: help
+    stem: help
+    docFrequency: 4
+    docPositions:
+    - 290
+    - 376
+    - 387
+  citing: !ruby/object:Word
+    word: citing
+    stem: cite
+    docFrequency: 2
+    docPositions:
+    - 290
+  sources: !ruby/object:Word
+    word: sources
+    stem: sourc
+    docFrequency: 2
+    docPositions:
+    - 290
+  instructional: !ruby/object:Word
+    word: instructional
+    stem: instruct
+    docFrequency: 3
+    docPositions:
+    - 293
+    - 343
+  faculty: !ruby/object:Word
+    word: faculty
+    stem: faculti
+    docFrequency: 4
+    docPositions:
+    - 293
+    - 610
+    - 893
+  instructors: !ruby/object:Word
+    word: instructors
+    stem: instructor
+    docFrequency: 5
+    docPositions:
+    - 293
+    - 575
+    - 579
+    - 792
+  interlibrary: !ruby/object:Word
+    word: interlibrary
+    stem: interlibrari
+    docFrequency: 2
+    docPositions:
+    - 296
+  loan: !ruby/object:Word
+    word: loan
+    stem: loan
+    docFrequency: 2
+    docPositions:
+    - 296
+  ill: !ruby/object:Word
+    word: ill
+    stem: ill
+    docFrequency: 2
+    docPositions:
+    - 296
+  renew: !ruby/object:Word
+    word: renew
+    stem: renew
+    docFrequency: 3
+    docPositions:
+    - 299
+    - 334
+  assistance: !ruby/object:Word
+    word: assistance
+    stem: assist
+    docFrequency: 2
+    docPositions:
+    - 302
+  rooms: !ruby/object:Word
+    word: rooms
+    stem: room
+    docFrequency: 2
+    docPositions:
+    - 305
+  groups: !ruby/object:Word
+    word: groups
+    stem: group
+    docFrequency: 2
+    docPositions:
+    - 305
+  study: !ruby/object:Word
+    word: study
+    stem: studi
+    docFrequency: 2
+    docPositions:
+    - 305
+  collaboration: !ruby/object:Word
+    word: collaboration
+    stem: collabor
+    docFrequency: 2
+    docPositions:
+    - 305
+  all: !ruby/object:Word
+    word: all
+    stem: all
+    docFrequency: 5
+    docPositions:
+    - 323
+    - 363
+    - 505
+    - 731
+  borrow: !ruby/object:Word
+    word: borrow
+    stem: borrow
+    docFrequency: 2
+    docPositions:
+    - 334
+  request: !ruby/object:Word
+    word: request
+    stem: request
+    docFrequency: 2
+    docPositions:
+    - 334
+  computing: !ruby/object:Word
+    word: computing
+    stem: comput
+    docFrequency: 2
+    docPositions:
+    - 337
+  more: !ruby/object:Word
+    word: more
+    stem: more
+    docFrequency: 17
+    docPositions:
+    - 337
+    - 684
+    - 687
+    - 690
+    - 693
+    - 696
+    - 699
+    - 702
+    - 705
+    - 708
+    - 711
+    - 714
+    - 717
+    - 720
+    - 723
+    - 815
+  digital: !ruby/object:Word
+    word: digital
+    stem: digit
+    docFrequency: 4
+    docPositions:
+    - 340
+    - 720
+  scholarship: !ruby/object:Word
+    word: scholarship
+    stem: scholarship
+    docFrequency: 2
+    docPositions:
+    - 340
+  online: !ruby/object:Word
+    word: online
+    stem: onlin
+    docFrequency: 4
+    docPositions:
+    - 346
+    - 386
+    - 580
+  learning: !ruby/object:Word
+    word: learning
+    stem: learn
+    docFrequency: 2
+    docPositions:
+    - 346
+  reference: !ruby/object:Word
+    word: reference
+    stem: refer
+    docFrequency: 5
+    docPositions:
+    - 349
+    - 389
+    - 606
+    - 893
+  users: !ruby/object:Word
+    word: users
+    stem: user
+    docFrequency: 2
+    docPositions:
+    - 352
+  disabilities: !ruby/object:Word
+    word: disabilities
+    stem: disabl
+    docFrequency: 2
+    docPositions:
+    - 352
+  visitor: !ruby/object:Word
+    word: visitor
+    stem: visitor
+    docFrequency: 2
+    docPositions:
+    - 355
+  view: !ruby/object:Word
+    word: view
+    stem: view
+    docFrequency: 3
+    docPositions:
+    - 363
+    - 505
+  find: !ruby/object:Word
+    word: find
+    stem: find
+    docFrequency: 2
+    docPositions:
+    - 386
+  full: !ruby/object:Word
+    word: full
+    stem: full
+    docFrequency: 4
+    docPositions:
+    - 386
+    - 606
+    - 893
+  text: !ruby/object:Word
+    word: text
+    stem: text
+    docFrequency: 6
+    docPositions:
+    - 386
+    - 443
+    - 606
+    - 889
+    - 893
+  journals: !ruby/object:Word
+    word: journals
+    stem: journal
+    docFrequency: 7
+    docPositions:
+    - 386
+    - 525
+    - 606
+    - 622
+    - 760
+    - 893
+  uits: !ruby/object:Word
+    word: uits
+    stem: uit
+    docFrequency: 2
+    docPositions:
+    - 387
+  knowledge: !ruby/object:Word
+    word: knowledge
+    stem: knowledg
+    docFrequency: 2
+    docPositions:
+    - 387
+  base: !ruby/object:Word
+    word: base
+    stem: base
+    docFrequency: 2
+    docPositions:
+    - 387
+  dept: !ruby/object:Word
+    word: dept
+    stem: dept
+    docFrequency: 2
+    docPositions:
+    - 389
+  tips: !ruby/object:Word
+    word: tips
+    stem: tip
+    docFrequency: 3
+    docPositions:
+    - 390
+    - 622
+  'off': !ruby/object:Word
+    word: 'off'
+    stem: 'off'
+    docFrequency: 2
+    docPositions:
+    - 390
+  access: !ruby/object:Word
+    word: access
+    stem: access
+    docFrequency: 4
+    docPositions:
+    - 390
+    - 525
+    - 760
+  ask: !ruby/object:Word
+    word: ask
+    stem: ask
+    docFrequency: 2
+    docPositions:
+    - 401
+  librarian: !ruby/object:Word
+    word: librarian
+    stem: librarian
+    docFrequency: 2
+    docPositions:
+    - 401
+  call: !ruby/object:Word
+    word: call
+    stem: call
+    docFrequency: 2
+    docPositions:
+    - 441
+  us: !ruby/object:Word
+    word: us
+    stem: us
+    docFrequency: 4
+    docPositions:
+    - 441
+    - 449
+    - 865
+  chat: !ruby/object:Word
+    word: chat
+    stem: chat
+    docFrequency: 2
+    docPositions:
+    - 447
+  offline: !ruby/object:Word
+    word: offline
+    stem: offlin
+    docFrequency: 2
+    docPositions:
+    - 447
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 2
+    docPositions:
+    - 449
+  make: !ruby/object:Word
+    word: make
+    stem: make
+    docFrequency: 3
+    docPositions:
+    - 451
+    - 575
+  appointment: !ruby/object:Word
+    word: appointment
+    stem: appoint
+    docFrequency: 2
+    docPositions:
+    - 451
+  iucat: !ruby/object:Word
+    word: iucat
+    stem: iucat
+    docFrequency: 6
+    docPositions:
+    - 463
+    - 549
+    - 684
+    - 763
+  home: !ruby/object:Word
+    word: home
+    stem: home
+    docFrequency: 2
+    docPositions:
+    - 473
+  today: !ruby/object:Word
+    word: today
+    stem: todai
+    docFrequency: 3
+    docPositions:
+    - 493
+    - 813
+  hours: !ruby/object:Word
+    word: hours
+    stem: hour
+    docFrequency: 4
+    docPositions:
+    - 493
+    - 505
+    - 813
+  select: !ruby/object:Word
+    word: select
+    stem: select
+    docFrequency: 3
+    docPositions:
+    - 498
+    - 817
+  location: !ruby/object:Word
+    word: location
+    stem: locat
+    docFrequency: 4
+    docPositions:
+    - 498
+    - 817
+    - 888
+  librarybusiness: !ruby/object:Word
+    word: librarybusiness
+    stem: librarybusi
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  commonschemistry: !ruby/object:Word
+    word: commonschemistry
+    stem: commonschemistri
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  libraryeducation: !ruby/object:Word
+    word: libraryeducation
+    stem: libraryeduc
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  libraryfine: !ruby/object:Word
+    word: libraryfine
+    stem: libraryfin
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  librarylife: !ruby/object:Word
+    word: librarylife
+    stem: librarylif
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  librarylilly: !ruby/object:Word
+    word: librarylilly
+    stem: librarylilli
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  libraryneal: !ruby/object:Word
+    word: libraryneal
+    stem: libraryn
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  libraryoptometry: !ruby/object:Word
+    word: libraryoptometry
+    stem: libraryoptometri
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  libraryswain: !ruby/object:Word
+    word: libraryswain
+    stem: libraryswain
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  libraryuniversity: !ruby/object:Word
+    word: libraryuniversity
+    stem: libraryunivers
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  managementwilliam: !ruby/object:Word
+    word: managementwilliam
+    stem: managementwilliam
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  librarywylie: !ruby/object:Word
+    word: librarywylie
+    stem: librarywyli
+    docFrequency: 3
+    docPositions:
+    - 499
+    - 818
+  news: !ruby/object:Word
+    word: news
+    stem: new
+    docFrequency: 3
+    docPositions:
+    - 513
+    - 746
+  events: !ruby/object:Word
+    word: events
+    stem: event
+    docFrequency: 3
+    docPositions:
+    - 513
+    - 746
+  browzine: !ruby/object:Word
+    word: browzine
+    stem: browzin
+    docFrequency: 3
+    docPositions:
+    - 525
+    - 760
+  easy: !ruby/object:Word
+    word: easy
+    stem: easi
+    docFrequency: 3
+    docPositions:
+    - 525
+    - 760
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 4
+    docPositions:
+    - 525
+    - 597
+    - 760
+  favorite: !ruby/object:Word
+    word: favorite
+    stem: favorit
+    docFrequency: 3
+    docPositions:
+    - 525
+    - 760
+  scholarly: !ruby/object:Word
+    word: scholarly
+    stem: scholarli
+    docFrequency: 4
+    docPositions:
+    - 525
+    - 622
+    - 760
+  anywhere: !ruby/object:Word
+    word: anywhere
+    stem: anywher
+    docFrequency: 3
+    docPositions:
+    - 525
+    - 760
+  unavailable: !ruby/object:Word
+    word: unavailable
+    stem: unavail
+    docFrequency: 3
+    docPositions:
+    - 549
+    - 763
+  december: !ruby/object:Word
+    word: december
+    stem: decemb
+    docFrequency: 5
+    docPositions:
+    - 549
+    - 573
+    - 763
+    - 787
+  fall: !ruby/object:Word
+    word: fall
+    stem: fall
+    docFrequency: 3
+    docPositions:
+    - 574
+    - 788
+  literacy: !ruby/object:Word
+    word: literacy
+    stem: literaci
+    docFrequency: 4
+    docPositions:
+    - 574
+    - 575
+    - 788
+  grants: !ruby/object:Word
+    word: grants
+    stem: grant
+    docFrequency: 3
+    docPositions:
+    - 574
+    - 788
+  panel: !ruby/object:Word
+    word: panel
+    stem: panel
+    docFrequency: 3
+    docPositions:
+    - 574
+    - 788
+  learn: !ruby/object:Word
+    word: learn
+    stem: learn
+    docFrequency: 4
+    docPositions:
+    - 575
+    - 580
+    - 616
+  librarians: !ruby/object:Word
+    word: librarians
+    stem: librarian
+    docFrequency: 2
+    docPositions:
+    - 575
+  collaborated: !ruby/object:Word
+    word: collaborated
+    stem: collabor
+    docFrequency: 2
+    docPositions:
+    - 575
+  semester: !ruby/object:Word
+    word: semester
+    stem: semest
+    docFrequency: 2
+    docPositions:
+    - 575
+  integral: !ruby/object:Word
+    word: integral
+    stem: integr
+    docFrequency: 2
+    docPositions:
+    - 575
+  part: !ruby/object:Word
+    word: part
+    stem: part
+    docFrequency: 2
+    docPositions:
+    - 575
+  courses: !ruby/object:Word
+    word: courses
+    stem: cours
+    docFrequency: 2
+    docPositions:
+    - 575
+  variety: !ruby/object:Word
+    word: variety
+    stem: varieti
+    docFrequency: 2
+    docPositions:
+    - 575
+  disciplines: !ruby/object:Word
+    word: disciplines
+    stem: disciplin
+    docFrequency: 2
+    docPositions:
+    - 575
+  january: !ruby/object:Word
+    word: january
+    stem: januari
+    docFrequency: 3
+    docPositions:
+    - 578
+    - 791
+  copyright: !ruby/object:Word
+    word: copyright
+    stem: copyright
+    docFrequency: 7
+    docPositions:
+    - 579
+    - 792
+    - 880
+    - 882
+    - 896
+    - 898
+  fair: !ruby/object:Word
+    word: fair
+    stem: fair
+    docFrequency: 3
+    docPositions:
+    - 579
+    - 792
+  use: !ruby/object:Word
+    word: use
+    stem: us
+    docFrequency: 3
+    docPositions:
+    - 579
+    - 792
+  educational: !ruby/object:Word
+    word: educational
+    stem: educ
+    docFrequency: 2
+    docPositions:
+    - 580
+  uses: !ruby/object:Word
+    word: uses
+    stem: us
+    docFrequency: 2
+    docPositions:
+    - 580
+  copyrighted: !ruby/object:Word
+    word: copyrighted
+    stem: copyright
+    docFrequency: 2
+    docPositions:
+    - 580
+  materials: !ruby/object:Word
+    word: materials
+    stem: materi
+    docFrequency: 2
+    docPositions:
+    - 580
+  both: !ruby/object:Word
+    word: both
+    stem: both
+    docFrequency: 2
+    docPositions:
+    - 580
+  instruction: !ruby/object:Word
+    word: instruction
+    stem: instruct
+    docFrequency: 2
+    docPositions:
+    - 580
+  start: !ruby/object:Word
+    word: start
+    stem: start
+    docFrequency: 2
+    docPositions:
+    - 597
+  resourcesask: !ruby/object:Word
+    word: resourcesask
+    stem: resourcesask
+    docFrequency: 3
+    docPositions:
+    - 606
+    - 893
+  librariancourse: !ruby/object:Word
+    word: librariancourse
+    stem: librariancours
+    docFrequency: 3
+    docPositions:
+    - 606
+    - 893
+  guidesonesearch: !ruby/object:Word
+    word: guidesonesearch
+    stem: guidesonesearch
+    docFrequency: 3
+    docPositions:
+    - 606
+    - 893
+  great: !ruby/object:Word
+    word: great
+    stem: great
+    docFrequency: 3
+    docPositions:
+    - 606
+    - 893
+  place: !ruby/object:Word
+    word: place
+    stem: place
+    docFrequency: 3
+    docPositions:
+    - 606
+    - 893
+  startonline: !ruby/object:Word
+    word: startonline
+    stem: startonlin
+    docFrequency: 3
+    docPositions:
+    - 606
+    - 893
+  searchsubject: !ruby/object:Word
+    word: searchsubject
+    stem: searchsubject
+    docFrequency: 3
+    docPositions:
+    - 606
+    - 893
+  zmore: !ruby/object:Word
+    word: zmore
+    stem: zmore
+    docFrequency: 3
+    docPositions:
+    - 606
+    - 893
+  special: !ruby/object:Word
+    word: special
+    stem: special
+    docFrequency: 3
+    docPositions:
+    - 610
+    - 893
+  interest: !ruby/object:Word
+    word: interest
+    stem: interest
+    docFrequency: 3
+    docPositions:
+    - 610
+    - 893
+  scholarsdigital: !ruby/object:Word
+    word: scholarsdigital
+    stem: scholarsdigit
+    docFrequency: 3
+    docPositions:
+    - 610
+    - 893
+  collectionsiuscholarworkslibrary: !ruby/object:Word
+    word: collectionsiuscholarworkslibrary
+    stem: collectionsiuscholarworkslibrari
+    docFrequency: 3
+    docPositions:
+    - 610
+    - 893
+  publishing: !ruby/object:Word
+    word: publishing
+    stem: publish
+    docFrequency: 3
+    docPositions:
+    - 610
+    - 893
+  data: !ruby/object:Word
+    word: data
+    stem: data
+    docFrequency: 4
+    docPositions:
+    - 610
+    - 628
+    - 893
+  serviceslibrary: !ruby/object:Word
+    word: serviceslibrary
+    stem: serviceslibrari
+    docFrequency: 3
+    docPositions:
+    - 610
+    - 893
+  workshopsservices: !ruby/object:Word
+    word: workshopsservices
+    stem: workshopsservic
+    docFrequency: 3
+    docPositions:
+    - 610
+    - 893
+  instructorsscholars: !ruby/object:Word
+    word: instructorsscholars
+    stem: instructorsscholar
+    docFrequency: 3
+    docPositions:
+    - 610
+    - 893
+  explore: !ruby/object:Word
+    word: explore
+    stem: explor
+    docFrequency: 2
+    docPositions:
+    - 614
+  our: !ruby/object:Word
+    word: our
+    stem: our
+    docFrequency: 2
+    docPositions:
+    - 614
+  collections: !ruby/object:Word
+    word: collections
+    stem: collect
+    docFrequency: 2
+    docPositions:
+    - 614
+  kwanzaa: !ruby/object:Word
+    word: kwanzaa
+    stem: kwanzaa
+    docFrequency: 3
+    docPositions:
+    - 616
+    - 893
+  festival: !ruby/object:Word
+    word: festival
+    stem: festiv
+    docFrequency: 3
+    docPositions:
+    - 616
+    - 893
+  lights: !ruby/object:Word
+    word: lights
+    stem: light
+    docFrequency: 2
+    docPositions:
+    - 616
+  through: !ruby/object:Word
+    word: through
+    stem: through
+    docFrequency: 2
+    docPositions:
+    - 618
+  dec: !ruby/object:Word
+    word: dec
+    stem: dec
+    docFrequency: 3
+    docPositions:
+    - 618
+    - 893
+  sam: !ruby/object:Word
+    word: sam
+    stem: sam
+    docFrequency: 3
+    docPositions:
+    - 618
+    - 893
+  loyd: !ruby/object:Word
+    word: loyd
+    stem: loyd
+    docFrequency: 3
+    docPositions:
+    - 618
+    - 893
+  puzzle: !ruby/object:Word
+    word: puzzle
+    stem: puzzl
+    docFrequency: 3
+    docPositions:
+    - 618
+    - 893
+  king: !ruby/object:Word
+    word: king
+    stem: king
+    docFrequency: 2
+    docPositions:
+    - 618
+  peer: !ruby/object:Word
+    word: peer
+    stem: peer
+    docFrequency: 2
+    docPositions:
+    - 622
+  reviewed: !ruby/object:Word
+    word: reviewed
+    stem: review
+    docFrequency: 2
+    docPositions:
+    - 622
+  refereed: !ruby/object:Word
+    word: refereed
+    stem: refere
+    docFrequency: 2
+    docPositions:
+    - 622
+  identifying: !ruby/object:Word
+    word: identifying
+    stem: identifi
+    docFrequency: 2
+    docPositions:
+    - 622
+  web: !ruby/object:Word
+    word: web
+    stem: web
+    docFrequency: 4
+    docPositions:
+    - 623
+    - 717
+  staff: !ruby/object:Word
+    word: staff
+    stem: staff
+    docFrequency: 5
+    docPositions:
+    - 623
+    - 830
+    - 866
+    - 867
+  storage: !ruby/object:Word
+    word: storage
+    stem: storag
+    docFrequency: 2
+    docPositions:
+    - 628
+  preservation: !ruby/object:Word
+    word: preservation
+    stem: preserv
+    docFrequency: 2
+    docPositions:
+    - 628
+  jennifer: !ruby/object:Word
+    word: jennifer
+    stem: jennif
+    docFrequency: 2
+    docPositions:
+    - 629
+  laherty: !ruby/object:Word
+    word: laherty
+    stem: laherti
+    docFrequency: 2
+    docPositions:
+    - 629
+  market: !ruby/object:Word
+    word: market
+    stem: market
+    docFrequency: 2
+    docPositions:
+    - 634
+  iub: !ruby/object:Word
+    word: iub
+    stem: iub
+    docFrequency: 3
+    docPositions:
+    - 634
+    - 828
+  christina: !ruby/object:Word
+    word: christina
+    stem: christina
+    docFrequency: 2
+    docPositions:
+    - 635
+  sheley: !ruby/object:Word
+    word: sheley
+    stem: shelei
+    docFrequency: 2
+    docPositions:
+    - 635
+  electronic: !ruby/object:Word
+    word: electronic
+    stem: electron
+    docFrequency: 2
+    docPositions:
+    - 640
+  trials: !ruby/object:Word
+    word: trials
+    stem: trial
+    docFrequency: 2
+    docPositions:
+    - 640
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 2
+    docPositions:
+    - 640
+  additions: !ruby/object:Word
+    word: additions
+    stem: addit
+    docFrequency: 2
+    docPositions:
+    - 640
+  lori: !ruby/object:Word
+    word: lori
+    stem: lori
+    docFrequency: 2
+    docPositions:
+    - 641
+  duggan: !ruby/object:Word
+    word: duggan
+    stem: duggan
+    docFrequency: 2
+    docPositions:
+    - 641
+  top: !ruby/object:Word
+    word: top
+    stem: top
+    docFrequency: 2
+    docPositions:
+    - 673
+  recommended: !ruby/object:Word
+    word: recommended
+    stem: recommend
+    docFrequency: 2
+    docPositions:
+    - 673
+  info: !ruby/object:Word
+    word: info
+    stem: info
+    docFrequency: 15
+    docPositions:
+    - 684
+    - 687
+    - 690
+    - 693
+    - 696
+    - 699
+    - 702
+    - 705
+    - 708
+    - 711
+    - 714
+    - 717
+    - 720
+    - 723
+  onesearch: !ruby/object:Word
+    word: onesearch
+    stem: onesearch
+    docFrequency: 3
+    docPositions:
+    - 687
+  abi: !ruby/object:Word
+    word: abi
+    stem: abi
+    docFrequency: 3
+    docPositions:
+    - 690
+  inform: !ruby/object:Word
+    word: inform
+    stem: inform
+    docFrequency: 3
+    docPositions:
+    - 690
+  complete: !ruby/object:Word
+    word: complete
+    stem: complet
+    docFrequency: 3
+    docPositions:
+    - 690
+  jstor: !ruby/object:Word
+    word: jstor
+    stem: jstor
+    docFrequency: 3
+    docPositions:
+    - 693
+  academic: !ruby/object:Word
+    word: academic
+    stem: academ
+    docFrequency: 5
+    docPositions:
+    - 696
+    - 714
+  search: !ruby/object:Word
+    word: search
+    stem: search
+    docFrequency: 3
+    docPositions:
+    - 696
+  ebsco: !ruby/object:Word
+    word: ebsco
+    stem: ebsco
+    docFrequency: 5
+    docPositions:
+    - 696
+    - 702
+  mla: !ruby/object:Word
+    word: mla
+    stem: mla
+    docFrequency: 3
+    docPositions:
+    - 699
+  international: !ruby/object:Word
+    word: international
+    stem: intern
+    docFrequency: 3
+    docPositions:
+    - 699
+  bibliography: !ruby/object:Word
+    word: bibliography
+    stem: bibliographi
+    docFrequency: 3
+    docPositions:
+    - 699
+  eric: !ruby/object:Word
+    word: eric
+    stem: eric
+    docFrequency: 3
+    docPositions:
+    - 702
+  psycinfo: !ruby/object:Word
+    word: psycinfo
+    stem: psycinfo
+    docFrequency: 3
+    docPositions:
+    - 705
+  google: !ruby/object:Word
+    word: google
+    stem: googl
+    docFrequency: 3
+    docPositions:
+    - 708
+  scholar: !ruby/object:Word
+    word: scholar
+    stem: scholar
+    docFrequency: 3
+    docPositions:
+    - 708
+  scopus: !ruby/object:Word
+    word: scopus
+    stem: scopu
+    docFrequency: 3
+    docPositions:
+    - 711
+  lexisnexis: !ruby/object:Word
+    word: lexisnexis
+    stem: lexisnexi
+    docFrequency: 3
+    docPositions:
+    - 714
+  hathitrust: !ruby/object:Word
+    word: hathitrust
+    stem: hathitrust
+    docFrequency: 3
+    docPositions:
+    - 720
+  worldcat: !ruby/object:Word
+    word: worldcat
+    stem: worldcat
+    docFrequency: 3
+    docPositions:
+    - 723
+  see: !ruby/object:Word
+    word: see
+    stem: see
+    docFrequency: 2
+    docPositions:
+    - 731
+  hoursmore: !ruby/object:Word
+    word: hoursmore
+    stem: hoursmor
+    docFrequency: 2
+    docPositions:
+    - 815
+  alumni: !ruby/object:Word
+    word: alumni
+    stem: alumni
+    docFrequency: 2
+    docPositions:
+    - 829
+  friends: !ruby/object:Word
+    word: friends
+    stem: friend
+    docFrequency: 2
+    docPositions:
+    - 829
+  departments: !ruby/object:Word
+    word: departments
+    stem: depart
+    docFrequency: 2
+    docPositions:
+    - 830
+  jobs: !ruby/object:Word
+    word: jobs
+    stem: job
+    docFrequency: 2
+    docPositions:
+    - 831
+  human: !ruby/object:Word
+    word: human
+    stem: human
+    docFrequency: 2
+    docPositions:
+    - 831
+  contributions: !ruby/object:Word
+    word: contributions
+    stem: contribut
+    docFrequency: 2
+    docPositions:
+    - 832
+  donate: !ruby/object:Word
+    word: donate
+    stem: donat
+    docFrequency: 2
+    docPositions:
+    - 832
+  now: !ruby/object:Word
+    word: now
+    stem: now
+    docFrequency: 2
+    docPositions:
+    - 832
+  facebook: !ruby/object:Word
+    word: facebook
+    stem: facebook
+    docFrequency: 2
+    docPositions:
+    - 842
+  twitter: !ruby/object:Word
+    word: twitter
+    stem: twitter
+    docFrequency: 2
+    docPositions:
+    - 843
+  youtube: !ruby/object:Word
+    word: youtube
+    stem: youtub
+    docFrequency: 2
+    docPositions:
+    - 844
+  flickr: !ruby/object:Word
+    word: flickr
+    stem: flickr
+    docFrequency: 2
+    docPositions:
+    - 845
+  rss: !ruby/object:Word
+    word: rss
+    stem: rss
+    docFrequency: 2
+    docPositions:
+    - 846
+  colophon: !ruby/object:Word
+    word: colophon
+    stem: colophon
+    docFrequency: 2
+    docPositions:
+    - 862
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 3
+    docPositions:
+    - 864
+    - 876
+  policy: !ruby/object:Word
+    word: policy
+    stem: polici
+    docFrequency: 2
+    docPositions:
+    - 864
+  contact: !ruby/object:Word
+    word: contact
+    stem: contact
+    docFrequency: 2
+    docPositions:
+    - 865
+  intranet: !ruby/object:Word
+    word: intranet
+    stem: intranet
+    docFrequency: 2
+    docPositions:
+    - 866
+  login: !ruby/object:Word
+    word: login
+    stem: login
+    docFrequency: 2
+    docPositions:
+    - 867
+  fulfilling: !ruby/object:Word
+    word: fulfilling
+    stem: fulfil
+    docFrequency: 2
+    docPositions:
+    - 875
+  promise: !ruby/object:Word
+    word: promise
+    stem: promis
+    docFrequency: 2
+    docPositions:
+    - 875
+  notice: !ruby/object:Word
+    word: notice
+    stem: notic
+    docFrequency: 3
+    docPositions:
+    - 876
+    - 893
+  trustees: !ruby/object:Word
+    word: trustees
+    stem: truste
+    docFrequency: 3
+    docPositions:
+    - 881
+    - 897
+  complaints: !ruby/object:Word
+    word: complaints
+    stem: complaint
+    docFrequency: 3
+    docPositions:
+    - 882
+    - 898
+  settimeout: !ruby/object:Word
+    word: settimeout
+    stem: settimeout
+    docFrequency: 2
+    docPositions:
+    - 886
+  function: !ruby/object:Word
+    word: function
+    stem: function
+    docFrequency: 2
+    docPositions:
+    - 886
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 4
+    docPositions:
+    - 886
+    - 887
+    - 888
+  createelement: !ruby/object:Word
+    word: createelement
+    stem: createel
+    docFrequency: 2
+    docPositions:
+    - 886
+  script: !ruby/object:Word
+    word: script
+    stem: script
+    docFrequency: 3
+    docPositions:
+    - 886
+    - 887
+  getelementsbytagname: !ruby/object:Word
+    word: getelementsbytagname
+    stem: getelementsbytagnam
+    docFrequency: 2
+    docPositions:
+    - 887
+  protocol: !ruby/object:Word
+    word: protocol
+    stem: protocol
+    docFrequency: 2
+    docPositions:
+    - 888
+  cloudfront: !ruby/object:Word
+    word: cloudfront
+    stem: cloudfront
+    docFrequency: 2
+    docPositions:
+    - 888
+  net: !ruby/object:Word
+    word: net
+    stem: net
+    docFrequency: 2
+    docPositions:
+    - 888
+  pages: !ruby/object:Word
+    word: pages
+    stem: page
+    docFrequency: 2
+    docPositions:
+    - 888
+  scripts: !ruby/object:Word
+    word: scripts
+    stem: script
+    docFrequency: 2
+    docPositions:
+    - 888
+  async: !ruby/object:Word
+    word: async
+    stem: async
+    docFrequency: 2
+    docPositions:
+    - 889
+  'true': !ruby/object:Word
+    word: 'true'
+    stem: 'true'
+    docFrequency: 2
+    docPositions:
+    - 889
+  type: !ruby/object:Word
+    word: type
+    stem: type
+    docFrequency: 2
+    docPositions:
+    - 889
+  parentnode: !ruby/object:Word
+    word: parentnode
+    stem: parentnod
+    docFrequency: 2
+    docPositions:
+    - 889
+  insertbefore: !ruby/object:Word
+    word: insertbefore
+    stem: insertbefor
+    docFrequency: 2
+    docPositions:
+    - 889
+  disciplinelooking: !ruby/object:Word
+    word: disciplinelooking
+    stem: disciplinelook
+    docFrequency: 2
+    docPositions:
+    - 892
+  servicesof: !ruby/object:Word
+    word: servicesof
+    stem: servicesof
+    docFrequency: 2
+    docPositions:
+    - 893
+  commonslearn: !ruby/object:Word
+    word: commonslearn
+    stem: commonslearn
+    docFrequency: 2
+    docPositions:
+    - 893
+  lightsthrough: !ruby/object:Word
+    word: lightsthrough
+    stem: lightsthrough
+    docFrequency: 2
+    docPositions:
+    - 893
+  kingfulfilling: !ruby/object:Word
+    word: kingfulfilling
+    stem: kingfulfil
+    docFrequency: 2
+    docPositions:
+    - 893
+  promiseprivacy: !ruby/object:Word
+    word: promiseprivacy
+    stem: promiseprivaci
+    docFrequency: 2
+    docPositions:
+    - 893
+lineCount: 900
+wordCount: 907
+rank: 0.25
+title: Indiana University Libraries
+links:
+- http://www.indiana.edu
+- http://www.iub.edu
+- http://iub.libguides.com/
+- http://kb.iu.edu/data/auws.html
+- http://libprod.lib.indiana.edu/tools/workshops/
+- https://libraries.indiana.edu/help
+- http://iucat.iu.edu
+- http://iub.libguides.com
+- http://scholarworks.iu.edu
+- https://libraries.indiana.edu/resources/iucat
+- https://libraries.indiana.edu/resources/onesearch
+- https://libraries.indiana.edu/resources/abiinformcomplete
+- https://libraries.indiana.edu/resources/jstor
+- https://libraries.indiana.edu/resources/academicsearch
+- https://libraries.indiana.edu/resources/mla-bibliography
+- https://libraries.indiana.edu/resources/eric-ebsco
+- https://libraries.indiana.edu/resources/psycinfo
+- https://libraries.indiana.edu/resources/googlescholar
+- https://libraries.indiana.edu/resources/scopus
+- https://libraries.indiana.edu/resources/lexisnexisacademic
+- https://libraries.indiana.edu/resources/wos
+- https://libraries.indiana.edu/resources/hathitrust
+- https://libraries.indiana.edu/resources/worldcat
+- https://libraries.indiana.edu/news-events/rss.xml
+- https://www.myiu.org/one-time-gift?appealid=77cc9bb0-6f44-4515-bac4-1c1a8d69bd17&account=I320004179,I320004182,I380010751
+- https://www.facebook.com/pages/IU-Libraries/237699996274633
+- http://twitter.com/iulibraries
+- http://www.youtube.com/iulibraries
+- http://www.flickr.com/photos/wellslibrary/
+- http://go.iu.edu/4My
+- https://www.sharepoint.iu.edu/sites/IUB-Libraries
+- https://cas.iu.edu/cas/login?cassvc=IU&casurl=https%3A%2F%2Flibraries.indiana.edu%2Fcas%3Fadmin%2Fdashboard
+- http://go.iu.edu/4My
+- http://www.iu.edu/
+- http://www.iu.edu/copyright/index.shtml
+- http://www.iu.edu/
+- http://www.iu.edu/copyright/complaints.shtml
+rawText: "\n      \n      Skip to main content\n    \n    \n  \n\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\tIndiana
+  University Bloomington\n\t\t\t\t\tIndiana University Bloomington\n\t\t\t\t\tIU Bloomington\n\t\t\t\t\n\t\t\t\n\t\t\n\t\n\n\n\n
+  \ \n\n\n  \n      \n              \n          Indiana University Bloomington\n        \n
+  \     \n      \n    \n\n    \n      \n      \n        Libraries\n      \n        \n
+  \   \n\n      \n  \n  \n    \n  \n      \n  \n  \n    \n\n  \n    \n      \n        Research
+  books, subject matter, classes, etc.\n        \n    \n    \n      \n  \n\n  \n\n
+  \ \n  \n\n  \n      \n  \n  \n    Menu  \n\n  \n  \n\n  \n\n\n\n  \n      \n    \n
+  \ \n    \n      \n    \n\n      \n  Research Resources\n    \n  \n      \n  \n  \n
+  \   \n            \n      Browse Subject Guides by Discipline\n    \n  \n  \n      \n
+  \     \n        \n  \n  \n      \n                A\n             |     B\n             |
+  \    C\n             |     D\n             |     E\n             |     F\n             |
+  \    G\n             |     H\n             |     I\n             |     J\n             |
+  \    K\n             |     L\n             |     M\n             |     N\n             |
+  \    O\n             |     P\n             |     R\n             |     S\n             |
+  \    T\n             |     U\n             |     V\n          \n  \n  \n  \n  \n
+  \ \n  \n    \n  \n      \n      \n              \n          African American and
+  African Diaspora Studies            \n                  \n              \n          Applied
+  Health Science            \n              \n              \n          African Studies
+  \           \n                  \n              \n          Archaeology            \n
+  \             \n              \n          American Studies            \n                  \n
+  \             \n          Art & Art History            \n              \n              \n
+  \         Animal Behavior            \n                  \n              \n          Arts
+  Management and Administration            \n              \n              \n          Anthropology
+  \           \n                  \n              \n          Astronomy            \n
+  \             \n              \n          Apparel Merchandising and Interior Design
+  \           \n                  \n                      \n              \n  \n  \n
+  \ \n  \n      \n      Looking for a specific resource?Resources A-Z list\n    \n
+  \ \n  \n  \n\n  \n  \n  \nCampus Libraries\n    \n  \n    \n  \n      \n  \n  \n
+  \   \n        \n  \n  \n      \n            \n          Archives of African American
+  Music & Culture  \n            \n          Archives of Traditional Music  \n            \n
+  \         Black Film Center/Archive  \n            \n          Business/SPEA Information
+  Commons  \n            \n          Center for Disability Information and Referral
+  (CeDIR)  \n            \n          Chemistry Library  \n            \n          Education
+  Library  \n            \n          Fine Arts Library  \n            \n          GLBT
+  Library  \n            \n          Herman B Wells Library  \n            \n          Indiana
+  Prevention Resource Center Library  \n            \n          IU Libraries Moving
+  Image Archive  \n            \n          Kinsey Institute Library  \n            \n
+  \         Law Library  \n            \n          Life Sciences Library  \n            \n
+  \         Lilly Library  \n            \n          Neal-Marshall Black Culture Center
+  Library  \n            \n          Optometry Library  \n            \n          Ostrom
+  Workshop Library  \n            \n          RPS Libraries  \n            \n          Sinor
+  Research Institute for Inner Asian Studies  \n            \n          Swain Hall
+  Library  \n            \n          University Archives and Records Management  \n
+  \           \n          William & Gayle Cook Music Library  \n            \n          Wylie
+  House Museum  \n      \n  \n  \n  \n  \n  \n  \n  \n\n  \n  \n\n  \n\n  \nLibrary
+  Services\n    \n  \n    \n  \n        Popular Services\n    \n  \n  \n    \n        \n
+  \ \n  \n      \n        \n      \n          Borrowing and Circulation    \n  \n
+  \     \n          Class Reserves    \n  \n      \n          Course Guides & Research
+  Workshops    \n  \n      \n          Help with Citing Sources    \n  \n      \n
+  \         Instructional Resources for Faculty & Instructors    \n  \n      \n          Interlibrary
+  Loan (ILL)    \n  \n      \n          Renew    \n  \n      \n          Research
+  Assistance    \n  \n      \n          Rooms for Groups, Study or Collaboration    \n
+  \   \n  \n  \n  \n  \n  \n  \n  \n\n  \n  \n\n  \n\n  \n    \n  \n        All Services\n
+  \   \n  \n  \n    \n        \n  \n  \n      \n        \n      \n          Borrow,
+  Renew, Request    \n  \n      \n          Computing and More    \n  \n      \n          Digital
+  Scholarship    \n  \n      \n          Instructional Services    \n  \n      \n
+  \         Online Learning    \n  \n      \n          Reference and Research Services
+  \   \n  \n      \n          Services for Library Users with Disabilities    \n  \n
+  \     \n          Visitor Information    \n    \n  \n  \n  \n      \n\n  \n    View
+  All  \n\n  \n  \n  \n  \n\n  \n  \n\n  \n\n  \nHelp\n    \n\n  \n    \n  \n      \n
+  \ \n  \n    Course Guides\nFind Online Full-Text Journals\nLibrary Help in the UITS
+  Knowledge Base\nLibrary Workshops\nReference Services dept.\nTips for Off-Campus
+  Access\n\n\n  \n  \n\n  \n\n  \n    \n  \n        Ask A Librarian\n    \n  \n  \n
+  \   \n        \n  \n  \n      \n        \n      \n          \n  \n    \n    \n    \n
+  \ \n  \n  \n  \n  \n  \n  \n\n  \n  \n\n  \n\n  \n    \n  \n      \n  \n  \n    \n
+  \     \n          \n    \n\t\n\t\t\tCall Us: 812.855.0100\n\t\t\n\t\t\tText: 812.671.0275\n\t\n\n\t\n\t\t\tChat
+  (Offline)\n\t\t\n\t\t\tEmail Us\n\t\t\n\t\t\tMake an Appointment\n\t\n\n  \n\n\n
+  \ \n  \n\n  \n\n  \nIUCAT\n  \n      \n  \n\n\n  \n    \n        \n    \n                          Home\n
+  \                                         \n\n\n      \n  \n  \n    \n  \n\n\n\n\n\n\n\n
+  \ \n      \n      \n  \n        Today's hours for:\n    \n  \n  \n    \n  Select
+  a location \n Herman B Wells LibraryBusiness/SPEA Information CommonsChemistry LibraryEducation
+  LibraryFine Arts LibraryLife Sciences LibraryLilly LibraryNeal-Marshall Black Culture
+  Center LibraryOptometry LibrarySwain Hall LibraryUniversity Archives and Records
+  ManagementWilliam & Gayle Cook Music LibraryWylie House Museum\n\n  \n    11:00am
+  - 2:00am\n  \n  \n    View all Library Hours\n  \n  \n\n  \n  \n\n  \n        News
+  & Events\n    \n  \n  \n    \n        \n  \n  \n      \n        \n      \n          \nBrowzine:
+  Easy Access to Your Favorite Scholarly Journals Anywhere    \n    \n  \n  \n  \n
+  \ \n  \n  \n  \n\n  \n  \n\n  \n      \n  \n  \n    \n        \n  \n  \n      \n
+  \       \n      \n          IUCAT Unavailable December 26-30 2015    \n    \n  \n
+  \ \n  \n  \n  \n  \n  \n\n  \n  \n\n  \n      \n  \n  \n    \n        \n  \n  \n
+  \     \n        \n      \n          December 11th, 2015 - 1:00pm    \n          Fall
+  2015 Information Literacy Course Grants Panel    \n          Learn about how course
+  instructors and librarians collaborated this semester to make information literacy
+  an integral part of courses in a variety of disciplines.      \n  \n      \n          January
+  7th, 2016 - 12:00pm    \n          Copyright and Fair Use for Instructors    \n
+  \         Learn about educational uses of copyrighted materials for both on-campus
+  and online instruction    \n    \n  \n  \n  \n  \n  \n  \n  \n\n  \n  \n    \n  \n
+  \     \n      \n  \n        Start Your Research\n    \n  \n  \n    \n\n  \n    \n
+  \ \n    A-Z List of ResourcesAsk a LibrarianCourse GuidesOneSearch@IU - a great
+  place to startOnline Full-Text Journals - browse or searchSubject Guides A-ZMore
+  Reference & Research Services\n  \n\n  \n    Of Special Interest to ScholarsDigital
+  CollectionsIUScholarWorksLibrary Publishing & Data ServicesLibrary WorkshopsServices
+  for Faculty and InstructorsScholars' Commons\n  \n\n  \n    Explore our collections
+  \ \n\n  Learn about Kwanzaa: The African-American Festival of Lights\n  \nThrough
+  Dec 20 in the Lilly Library: Sam Loyd, Puzzle King\n  \n\n      \n    Peer Reviewed,
+  Refereed, Scholarly - Tips for Identifying Journals\n         by Web Staff\n\n    \n
+  \     \n      \n    Science Data Management Storage and Preservation\n         by
+  Jennifer Laherty\n\n    \n      \n      \n    Market Research @ the IUB Libraries\n
+  \        by Christina Sheley\n\n    \n      \n      \n    Electronic Resources:
+  Trials and New Additions\n         by Lori Duggan\n\n    \n  \n  \n\n  \n\n  \n
+  \ \n    \n  \n  \n\n\n          \n\n    \n    \n    \n  \n\n  \n    \n      \n\n
+  \     \n  \n\n  \n    \n  \n        Top Recommended Resources\n    \n  \n  \n    \n
+  \       \n  \n  \n      \n      \n              \n           IUCAT more info about
+  IUCAT            \n                  \n              \n           OneSearch@IU more
+  info about OneSearch@IU            \n              \n              \n           ABI/INFORM
+  Complete more info about ABI/INFORM Complete            \n                  \n              \n
+  \          JSTOR more info about JSTOR            \n              \n              \n
+  \          Academic Search (EBSCO) more info about Academic Search (EBSCO)            \n
+  \                 \n              \n           MLA International Bibliography more
+  info about MLA International Bibliography            \n              \n              \n
+  \          ERIC (EBSCO) more info about ERIC (EBSCO)            \n                  \n
+  \             \n           PsycINFO more info about PsycINFO            \n              \n
+  \             \n           Google Scholar more info about Google Scholar            \n
+  \                 \n              \n           Scopus more info about Scopus            \n
+  \             \n              \n           LexisNexis Academic more info about LexisNexis
+  Academic            \n                  \n              \n           Web of Science
+  more info about Web of Science            \n              \n              \n           HathiTrust
+  Digital Library more info about HathiTrust Digital Library            \n                  \n
+  \             \n           WorldCat more info about WorldCat            \n              \n
+  \ \n  \n  \n      \n\n  \n    See All Resources  \n\n  \n  \n  \n  \n\n  \n  \n\n
+  \ \n\n  \n    \n  \n        Libraries News and Events\n    \n  \n  \n    \n        \n
+  \     \n          \n  \n  \n  \n      \n        \n      \n          Browzine: Easy
+  Access to Your Favorite Scholarly Journals Anywhere    \n  \n      \n          IUCAT
+  Unavailable December 26-30 2015    \n    \n  \n  \n  \n  \n  \n\n  \n\n  \n  \n\n
+  \ \n      \n  \n  \n    \n        \n  \n  \n      \n        \n      \n          December
+  11th, 2015 - 1:00pm        :  \n          Fall 2015 Information Literacy Course
+  Grants Panel    \n  \n      \n          January 7th, 2016 - 12:00pm        :  \n
+  \         Copyright and Fair Use for Instructors    \n    \n  \n  \n  \n  \n  \n
+  \ \n  \n\n  \n  \n\n  \n\n  \n    \n  \n      \n  \n  \n    Today's Hours: \n  11:00am
+  - 2:00am\n  (More library hoursMore)\n\n  Select a location \n Herman B Wells LibraryBusiness/SPEA
+  Information CommonsChemistry LibraryEducation LibraryFine Arts LibraryLife Sciences
+  LibraryLilly LibraryNeal-Marshall Black Culture Center LibraryOptometry LibrarySwain
+  Hall LibraryUniversity Archives and Records ManagementWilliam & Gayle Cook Music
+  LibraryWylie House Museum\n  \n\n  \n  \n\n  \n      \n  \n  \n    About IUB Libraries\nAlumni
+  and Friends\nDepartments and Staff\nJobs and Libraries Human Resources\nContributions:
+  Donate Now\n\n\n  \n  \n\n  \n      \n  \n  \n     Facebook\n Twitter\n YouTube\n
+  flickr\n RSS\n\n\n  \n  \n\n  \n\n\n\n    \n  \n        \n    \n      \n\n        Colophon\n
+  \   \n  Libraries Privacy Policy\nContact Us\nIntranet (Staff)\nLogin (Staff)\n\n
+  \   \n  \n  \n\n  \n\n\t\tFulfilling the Promise\n\t\tPrivacy Notice\n\t\t\n\t\t\t\n\t\t\t\n\t\t\t\tCopyright
+  ©2015\t\t\t\n\t\t\tThe Trustees of Indiana University,\n\t\t\tCopyright Complaints\n\t\t\n\t\n\n
+  \     setTimeout(function(){var a=document.createElement(\"script\");\n      var
+  b=document.getElementsByTagName('script')[0];\n      a.src=document.location.protocol+\"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/9898.js\";\n
+  \     a.async=true;a.type=\"text/javascript\";b.parentNode.insertBefore(a,b)}, 1);\n
+  \     \n      Skip to main content\n    Browse Subject Guides by DisciplineLooking
+  for a specific resource?Resources A-Z list\n\tA-Z List of ResourcesAsk a LibrarianCourse
+  GuidesOneSearch@IU - a great place to startOnline Full-Text Journals - browse or
+  searchSubject Guides A-ZMore Reference & Research ServicesOf Special Interest to
+  ScholarsDigital CollectionsIUScholarWorksLibrary Publishing & Data ServicesLibrary
+  WorkshopsServices for Faculty and InstructorsScholars' CommonsLearn about Kwanzaa:
+  The African-American Festival of LightsThrough Dec 20 in the Lilly Library: Sam
+  Loyd, Puzzle KingFulfilling the PromisePrivacy Notice\n\t\t\t\n\t\t\t\n\t\t\t\tCopyright
+  ©2015\t\t\t\n\t\t\tThe Trustees of Indiana University,\n\t\t\tCopyright Complaints\n\t\t"

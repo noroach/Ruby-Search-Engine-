@@ -1,0 +1,5329 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors:
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      ID EnWpMpBook2 already defined
+    domain: 23
+    code: 513
+    level: 2
+    file: "/tmp/open-uri20151213-145803-rydjea"
+    line: 63
+    str1: EnWpMpBook2
+    str2: EnWpMpBook2
+    str3: 
+    int1: 0
+    column: 162
+address: https://en.wikiquote.org/wiki/Main_Page
+inboundLinks: []
+lines:
+- |2+
+
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\t\tdocument.write(\"\\u003Cdiv class=\\\"mw-dismissable-notice\\\"\\u003E\\u003Cdiv
+  class=\\\"mw-dismissable-notice-close\\\"\\u003E[\\u003Ca href=\\\"#\\\"\\u003Ehide\\u003C/a\\u003E]\\u003C/div\\u003E\\u003Cdiv
+  class=\\\"mw-dismissable-notice-body\\\"\\u003E\\u003Cdiv id=\\\"localNotice\\\"
+  lang=\\\"en\\\" dir=\\\"ltr\\\"\\u003E\\u003Cdiv style=\\\"position:absolute; z-index:100;
+  right:100px; top:-0px;\\\" class=\\\"metadata\\\" id=\\\"donate\\\"\\u003E\\n\\u003Cdiv
+  style=\\\"text-align:right; font-size:80%\\\"\\u003E\\u003Ci\\u003EYour \\u003Cb\\u003E\\u003Ca
+  href=\\\"//wikimediafoundation.org/wiki/Fundraising\\\" class=\\\"extiw\\\" title=\\\"wikimedia:Fundraising\\\"\\u003Econtinued
+  donations\\u003C/a\\u003E\\u003C/b\\u003E keep Wikiquote running!\\u003C/i\\u003E\\n\\u003C/div\\u003E\\u003C/div\\u003E\\n\\u003C/div\\u003E\\u003C/div\\u003E\\u003C/div\\u003E\");\n"
+- "\t\t\t\t\t\t\n"
+- |2+
+
+- "\t\t\tMain Page\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tFrom Wikiquote\n"
+- "\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\tJump to:\t\t\t\t\tnavigation, \t\t\t\t\tsearch\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\n"
+- |2+
+
+- |2+
+
+- |
+  Welcome to Wikiquote,
+- |
+  the free quote compendium that anyone can edit.
+- |
+  25,716 articles in English
+- |2+
+
+- |
+  Monday, December 14, 2015, 00:11 (UTC)
+- |2+
+
+- |
+  Browse: Categories | Films | Literary works | Occupations | Proverbs | Television shows | Themes
+- |2+
+
+- |2+
+
+- |
+  Browse Wikiquote - Alphabetical index
+- |2+
+
+- |2+
+
+- |
+  Wikiquote is a free online compendium of sourced quotations from notable people and creative works in every language, translations of non-English quotes, and links to Wikipedia for further information. Visit the help page or experiment in the sandbox to learn how you can edit nearly any page right now; or go to the Log in to start contributing to Wikiquote.
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Quote of the day
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+   
+- |2+
+
+- |
+  In the Art of Peace we never attack. An attack is proof that one is out of control. Never run away from any kind of challenge, but do not try to suppress or control an opponent unnaturally. Let attackers come any way they like and then blend with them. Never chase after opponents. Redirect each attack and get firmly behind it.
+- |
+  ~ Morihei Ueshiba ~
+- |2+
+
+- |
+   
+- |2+
+
+- |2+
+
+- |
+  There is a page for each month where previous "Quotes of the Day" for each date are listed, and where registered users can make suggestions or rank suggestions for upcoming dates. The Quotes of the Year page and other archives contain more extensive listings of quotes that have already been used. See also the QOTD by month and email options.
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Selected pages
+- |2+
+
+- |2+
+
+- |
+  People — Douglas Adams • Dante Alighieri • Aristotle • Emily Brontë • Buddha • Confucius • Charles Darwin • Charles Dickens • Albert Einstein • T. S. Eliot • Ralph Waldo Emerson • Richard Feynman • Mahatma Gandhi • Jesus • John Keats • Helen Keller • John F. Kennedy • Martin Luther King, Jr. • Laozi • Timothy Leary • Muhammad • Thomas Paine • Eleanor Roosevelt • Bertrand Russell • William Saroyan • William Shakespeare • George Bernard Shaw • Percy Bysshe Shelley • Starhawk • Leo Tolstoy • Virgil • Voltaire • Anonymous
+- |
+  Literary works — Dune • Fahrenheit 451 • Leaves of Grass • The Little Prince • The Lord of the Rings • 1984 • Paradise Lost • Principia Discordia • The Prophet • Pride and Prejudice • A Tale of Two Cities
+- |
+  Films — Casablanca • Fight Club • Fury • Groundhog Day • Harvey • The Hours • It's a Wonderful Life • Life of Brian • Magnolia • The Matrix • Memento • Olympus Has Fallen • One Flew Over the Cuckoo's Nest • Star Wars • Taxi Driver • Three Days of the Condor • United 93
+- |
+  TV shows — Babylon 5 • Blackadder • Breaking Bad • Buffy • The Daily Show • Game of Thrones • Gilmore Girls • Mad Men • M*A*S*H • Monty Python's Flying Circus • MST3K • Red Dwarf • Seinfeld • The Simpsons • Star Trek • The X-Files • Twin Peaks • The West Wing • Wonderfalls
+- |
+  Themes — Ability • Art • Beauty • Computers • Courage • Dance • Drugs • Education • Film • Flowers • Friendship • Hope • Leadership • Love • Materialism • Memory • Politics • Quotations • Religion • Science • Sexuality • Sports • Success • Television • War
+- |
+  Places — Brazil • California • Canada • China • Cuba • European Union • France • Germany • India • Iran • Iraq • Ireland • Italy • Japan • London • Mexico • New York City • North Korea • Pakistan • Russian Federation • South Korea • Soviet Union • Spain • Turkey • United Kingdom • United States of America • Vietnam
+- |
+  Miscellaneous — Epitaphs • Holidays • Last words • Proverbs • Slogans • Theatrical plays and musicals
+- |2+
+
+- |2+
+
+- |
+  Main categories
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  People
+- |
+  Authors
+- |
+  By occupation
+- |
+  By nationality
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Productions
+- |
+  Films
+- |
+  Literary works
+- |
+  Television
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Browse Wikiquote
+- |
+  Lists
+- |
+  Proverbs
+- |
+  Themes
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  New pages
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  New in Wikiquote:Michael J. Totten
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  ‎John Hollander
+- |
+  ‎Tibetan language
+- |
+  Michael J. Totten
+- |
+  ‎Toy Story Toons
+- |
+  ‎Daniel J. Fairbanks
+- |
+  Scream Queens (2015 TV series)
+- |
+  Constitutional court
+- |
+  ‎Complexity economics
+- |
+  ‎Frankenstein Meets the Wolf Man
+- |
+  ‎Son of Frankenstein
+- |
+  ‎Anthropocene
+- |
+  ‎John Kasich
+- |
+  Self-Organizing Systems
+- |2+
+
+- |
+  A partial listing of some new pages (add)
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Community
+- |2+
+
+- |2+
+
+- |
+  Writing articles
+- |
+  Policy • How to edit a page • Guide to layout and style • Public domain and shared • Requested entries
+- |
+  About the project
+- |
+  About page • Templates • Spellings • Community portal • What Wikiquote is not • Village pump • Reference desk • Requests • Wikiquotians • Utilities • FAQ • History of Wikiquote • Wikiquote • Other language Wikiquotes • Software • Wikimedia
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Wikiquote's sister projects
+- |
+  Wikiquote is run by the non-profit Wikimedia Foundation, which operates several other multilingual and free-content projects:
+- |2+
+
+- |
+  Wiktionary
+- |
+  Dictionary and thesaurus
+- |2+
+
+- |
+  Wikibooks
+- |
+  Free textbooks and manuals
+- |2+
+
+- |
+  Wikipedia
+- |
+  The free encyclopedia
+- |2+
+
+- |
+  Wikisource
+- |
+  The free library
+- |2+
+
+- |
+  Wikispecies
+- |
+  Directory of species
+- |2+
+
+- |
+  Wikinews
+- |
+  Free content news source
+- |2+
+
+- |
+  Meta-Wiki
+- |
+  Wikimedia project coordination
+- |2+
+
+- |
+  Commons
+- |
+  Shared media repository
+- |2+
+
+- |
+  Wikiversity
+- |
+  The limitless learning center
+- |2+
+
+- |
+  Wikidata
+- |
+  Free knowledge base
+- |2+
+
+- |
+  Wikivoyage
+- |
+  Open travel guide
+- |
+  Wikiquote languages
+- |
+  This Wikiquote is written in English. Started in 2003, it currently contains 25,716 articles. Many other Wikiquote projects are available:
+- |2+
+
+- |
+  Afrikaans – Albanian – العربية (Arabic) – Հայերեն (Armenian) – Azeri – Basque – Bosnian – Български (Bulgarian) – Catalan – 中文 (Chinese) – Croatian – Czech – Danish – Dutch – Esperanto – Estonian – Finnish – French – Galician – ქართულ (Georgian) – German – Ελληνικά (Greek) – עברית (Hebrew) – Hungarian – Icelandic – Indonesian – Italian – 日本語 (Japanese) – 한국어 (Korean) – Kurdish – Limburgian – Lithuanian – മലയാളം (Malayalam) – Norwegian (Bokmål) – Norwegian (Nynorsk) – فارسی (Persian) – Polish – Portuguese – Romanian – Русский (Russian) – Српски (Serbian) – Slovak – Slovenian – Spanish – Swedish – தமிழ் (Tamil) – తెలుగు (Telugu) – ไทย (Thai) – Turkish – Українська (Ukrainian) – Vietnamese – Welsh
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\tRetrieved from \"https://en.wikiquote.org/w/index.php?title=Main_Page&oldid=1859683\"\t\t\t\t\t\n"
+- "\t\t\t\tCategory: Main page\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\tNavigation menu\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tPersonal tools\n"
+- "\t\t\t\t\t\tNot logged inTalkContributionsCreate accountLog in\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tNamespaces\n"
+- "\t\t\t\t\t\tMain page\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDiscussion\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tVariants\n"
+- "\t\t\t\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tViews\n"
+- "\t\t\t\t\t\tRead\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView source\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView history\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\tMore\n"
+- |2+
+
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\tSearch\n"
+- "\t\t\t\t\t\t\n"
+- |2+
+
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\t\t\t\t\n"
+- "\t\t\tNavigation\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tMain PageCommunity portalVillage pumpRecent changesRandom pageHelpDonateContact
+  Wikiquote\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tWikiquote links\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tPeopleLiterary worksProverbsFilmsTV showsThemesCategories\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tPrint/export\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tCreate a bookDownload as PDFPrintable version\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tTools\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tWhat links hereRelated changesUpload fileSpecial pagesPermanent
+  linkPage informationWikidata itemCite this page\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\n"
+- "\t\t\tIn other languages\n"
+- |2+
+
+- "\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\tAfrikaansAlemannischአማርኛالعربيةAsturianuAzərbaycancaБеларускаяБългарскиBamanankanBrezhonegBosanskiCatalàCorsuČeštinaCymraegDanskDeutschΕλληνικάEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoગુજરાતીעבריתहिन्दीHrvatskiMagyarՀայերենBahasa
+  IndonesiaÍslenskaItaliano日本語ქართულიҚазақшаಕನ್ನಡ한국어KanuriKurdîKernowekКыргызчаLatinaLëtzebuergeschLimburgsLietuviųമലയാളംमराठीPlattdüütschNederlandsNorsk
+  nynorskNorsk bokmålPolskiPortuguêsRuna SimiRomânăРусскийसंस्कृतम्SlovenčinaSlovenščinaShqipСрпски
+  / srpskiBasa SundaSvenskaதமிழ்తెలుగుไทยTürkmençeTürkçeТатарча/tatarçaئۇيغۇرچە /
+  UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng ViệtVolapükWolof中文Bân-lâm-gú\t\t\t\t\tEdit
+  links\t\t\t\n"
+- "\t\t\n"
+- "\t\t\t\t\n"
+- "\t\t\n"
+- "\t\t\n"
+- "\t\t\t\t\t\t\t This page was last modified on 5 March 2015, at 14:01.\n"
+- "\t\t\t\t\t\t\t\t\t\t\tText is available under the Creative Commons Attribution-ShareAlike
+  License; additional terms may apply.  By using this site, you agree to the Terms
+  of Use and Privacy Policy.\n"
+- "\t\t\t\t\t\t\t\t\tPrivacy policy\n"
+- "\t\t\t\t\t\t\t\t\t\t\tAbout Wikiquote\n"
+- "\t\t\t\t\t\t\t\t\t\t\tDisclaimers\n"
+- "\t\t\t\t\t\t\t\t\t\t\tDevelopers\n"
+- "\t\t\t\t\t\t\t\t\t\t\tMobile view\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\t\t\t\t\t\t\t\n"
+- "\t\t\n"
+- "\t\twindow.RLQ = window.RLQ || []; window.RLQ.push( function () {\n"
+- |
+  mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.dismissableSiteNotice"]);
+- |
+  } );window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+- |
+  mw.config.set({"wgBackendResponseTime":307,"wgHostname":"mw1093"}); /* @nomin */
+- "} );Browse: Categories | Films | Literary works | Occupations | Proverbs | Television
+  shows | ThemesBrowse Wikiquote - Alphabetical indexSelected pagesPeople — Douglas
+  Adams • Dante Alighieri • Aristotle • Emily Brontë • Buddha • Confucius • Charles
+  Darwin • Charles Dickens • Albert Einstein • T. S. Eliot • Ralph Waldo Emerson •
+  Richard Feynman • Mahatma Gandhi • Jesus • John Keats • Helen Keller • John F. Kennedy
+  • Martin Luther King, Jr. • Laozi • Timothy Leary • Muhammad • Thomas Paine • Eleanor
+  Roosevelt • Bertrand Russell • William Saroyan • William Shakespeare • George Bernard
+  Shaw • Percy Bysshe Shelley • Starhawk • Leo Tolstoy • Virgil • Voltaire • AnonymousLiterary works
+  — Dune • Fahrenheit 451 • Leaves of Grass • The Little Prince • The Lord of the
+  Rings • 1984 • Paradise Lost • Principia Discordia • The Prophet • Pride and Prejudice
+  • A Tale of Two CitiesFilms — Casablanca • Fight Club • Fury • Groundhog Day • Harvey
+  • The Hours • It's a Wonderful Life • Life of Brian • Magnolia • The Matrix • Memento
+  • Olympus Has Fallen • One Flew Over the Cuckoo's Nest • Star Wars • Taxi Driver
+  • Three Days of the Condor • United 93TV shows — Babylon 5 • Blackadder • Breaking
+  Bad • Buffy • The Daily Show • Game of Thrones • Gilmore Girls • Mad Men • M*A*S*H
+  • Monty Python's Flying Circus • MST3K • Red Dwarf • Seinfeld • The Simpsons • Star
+  Trek • The X-Files • Twin Peaks • The West Wing • WonderfallsThemes — Ability •
+  Art • Beauty • Computers • Courage • Dance • Drugs • Education • Film • Flowers
+  • Friendship • Hope • Leadership • Love • Materialism • Memory • Politics • Quotations
+  • Religion • Science • Sexuality • Sports • Success • Television • WarPlaces — Brazil
+  • California • Canada • China • Cuba • European Union • France • Germany • India
+  • Iran • Iraq • Ireland • Italy • Japan • London • Mexico • New York City • North
+  Korea • Pakistan • Russian Federation • South Korea • Soviet Union • Spain • Turkey
+  • United Kingdom • United States of America • VietnamMiscellaneous — Epitaphs •
+  Holidays • Last words • Proverbs • Slogans • Theatrical plays and musicalsMain categoriesPeopleProductionsBrowse
+  WikiquoteNew pagesCommunityPolicy • How to edit a page • Guide to layout and style
+  • Public domain and shared • Requested entriesAbout page • Templates • Spellings
+  • Community portal • What Wikiquote is not • Village pump • Reference desk • Requests
+  • Wikiquotians • Utilities • FAQ • History of Wikiquote • Wikiquote • Other language
+  Wikiquotes • Software • WikimediaWikiquote is run by the non-profit Wikimedia Foundation,
+  which operates several other multilingual and free-content projects:This Wikiquote
+  is written in English. Started in 2003, it currently contains 25,716 articles. Many
+  other Wikiquote projects are available:Afrikaans – Albanian – العربية (Arabic) –
+  Հայերեն (Armenian) – Azeri – Basque – Bosnian – Български (Bulgarian) – Catalan –
+  中文 (Chinese) – Croatian – Czech – Danish – Dutch – Esperanto – Estonian – Finnish –
+  French – Galician – ქართულ (Georgian) – German – Ελληνικά (Greek) – עברית (Hebrew) –
+  Hungarian – Icelandic – Indonesian – Italian – 日本語 (Japanese) – 한국어 (Korean) – Kurdish –
+  Limburgian – Lithuanian – മലയാളം (Malayalam) – Norwegian (Bokmål) – Norwegian (Nynorsk) –
+  فارسی (Persian) – Polish – Portuguese – Romanian – Русский (Russian) – Српски (Serbian) –
+  Slovak – Slovenian – Spanish – Swedish – தமிழ் (Tamil) – తెలుగు (Telugu) – ไทย (Thai) –
+  Turkish – Українська (Ukrainian) – Vietnamese – Welsh"
+index:
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  write: !ruby/object:Word
+    word: write
+    stem: write
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  class: !ruby/object:Word
+    word: class
+    stem: class
+    docFrequency: 6.0
+    docPositions:
+    - 6
+  mw: !ruby/object:Word
+    word: mw
+    stem: mw
+    docFrequency: 7.0
+    docPositions:
+    - 6
+    - 286
+    - 288
+  dismissable: !ruby/object:Word
+    word: dismissable
+    stem: dismiss
+    docFrequency: 4.0
+    docPositions:
+    - 6
+  notice: !ruby/object:Word
+    word: notice
+    stem: notic
+    docFrequency: 4.0
+    docPositions:
+    - 6
+  close: !ruby/object:Word
+    word: close
+    stem: close
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  href: !ruby/object:Word
+    word: href
+    stem: href
+    docFrequency: 3.0
+    docPositions:
+    - 6
+  div: !ruby/object:Word
+    word: div
+    stem: div
+    docFrequency: 7.0
+    docPositions:
+    - 6
+  body: !ruby/object:Word
+    word: body
+    stem: bodi
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  id: !ruby/object:Word
+    word: id
+    stem: id
+    docFrequency: 3.0
+    docPositions:
+    - 6
+  localnotice: !ruby/object:Word
+    word: localnotice
+    stem: localnotic
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  lang: !ruby/object:Word
+    word: lang
+    stem: lang
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  en: !ruby/object:Word
+    word: en
+    stem: en
+    docFrequency: 3.0
+    docPositions:
+    - 6
+    - 186
+  dir: !ruby/object:Word
+    word: dir
+    stem: dir
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  ltr: !ruby/object:Word
+    word: ltr
+    stem: ltr
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  style: !ruby/object:Word
+    word: style
+    stem: style
+    docFrequency: 5.0
+    docPositions:
+    - 6
+    - 131
+    - 289
+  position: !ruby/object:Word
+    word: position
+    stem: posit
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  absolute: !ruby/object:Word
+    word: absolute
+    stem: absolut
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  z: !ruby/object:Word
+    word: z
+    stem: z
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  index: !ruby/object:Word
+    word: index
+    stem: index
+    docFrequency: 4.0
+    docPositions:
+    - 6
+    - 28
+    - 186
+  right: !ruby/object:Word
+    word: right
+    stem: right
+    docFrequency: 4.0
+    docPositions:
+    - 6
+    - 31
+  top: !ruby/object:Word
+    word: top
+    stem: top
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  metadata: !ruby/object:Word
+    word: metadata
+    stem: metadata
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  donate: !ruby/object:Word
+    word: donate
+    stem: donat
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  n: !ruby/object:Word
+    word: n
+    stem: n
+    docFrequency: 6.0
+    docPositions:
+    - 6
+    - 267
+  text: !ruby/object:Word
+    word: text
+    stem: text
+    docFrequency: 3.0
+    docPositions:
+    - 6
+    - 273
+  align: !ruby/object:Word
+    word: align
+    stem: align
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  font: !ruby/object:Word
+    word: font
+    stem: font
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  size: !ruby/object:Word
+    word: size
+    stem: size
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  wikimediafoundation: !ruby/object:Word
+    word: wikimediafoundation
+    stem: wikimediafound
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  org: !ruby/object:Word
+    word: org
+    stem: org
+    docFrequency: 3.0
+    docPositions:
+    - 6
+    - 186
+  wiki: !ruby/object:Word
+    word: wiki
+    stem: wiki
+    docFrequency: 3.0
+    docPositions:
+    - 6
+    - 158
+  fundraising: !ruby/object:Word
+    word: fundraising
+    stem: fundrais
+    docFrequency: 3.0
+    docPositions:
+    - 6
+  extiw: !ruby/object:Word
+    word: extiw
+    stem: extiw
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  title: !ruby/object:Word
+    word: title
+    stem: titl
+    docFrequency: 3.0
+    docPositions:
+    - 6
+    - 186
+  wikimedia: !ruby/object:Word
+    word: wikimedia
+    stem: wikimedia
+    docFrequency: 6.0
+    docPositions:
+    - 6
+    - 133
+    - 138
+    - 159
+    - 289
+  donations: !ruby/object:Word
+    word: donations
+    stem: donat
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  b: !ruby/object:Word
+    word: b
+    stem: b
+    docFrequency: 3.0
+    docPositions:
+    - 6
+    - 267
+  keep: !ruby/object:Word
+    word: keep
+    stem: keep
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  wikiquote: !ruby/object:Word
+    word: wikiquote
+    stem: wikiquot
+    docFrequency: 27.0
+    docPositions:
+    - 6
+    - 11
+    - 19
+    - 28
+    - 31
+    - 88
+    - 104
+    - 133
+    - 137
+    - 138
+    - 172
+    - 173
+    - 186
+    - 243
+    - 246
+    - 275
+    - 289
+  running: !ruby/object:Word
+    word: running
+    stem: run
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  i: !ruby/object:Word
+    word: i
+    stem: i
+    docFrequency: 2.0
+    docPositions:
+    - 6
+  main: !ruby/object:Word
+    word: main
+    stem: main
+    docFrequency: 6.0
+    docPositions:
+    - 9
+    - 66
+    - 187
+    - 200
+    - 243
+  page: !ruby/object:Word
+    word: page
+    stem: page
+    docFrequency: 15.0
+    docPositions:
+    - 9
+    - 31
+    - 47
+    - 131
+    - 133
+    - 187
+    - 200
+    - 261
+    - 272
+    - 286
+    - 289
+  jump: !ruby/object:Word
+    word: jump
+    stem: jump
+    docFrequency: 2.0
+    docPositions:
+    - 14
+  navigation: !ruby/object:Word
+    word: navigation
+    stem: navig
+    docFrequency: 4.0
+    docPositions:
+    - 14
+    - 191
+    - 240
+  search: !ruby/object:Word
+    word: search
+    stem: search
+    docFrequency: 3.0
+    docPositions:
+    - 14
+    - 227
+  welcome: !ruby/object:Word
+    word: welcome
+    stem: welcom
+    docFrequency: 2.0
+    docPositions:
+    - 19
+  free: !ruby/object:Word
+    word: free
+    stem: free
+    docFrequency: 10.0
+    docPositions:
+    - 20
+    - 31
+    - 138
+    - 144
+    - 147
+    - 150
+    - 156
+    - 168
+    - 289
+  quote: !ruby/object:Word
+    word: quote
+    stem: quot
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 35
+  compendium: !ruby/object:Word
+    word: compendium
+    stem: compendium
+    docFrequency: 3.0
+    docPositions:
+    - 20
+    - 31
+  anyone: !ruby/object:Word
+    word: anyone
+    stem: anyon
+    docFrequency: 2.0
+    docPositions:
+    - 20
+  can: !ruby/object:Word
+    word: can
+    stem: can
+    docFrequency: 4.0
+    docPositions:
+    - 20
+    - 31
+    - 47
+  edit: !ruby/object:Word
+    word: edit
+    stem: edit
+    docFrequency: 6.0
+    docPositions:
+    - 20
+    - 31
+    - 131
+    - 267
+    - 289
+  articles: !ruby/object:Word
+    word: articles
+    stem: articl
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 130
+    - 173
+    - 289
+  english: !ruby/object:Word
+    word: english
+    stem: english
+    docFrequency: 5.0
+    docPositions:
+    - 21
+    - 31
+    - 173
+    - 289
+  monday: !ruby/object:Word
+    word: monday
+    stem: mondai
+    docFrequency: 2.0
+    docPositions:
+    - 23
+  december: !ruby/object:Word
+    word: december
+    stem: decemb
+    docFrequency: 2.0
+    docPositions:
+    - 23
+  utc: !ruby/object:Word
+    word: utc
+    stem: utc
+    docFrequency: 2.0
+    docPositions:
+    - 23
+  browse: !ruby/object:Word
+    word: browse
+    stem: brows
+    docFrequency: 5.0
+    docPositions:
+    - 25
+    - 28
+    - 88
+    - 289
+  categories: !ruby/object:Word
+    word: categories
+    stem: categori
+    docFrequency: 4.0
+    docPositions:
+    - 25
+    - 66
+    - 289
+  films: !ruby/object:Word
+    word: films
+    stem: film
+    docFrequency: 5.0
+    docPositions:
+    - 25
+    - 59
+    - 81
+    - 289
+  literary: !ruby/object:Word
+    word: literary
+    stem: literari
+    docFrequency: 5.0
+    docPositions:
+    - 25
+    - 58
+    - 82
+    - 289
+  works: !ruby/object:Word
+    word: works
+    stem: work
+    docFrequency: 7.0
+    docPositions:
+    - 25
+    - 31
+    - 58
+    - 82
+    - 289
+  occupations: !ruby/object:Word
+    word: occupations
+    stem: occup
+    docFrequency: 3.0
+    docPositions:
+    - 25
+    - 289
+  proverbs: !ruby/object:Word
+    word: proverbs
+    stem: proverb
+    docFrequency: 6.0
+    docPositions:
+    - 25
+    - 63
+    - 90
+    - 289
+  television: !ruby/object:Word
+    word: television
+    stem: televis
+    docFrequency: 6.0
+    docPositions:
+    - 25
+    - 61
+    - 83
+    - 289
+  shows: !ruby/object:Word
+    word: shows
+    stem: show
+    docFrequency: 5.0
+    docPositions:
+    - 25
+    - 60
+    - 289
+  themes: !ruby/object:Word
+    word: themes
+    stem: theme
+    docFrequency: 4.0
+    docPositions:
+    - 25
+    - 61
+    - 91
+  alphabetical: !ruby/object:Word
+    word: alphabetical
+    stem: alphabet
+    docFrequency: 3.0
+    docPositions:
+    - 28
+    - 289
+  online: !ruby/object:Word
+    word: online
+    stem: onlin
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  sourced: !ruby/object:Word
+    word: sourced
+    stem: sourc
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  quotations: !ruby/object:Word
+    word: quotations
+    stem: quotat
+    docFrequency: 4.0
+    docPositions:
+    - 31
+    - 61
+    - 289
+  notable: !ruby/object:Word
+    word: notable
+    stem: notabl
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  people: !ruby/object:Word
+    word: people
+    stem: peopl
+    docFrequency: 4.0
+    docPositions:
+    - 31
+    - 57
+    - 72
+  and: !ruby/object:Word
+    word: and
+    stem: and
+    docFrequency: 21.0
+    docPositions:
+    - 31
+    - 41
+    - 47
+    - 58
+    - 63
+    - 131
+    - 138
+    - 141
+    - 144
+    - 273
+    - 289
+  creative: !ruby/object:Word
+    word: creative
+    stem: creativ
+    docFrequency: 3.0
+    docPositions:
+    - 31
+    - 273
+  every: !ruby/object:Word
+    word: every
+    stem: everi
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  language: !ruby/object:Word
+    word: language
+    stem: languag
+    docFrequency: 5.0
+    docPositions:
+    - 31
+    - 110
+    - 133
+    - 289
+  translations: !ruby/object:Word
+    word: translations
+    stem: translat
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  non: !ruby/object:Word
+    word: non
+    stem: non
+    docFrequency: 4.0
+    docPositions:
+    - 31
+    - 138
+    - 289
+  quotes: !ruby/object:Word
+    word: quotes
+    stem: quot
+    docFrequency: 5.0
+    docPositions:
+    - 31
+    - 47
+  links: !ruby/object:Word
+    word: links
+    stem: link
+    docFrequency: 5.0
+    docPositions:
+    - 31
+    - 246
+    - 261
+    - 267
+  wikipedia: !ruby/object:Word
+    word: wikipedia
+    stem: wikipedia
+    docFrequency: 3.0
+    docPositions:
+    - 31
+    - 146
+  further: !ruby/object:Word
+    word: further
+    stem: further
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  information: !ruby/object:Word
+    word: information
+    stem: inform
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  visit: !ruby/object:Word
+    word: visit
+    stem: visit
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  help: !ruby/object:Word
+    word: help
+    stem: help
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  experiment: !ruby/object:Word
+    word: experiment
+    stem: experi
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  sandbox: !ruby/object:Word
+    word: sandbox
+    stem: sandbox
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  learn: !ruby/object:Word
+    word: learn
+    stem: learn
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  you: !ruby/object:Word
+    word: you
+    stem: you
+    docFrequency: 3.0
+    docPositions:
+    - 31
+    - 273
+  nearly: !ruby/object:Word
+    word: nearly
+    stem: nearli
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  any: !ruby/object:Word
+    word: any
+    stem: ani
+    docFrequency: 4.0
+    docPositions:
+    - 31
+    - 41
+  now: !ruby/object:Word
+    word: now
+    stem: now
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  go: !ruby/object:Word
+    word: go
+    stem: go
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  log: !ruby/object:Word
+    word: log
+    stem: log
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  start: !ruby/object:Word
+    word: start
+    stem: start
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  contributing: !ruby/object:Word
+    word: contributing
+    stem: contribut
+    docFrequency: 2.0
+    docPositions:
+    - 31
+  day: !ruby/object:Word
+    word: day
+    stem: dai
+    docFrequency: 5.0
+    docPositions:
+    - 35
+    - 47
+    - 59
+    - 289
+  art: !ruby/object:Word
+    word: art
+    stem: art
+    docFrequency: 4.0
+    docPositions:
+    - 41
+    - 61
+    - 289
+  peace: !ruby/object:Word
+    word: peace
+    stem: peac
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  we: !ruby/object:Word
+    word: we
+    stem: we
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  never: !ruby/object:Word
+    word: never
+    stem: never
+    docFrequency: 4.0
+    docPositions:
+    - 41
+  attack: !ruby/object:Word
+    word: attack
+    stem: attack
+    docFrequency: 4.0
+    docPositions:
+    - 41
+  proof: !ruby/object:Word
+    word: proof
+    stem: proof
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 4.0
+    docPositions:
+    - 41
+    - 59
+    - 289
+  out: !ruby/object:Word
+    word: out
+    stem: out
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  control: !ruby/object:Word
+    word: control
+    stem: control
+    docFrequency: 3.0
+    docPositions:
+    - 41
+  run: !ruby/object:Word
+    word: run
+    stem: run
+    docFrequency: 4.0
+    docPositions:
+    - 41
+    - 138
+    - 289
+  away: !ruby/object:Word
+    word: away
+    stem: awai
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  kind: !ruby/object:Word
+    word: kind
+    stem: kind
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  challenge: !ruby/object:Word
+    word: challenge
+    stem: challeng
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  but: !ruby/object:Word
+    word: but
+    stem: but
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  do: !ruby/object:Word
+    word: do
+    stem: do
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  not: !ruby/object:Word
+    word: not
+    stem: not
+    docFrequency: 5.0
+    docPositions:
+    - 41
+    - 133
+    - 196
+    - 289
+  try: !ruby/object:Word
+    word: try
+    stem: try
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  suppress: !ruby/object:Word
+    word: suppress
+    stem: suppress
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  opponent: !ruby/object:Word
+    word: opponent
+    stem: oppon
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  unnaturally: !ruby/object:Word
+    word: unnaturally
+    stem: unnatur
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  let: !ruby/object:Word
+    word: let
+    stem: let
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  attackers: !ruby/object:Word
+    word: attackers
+    stem: attack
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  come: !ruby/object:Word
+    word: come
+    stem: come
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  way: !ruby/object:Word
+    word: way
+    stem: wai
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  they: !ruby/object:Word
+    word: they
+    stem: thei
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  like: !ruby/object:Word
+    word: like
+    stem: like
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  then: !ruby/object:Word
+    word: then
+    stem: then
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  blend: !ruby/object:Word
+    word: blend
+    stem: blend
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  them: !ruby/object:Word
+    word: them
+    stem: them
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  chase: !ruby/object:Word
+    word: chase
+    stem: chase
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  after: !ruby/object:Word
+    word: after
+    stem: after
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  opponents: !ruby/object:Word
+    word: opponents
+    stem: oppon
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  redirect: !ruby/object:Word
+    word: redirect
+    stem: redirect
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  each: !ruby/object:Word
+    word: each
+    stem: each
+    docFrequency: 4.0
+    docPositions:
+    - 41
+    - 47
+  get: !ruby/object:Word
+    word: get
+    stem: get
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  firmly: !ruby/object:Word
+    word: firmly
+    stem: firmli
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  behind: !ruby/object:Word
+    word: behind
+    stem: behind
+    docFrequency: 2.0
+    docPositions:
+    - 41
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 13.0
+    docPositions:
+    - 42
+    - 109
+    - 110
+    - 112
+    - 113
+    - 116
+    - 117
+    - 118
+    - 119
+    - 120
+    - 287
+    - 289
+  morihei: !ruby/object:Word
+    word: morihei
+    stem: morihei
+    docFrequency: 2.0
+    docPositions:
+    - 42
+  ueshiba: !ruby/object:Word
+    word: ueshiba
+    stem: ueshiba
+    docFrequency: 2.0
+    docPositions:
+    - 42
+  there: !ruby/object:Word
+    word: there
+    stem: there
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  month: !ruby/object:Word
+    word: month
+    stem: month
+    docFrequency: 3.0
+    docPositions:
+    - 47
+  previous: !ruby/object:Word
+    word: previous
+    stem: previou
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  date: !ruby/object:Word
+    word: date
+    stem: date
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  listed: !ruby/object:Word
+    word: listed
+    stem: list
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  registered: !ruby/object:Word
+    word: registered
+    stem: regist
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  users: !ruby/object:Word
+    word: users
+    stem: user
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  make: !ruby/object:Word
+    word: make
+    stem: make
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  suggestions: !ruby/object:Word
+    word: suggestions
+    stem: suggest
+    docFrequency: 3.0
+    docPositions:
+    - 47
+  rank: !ruby/object:Word
+    word: rank
+    stem: rank
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  upcoming: !ruby/object:Word
+    word: upcoming
+    stem: upcom
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  dates: !ruby/object:Word
+    word: dates
+    stem: date
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  year: !ruby/object:Word
+    word: year
+    stem: year
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  other: !ruby/object:Word
+    word: other
+    stem: other
+    docFrequency: 9.0
+    docPositions:
+    - 47
+    - 133
+    - 138
+    - 173
+    - 264
+    - 289
+  archives: !ruby/object:Word
+    word: archives
+    stem: archiv
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  contain: !ruby/object:Word
+    word: contain
+    stem: contain
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  more: !ruby/object:Word
+    word: more
+    stem: more
+    docFrequency: 3.0
+    docPositions:
+    - 47
+    - 220
+  extensive: !ruby/object:Word
+    word: extensive
+    stem: extens
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  listings: !ruby/object:Word
+    word: listings
+    stem: list
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  have: !ruby/object:Word
+    word: have
+    stem: have
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  already: !ruby/object:Word
+    word: already
+    stem: alreadi
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  been: !ruby/object:Word
+    word: been
+    stem: been
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  used: !ruby/object:Word
+    word: used
+    stem: us
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  see: !ruby/object:Word
+    word: see
+    stem: see
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  also: !ruby/object:Word
+    word: also
+    stem: also
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  qotd: !ruby/object:Word
+    word: qotd
+    stem: qotd
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  options: !ruby/object:Word
+    word: options
+    stem: option
+    docFrequency: 2.0
+    docPositions:
+    - 47
+  selected: !ruby/object:Word
+    word: selected
+    stem: select
+    docFrequency: 2.0
+    docPositions:
+    - 54
+  pages: !ruby/object:Word
+    word: pages
+    stem: page
+    docFrequency: 4.0
+    docPositions:
+    - 54
+    - 99
+    - 123
+  douglas: !ruby/object:Word
+    word: douglas
+    stem: dougla
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  adams: !ruby/object:Word
+    word: adams
+    stem: adam
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  dante: !ruby/object:Word
+    word: dante
+    stem: dant
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  alighieri: !ruby/object:Word
+    word: alighieri
+    stem: alighieri
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  aristotle: !ruby/object:Word
+    word: aristotle
+    stem: aristotl
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  emily: !ruby/object:Word
+    word: emily
+    stem: emili
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  bront: !ruby/object:Word
+    word: bront
+    stem: bront
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  buddha: !ruby/object:Word
+    word: buddha
+    stem: buddha
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  confucius: !ruby/object:Word
+    word: confucius
+    stem: confuciu
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  charles: !ruby/object:Word
+    word: charles
+    stem: charl
+    docFrequency: 5.0
+    docPositions:
+    - 57
+    - 289
+  darwin: !ruby/object:Word
+    word: darwin
+    stem: darwin
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  dickens: !ruby/object:Word
+    word: dickens
+    stem: dicken
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  albert: !ruby/object:Word
+    word: albert
+    stem: albert
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  einstein: !ruby/object:Word
+    word: einstein
+    stem: einstein
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  t: !ruby/object:Word
+    word: t
+    stem: t
+    docFrequency: 4.0
+    docPositions:
+    - 57
+    - 267
+    - 289
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 12.0
+    docPositions:
+    - 57
+    - 59
+    - 60
+    - 137
+    - 289
+  eliot: !ruby/object:Word
+    word: eliot
+    stem: eliot
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  ralph: !ruby/object:Word
+    word: ralph
+    stem: ralph
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  waldo: !ruby/object:Word
+    word: waldo
+    stem: waldo
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  emerson: !ruby/object:Word
+    word: emerson
+    stem: emerson
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  richard: !ruby/object:Word
+    word: richard
+    stem: richard
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  feynman: !ruby/object:Word
+    word: feynman
+    stem: feynman
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  mahatma: !ruby/object:Word
+    word: mahatma
+    stem: mahatma
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  gandhi: !ruby/object:Word
+    word: gandhi
+    stem: gandhi
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  jesus: !ruby/object:Word
+    word: jesus
+    stem: jesu
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  john: !ruby/object:Word
+    word: john
+    stem: john
+    docFrequency: 7.0
+    docPositions:
+    - 57
+    - 109
+    - 120
+    - 289
+  keats: !ruby/object:Word
+    word: keats
+    stem: keat
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  helen: !ruby/object:Word
+    word: helen
+    stem: helen
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  keller: !ruby/object:Word
+    word: keller
+    stem: keller
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  f: !ruby/object:Word
+    word: f
+    stem: f
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  kennedy: !ruby/object:Word
+    word: kennedy
+    stem: kennedi
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  martin: !ruby/object:Word
+    word: martin
+    stem: martin
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  luther: !ruby/object:Word
+    word: luther
+    stem: luther
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  king: !ruby/object:Word
+    word: king
+    stem: king
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  jr: !ruby/object:Word
+    word: jr
+    stem: jr
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  laozi: !ruby/object:Word
+    word: laozi
+    stem: laozi
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  timothy: !ruby/object:Word
+    word: timothy
+    stem: timothi
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  leary: !ruby/object:Word
+    word: leary
+    stem: leari
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  muhammad: !ruby/object:Word
+    word: muhammad
+    stem: muhammad
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  thomas: !ruby/object:Word
+    word: thomas
+    stem: thoma
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  paine: !ruby/object:Word
+    word: paine
+    stem: pain
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  eleanor: !ruby/object:Word
+    word: eleanor
+    stem: eleanor
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  roosevelt: !ruby/object:Word
+    word: roosevelt
+    stem: roosevelt
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  bertrand: !ruby/object:Word
+    word: bertrand
+    stem: bertrand
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  russell: !ruby/object:Word
+    word: russell
+    stem: russel
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  william: !ruby/object:Word
+    word: william
+    stem: william
+    docFrequency: 5.0
+    docPositions:
+    - 57
+    - 289
+  saroyan: !ruby/object:Word
+    word: saroyan
+    stem: saroyan
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  shakespeare: !ruby/object:Word
+    word: shakespeare
+    stem: shakespear
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  george: !ruby/object:Word
+    word: george
+    stem: georg
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  bernard: !ruby/object:Word
+    word: bernard
+    stem: bernard
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  shaw: !ruby/object:Word
+    word: shaw
+    stem: shaw
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  percy: !ruby/object:Word
+    word: percy
+    stem: perci
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  bysshe: !ruby/object:Word
+    word: bysshe
+    stem: byssh
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  shelley: !ruby/object:Word
+    word: shelley
+    stem: shellei
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  starhawk: !ruby/object:Word
+    word: starhawk
+    stem: starhawk
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  leo: !ruby/object:Word
+    word: leo
+    stem: leo
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  tolstoy: !ruby/object:Word
+    word: tolstoy
+    stem: tolstoi
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  virgil: !ruby/object:Word
+    word: virgil
+    stem: virgil
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  voltaire: !ruby/object:Word
+    word: voltaire
+    stem: voltair
+    docFrequency: 3.0
+    docPositions:
+    - 57
+    - 289
+  anonymous: !ruby/object:Word
+    word: anonymous
+    stem: anonym
+    docFrequency: 2.0
+    docPositions:
+    - 57
+  dune: !ruby/object:Word
+    word: dune
+    stem: dune
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  fahrenheit: !ruby/object:Word
+    word: fahrenheit
+    stem: fahrenheit
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  leaves: !ruby/object:Word
+    word: leaves
+    stem: leav
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  grass: !ruby/object:Word
+    word: grass
+    stem: grass
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  little: !ruby/object:Word
+    word: little
+    stem: littl
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  prince: !ruby/object:Word
+    word: prince
+    stem: princ
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  lord: !ruby/object:Word
+    word: lord
+    stem: lord
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  rings: !ruby/object:Word
+    word: rings
+    stem: ring
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  paradise: !ruby/object:Word
+    word: paradise
+    stem: paradis
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  lost: !ruby/object:Word
+    word: lost
+    stem: lost
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  principia: !ruby/object:Word
+    word: principia
+    stem: principia
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  discordia: !ruby/object:Word
+    word: discordia
+    stem: discordia
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  prophet: !ruby/object:Word
+    word: prophet
+    stem: prophet
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  pride: !ruby/object:Word
+    word: pride
+    stem: pride
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  prejudice: !ruby/object:Word
+    word: prejudice
+    stem: prejudic
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  tale: !ruby/object:Word
+    word: tale
+    stem: tale
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  two: !ruby/object:Word
+    word: two
+    stem: two
+    docFrequency: 3.0
+    docPositions:
+    - 58
+    - 289
+  cities: !ruby/object:Word
+    word: cities
+    stem: citi
+    docFrequency: 2.0
+    docPositions:
+    - 58
+  casablanca: !ruby/object:Word
+    word: casablanca
+    stem: casablanca
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  fight: !ruby/object:Word
+    word: fight
+    stem: fight
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  club: !ruby/object:Word
+    word: club
+    stem: club
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  fury: !ruby/object:Word
+    word: fury
+    stem: furi
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  groundhog: !ruby/object:Word
+    word: groundhog
+    stem: groundhog
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  harvey: !ruby/object:Word
+    word: harvey
+    stem: harvei
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  hours: !ruby/object:Word
+    word: hours
+    stem: hour
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  wonderful: !ruby/object:Word
+    word: wonderful
+    stem: wonder
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  life: !ruby/object:Word
+    word: life
+    stem: life
+    docFrequency: 5.0
+    docPositions:
+    - 59
+    - 289
+  brian: !ruby/object:Word
+    word: brian
+    stem: brian
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  magnolia: !ruby/object:Word
+    word: magnolia
+    stem: magnolia
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  matrix: !ruby/object:Word
+    word: matrix
+    stem: matrix
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  memento: !ruby/object:Word
+    word: memento
+    stem: memento
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  olympus: !ruby/object:Word
+    word: olympus
+    stem: olympu
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  has: !ruby/object:Word
+    word: has
+    stem: ha
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  fallen: !ruby/object:Word
+    word: fallen
+    stem: fallen
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  flew: !ruby/object:Word
+    word: flew
+    stem: flew
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  over: !ruby/object:Word
+    word: over
+    stem: over
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  cuckoo: !ruby/object:Word
+    word: cuckoo
+    stem: cuckoo
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  nest: !ruby/object:Word
+    word: nest
+    stem: nest
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  star: !ruby/object:Word
+    word: star
+    stem: star
+    docFrequency: 5.0
+    docPositions:
+    - 59
+    - 60
+    - 289
+  wars: !ruby/object:Word
+    word: wars
+    stem: war
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  taxi: !ruby/object:Word
+    word: taxi
+    stem: taxi
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  driver: !ruby/object:Word
+    word: driver
+    stem: driver
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  three: !ruby/object:Word
+    word: three
+    stem: three
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  days: !ruby/object:Word
+    word: days
+    stem: dai
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  condor: !ruby/object:Word
+    word: condor
+    stem: condor
+    docFrequency: 3.0
+    docPositions:
+    - 59
+    - 289
+  united: !ruby/object:Word
+    word: united
+    stem: unit
+    docFrequency: 7.0
+    docPositions:
+    - 59
+    - 62
+    - 289
+  tv: !ruby/object:Word
+    word: tv
+    stem: tv
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 114
+  babylon: !ruby/object:Word
+    word: babylon
+    stem: babylon
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  blackadder: !ruby/object:Word
+    word: blackadder
+    stem: blackadd
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  breaking: !ruby/object:Word
+    word: breaking
+    stem: break
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  bad: !ruby/object:Word
+    word: bad
+    stem: bad
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  buffy: !ruby/object:Word
+    word: buffy
+    stem: buffi
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  daily: !ruby/object:Word
+    word: daily
+    stem: daili
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  show: !ruby/object:Word
+    word: show
+    stem: show
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  game: !ruby/object:Word
+    word: game
+    stem: game
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  thrones: !ruby/object:Word
+    word: thrones
+    stem: throne
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  gilmore: !ruby/object:Word
+    word: gilmore
+    stem: gilmor
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  girls: !ruby/object:Word
+    word: girls
+    stem: girl
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  mad: !ruby/object:Word
+    word: mad
+    stem: mad
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  men: !ruby/object:Word
+    word: men
+    stem: men
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  m: !ruby/object:Word
+    word: m
+    stem: m
+    docFrequency: 4.0
+    docPositions:
+    - 60
+    - 267
+    - 289
+  h: !ruby/object:Word
+    word: h
+    stem: h
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  monty: !ruby/object:Word
+    word: monty
+    stem: monti
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  python: !ruby/object:Word
+    word: python
+    stem: python
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  flying: !ruby/object:Word
+    word: flying
+    stem: fly
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  circus: !ruby/object:Word
+    word: circus
+    stem: circu
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  red: !ruby/object:Word
+    word: red
+    stem: red
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  dwarf: !ruby/object:Word
+    word: dwarf
+    stem: dwarf
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  seinfeld: !ruby/object:Word
+    word: seinfeld
+    stem: seinfeld
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  simpsons: !ruby/object:Word
+    word: simpsons
+    stem: simpson
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  trek: !ruby/object:Word
+    word: trek
+    stem: trek
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  x: !ruby/object:Word
+    word: x
+    stem: x
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  files: !ruby/object:Word
+    word: files
+    stem: file
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  twin: !ruby/object:Word
+    word: twin
+    stem: twin
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  peaks: !ruby/object:Word
+    word: peaks
+    stem: peak
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  west: !ruby/object:Word
+    word: west
+    stem: west
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  wing: !ruby/object:Word
+    word: wing
+    stem: wing
+    docFrequency: 3.0
+    docPositions:
+    - 60
+    - 289
+  wonderfalls: !ruby/object:Word
+    word: wonderfalls
+    stem: wonderfal
+    docFrequency: 2.0
+    docPositions:
+    - 60
+  ability: !ruby/object:Word
+    word: ability
+    stem: abil
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  beauty: !ruby/object:Word
+    word: beauty
+    stem: beauti
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  computers: !ruby/object:Word
+    word: computers
+    stem: comput
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  courage: !ruby/object:Word
+    word: courage
+    stem: courag
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  dance: !ruby/object:Word
+    word: dance
+    stem: danc
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  drugs: !ruby/object:Word
+    word: drugs
+    stem: drug
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  education: !ruby/object:Word
+    word: education
+    stem: educ
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  film: !ruby/object:Word
+    word: film
+    stem: film
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  flowers: !ruby/object:Word
+    word: flowers
+    stem: flower
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  friendship: !ruby/object:Word
+    word: friendship
+    stem: friendship
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  hope: !ruby/object:Word
+    word: hope
+    stem: hope
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  leadership: !ruby/object:Word
+    word: leadership
+    stem: leadership
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  love: !ruby/object:Word
+    word: love
+    stem: love
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  materialism: !ruby/object:Word
+    word: materialism
+    stem: materi
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  memory: !ruby/object:Word
+    word: memory
+    stem: memori
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  politics: !ruby/object:Word
+    word: politics
+    stem: polit
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  religion: !ruby/object:Word
+    word: religion
+    stem: religion
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  science: !ruby/object:Word
+    word: science
+    stem: scienc
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  sexuality: !ruby/object:Word
+    word: sexuality
+    stem: sexual
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  sports: !ruby/object:Word
+    word: sports
+    stem: sport
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  success: !ruby/object:Word
+    word: success
+    stem: success
+    docFrequency: 3.0
+    docPositions:
+    - 61
+    - 289
+  war: !ruby/object:Word
+    word: war
+    stem: war
+    docFrequency: 2.0
+    docPositions:
+    - 61
+  places: !ruby/object:Word
+    word: places
+    stem: place
+    docFrequency: 2.0
+    docPositions:
+    - 62
+  brazil: !ruby/object:Word
+    word: brazil
+    stem: brazil
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  california: !ruby/object:Word
+    word: california
+    stem: california
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  canada: !ruby/object:Word
+    word: canada
+    stem: canada
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  china: !ruby/object:Word
+    word: china
+    stem: china
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  cuba: !ruby/object:Word
+    word: cuba
+    stem: cuba
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  european: !ruby/object:Word
+    word: european
+    stem: european
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  union: !ruby/object:Word
+    word: union
+    stem: union
+    docFrequency: 5.0
+    docPositions:
+    - 62
+    - 289
+  france: !ruby/object:Word
+    word: france
+    stem: franc
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  germany: !ruby/object:Word
+    word: germany
+    stem: germani
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  india: !ruby/object:Word
+    word: india
+    stem: india
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  iran: !ruby/object:Word
+    word: iran
+    stem: iran
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  iraq: !ruby/object:Word
+    word: iraq
+    stem: iraq
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  ireland: !ruby/object:Word
+    word: ireland
+    stem: ireland
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  italy: !ruby/object:Word
+    word: italy
+    stem: itali
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  japan: !ruby/object:Word
+    word: japan
+    stem: japan
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  london: !ruby/object:Word
+    word: london
+    stem: london
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  mexico: !ruby/object:Word
+    word: mexico
+    stem: mexico
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 6.0
+    docPositions:
+    - 62
+    - 99
+    - 104
+    - 123
+    - 289
+  york: !ruby/object:Word
+    word: york
+    stem: york
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  city: !ruby/object:Word
+    word: city
+    stem: citi
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  north: !ruby/object:Word
+    word: north
+    stem: north
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  korea: !ruby/object:Word
+    word: korea
+    stem: korea
+    docFrequency: 5.0
+    docPositions:
+    - 62
+    - 289
+  pakistan: !ruby/object:Word
+    word: pakistan
+    stem: pakistan
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  russian: !ruby/object:Word
+    word: russian
+    stem: russian
+    docFrequency: 5.0
+    docPositions:
+    - 62
+    - 175
+    - 289
+  federation: !ruby/object:Word
+    word: federation
+    stem: feder
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  south: !ruby/object:Word
+    word: south
+    stem: south
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  soviet: !ruby/object:Word
+    word: soviet
+    stem: soviet
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  spain: !ruby/object:Word
+    word: spain
+    stem: spain
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  turkey: !ruby/object:Word
+    word: turkey
+    stem: turkei
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  kingdom: !ruby/object:Word
+    word: kingdom
+    stem: kingdom
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  states: !ruby/object:Word
+    word: states
+    stem: state
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  america: !ruby/object:Word
+    word: america
+    stem: america
+    docFrequency: 3.0
+    docPositions:
+    - 62
+    - 289
+  vietnam: !ruby/object:Word
+    word: vietnam
+    stem: vietnam
+    docFrequency: 2.0
+    docPositions:
+    - 62
+  miscellaneous: !ruby/object:Word
+    word: miscellaneous
+    stem: miscellan
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  epitaphs: !ruby/object:Word
+    word: epitaphs
+    stem: epitaph
+    docFrequency: 3.0
+    docPositions:
+    - 63
+    - 289
+  holidays: !ruby/object:Word
+    word: holidays
+    stem: holidai
+    docFrequency: 3.0
+    docPositions:
+    - 63
+    - 289
+  last: !ruby/object:Word
+    word: last
+    stem: last
+    docFrequency: 4.0
+    docPositions:
+    - 63
+    - 272
+    - 289
+  words: !ruby/object:Word
+    word: words
+    stem: word
+    docFrequency: 3.0
+    docPositions:
+    - 63
+    - 289
+  slogans: !ruby/object:Word
+    word: slogans
+    stem: slogan
+    docFrequency: 3.0
+    docPositions:
+    - 63
+    - 289
+  theatrical: !ruby/object:Word
+    word: theatrical
+    stem: theatric
+    docFrequency: 3.0
+    docPositions:
+    - 63
+    - 289
+  plays: !ruby/object:Word
+    word: plays
+    stem: plai
+    docFrequency: 3.0
+    docPositions:
+    - 63
+    - 289
+  musicals: !ruby/object:Word
+    word: musicals
+    stem: music
+    docFrequency: 2.0
+    docPositions:
+    - 63
+  authors: !ruby/object:Word
+    word: authors
+    stem: author
+    docFrequency: 2.0
+    docPositions:
+    - 73
+  occupation: !ruby/object:Word
+    word: occupation
+    stem: occup
+    docFrequency: 2.0
+    docPositions:
+    - 74
+  nationality: !ruby/object:Word
+    word: nationality
+    stem: nation
+    docFrequency: 2.0
+    docPositions:
+    - 75
+  productions: !ruby/object:Word
+    word: productions
+    stem: product
+    docFrequency: 2.0
+    docPositions:
+    - 80
+  lists: !ruby/object:Word
+    word: lists
+    stem: list
+    docFrequency: 2.0
+    docPositions:
+    - 89
+  michael: !ruby/object:Word
+    word: michael
+    stem: michael
+    docFrequency: 3.0
+    docPositions:
+    - 104
+    - 111
+  j: !ruby/object:Word
+    word: j
+    stem: j
+    docFrequency: 4.0
+    docPositions:
+    - 104
+    - 111
+    - 113
+  totten: !ruby/object:Word
+    word: totten
+    stem: totten
+    docFrequency: 3.0
+    docPositions:
+    - 104
+    - 111
+  hollander: !ruby/object:Word
+    word: hollander
+    stem: holland
+    docFrequency: 2.0
+    docPositions:
+    - 109
+  tibetan: !ruby/object:Word
+    word: tibetan
+    stem: tibetan
+    docFrequency: 2.0
+    docPositions:
+    - 110
+  toy: !ruby/object:Word
+    word: toy
+    stem: toi
+    docFrequency: 2.0
+    docPositions:
+    - 112
+  story: !ruby/object:Word
+    word: story
+    stem: stori
+    docFrequency: 2.0
+    docPositions:
+    - 112
+  toons: !ruby/object:Word
+    word: toons
+    stem: toon
+    docFrequency: 2.0
+    docPositions:
+    - 112
+  daniel: !ruby/object:Word
+    word: daniel
+    stem: daniel
+    docFrequency: 2.0
+    docPositions:
+    - 113
+  fairbanks: !ruby/object:Word
+    word: fairbanks
+    stem: fairbank
+    docFrequency: 2.0
+    docPositions:
+    - 113
+  scream: !ruby/object:Word
+    word: scream
+    stem: scream
+    docFrequency: 2.0
+    docPositions:
+    - 114
+  queens: !ruby/object:Word
+    word: queens
+    stem: queen
+    docFrequency: 2.0
+    docPositions:
+    - 114
+  series: !ruby/object:Word
+    word: series
+    stem: seri
+    docFrequency: 2.0
+    docPositions:
+    - 114
+  constitutional: !ruby/object:Word
+    word: constitutional
+    stem: constitut
+    docFrequency: 2.0
+    docPositions:
+    - 115
+  court: !ruby/object:Word
+    word: court
+    stem: court
+    docFrequency: 2.0
+    docPositions:
+    - 115
+  complexity: !ruby/object:Word
+    word: complexity
+    stem: complex
+    docFrequency: 2.0
+    docPositions:
+    - 116
+  economics: !ruby/object:Word
+    word: economics
+    stem: econom
+    docFrequency: 2.0
+    docPositions:
+    - 116
+  frankenstein: !ruby/object:Word
+    word: frankenstein
+    stem: frankenstein
+    docFrequency: 3.0
+    docPositions:
+    - 117
+    - 118
+  meets: !ruby/object:Word
+    word: meets
+    stem: meet
+    docFrequency: 2.0
+    docPositions:
+    - 117
+  wolf: !ruby/object:Word
+    word: wolf
+    stem: wolf
+    docFrequency: 2.0
+    docPositions:
+    - 117
+  man: !ruby/object:Word
+    word: man
+    stem: man
+    docFrequency: 2.0
+    docPositions:
+    - 117
+  son: !ruby/object:Word
+    word: son
+    stem: son
+    docFrequency: 2.0
+    docPositions:
+    - 118
+  anthropocene: !ruby/object:Word
+    word: anthropocene
+    stem: anthropocen
+    docFrequency: 2.0
+    docPositions:
+    - 119
+  kasich: !ruby/object:Word
+    word: kasich
+    stem: kasich
+    docFrequency: 2.0
+    docPositions:
+    - 120
+  self: !ruby/object:Word
+    word: self
+    stem: self
+    docFrequency: 2.0
+    docPositions:
+    - 121
+  organizing: !ruby/object:Word
+    word: organizing
+    stem: organ
+    docFrequency: 2.0
+    docPositions:
+    - 121
+  systems: !ruby/object:Word
+    word: systems
+    stem: system
+    docFrequency: 2.0
+    docPositions:
+    - 121
+  partial: !ruby/object:Word
+    word: partial
+    stem: partial
+    docFrequency: 2.0
+    docPositions:
+    - 123
+  listing: !ruby/object:Word
+    word: listing
+    stem: list
+    docFrequency: 2.0
+    docPositions:
+    - 123
+  some: !ruby/object:Word
+    word: some
+    stem: some
+    docFrequency: 2.0
+    docPositions:
+    - 123
+  add: !ruby/object:Word
+    word: add
+    stem: add
+    docFrequency: 2.0
+    docPositions:
+    - 123
+  community: !ruby/object:Word
+    word: community
+    stem: commun
+    docFrequency: 4.0
+    docPositions:
+    - 127
+    - 133
+    - 289
+  writing: !ruby/object:Word
+    word: writing
+    stem: write
+    docFrequency: 2.0
+    docPositions:
+    - 130
+  policy: !ruby/object:Word
+    word: policy
+    stem: polici
+    docFrequency: 4.0
+    docPositions:
+    - 131
+    - 273
+    - 274
+  guide: !ruby/object:Word
+    word: guide
+    stem: guid
+    docFrequency: 4.0
+    docPositions:
+    - 131
+    - 171
+    - 289
+  layout: !ruby/object:Word
+    word: layout
+    stem: layout
+    docFrequency: 3.0
+    docPositions:
+    - 131
+    - 289
+  public: !ruby/object:Word
+    word: public
+    stem: public
+    docFrequency: 3.0
+    docPositions:
+    - 131
+    - 289
+  domain: !ruby/object:Word
+    word: domain
+    stem: domain
+    docFrequency: 3.0
+    docPositions:
+    - 131
+    - 289
+  shared: !ruby/object:Word
+    word: shared
+    stem: share
+    docFrequency: 4.0
+    docPositions:
+    - 131
+    - 162
+    - 289
+  requested: !ruby/object:Word
+    word: requested
+    stem: request
+    docFrequency: 3.0
+    docPositions:
+    - 131
+    - 289
+  entries: !ruby/object:Word
+    word: entries
+    stem: entri
+    docFrequency: 2.0
+    docPositions:
+    - 131
+  project: !ruby/object:Word
+    word: project
+    stem: project
+    docFrequency: 3.0
+    docPositions:
+    - 132
+    - 159
+  templates: !ruby/object:Word
+    word: templates
+    stem: templat
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  spellings: !ruby/object:Word
+    word: spellings
+    stem: spell
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  portal: !ruby/object:Word
+    word: portal
+    stem: portal
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  village: !ruby/object:Word
+    word: village
+    stem: villag
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  pump: !ruby/object:Word
+    word: pump
+    stem: pump
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  reference: !ruby/object:Word
+    word: reference
+    stem: refer
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  desk: !ruby/object:Word
+    word: desk
+    stem: desk
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  requests: !ruby/object:Word
+    word: requests
+    stem: request
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  wikiquotians: !ruby/object:Word
+    word: wikiquotians
+    stem: wikiquotian
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  utilities: !ruby/object:Word
+    word: utilities
+    stem: util
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  faq: !ruby/object:Word
+    word: faq
+    stem: faq
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  history: !ruby/object:Word
+    word: history
+    stem: histori
+    docFrequency: 4.0
+    docPositions:
+    - 133
+    - 217
+    - 289
+  wikiquotes: !ruby/object:Word
+    word: wikiquotes
+    stem: wikiquot
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  software: !ruby/object:Word
+    word: software
+    stem: softwar
+    docFrequency: 3.0
+    docPositions:
+    - 133
+    - 289
+  sister: !ruby/object:Word
+    word: sister
+    stem: sister
+    docFrequency: 2.0
+    docPositions:
+    - 137
+  projects: !ruby/object:Word
+    word: projects
+    stem: project
+    docFrequency: 6.0
+    docPositions:
+    - 137
+    - 138
+    - 173
+    - 289
+  profit: !ruby/object:Word
+    word: profit
+    stem: profit
+    docFrequency: 3.0
+    docPositions:
+    - 138
+    - 289
+  foundation: !ruby/object:Word
+    word: foundation
+    stem: foundat
+    docFrequency: 3.0
+    docPositions:
+    - 138
+    - 289
+  which: !ruby/object:Word
+    word: which
+    stem: which
+    docFrequency: 3.0
+    docPositions:
+    - 138
+    - 289
+  operates: !ruby/object:Word
+    word: operates
+    stem: oper
+    docFrequency: 3.0
+    docPositions:
+    - 138
+    - 289
+  several: !ruby/object:Word
+    word: several
+    stem: sever
+    docFrequency: 3.0
+    docPositions:
+    - 138
+    - 289
+  multilingual: !ruby/object:Word
+    word: multilingual
+    stem: multilingu
+    docFrequency: 3.0
+    docPositions:
+    - 138
+    - 289
+  content: !ruby/object:Word
+    word: content
+    stem: content
+    docFrequency: 4.0
+    docPositions:
+    - 138
+    - 156
+    - 289
+  wiktionary: !ruby/object:Word
+    word: wiktionary
+    stem: wiktionari
+    docFrequency: 2.0
+    docPositions:
+    - 140
+  dictionary: !ruby/object:Word
+    word: dictionary
+    stem: dictionari
+    docFrequency: 2.0
+    docPositions:
+    - 141
+  thesaurus: !ruby/object:Word
+    word: thesaurus
+    stem: thesauru
+    docFrequency: 2.0
+    docPositions:
+    - 141
+  wikibooks: !ruby/object:Word
+    word: wikibooks
+    stem: wikibook
+    docFrequency: 2.0
+    docPositions:
+    - 143
+  textbooks: !ruby/object:Word
+    word: textbooks
+    stem: textbook
+    docFrequency: 2.0
+    docPositions:
+    - 144
+  manuals: !ruby/object:Word
+    word: manuals
+    stem: manual
+    docFrequency: 2.0
+    docPositions:
+    - 144
+  encyclopedia: !ruby/object:Word
+    word: encyclopedia
+    stem: encyclopedia
+    docFrequency: 2.0
+    docPositions:
+    - 147
+  wikisource: !ruby/object:Word
+    word: wikisource
+    stem: wikisourc
+    docFrequency: 2.0
+    docPositions:
+    - 149
+  library: !ruby/object:Word
+    word: library
+    stem: librari
+    docFrequency: 2.0
+    docPositions:
+    - 150
+  wikispecies: !ruby/object:Word
+    word: wikispecies
+    stem: wikispeci
+    docFrequency: 2.0
+    docPositions:
+    - 152
+  directory: !ruby/object:Word
+    word: directory
+    stem: directori
+    docFrequency: 2.0
+    docPositions:
+    - 153
+  species: !ruby/object:Word
+    word: species
+    stem: speci
+    docFrequency: 2.0
+    docPositions:
+    - 153
+  wikinews: !ruby/object:Word
+    word: wikinews
+    stem: wikinew
+    docFrequency: 2.0
+    docPositions:
+    - 155
+  news: !ruby/object:Word
+    word: news
+    stem: new
+    docFrequency: 2.0
+    docPositions:
+    - 156
+  source: !ruby/object:Word
+    word: source
+    stem: sourc
+    docFrequency: 3.0
+    docPositions:
+    - 156
+    - 216
+  meta: !ruby/object:Word
+    word: meta
+    stem: meta
+    docFrequency: 2.0
+    docPositions:
+    - 158
+  coordination: !ruby/object:Word
+    word: coordination
+    stem: coordin
+    docFrequency: 2.0
+    docPositions:
+    - 159
+  commons: !ruby/object:Word
+    word: commons
+    stem: common
+    docFrequency: 3.0
+    docPositions:
+    - 161
+    - 273
+  media: !ruby/object:Word
+    word: media
+    stem: media
+    docFrequency: 2.0
+    docPositions:
+    - 162
+  repository: !ruby/object:Word
+    word: repository
+    stem: repositori
+    docFrequency: 2.0
+    docPositions:
+    - 162
+  wikiversity: !ruby/object:Word
+    word: wikiversity
+    stem: wikivers
+    docFrequency: 2.0
+    docPositions:
+    - 164
+  limitless: !ruby/object:Word
+    word: limitless
+    stem: limitless
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  learning: !ruby/object:Word
+    word: learning
+    stem: learn
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  center: !ruby/object:Word
+    word: center
+    stem: center
+    docFrequency: 2.0
+    docPositions:
+    - 165
+  wikidata: !ruby/object:Word
+    word: wikidata
+    stem: wikidata
+    docFrequency: 2.0
+    docPositions:
+    - 167
+  knowledge: !ruby/object:Word
+    word: knowledge
+    stem: knowledg
+    docFrequency: 2.0
+    docPositions:
+    - 168
+  base: !ruby/object:Word
+    word: base
+    stem: base
+    docFrequency: 2.0
+    docPositions:
+    - 168
+  wikivoyage: !ruby/object:Word
+    word: wikivoyage
+    stem: wikivoyag
+    docFrequency: 2.0
+    docPositions:
+    - 170
+  open: !ruby/object:Word
+    word: open
+    stem: open
+    docFrequency: 2.0
+    docPositions:
+    - 171
+  travel: !ruby/object:Word
+    word: travel
+    stem: travel
+    docFrequency: 2.0
+    docPositions:
+    - 171
+  languages: !ruby/object:Word
+    word: languages
+    stem: languag
+    docFrequency: 3.0
+    docPositions:
+    - 172
+    - 264
+  written: !ruby/object:Word
+    word: written
+    stem: written
+    docFrequency: 3.0
+    docPositions:
+    - 173
+    - 289
+  started: !ruby/object:Word
+    word: started
+    stem: start
+    docFrequency: 3.0
+    docPositions:
+    - 173
+    - 289
+  currently: !ruby/object:Word
+    word: currently
+    stem: current
+    docFrequency: 3.0
+    docPositions:
+    - 173
+    - 289
+  contains: !ruby/object:Word
+    word: contains
+    stem: contain
+    docFrequency: 3.0
+    docPositions:
+    - 173
+    - 289
+  many: !ruby/object:Word
+    word: many
+    stem: mani
+    docFrequency: 3.0
+    docPositions:
+    - 173
+    - 289
+  available: !ruby/object:Word
+    word: available
+    stem: avail
+    docFrequency: 4.0
+    docPositions:
+    - 173
+    - 273
+    - 289
+  afrikaans: !ruby/object:Word
+    word: afrikaans
+    stem: afrikaan
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  albanian: !ruby/object:Word
+    word: albanian
+    stem: albanian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  arabic: !ruby/object:Word
+    word: arabic
+    stem: arab
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  armenian: !ruby/object:Word
+    word: armenian
+    stem: armenian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  azeri: !ruby/object:Word
+    word: azeri
+    stem: azeri
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  basque: !ruby/object:Word
+    word: basque
+    stem: basqu
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  bosnian: !ruby/object:Word
+    word: bosnian
+    stem: bosnian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  bulgarian: !ruby/object:Word
+    word: bulgarian
+    stem: bulgarian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  catalan: !ruby/object:Word
+    word: catalan
+    stem: catalan
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  chinese: !ruby/object:Word
+    word: chinese
+    stem: chines
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  croatian: !ruby/object:Word
+    word: croatian
+    stem: croatian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  czech: !ruby/object:Word
+    word: czech
+    stem: czech
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  danish: !ruby/object:Word
+    word: danish
+    stem: danish
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  dutch: !ruby/object:Word
+    word: dutch
+    stem: dutch
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  esperanto: !ruby/object:Word
+    word: esperanto
+    stem: esperanto
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  estonian: !ruby/object:Word
+    word: estonian
+    stem: estonian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  finnish: !ruby/object:Word
+    word: finnish
+    stem: finnish
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  french: !ruby/object:Word
+    word: french
+    stem: french
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  galician: !ruby/object:Word
+    word: galician
+    stem: galician
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  georgian: !ruby/object:Word
+    word: georgian
+    stem: georgian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  german: !ruby/object:Word
+    word: german
+    stem: german
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  greek: !ruby/object:Word
+    word: greek
+    stem: greek
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  hebrew: !ruby/object:Word
+    word: hebrew
+    stem: hebrew
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  hungarian: !ruby/object:Word
+    word: hungarian
+    stem: hungarian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  icelandic: !ruby/object:Word
+    word: icelandic
+    stem: iceland
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  indonesian: !ruby/object:Word
+    word: indonesian
+    stem: indonesian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  italian: !ruby/object:Word
+    word: italian
+    stem: italian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  japanese: !ruby/object:Word
+    word: japanese
+    stem: japanes
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  korean: !ruby/object:Word
+    word: korean
+    stem: korean
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  kurdish: !ruby/object:Word
+    word: kurdish
+    stem: kurdish
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  limburgian: !ruby/object:Word
+    word: limburgian
+    stem: limburgian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  lithuanian: !ruby/object:Word
+    word: lithuanian
+    stem: lithuanian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  malayalam: !ruby/object:Word
+    word: malayalam
+    stem: malayalam
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  norwegian: !ruby/object:Word
+    word: norwegian
+    stem: norwegian
+    docFrequency: 5.0
+    docPositions:
+    - 175
+    - 289
+  bokm: !ruby/object:Word
+    word: bokm
+    stem: bokm
+    docFrequency: 4.0
+    docPositions:
+    - 175
+    - 267
+    - 289
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 4.0
+    docPositions:
+    - 175
+    - 267
+    - 289
+  nynorsk: !ruby/object:Word
+    word: nynorsk
+    stem: nynorsk
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  persian: !ruby/object:Word
+    word: persian
+    stem: persian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  polish: !ruby/object:Word
+    word: polish
+    stem: polish
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  portuguese: !ruby/object:Word
+    word: portuguese
+    stem: portugues
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  romanian: !ruby/object:Word
+    word: romanian
+    stem: romanian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  serbian: !ruby/object:Word
+    word: serbian
+    stem: serbian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  slovak: !ruby/object:Word
+    word: slovak
+    stem: slovak
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  slovenian: !ruby/object:Word
+    word: slovenian
+    stem: slovenian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  spanish: !ruby/object:Word
+    word: spanish
+    stem: spanish
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  swedish: !ruby/object:Word
+    word: swedish
+    stem: swedish
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  tamil: !ruby/object:Word
+    word: tamil
+    stem: tamil
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  telugu: !ruby/object:Word
+    word: telugu
+    stem: telugu
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  thai: !ruby/object:Word
+    word: thai
+    stem: thai
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  turkish: !ruby/object:Word
+    word: turkish
+    stem: turkish
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  ukrainian: !ruby/object:Word
+    word: ukrainian
+    stem: ukrainian
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  vietnamese: !ruby/object:Word
+    word: vietnamese
+    stem: vietnames
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  welsh: !ruby/object:Word
+    word: welsh
+    stem: welsh
+    docFrequency: 3.0
+    docPositions:
+    - 175
+    - 289
+  retrieved: !ruby/object:Word
+    word: retrieved
+    stem: retriev
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  https: !ruby/object:Word
+    word: https
+    stem: http
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  w: !ruby/object:Word
+    word: w
+    stem: w
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  php: !ruby/object:Word
+    word: php
+    stem: php
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  main_page: !ruby/object:Word
+    word: main_page
+    stem: main_pag
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  oldid: !ruby/object:Word
+    word: oldid
+    stem: oldid
+    docFrequency: 2.0
+    docPositions:
+    - 186
+  category: !ruby/object:Word
+    word: category
+    stem: categori
+    docFrequency: 2.0
+    docPositions:
+    - 187
+  menu: !ruby/object:Word
+    word: menu
+    stem: menu
+    docFrequency: 2.0
+    docPositions:
+    - 191
+  personal: !ruby/object:Word
+    word: personal
+    stem: person
+    docFrequency: 2.0
+    docPositions:
+    - 195
+  tools: !ruby/object:Word
+    word: tools
+    stem: tool
+    docFrequency: 3.0
+    docPositions:
+    - 195
+    - 258
+  logged: !ruby/object:Word
+    word: logged
+    stem: log
+    docFrequency: 2.0
+    docPositions:
+    - 196
+  intalkcontributionscreate: !ruby/object:Word
+    word: intalkcontributionscreate
+    stem: intalkcontributionscr
+    docFrequency: 2.0
+    docPositions:
+    - 196
+  accountlog: !ruby/object:Word
+    word: accountlog
+    stem: accountlog
+    docFrequency: 2.0
+    docPositions:
+    - 196
+  namespaces: !ruby/object:Word
+    word: namespaces
+    stem: namespac
+    docFrequency: 2.0
+    docPositions:
+    - 199
+  discussion: !ruby/object:Word
+    word: discussion
+    stem: discuss
+    docFrequency: 2.0
+    docPositions:
+    - 201
+  variants: !ruby/object:Word
+    word: variants
+    stem: variant
+    docFrequency: 2.0
+    docPositions:
+    - 205
+  views: !ruby/object:Word
+    word: views
+    stem: view
+    docFrequency: 2.0
+    docPositions:
+    - 214
+  read: !ruby/object:Word
+    word: read
+    stem: read
+    docFrequency: 2.0
+    docPositions:
+    - 215
+  view: !ruby/object:Word
+    word: view
+    stem: view
+    docFrequency: 5.0
+    docPositions:
+    - 216
+    - 217
+    - 278
+    - 286
+  pagecommunity: !ruby/object:Word
+    word: pagecommunity
+    stem: pagecommun
+    docFrequency: 2.0
+    docPositions:
+    - 243
+  portalvillage: !ruby/object:Word
+    word: portalvillage
+    stem: portalvillag
+    docFrequency: 2.0
+    docPositions:
+    - 243
+  pumprecent: !ruby/object:Word
+    word: pumprecent
+    stem: pumprec
+    docFrequency: 2.0
+    docPositions:
+    - 243
+  changesrandom: !ruby/object:Word
+    word: changesrandom
+    stem: changesrandom
+    docFrequency: 2.0
+    docPositions:
+    - 243
+  pagehelpdonatecontact: !ruby/object:Word
+    word: pagehelpdonatecontact
+    stem: pagehelpdonatecontact
+    docFrequency: 2.0
+    docPositions:
+    - 243
+  peopleliterary: !ruby/object:Word
+    word: peopleliterary
+    stem: peopleliterari
+    docFrequency: 2.0
+    docPositions:
+    - 249
+  worksproverbsfilmstv: !ruby/object:Word
+    word: worksproverbsfilmstv
+    stem: worksproverbsfilmstv
+    docFrequency: 2.0
+    docPositions:
+    - 249
+  showsthemescategories: !ruby/object:Word
+    word: showsthemescategories
+    stem: showsthemescategori
+    docFrequency: 2.0
+    docPositions:
+    - 249
+  print: !ruby/object:Word
+    word: print
+    stem: print
+    docFrequency: 2.0
+    docPositions:
+    - 252
+  export: !ruby/object:Word
+    word: export
+    stem: export
+    docFrequency: 2.0
+    docPositions:
+    - 252
+  create: !ruby/object:Word
+    word: create
+    stem: creat
+    docFrequency: 2.0
+    docPositions:
+    - 255
+  bookdownload: !ruby/object:Word
+    word: bookdownload
+    stem: bookdownload
+    docFrequency: 2.0
+    docPositions:
+    - 255
+  pdfprintable: !ruby/object:Word
+    word: pdfprintable
+    stem: pdfprintabl
+    docFrequency: 2.0
+    docPositions:
+    - 255
+  version: !ruby/object:Word
+    word: version
+    stem: version
+    docFrequency: 2.0
+    docPositions:
+    - 255
+  hererelated: !ruby/object:Word
+    word: hererelated
+    stem: hererel
+    docFrequency: 2.0
+    docPositions:
+    - 261
+  changesupload: !ruby/object:Word
+    word: changesupload
+    stem: changesupload
+    docFrequency: 2.0
+    docPositions:
+    - 261
+  filespecial: !ruby/object:Word
+    word: filespecial
+    stem: filespeci
+    docFrequency: 2.0
+    docPositions:
+    - 261
+  pagespermanent: !ruby/object:Word
+    word: pagespermanent
+    stem: pagesperman
+    docFrequency: 2.0
+    docPositions:
+    - 261
+  linkpage: !ruby/object:Word
+    word: linkpage
+    stem: linkpag
+    docFrequency: 2.0
+    docPositions:
+    - 261
+  informationwikidata: !ruby/object:Word
+    word: informationwikidata
+    stem: informationwikidata
+    docFrequency: 2.0
+    docPositions:
+    - 261
+  itemcite: !ruby/object:Word
+    word: itemcite
+    stem: itemcit
+    docFrequency: 2.0
+    docPositions:
+    - 261
+  afrikaansalemannisch: !ruby/object:Word
+    word: afrikaansalemannisch
+    stem: afrikaansalemannisch
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  asturianuaz: !ruby/object:Word
+    word: asturianuaz
+    stem: asturianuaz
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  rbaycanca: !ruby/object:Word
+    word: rbaycanca
+    stem: rbaycanca
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  bamanankanbrezhonegbosanskicatal: !ruby/object:Word
+    word: bamanankanbrezhonegbosanskicatal
+    stem: bamanankanbrezhonegbosanskicat
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  corsu: !ruby/object:Word
+    word: corsu
+    stem: corsu
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  e: !ruby/object:Word
+    word: e
+    stem: e
+    docFrequency: 3.0
+    docPositions:
+    - 267
+  tinacymraegdanskdeutsch: !ruby/object:Word
+    word: tinacymraegdanskdeutsch
+    stem: tinacymraegdanskdeutsch
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  esperantoespa: !ruby/object:Word
+    word: esperantoespa
+    stem: esperantoespa
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  oleestieuskara: !ruby/object:Word
+    word: oleestieuskara
+    stem: oleestieuskara
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  suomifran: !ruby/object:Word
+    word: suomifran
+    stem: suomifran
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  aisgaeilgegalego: !ruby/object:Word
+    word: aisgaeilgegalego
+    stem: aisgaeilgegalego
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  hrvatskimagyar: !ruby/object:Word
+    word: hrvatskimagyar
+    stem: hrvatskimagyar
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  bahasa: !ruby/object:Word
+    word: bahasa
+    stem: bahasa
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  indonesia: !ruby/object:Word
+    word: indonesia
+    stem: indonesia
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  slenskaitaliano: !ruby/object:Word
+    word: slenskaitaliano
+    stem: slenskaitaliano
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  kanurikurd: !ruby/object:Word
+    word: kanurikurd
+    stem: kanurikurd
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  kernowek: !ruby/object:Word
+    word: kernowek
+    stem: kernowek
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  latinal: !ruby/object:Word
+    word: latinal
+    stem: latin
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  tzebuergeschlimburgslietuvi: !ruby/object:Word
+    word: tzebuergeschlimburgslietuvi
+    stem: tzebuergeschlimburgslietuvi
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  plattd: !ruby/object:Word
+    word: plattd
+    stem: plattd
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  tschnederlandsnorsk: !ruby/object:Word
+    word: tschnederlandsnorsk
+    stem: tschnederlandsnorsk
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  nynorsknorsk: !ruby/object:Word
+    word: nynorsknorsk
+    stem: nynorsknorsk
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  lpolskiportugu: !ruby/object:Word
+    word: lpolskiportugu
+    stem: lpolskiportugu
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  sruna: !ruby/object:Word
+    word: sruna
+    stem: sruna
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  simirom: !ruby/object:Word
+    word: simirom
+    stem: simirom
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  sloven: !ruby/object:Word
+    word: sloven
+    stem: sloven
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  inasloven: !ruby/object:Word
+    word: inasloven
+    stem: inasloven
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  inashqip: !ruby/object:Word
+    word: inashqip
+    stem: inashqip
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  srpskibasa: !ruby/object:Word
+    word: srpskibasa
+    stem: srpskibasa
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  sundasvenska: !ruby/object:Word
+    word: sundasvenska
+    stem: sundasvenska
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  rkmen: !ruby/object:Word
+    word: rkmen
+    stem: rkmen
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  et: !ruby/object:Word
+    word: et
+    stem: et
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  rk: !ruby/object:Word
+    word: rk
+    stem: rk
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  tatar: !ruby/object:Word
+    word: tatar
+    stem: tatar
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  uyghurche: !ruby/object:Word
+    word: uyghurche
+    stem: uyghurch
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  o: !ruby/object:Word
+    word: o
+    stem: o
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  zbekcha: !ruby/object:Word
+    word: zbekcha
+    stem: zbekcha
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  ti: !ruby/object:Word
+    word: ti
+    stem: ti
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  ng: !ruby/object:Word
+    word: ng
+    stem: ng
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  vi: !ruby/object:Word
+    word: vi
+    stem: vi
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  tvolap: !ruby/object:Word
+    word: tvolap
+    stem: tvolap
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  kwolof: !ruby/object:Word
+    word: kwolof
+    stem: kwolof
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  g: !ruby/object:Word
+    word: g
+    stem: g
+    docFrequency: 2.0
+    docPositions:
+    - 267
+  modified: !ruby/object:Word
+    word: modified
+    stem: modifi
+    docFrequency: 2.0
+    docPositions:
+    - 272
+  march: !ruby/object:Word
+    word: march
+    stem: march
+    docFrequency: 2.0
+    docPositions:
+    - 272
+  under: !ruby/object:Word
+    word: under
+    stem: under
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  attribution: !ruby/object:Word
+    word: attribution
+    stem: attribut
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  sharealike: !ruby/object:Word
+    word: sharealike
+    stem: sharealik
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  license: !ruby/object:Word
+    word: license
+    stem: licens
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  additional: !ruby/object:Word
+    word: additional
+    stem: addit
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  terms: !ruby/object:Word
+    word: terms
+    stem: term
+    docFrequency: 3.0
+    docPositions:
+    - 273
+  may: !ruby/object:Word
+    word: may
+    stem: mai
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  apply: !ruby/object:Word
+    word: apply
+    stem: appli
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  using: !ruby/object:Word
+    word: using
+    stem: us
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  site: !ruby/object:Word
+    word: site
+    stem: site
+    docFrequency: 4.0
+    docPositions:
+    - 273
+    - 286
+  agree: !ruby/object:Word
+    word: agree
+    stem: agre
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  use: !ruby/object:Word
+    word: use
+    stem: us
+    docFrequency: 2.0
+    docPositions:
+    - 273
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 3.0
+    docPositions:
+    - 273
+    - 274
+  disclaimers: !ruby/object:Word
+    word: disclaimers
+    stem: disclaim
+    docFrequency: 2.0
+    docPositions:
+    - 276
+  developers: !ruby/object:Word
+    word: developers
+    stem: develop
+    docFrequency: 2.0
+    docPositions:
+    - 277
+  mobile: !ruby/object:Word
+    word: mobile
+    stem: mobil
+    docFrequency: 2.0
+    docPositions:
+    - 278
+  window: !ruby/object:Word
+    word: window
+    stem: window
+    docFrequency: 7.0
+    docPositions:
+    - 285
+    - 287
+  rlq: !ruby/object:Word
+    word: rlq
+    stem: rlq
+    docFrequency: 7.0
+    docPositions:
+    - 285
+    - 287
+  push: !ruby/object:Word
+    word: push
+    stem: push
+    docFrequency: 3.0
+    docPositions:
+    - 285
+    - 287
+  function: !ruby/object:Word
+    word: function
+    stem: function
+    docFrequency: 3.0
+    docPositions:
+    - 285
+    - 287
+  loader: !ruby/object:Word
+    word: loader
+    stem: loader
+    docFrequency: 3.0
+    docPositions:
+    - 286
+  state: !ruby/object:Word
+    word: state
+    stem: state
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  ext: !ruby/object:Word
+    word: ext
+    stem: ext
+    docFrequency: 10.0
+    docPositions:
+    - 286
+  globalcssjs: !ruby/object:Word
+    word: globalcssjs
+    stem: globalcssj
+    docFrequency: 3.0
+    docPositions:
+    - 286
+  ready: !ruby/object:Word
+    word: ready
+    stem: readi
+    docFrequency: 6.0
+    docPositions:
+    - 286
+  user: !ruby/object:Word
+    word: user
+    stem: user
+    docFrequency: 5.0
+    docPositions:
+    - 286
+  groups: !ruby/object:Word
+    word: groups
+    stem: group
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  load: !ruby/object:Word
+    word: load
+    stem: load
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  mediawiki: !ruby/object:Word
+    word: mediawiki
+    stem: mediawiki
+    docFrequency: 6.0
+    docPositions:
+    - 286
+  action: !ruby/object:Word
+    word: action
+    stem: action
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  postedit: !ruby/object:Word
+    word: postedit
+    stem: postedit
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  hidpi: !ruby/object:Word
+    word: hidpi
+    stem: hidpi
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  searchsuggest: !ruby/object:Word
+    word: searchsuggest
+    stem: searchsuggest
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  eventlogging: !ruby/object:Word
+    word: eventlogging
+    stem: eventlog
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  subscriber: !ruby/object:Word
+    word: subscriber
+    stem: subscrib
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  wikimediaevents: !ruby/object:Word
+    word: wikimediaevents
+    stem: wikimediaev
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  navigationtiming: !ruby/object:Word
+    word: navigationtiming
+    stem: navigationtim
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  mmv: !ruby/object:Word
+    word: mmv
+    stem: mmv
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  bootstrap: !ruby/object:Word
+    word: bootstrap
+    stem: bootstrap
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  autostart: !ruby/object:Word
+    word: autostart
+    stem: autostart
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  visualeditor: !ruby/object:Word
+    word: visualeditor
+    stem: visualeditor
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  targetloader: !ruby/object:Word
+    word: targetloader
+    stem: targetload
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  schema: !ruby/object:Word
+    word: schema
+    stem: schema
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  universallanguageselector: !ruby/object:Word
+    word: universallanguageselector
+    stem: universallanguageselector
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  uls: !ruby/object:Word
+    word: uls
+    stem: ul
+    docFrequency: 3.0
+    docPositions:
+    - 286
+  eventlogger: !ruby/object:Word
+    word: eventlogger
+    stem: eventlogg
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  interlanguage: !ruby/object:Word
+    word: interlanguage
+    stem: interlanguag
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  dismissablesitenotice: !ruby/object:Word
+    word: dismissablesitenotice
+    stem: dismissablesitenotic
+    docFrequency: 2.0
+    docPositions:
+    - 286
+  config: !ruby/object:Word
+    word: config
+    stem: config
+    docFrequency: 2.0
+    docPositions:
+    - 288
+  set: !ruby/object:Word
+    word: set
+    stem: set
+    docFrequency: 2.0
+    docPositions:
+    - 288
+  wgbackendresponsetime: !ruby/object:Word
+    word: wgbackendresponsetime
+    stem: wgbackendresponsetim
+    docFrequency: 2.0
+    docPositions:
+    - 288
+  wghostname: !ruby/object:Word
+    word: wghostname
+    stem: wghostnam
+    docFrequency: 2.0
+    docPositions:
+    - 288
+  nomin: !ruby/object:Word
+    word: nomin
+    stem: nomin
+    docFrequency: 2.0
+    docPositions:
+    - 288
+  themesbrowse: !ruby/object:Word
+    word: themesbrowse
+    stem: themesbrows
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  indexselected: !ruby/object:Word
+    word: indexselected
+    stem: indexselect
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  pagespeople: !ruby/object:Word
+    word: pagespeople
+    stem: pagespeopl
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  anonymousliterary: !ruby/object:Word
+    word: anonymousliterary
+    stem: anonymousliterari
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  citiesfilms: !ruby/object:Word
+    word: citiesfilms
+    stem: citiesfilm
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  wonderfallsthemes: !ruby/object:Word
+    word: wonderfallsthemes
+    stem: wonderfallsthem
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  warplaces: !ruby/object:Word
+    word: warplaces
+    stem: warplac
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  vietnammiscellaneous: !ruby/object:Word
+    word: vietnammiscellaneous
+    stem: vietnammiscellan
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  musicalsmain: !ruby/object:Word
+    word: musicalsmain
+    stem: musicalsmain
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  categoriespeopleproductionsbrowse: !ruby/object:Word
+    word: categoriespeopleproductionsbrowse
+    stem: categoriespeopleproductionsbrows
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  wikiquotenew: !ruby/object:Word
+    word: wikiquotenew
+    stem: wikiquotenew
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  pagescommunitypolicy: !ruby/object:Word
+    word: pagescommunitypolicy
+    stem: pagescommunitypolici
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  entriesabout: !ruby/object:Word
+    word: entriesabout
+    stem: entriesabout
+    docFrequency: 2.0
+    docPositions:
+    - 289
+  wikimediawikiquote: !ruby/object:Word
+    word: wikimediawikiquote
+    stem: wikimediawikiquot
+    docFrequency: 2.0
+    docPositions:
+    - 289
+lineCount: 290
+wordCount: 1543
+rank: 0.25
+title: Wikiquote
+links:
+- https://lists.wikimedia.org/mailman/listinfo/daily-article-l
+- http://en.wikiquote.org/w/index.php?title=Template:New_pages&action=edit
+- https://en.wikiquote.org/w/index.php?title=Main_Page&oldid=1859683
+- https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute
+rawText: "\n\t\t\n\t\t\n\t\t\n\t\t\t\n\n\t\t\t\t\t\t\tdocument.write(\"\\u003Cdiv
+  class=\\\"mw-dismissable-notice\\\"\\u003E\\u003Cdiv class=\\\"mw-dismissable-notice-close\\\"\\u003E[\\u003Ca
+  href=\\\"#\\\"\\u003Ehide\\u003C/a\\u003E]\\u003C/div\\u003E\\u003Cdiv class=\\\"mw-dismissable-notice-body\\\"\\u003E\\u003Cdiv
+  id=\\\"localNotice\\\" lang=\\\"en\\\" dir=\\\"ltr\\\"\\u003E\\u003Cdiv style=\\\"position:absolute;
+  z-index:100; right:100px; top:-0px;\\\" class=\\\"metadata\\\" id=\\\"donate\\\"\\u003E\\n\\u003Cdiv
+  style=\\\"text-align:right; font-size:80%\\\"\\u003E\\u003Ci\\u003EYour \\u003Cb\\u003E\\u003Ca
+  href=\\\"//wikimediafoundation.org/wiki/Fundraising\\\" class=\\\"extiw\\\" title=\\\"wikimedia:Fundraising\\\"\\u003Econtinued
+  donations\\u003C/a\\u003E\\u003C/b\\u003E keep Wikiquote running!\\u003C/i\\u003E\\n\\u003C/div\\u003E\\u003C/div\\u003E\\n\\u003C/div\\u003E\\u003C/div\\u003E\\u003C/div\\u003E\");\n\t\t\t\t\t\t\n\n\t\t\tMain
+  Page\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\tFrom Wikiquote\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\tJump
+  to:\t\t\t\t\tnavigation, \t\t\t\t\tsearch\n\t\t\t\t\n\t\t\t\t\n\n\nWelcome to Wikiquote,\nthe
+  free quote compendium that anyone can edit.\n25,716 articles in English\n\nMonday,
+  December 14, 2015, 00:11 (UTC)\n\nBrowse: Categories | Films | Literary works |
+  Occupations | Proverbs | Television shows | Themes\n\n\nBrowse Wikiquote - Alphabetical
+  index\n\n\nWikiquote is a free online compendium of sourced quotations from notable
+  people and creative works in every language, translations of non-English quotes,
+  and links to Wikipedia for further information. Visit the help page or experiment
+  in the sandbox to learn how you can edit nearly any page right now; or go to the
+  Log in to start contributing to Wikiquote.\n\n\n\nQuote of the day\n\n\n\n \n\nIn
+  the Art of Peace we never attack. An attack is proof that one is out of control.
+  Never run away from any kind of challenge, but do not try to suppress or control
+  an opponent unnaturally. Let attackers come any way they like and then blend with
+  them. Never chase after opponents. Redirect each attack and get firmly behind it.\n~
+  Morihei Ueshiba ~\n\n \n\n\nThere is a page for each month where previous \"Quotes
+  of the Day\" for each date are listed, and where registered users can make suggestions
+  or rank suggestions for upcoming dates. The Quotes of the Year page and other archives
+  contain more extensive listings of quotes that have already been used. See also
+  the QOTD by month and email options.\n\n\n\n\n\n\nSelected pages\n\n\nPeople — Douglas
+  Adams • Dante Alighieri • Aristotle • Emily Brontë • Buddha • Confucius • Charles
+  Darwin • Charles Dickens • Albert Einstein • T. S. Eliot • Ralph Waldo Emerson •
+  Richard Feynman • Mahatma Gandhi • Jesus • John Keats • Helen Keller • John F. Kennedy
+  • Martin Luther King, Jr. • Laozi • Timothy Leary • Muhammad • Thomas Paine • Eleanor
+  Roosevelt • Bertrand Russell • William Saroyan • William Shakespeare • George Bernard
+  Shaw • Percy Bysshe Shelley • Starhawk • Leo Tolstoy • Virgil • Voltaire • Anonymous\nLiterary works
+  — Dune • Fahrenheit 451 • Leaves of Grass • The Little Prince • The Lord of the
+  Rings • 1984 • Paradise Lost • Principia Discordia • The Prophet • Pride and Prejudice
+  • A Tale of Two Cities\nFilms — Casablanca • Fight Club • Fury • Groundhog Day •
+  Harvey • The Hours • It's a Wonderful Life • Life of Brian • Magnolia • The Matrix
+  • Memento • Olympus Has Fallen • One Flew Over the Cuckoo's Nest • Star Wars • Taxi
+  Driver • Three Days of the Condor • United 93\nTV shows — Babylon 5 • Blackadder
+  • Breaking Bad • Buffy • The Daily Show • Game of Thrones • Gilmore Girls • Mad
+  Men • M*A*S*H • Monty Python's Flying Circus • MST3K • Red Dwarf • Seinfeld • The
+  Simpsons • Star Trek • The X-Files • Twin Peaks • The West Wing • Wonderfalls\nThemes
+  — Ability • Art • Beauty • Computers • Courage • Dance • Drugs • Education • Film
+  • Flowers • Friendship • Hope • Leadership • Love • Materialism • Memory • Politics
+  • Quotations • Religion • Science • Sexuality • Sports • Success • Television •
+  War\nPlaces — Brazil • California • Canada • China • Cuba • European Union • France
+  • Germany • India • Iran • Iraq • Ireland • Italy • Japan • London • Mexico • New
+  York City • North Korea • Pakistan • Russian Federation • South Korea • Soviet Union
+  • Spain • Turkey • United Kingdom • United States of America • Vietnam\nMiscellaneous
+  — Epitaphs • Holidays • Last words • Proverbs • Slogans • Theatrical plays and musicals\n\n\nMain
+  categories\n\n\n\n\n\nPeople\nAuthors\nBy occupation\nBy nationality\n\n\n\n\nProductions\nFilms\nLiterary
+  works\nTelevision\n\n\n\n\nBrowse Wikiquote\nLists\nProverbs\nThemes\n\n\n\n\n\n\n\nNew
+  pages\n\n\n\n\nNew in Wikiquote:Michael J. Totten\n\n\n\n\n‎John Hollander\n‎Tibetan
+  language\nMichael J. Totten\n‎Toy Story Toons\n‎Daniel J. Fairbanks\nScream Queens
+  (2015 TV series)\nConstitutional court\n‎Complexity economics\n‎Frankenstein Meets
+  the Wolf Man\n‎Son of Frankenstein\n‎Anthropocene\n‎John Kasich\nSelf-Organizing
+  Systems\n\nA partial listing of some new pages (add)\n\n\n\nCommunity\n\n\nWriting
+  articles\nPolicy • How to edit a page • Guide to layout and style • Public domain
+  and shared • Requested entries\nAbout the project\nAbout page • Templates • Spellings
+  • Community portal • What Wikiquote is not • Village pump • Reference desk • Requests
+  • Wikiquotians • Utilities • FAQ • History of Wikiquote • Wikiquote • Other language
+  Wikiquotes • Software • Wikimedia\n\n\n\nWikiquote's sister projects\nWikiquote
+  is run by the non-profit Wikimedia Foundation, which operates several other multilingual
+  and free-content projects:\n\nWiktionary\nDictionary and thesaurus\n\nWikibooks\nFree
+  textbooks and manuals\n\nWikipedia\nThe free encyclopedia\n\nWikisource\nThe free
+  library\n\nWikispecies\nDirectory of species\n\nWikinews\nFree content news source\n\nMeta-Wiki\nWikimedia
+  project coordination\n\nCommons\nShared media repository\n\nWikiversity\nThe limitless
+  learning center\n\nWikidata\nFree knowledge base\n\nWikivoyage\nOpen travel guide\nWikiquote
+  languages\nThis Wikiquote is written in English. Started in 2003, it currently contains
+  25,716 articles. Many other Wikiquote projects are available:\n\nAfrikaans – Albanian –
+  العربية (Arabic) – Հայերեն (Armenian) – Azeri – Basque – Bosnian – Български (Bulgarian) –
+  Catalan – 中文 (Chinese) – Croatian – Czech – Danish – Dutch – Esperanto – Estonian –
+  Finnish – French – Galician – ქართულ (Georgian) – German – Ελληνικά (Greek) – עברית
+  (Hebrew) – Hungarian – Icelandic – Indonesian – Italian – 日本語 (Japanese) – 한국어 (Korean) –
+  Kurdish – Limburgian – Lithuanian – മലയാളം (Malayalam) – Norwegian (Bokmål) – Norwegian
+  (Nynorsk) – فارسی (Persian) – Polish – Portuguese – Romanian – Русский (Russian) –
+  Српски (Serbian) – Slovak – Slovenian – Spanish – Swedish – தமிழ் (Tamil) – తెలుగు
+  (Telugu) – ไทย (Thai) – Turkish – Українська (Ukrainian) – Vietnamese – Welsh\n\n\n\n\n\n\n\n\n\n\t\t\t\t\t\n\t\t\t\t\t\tRetrieved
+  from \"https://en.wikiquote.org/w/index.php?title=Main_Page&oldid=1859683\"\t\t\t\t\t\n\t\t\t\tCategory:
+  Main page\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\n\t\t\n\t\t\tNavigation menu\n\n\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tPersonal
+  tools\n\t\t\t\t\t\tNot logged inTalkContributionsCreate accountLog in\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tNamespaces\n\t\t\t\t\t\tMain
+  page\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tDiscussion\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\tVariants\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tViews\n\t\t\t\t\t\tRead\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView
+  source\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tView history\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\tMore\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tSearch\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\t\n\t\t\tNavigation\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tMain
+  PageCommunity portalVillage pumpRecent changesRandom pageHelpDonateContact Wikiquote\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tWikiquote
+  links\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tPeopleLiterary worksProverbsFilmsTV showsThemesCategories\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tPrint/export\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tCreate
+  a bookDownload as PDFPrintable version\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tTools\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tWhat
+  links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata
+  itemCite this page\t\t\t\t\t\n\t\t\n\t\t\t\n\t\t\tIn other languages\n\n\t\t\t\n\t\t\t\t\t\t\t\t\tAfrikaansAlemannischአማርኛالعربيةAsturianuAzərbaycancaБеларускаяБългарскиBamanankanBrezhonegBosanskiCatalàCorsuČeštinaCymraegDanskDeutschΕλληνικάEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeGalegoગુજરાતીעבריתहिन्दीHrvatskiMagyarՀայերենBahasa
+  IndonesiaÍslenskaItaliano日本語ქართულიҚазақшаಕನ್ನಡ한국어KanuriKurdîKernowekКыргызчаLatinaLëtzebuergeschLimburgsLietuviųമലയാളംमराठीPlattdüütschNederlandsNorsk
+  nynorskNorsk bokmålPolskiPortuguêsRuna SimiRomânăРусскийसंस्कृतम्SlovenčinaSlovenščinaShqipСрпски
+  / srpskiBasa SundaSvenskaதமிழ்తెలుగుไทยTürkmençeTürkçeТатарча/tatarçaئۇيغۇرچە /
+  UyghurcheУкраїнськаاردوOʻzbekcha/ўзбекчаTiếng ViệtVolapükWolof中文Bân-lâm-gú\t\t\t\t\tEdit
+  links\t\t\t\n\t\t\n\t\t\t\t\n\t\t\n\t\t\n\t\t\t\t\t\t\t This page was last modified
+  on 5 March 2015, at 14:01.\n\t\t\t\t\t\t\t\t\t\t\tText is available under the Creative
+  Commons Attribution-ShareAlike License; additional terms may apply.  By using this
+  site, you agree to the Terms of Use and Privacy Policy.\n\t\t\t\t\t\t\t\t\tPrivacy
+  policy\n\t\t\t\t\t\t\t\t\t\t\tAbout Wikiquote\n\t\t\t\t\t\t\t\t\t\t\tDisclaimers\n\t\t\t\t\t\t\t\t\t\t\tDevelopers\n\t\t\t\t\t\t\t\t\t\t\tMobile
+  view\n\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\n\t\t\n\t\twindow.RLQ
+  = window.RLQ || []; window.RLQ.push( function () {\nmw.loader.state({\"ext.globalCssJs.site\":\"ready\",\"ext.globalCssJs.user\":\"ready\",\"user\":\"ready\",\"user.groups\":\"ready\"});mw.loader.load([\"mediawiki.action.view.postEdit\",\"site\",\"mediawiki.user\",\"mediawiki.hidpi\",\"mediawiki.page.ready\",\"mediawiki.searchSuggest\",\"ext.eventLogging.subscriber\",\"ext.wikimediaEvents\",\"ext.navigationTiming\",\"mmv.bootstrap.autostart\",\"ext.visualEditor.targetLoader\",\"schema.UniversalLanguageSelector\",\"ext.uls.eventlogger\",\"ext.uls.interlanguage\",\"ext.dismissableSiteNotice\"]);\n}
+  );window.RLQ = window.RLQ || []; window.RLQ.push( function () {\nmw.config.set({\"wgBackendResponseTime\":307,\"wgHostname\":\"mw1093\"});
+  /* @nomin */\n} );Browse: Categories | Films | Literary works | Occupations | Proverbs
+  | Television shows | ThemesBrowse Wikiquote - Alphabetical indexSelected pagesPeople
+  — Douglas Adams • Dante Alighieri • Aristotle • Emily Brontë • Buddha • Confucius
+  • Charles Darwin • Charles Dickens • Albert Einstein • T. S. Eliot • Ralph Waldo
+  Emerson • Richard Feynman • Mahatma Gandhi • Jesus • John Keats • Helen Keller •
+  John F. Kennedy • Martin Luther King, Jr. • Laozi • Timothy Leary • Muhammad • Thomas
+  Paine • Eleanor Roosevelt • Bertrand Russell • William Saroyan • William Shakespeare
+  • George Bernard Shaw • Percy Bysshe Shelley • Starhawk • Leo Tolstoy • Virgil •
+  Voltaire • AnonymousLiterary works — Dune • Fahrenheit 451 • Leaves of Grass • The
+  Little Prince • The Lord of the Rings • 1984 • Paradise Lost • Principia Discordia
+  • The Prophet • Pride and Prejudice • A Tale of Two CitiesFilms — Casablanca • Fight
+  Club • Fury • Groundhog Day • Harvey • The Hours • It's a Wonderful Life • Life
+  of Brian • Magnolia • The Matrix • Memento • Olympus Has Fallen • One Flew Over
+  the Cuckoo's Nest • Star Wars • Taxi Driver • Three Days of the Condor • United
+  93TV shows — Babylon 5 • Blackadder • Breaking Bad • Buffy • The Daily Show • Game
+  of Thrones • Gilmore Girls • Mad Men • M*A*S*H • Monty Python's Flying Circus •
+  MST3K • Red Dwarf • Seinfeld • The Simpsons • Star Trek • The X-Files • Twin Peaks
+  • The West Wing • WonderfallsThemes — Ability • Art • Beauty • Computers • Courage
+  • Dance • Drugs • Education • Film • Flowers • Friendship • Hope • Leadership •
+  Love • Materialism • Memory • Politics • Quotations • Religion • Science • Sexuality
+  • Sports • Success • Television • WarPlaces — Brazil • California • Canada • China
+  • Cuba • European Union • France • Germany • India • Iran • Iraq • Ireland • Italy
+  • Japan • London • Mexico • New York City • North Korea • Pakistan • Russian Federation
+  • South Korea • Soviet Union • Spain • Turkey • United Kingdom • United States of
+  America • VietnamMiscellaneous — Epitaphs • Holidays • Last words • Proverbs • Slogans
+  • Theatrical plays and musicalsMain categoriesPeopleProductionsBrowse WikiquoteNew
+  pagesCommunityPolicy • How to edit a page • Guide to layout and style • Public domain
+  and shared • Requested entriesAbout page • Templates • Spellings • Community portal
+  • What Wikiquote is not • Village pump • Reference desk • Requests • Wikiquotians
+  • Utilities • FAQ • History of Wikiquote • Wikiquote • Other language Wikiquotes
+  • Software • WikimediaWikiquote is run by the non-profit Wikimedia Foundation, which
+  operates several other multilingual and free-content projects:This Wikiquote is
+  written in English. Started in 2003, it currently contains 25,716 articles. Many
+  other Wikiquote projects are available:Afrikaans – Albanian – العربية (Arabic) –
+  Հայերեն (Armenian) – Azeri – Basque – Bosnian – Български (Bulgarian) – Catalan –
+  中文 (Chinese) – Croatian – Czech – Danish – Dutch – Esperanto – Estonian – Finnish –
+  French – Galician – ქართულ (Georgian) – German – Ελληνικά (Greek) – עברית (Hebrew) –
+  Hungarian – Icelandic – Indonesian – Italian – 日本語 (Japanese) – 한국어 (Korean) – Kurdish –
+  Limburgian – Lithuanian – മലയാളം (Malayalam) – Norwegian (Bokmål) – Norwegian (Nynorsk) –
+  فارسی (Persian) – Polish – Portuguese – Romanian – Русский (Russian) – Српски (Serbian) –
+  Slovak – Slovenian – Spanish – Swedish – தமிழ் (Tamil) – తెలుగు (Telugu) – ไทย (Thai) –
+  Turkish – Українська (Ukrainian) – Vietnamese – Welsh"

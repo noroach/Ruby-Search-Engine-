@@ -1,0 +1,2688 @@
+--- !ruby/object:WebPage
+page: !ruby/object:Nokogiri::HTML::Document
+  decorators: 
+  node_cache:
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  - !ruby/object:Nokogiri::XML::Element {}
+  errors:
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : i
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 54
+    str1: i
+    str2: 
+    str3: 
+    int1: 0
+    column: 93
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 54
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 99
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 57
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 70
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 57
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 132
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : h3
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 57
+    str1: h3
+    str2: 
+    str3: 
+    int1: 0
+    column: 138
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : button
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 58
+    str1: button
+    str2: 
+    str3: 
+    int1: 0
+    column: 163
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : button
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 59
+    str1: button
+    str2: 
+    str3: 
+    int1: 0
+    column: 170
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 60
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : h4
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 62
+    str1: h4
+    str2: 
+    str3: 
+    int1: 0
+    column: 48
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 63
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 65
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 153
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : h4
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 67
+    str1: h4
+    str2: 
+    str3: 
+    int1: 0
+    column: 46
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : p
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 69
+    str1: p
+    str2: 
+    str3: 
+    int1: 0
+    column: 55
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 70
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 71
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : button
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 72
+    str1: button
+    str2: 
+    str3: 
+    int1: 0
+    column: 145
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 73
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : button
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 76
+    str1: button
+    str2: 
+    str3: 
+    int1: 0
+    column: 93
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : a
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 77
+    str1: a
+    str2: 
+    str3: 
+    int1: 0
+    column: 213
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 78
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 8
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 79
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 29
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 80
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 81
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 82
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 83
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 84
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 85
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 85
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : img
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 97
+    str1: img
+    str2: 
+    str3: 
+    int1: 0
+    column: 93
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 98
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : a
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 99
+    str1: a
+    str2: 
+    str3: 
+    int1: 0
+    column: 5
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 101
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 104
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 101
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 111
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 102
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : h4
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 106
+    str1: h4
+    str2: 
+    str3: 
+    int1: 0
+    column: 63
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 108
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 100
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 110
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 160
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 110
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 167
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 110
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 253
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 111
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 8
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 112
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 113
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 115
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 168
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 116
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : a
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 117
+    str1: a
+    str2: 
+    str3: 
+    int1: 0
+    column: 5
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 118
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 78
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 121
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 96
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 122
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 45
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 123
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 149
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 124
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 79
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 125
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : i
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 127
+    str1: i
+    str2: 
+    str3: 
+    int1: 0
+    column: 28
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 128
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 74
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 129
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 130
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : i
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 133
+    str1: i
+    str2: 
+    str3: 
+    int1: 0
+    column: 26
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 133
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 72
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : a
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 134
+    str1: a
+    str2: 
+    str3: 
+    int1: 0
+    column: 5
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : i
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 136
+    str1: i
+    str2: 
+    str3: 
+    int1: 0
+    column: 33
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 136
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 112
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : button
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 137
+    str1: button
+    str2: 
+    str3: 
+    int1: 0
+    column: 10
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : i
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 139
+    str1: i
+    str2: 
+    str3: 
+    int1: 0
+    column: 27
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 139
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 110
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : button
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 140
+    str1: button
+    str2: 
+    str3: 
+    int1: 0
+    column: 10
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 141
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : i
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 144
+    str1: i
+    str2: 
+    str3: 
+    int1: 0
+    column: 26
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 144
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 72
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : a
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 145
+    str1: a
+    str2: 
+    str3: 
+    int1: 0
+    column: 5
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 146
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : i
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 148
+    str1: i
+    str2: 
+    str3: 
+    int1: 0
+    column: 40
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 148
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 104
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : button
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 149
+    str1: button
+    str2: 
+    str3: 
+    int1: 0
+    column: 10
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : i
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 151
+    str1: i
+    str2: 
+    str3: 
+    int1: 0
+    column: 28
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : span
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 151
+    str1: span
+    str2: 
+    str3: 
+    int1: 0
+    column: 128
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : button
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 152
+    str1: button
+    str2: 
+    str3: 
+    int1: 0
+    column: 10
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 153
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : div
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 154
+    str1: div
+    str2: 
+    str3: 
+    int1: 0
+    column: 7
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag header invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 264
+    str1: header
+    str2: 
+    str3: 
+    int1: 0
+    column: 8
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      ID search-field already defined
+    domain: 23
+    code: 513
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 282
+    str1: search-field
+    str2: search-field
+    str3: 
+    int1: 0
+    column: 314
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag section invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 334
+    str1: section
+    str2: 
+    str3: 
+    int1: 0
+    column: 31
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 369
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 58
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 369
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 59
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 369
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 98
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 369
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 99
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 410
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 129
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 410
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 130
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 412
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 57
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 412
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 58
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 412
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 124
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 412
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 125
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 418
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 42
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 418
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 43
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 418
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 77
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 418
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 78
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 419
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 43
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 419
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 44
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 419
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 78
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 419
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 79
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 422
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 119
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 422
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 120
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 433
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 63
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 433
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 64
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 434
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 40
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 434
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 41
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 439
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 87
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 439
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 88
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 448
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 87
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 448
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 88
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Tag footer invalid
+    domain: 5
+    code: 801
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 461
+    str1: footer
+    str2: 
+    str3: 
+    int1: 0
+    column: 27
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      Unexpected end tag : a
+    domain: 5
+    code: 76
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 467
+    str1: a
+    str2: 
+    str3: 
+    int1: 0
+    column: 265
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 494
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 155
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 494
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 156
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 499
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 155
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 499
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 156
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 525
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 75
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      htmlParseEntityRef: no name
+    domain: 5
+    code: 68
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 525
+    str1: 
+    str2: 
+    str3: 
+    int1: 0
+    column: 76
+  - !ruby/exception:Nokogiri::XML::SyntaxError
+    message: |
+      ID {{::preference.uniqueKey}} already defined
+    domain: 23
+    code: 513
+    level: 2
+    file: "/tmp/open-uri20151213-89256-1tz172p"
+    line: 542
+    str1: "{{::preference.uniqueKey}}"
+    str2: "{{::preference.uniqueKey}}"
+    str3: 
+    int1: 0
+    column: 258
+address: https://one.iu.edu/
+inboundLinks: []
+lines:
+- |2+
+
+- |2+
+
+- |
+  jump to search
+- |
+  jump to main content
+- |2+
+
+- "\r\n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Indiana University
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- " \r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Sign In\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Sign In\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Browse Categories\r\n"
+- "\r\n"
+- "\r\n"
+- "All Categories\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- " Roles\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- " IU Campuses\r\n"
+- "\r\n"
+- "\r\n"
+- "All IU Campuses\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "My Favorites\r\n"
+- "Preferences\r\n"
+- "Send Feedback\r\n"
+- "Display Help\r\n"
+- "Not ?\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "One.IU\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Toggle menu\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Search for tasks\r\n"
+- " \r\n"
+- "\r\n"
+- "search submit\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Browse Categories\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "All Categories\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "All IU Campuses \r\n"
+- "All IU Campuses\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "All Roles\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Sign In, \r\n"
+- "Hello. Sign In\r\n"
+- " \r\n"
+- "\r\n"
+- "Sign In\r\n"
+- "\r\n"
+- "  My Favorites\r\n"
+- "  Preferences\r\n"
+- "\r\n"
+- "  Send Feedback\r\n"
+- "  Help\r\n"
+- "\r\n"
+- "  Not ?\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  JavaScript is required for this site to function. Please enable JavaScript.
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Featured Tasks
+- |2+
+
+- |2+
+
+- "Launch \n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Tasks
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Back Home
+- |
+  Back Home
+- |2+
+
+- |
+  Save
+- |
+  Save
+- |
+  Cancel
+- |2+
+
+- |2+
+
+- |
+  Edit Favorites
+- |
+  Edit History
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  No tasks meet your search criteria.
+- |2+
+
+- |2+
+
+- |
+  See More
+- |2+
+
+- |2+
+
+- |
+  See More
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  No tasks meet your search criteria.
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Fulfilling the Promise
+- |2+
+
+- |
+  Copyright © 2015 The Trustees of Indiana University
+- |2+
+
+- |
+  Privacy Notice
+- |2+
+
+- |2
+    Back to top
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Close feedback.\r\n"
+- "\r\n"
+- "Send Feedback\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Concern\r\n"
+- "Choose One\r\n"
+- "\r\n"
+- "Comments\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Email Address\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Submit\r\n"
+- "Cancel\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Close preferences.\r\n"
+- "\r\n"
+- "Preferences\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "Save\r\n"
+- "Cancel\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- "\r\n"
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Close
+- |2+
+
+- |
+  Become User
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  User
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  Submit
+- |
+  Cancel
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |2+
+
+- |
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+- |
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+- |
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+- |
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+- |
+  ga('create', 'UA-39645822-3', 'auto');
+- |
+  ga('send', 'pageview');
+- |2+
+
+- |2+
+
+- |
+  Indiana University
+- |2+
+
+- |
+  Fulfilling the Promise
+- |
+  Copyright © 2015 The Trustees of Indiana University
+- |
+  Privacy Notice
+index:
+  jump: !ruby/object:Word
+    word: jump
+    stem: jump
+    docFrequency: 3
+    docPositions:
+    - 2
+    - 3
+  search: !ruby/object:Word
+    word: search
+    stem: search
+    docFrequency: 6
+    docPositions:
+    - 2
+    - 87
+    - 90
+    - 203
+    - 221
+  main: !ruby/object:Word
+    word: main
+    stem: main
+    docFrequency: 2
+    docPositions:
+    - 3
+  content: !ruby/object:Word
+    word: content
+    stem: content
+    docFrequency: 2
+    docPositions:
+    - 3
+  indiana: !ruby/object:Word
+    word: indiana
+    stem: indiana
+    docFrequency: 5
+    docPositions:
+    - 11
+    - 229
+    - 350
+    - 353
+  university: !ruby/object:Word
+    word: university
+    stem: univers
+    docFrequency: 5
+    docPositions:
+    - 11
+    - 229
+    - 350
+    - 353
+  sign: !ruby/object:Word
+    word: sign
+    stem: sign
+    docFrequency: 6
+    docPositions:
+    - 23
+    - 31
+    - 139
+    - 140
+    - 143
+  browse: !ruby/object:Word
+    word: browse
+    stem: brows
+    docFrequency: 3
+    docPositions:
+    - 36
+    - 97
+  categories: !ruby/object:Word
+    word: categories
+    stem: categori
+    docFrequency: 5
+    docPositions:
+    - 36
+    - 39
+    - 97
+    - 101
+  all: !ruby/object:Word
+    word: all
+    stem: all
+    docFrequency: 7
+    docPositions:
+    - 39
+    - 60
+    - 101
+    - 108
+    - 109
+    - 114
+  roles: !ruby/object:Word
+    word: roles
+    stem: role
+    docFrequency: 3
+    docPositions:
+    - 47
+    - 114
+  iu: !ruby/object:Word
+    word: iu
+    stem: iu
+    docFrequency: 6
+    docPositions:
+    - 57
+    - 60
+    - 78
+    - 108
+    - 109
+  campuses: !ruby/object:Word
+    word: campuses
+    stem: campus
+    docFrequency: 5
+    docPositions:
+    - 57
+    - 60
+    - 108
+    - 109
+  my: !ruby/object:Word
+    word: my
+    stem: my
+    docFrequency: 3
+    docPositions:
+    - 67
+    - 145
+  favorites: !ruby/object:Word
+    word: favorites
+    stem: favorit
+    docFrequency: 4
+    docPositions:
+    - 67
+    - 145
+    - 198
+  preferences: !ruby/object:Word
+    word: preferences
+    stem: prefer
+    docFrequency: 5
+    docPositions:
+    - 68
+    - 146
+    - 274
+    - 276
+  send: !ruby/object:Word
+    word: send
+    stem: send
+    docFrequency: 5
+    docPositions:
+    - 69
+    - 148
+    - 242
+    - 347
+  feedback: !ruby/object:Word
+    word: feedback
+    stem: feedback
+    docFrequency: 5
+    docPositions:
+    - 69
+    - 148
+    - 240
+    - 242
+  display: !ruby/object:Word
+    word: display
+    stem: displai
+    docFrequency: 2
+    docPositions:
+    - 70
+  help: !ruby/object:Word
+    word: help
+    stem: help
+    docFrequency: 3
+    docPositions:
+    - 70
+    - 149
+  not: !ruby/object:Word
+    word: not
+    stem: not
+    docFrequency: 3
+    docPositions:
+    - 71
+    - 151
+  one: !ruby/object:Word
+    word: one
+    stem: 'on'
+    docFrequency: 3
+    docPositions:
+    - 78
+    - 248
+  toggle: !ruby/object:Word
+    word: toggle
+    stem: toggl
+    docFrequency: 2
+    docPositions:
+    - 82
+  menu: !ruby/object:Word
+    word: menu
+    stem: menu
+    docFrequency: 2
+    docPositions:
+    - 82
+  tasks: !ruby/object:Word
+    word: tasks
+    stem: task
+    docFrequency: 6
+    docPositions:
+    - 87
+    - 164
+    - 185
+    - 203
+    - 221
+  submit: !ruby/object:Word
+    word: submit
+    stem: submit
+    docFrequency: 4
+    docPositions:
+    - 90
+    - 260
+    - 332
+  hello: !ruby/object:Word
+    word: hello
+    stem: hello
+    docFrequency: 2
+    docPositions:
+    - 140
+  '': !ruby/object:Word
+    word: ''
+    stem: ''
+    docFrequency: 10
+    docPositions:
+    - 145
+    - 146
+    - 148
+    - 149
+    - 151
+    - 233
+    - 342
+    - 343
+    - 345
+  required: !ruby/object:Word
+    word: required
+    stem: requir
+    docFrequency: 2
+    docPositions:
+    - 158
+  site: !ruby/object:Word
+    word: site
+    stem: site
+    docFrequency: 2
+    docPositions:
+    - 158
+  function: !ruby/object:Word
+    word: function
+    stem: function
+    docFrequency: 4
+    docPositions:
+    - 158
+    - 342
+  please: !ruby/object:Word
+    word: please
+    stem: pleas
+    docFrequency: 2
+    docPositions:
+    - 158
+  enable: !ruby/object:Word
+    word: enable
+    stem: enabl
+    docFrequency: 2
+    docPositions:
+    - 158
+  featured: !ruby/object:Word
+    word: featured
+    stem: featur
+    docFrequency: 2
+    docPositions:
+    - 164
+  launch: !ruby/object:Word
+    word: launch
+    stem: launch
+    docFrequency: 2
+    docPositions:
+    - 167
+  back: !ruby/object:Word
+    word: back
+    stem: back
+    docFrequency: 4
+    docPositions:
+    - 190
+    - 191
+    - 233
+  home: !ruby/object:Word
+    word: home
+    stem: home
+    docFrequency: 3
+    docPositions:
+    - 190
+    - 191
+  save: !ruby/object:Word
+    word: save
+    stem: save
+    docFrequency: 4
+    docPositions:
+    - 193
+    - 194
+    - 306
+  cancel: !ruby/object:Word
+    word: cancel
+    stem: cancel
+    docFrequency: 5
+    docPositions:
+    - 195
+    - 261
+    - 307
+    - 333
+  edit: !ruby/object:Word
+    word: edit
+    stem: edit
+    docFrequency: 3
+    docPositions:
+    - 198
+    - 199
+  history: !ruby/object:Word
+    word: history
+    stem: histori
+    docFrequency: 2
+    docPositions:
+    - 199
+  'no': !ruby/object:Word
+    word: 'no'
+    stem: 'no'
+    docFrequency: 3
+    docPositions:
+    - 203
+    - 221
+  meet: !ruby/object:Word
+    word: meet
+    stem: meet
+    docFrequency: 3
+    docPositions:
+    - 203
+    - 221
+  your: !ruby/object:Word
+    word: your
+    stem: your
+    docFrequency: 3
+    docPositions:
+    - 203
+    - 221
+  criteria: !ruby/object:Word
+    word: criteria
+    stem: criteria
+    docFrequency: 3
+    docPositions:
+    - 203
+    - 221
+  see: !ruby/object:Word
+    word: see
+    stem: see
+    docFrequency: 3
+    docPositions:
+    - 206
+    - 209
+  more: !ruby/object:Word
+    word: more
+    stem: more
+    docFrequency: 3
+    docPositions:
+    - 206
+    - 209
+  fulfilling: !ruby/object:Word
+    word: fulfilling
+    stem: fulfil
+    docFrequency: 3
+    docPositions:
+    - 227
+    - 352
+  promise: !ruby/object:Word
+    word: promise
+    stem: promis
+    docFrequency: 3
+    docPositions:
+    - 227
+    - 352
+  copyright: !ruby/object:Word
+    word: copyright
+    stem: copyright
+    docFrequency: 3
+    docPositions:
+    - 229
+    - 353
+  trustees: !ruby/object:Word
+    word: trustees
+    stem: truste
+    docFrequency: 3
+    docPositions:
+    - 229
+    - 353
+  privacy: !ruby/object:Word
+    word: privacy
+    stem: privaci
+    docFrequency: 3
+    docPositions:
+    - 231
+    - 354
+  notice: !ruby/object:Word
+    word: notice
+    stem: notic
+    docFrequency: 3
+    docPositions:
+    - 231
+    - 354
+  top: !ruby/object:Word
+    word: top
+    stem: top
+    docFrequency: 2
+    docPositions:
+    - 233
+  close: !ruby/object:Word
+    word: close
+    stem: close
+    docFrequency: 4
+    docPositions:
+    - 240
+    - 274
+    - 320
+  concern: !ruby/object:Word
+    word: concern
+    stem: concern
+    docFrequency: 2
+    docPositions:
+    - 247
+  choose: !ruby/object:Word
+    word: choose
+    stem: choos
+    docFrequency: 2
+    docPositions:
+    - 248
+  comments: !ruby/object:Word
+    word: comments
+    stem: comment
+    docFrequency: 2
+    docPositions:
+    - 250
+  email: !ruby/object:Word
+    word: email
+    stem: email
+    docFrequency: 2
+    docPositions:
+    - 254
+  address: !ruby/object:Word
+    word: address
+    stem: address
+    docFrequency: 2
+    docPositions:
+    - 254
+  become: !ruby/object:Word
+    word: become
+    stem: becom
+    docFrequency: 2
+    docPositions:
+    - 322
+  user: !ruby/object:Word
+    word: user
+    stem: user
+    docFrequency: 3
+    docPositions:
+    - 322
+    - 327
+  i: !ruby/object:Word
+    word: i
+    stem: i
+    docFrequency: 8
+    docPositions:
+    - 342
+    - 343
+  s: !ruby/object:Word
+    word: s
+    stem: s
+    docFrequency: 4
+    docPositions:
+    - 342
+    - 343
+    - 344
+  o: !ruby/object:Word
+    word: o
+    stem: o
+    docFrequency: 4
+    docPositions:
+    - 342
+    - 343
+    - 344
+  g: !ruby/object:Word
+    word: g
+    stem: g
+    docFrequency: 3
+    docPositions:
+    - 342
+    - 344
+  r: !ruby/object:Word
+    word: r
+    stem: r
+    docFrequency: 8
+    docPositions:
+    - 342
+    - 343
+  m: !ruby/object:Word
+    word: m
+    stem: m
+    docFrequency: 5
+    docPositions:
+    - 342
+    - 344
+  googleanalyticsobject: !ruby/object:Word
+    word: googleanalyticsobject
+    stem: googleanalyticsobject
+    docFrequency: 2
+    docPositions:
+    - 342
+  q: !ruby/object:Word
+    word: q
+    stem: q
+    docFrequency: 3
+    docPositions:
+    - 343
+  push: !ruby/object:Word
+    word: push
+    stem: push
+    docFrequency: 2
+    docPositions:
+    - 343
+  arguments: !ruby/object:Word
+    word: arguments
+    stem: argument
+    docFrequency: 2
+    docPositions:
+    - 343
+  l: !ruby/object:Word
+    word: l
+    stem: l
+    docFrequency: 2
+    docPositions:
+    - 343
+  new: !ruby/object:Word
+    word: new
+    stem: new
+    docFrequency: 2
+    docPositions:
+    - 343
+  date: !ruby/object:Word
+    word: date
+    stem: date
+    docFrequency: 2
+    docPositions:
+    - 343
+  createelement: !ruby/object:Word
+    word: createelement
+    stem: createel
+    docFrequency: 2
+    docPositions:
+    - 343
+  getelementsbytagname: !ruby/object:Word
+    word: getelementsbytagname
+    stem: getelementsbytagnam
+    docFrequency: 2
+    docPositions:
+    - 344
+  async: !ruby/object:Word
+    word: async
+    stem: async
+    docFrequency: 2
+    docPositions:
+    - 344
+  parentnode: !ruby/object:Word
+    word: parentnode
+    stem: parentnod
+    docFrequency: 2
+    docPositions:
+    - 344
+  insertbefore: !ruby/object:Word
+    word: insertbefore
+    stem: insertbefor
+    docFrequency: 2
+    docPositions:
+    - 344
+  window: !ruby/object:Word
+    word: window
+    stem: window
+    docFrequency: 2
+    docPositions:
+    - 345
+  document: !ruby/object:Word
+    word: document
+    stem: document
+    docFrequency: 2
+    docPositions:
+    - 345
+  script: !ruby/object:Word
+    word: script
+    stem: script
+    docFrequency: 2
+    docPositions:
+    - 345
+  google: !ruby/object:Word
+    word: google
+    stem: googl
+    docFrequency: 2
+    docPositions:
+    - 345
+  analytics: !ruby/object:Word
+    word: analytics
+    stem: analyt
+    docFrequency: 3
+    docPositions:
+    - 345
+  ga: !ruby/object:Word
+    word: ga
+    stem: ga
+    docFrequency: 4
+    docPositions:
+    - 345
+    - 346
+    - 347
+  create: !ruby/object:Word
+    word: create
+    stem: creat
+    docFrequency: 2
+    docPositions:
+    - 346
+  ua: !ruby/object:Word
+    word: ua
+    stem: ua
+    docFrequency: 2
+    docPositions:
+    - 346
+  auto: !ruby/object:Word
+    word: auto
+    stem: auto
+    docFrequency: 2
+    docPositions:
+    - 346
+  pageview: !ruby/object:Word
+    word: pageview
+    stem: pageview
+    docFrequency: 2
+    docPositions:
+    - 347
+lineCount: 355
+wordCount: 238
+rank: 0.25
+title: One.IU | All IU Campuses
+links:
+- http://www.iu.edu
+- http://www.iu.edu/copyright/index.shtml
+- http://www.iu.edu/
+- https://www.iu.edu/~espd/one/privacyStatement.html
+rawText: "\n\njump to search\njump to main content\n\n\r\n\n\n\n\n\nIndiana University\n\n\n\n\n
+  \r\n\r\n\r\n\r\n\r\n\r\n\r\nSign In\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSign In\r\n\r\n\r\n\r\n\r\nBrowse
+  Categories\r\n\r\n\r\nAll Categories\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n Roles\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n
+  IU Campuses\r\n\r\n\r\nAll IU Campuses\r\n\r\n\r\n\r\n\r\n\r\n\r\nMy Favorites\r\nPreferences\r\nSend
+  Feedback\r\nDisplay Help\r\nNot ?\r\n\r\n\r\n\r\n\r\n\r\n\r\nOne.IU\r\n\r\n\r\n\r\nToggle
+  menu\r\n\r\n\r\n\r\n\r\nSearch for tasks\r\n \r\n\r\nsearch submit\r\n\r\n\r\n\r\n\r\n\r\n\r\nBrowse
+  Categories\r\n\r\n\r\n\r\nAll Categories\r\n\r\n\r\n\r\n\r\n\r\n\r\nAll IU Campuses \r\nAll
+  IU Campuses\r\n\r\n\r\n\r\n\r\nAll Roles\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSign
+  In, \r\nHello. Sign In\r\n \r\n\r\nSign In\r\n\r\n  My Favorites\r\n  Preferences\r\n\r\n  Send
+  Feedback\r\n  Help\r\n\r\n  Not ?\r\n\r\n\r\n\r\n\n\n\nJavaScript is required for
+  this site to function. Please enable JavaScript.\n\n\n\n\n\nFeatured Tasks\n\n\nLaunch
+  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTasks\n\n\n\n\nBack Home\nBack Home\n\nSave\nSave\nCancel\n\n\nEdit
+  Favorites\nEdit History\n\n\n\nNo tasks meet your search criteria.\n\n\nSee More\n\n\nSee
+  More\n\n\n\n\n\n\n\n\n\n\n\nNo tasks meet your search criteria.\n\n\n\n\n\nFulfilling
+  the Promise\n\nCopyright © 2015 The Trustees of Indiana University\n\nPrivacy Notice\n\n
+   Back to top\n\r\n\r\n\r\n\r\n\r\n\r\nClose feedback.\r\n\r\nSend Feedback\r\n\r\n\r\n\r\n\r\nConcern\r\nChoose
+  One\r\n\r\nComments\r\n\r\n\r\n\r\nEmail Address\r\n\r\n\r\n\r\n\r\n\r\nSubmit\r\nCancel\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nClose
+  preferences.\r\n\r\nPreferences\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nSave\r\nCancel\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n\n\nClose\n\nBecome
+  User\n\n\n\n\nUser\n\n\n\n\nSubmit\nCancel\n\n\n\n\n\n\n\n\n(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+  Date();a=s.createElement(o),\nm=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n})(window,document,'script','//www.google-analytics.com/analytics.js','ga');\nga('create',
+  'UA-39645822-3', 'auto');\nga('send', 'pageview');\n\n\nIndiana University\n\nFulfilling
+  the Promise\nCopyright © 2015 The Trustees of Indiana University\nPrivacy Notice\n"
